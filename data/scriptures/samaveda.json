@@ -1,0 +1,26 @@
+[
+  {
+    "id": "samaveda-opening",
+    "slug": "samaveda-hymn-1",
+    "title": "॥ सामवेद - प्रथम मंत्र ॥",
+    "category": "Samaveda Samhita",
+    "deity": "Agni",
+    "lyrics": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥ १ ॥\n\n[हिंदी अर्थ]\nहे अग्ने! आप हमारी स्तुति सुनकर हव्य प्रदान करने के लिए पधारें और हमारे इस यज्ञ के आसन (कुश) पर विराजिए।\n\n[English]\nCome, Agni, praised with song, to feast and sacrificial offering: sit as Hotar on the holy grass."
+  },
+  {
+    "id": "samaveda-agni-2",
+    "slug": "samaveda-agni-2",
+    "title": "॥ सामवेद - अग्नि सूक्त (द्वितीय) ॥",
+    "category": "Samaveda Samhita",
+    "deity": "Agni",
+    "lyrics": "अग्न इन्द्रं वरुणं मित्रमङ्गिरसो यजा महो देवान् ।\nआ त्वाऽग्निं यवसेभिर्गृणन्तः इदं वचः ॥ २ ॥\n\n[हिंदी अर्थ]\nहे अग्नि! इन्द्र, वरुण, मित्र और अंगिरास देवताओं की पूजा करो। हम तुम्हारी स्तुति करते हुए इस वचन को प्रस्तुत करते हैं।"
+  },
+  {
+    "id": "samaveda-soma",
+    "slug": "samaveda-soma-sukta",
+    "title": "॥ सामवेद - सोम सूक्त ॥",
+    "category": "Samaveda Samhita",
+    "deity": "Soma",
+    "lyrics": "इन्दुर्विश्वानि काव्या योनिमाविशद्धरिः ।\nओजिष्ठो मत्सरो मदः ॥\n\n[हिंदी अर्थ]\nसोम (चंद्रमा) समस्त ज्ञान का स्रोत है। वह अपनी उत्पत्ति के स्थान पर आता है। वह सबसे शक्तिशाली, आनंददायक और उत्साहवर्धक है।"
+  }
+]
