@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-04-14",
+    "name": "Pohela Boishakh",
+    "description": "Bengali New Year"
+  },
+  {
+    "date": "2026-10-17",
+    "name": "Durga Puja Maha Saptami",
+    "description": "Durga Puja Day 1"
+  },
+  {
+    "date": "2026-10-18",
+    "name": "Durga Puja Maha Ashtami",
+    "description": "Durga Puja Day 2"
+  },
+  {
+    "date": "2026-10-19",
+    "name": "Durga Puja Maha Navami",
+    "description": "Durga Puja Day 3"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Vijayadashami (Dashami)",
+    "description": "Durga Puja Day 4 - Immersion"
+  },
+  {
+    "date": "2026-10-26",
+    "name": "Kojagari Lakshmi Puja",
+    "description": "Bengali Lakshmi Puja"
+  }
+]
