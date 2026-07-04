@@ -48,36 +48,6 @@
     "type": "Observance"
   },
   {
-    "date": "2026-03-31",
-    "name": "Mahavir Jayanti",
-    "description": "",
-    "type": "Observance"
-  },
-  {
-    "date": "2026-04-02",
-    "name": "Hanuman Jayanti",
-    "description": "",
-    "type": "Observance"
-  },
-  {
-    "date": "2026-04-03",
-    "name": "Good Friday",
-    "description": "",
-    "type": "Historical"
-  },
-  {
-    "date": "2026-04-05",
-    "name": "Easter Sunday",
-    "description": "",
-    "type": "Historical"
-  },
-  {
-    "date": "2026-04-19",
-    "name": "Parashurama Jayanti",
-    "description": "",
-    "type": "Observance"
-  },
-  {
     "date": "2026-04-19",
     "name": "Basaveshwara Jayanti",
     "description": "",
@@ -108,12 +78,6 @@
     "type": "Observance"
   },
   {
-    "date": "2026-09-17",
-    "name": "Vishwakarma Jayanti",
-    "description": "",
-    "type": "Observance"
-  },
-  {
     "date": "2026-10-26",
     "name": "Valmiki Jayanti",
     "description": "",
@@ -128,12 +92,6 @@
   {
     "date": "2026-11-24",
     "name": "Guru Tegh Bahadur Shaheedi Diwas",
-    "description": "",
-    "type": "Observance"
-  },
-  {
-    "date": "2026-12-23",
-    "name": "Dattatreya Jayanti",
     "description": "",
     "type": "Observance"
   }
