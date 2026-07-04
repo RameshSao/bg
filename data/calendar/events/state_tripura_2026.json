@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-07-21",
+    "name": "Kharchi Puja Festival",
+    "description": "A major festival in Tripura worshipping fourteen deities.",
+    "type": "Cultural",
+    "state": "Tripura"
+  },
+  {
+    "date": "2026-01-21",
+    "name": "Tripura Statehood Day",
+    "description": "Tripura became the 20th state of India on January 21, 1972",
+    "state": "Tripura",
+    "type": "Historical"
+  }
+]

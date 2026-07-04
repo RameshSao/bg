@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-05-01",
+    "name": "Maharashtra Din",
+    "description": "State Formation Day",
+    "state": "Maharashtra",
+    "type": "Observance"
+  },
+  {
+    "date": "2026-02-19",
+    "name": "Chhatrapati Shivaji Maharaj Jayanti",
+    "description": "Birth anniversary of the legendary Maratha king Chhatrapati Shivaji Maharaj",
+    "state": "Maharashtra",
+    "type": "Observance"
+  }
+]

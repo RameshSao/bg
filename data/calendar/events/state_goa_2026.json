@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-05-30",
+    "name": "Goa Statehood Day",
+    "description": "Goa became the 25th state of India on May 30, 1987",
+    "state": "Goa",
+    "type": "Historical"
+  },
+  {
+    "date": "2026-12-19",
+    "name": "Goa Liberation Day",
+    "description": "Celebrates liberation of Goa from 451 years of Portuguese rule on December 19, 1961",
+    "state": "Goa",
+    "type": "Historical"
+  }
+]

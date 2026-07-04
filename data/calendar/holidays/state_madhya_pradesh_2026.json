@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-11-01",
+    "name": "Madhya Pradesh Day",
+    "type": "State Holiday",
+    "description": "Formation of Madhya Pradesh"
+  },
+  {
+    "date": "2026-04-01",
+    "name": "Annual Bank Closing",
+    "type": "Bank",
+    "description": "Bank Holiday"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Summer Vacation Starts",
+    "type": "School",
+    "description": "Summer break for schools"
+  },
+  {
+    "date": "2026-06-25",
+    "name": "Summer Vacation Ends",
+    "type": "School",
+    "description": "Schools Reopen"
+  }
+]

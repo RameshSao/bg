@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-03-19",
+    "name": "Ugadi",
+    "type": "State Holiday",
+    "description": "Kannada New Year"
+  },
+  {
+    "date": "2026-04-20",
+    "name": "Basava Jayanti",
+    "type": "State Holiday",
+    "description": "Government Holiday"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Kannada Rajyotsava",
+    "type": "State Holiday",
+    "description": "State Formation Day"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Kanakadasa Jayanti",
+    "type": "State Holiday",
+    "description": "Gazetted Holiday"
+  },
+  {
+    "date": "2026-04-01",
+    "name": "Annual Bank Closing",
+    "type": "Bank",
+    "description": "Bank Holiday"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Rajyotsava Bank Holiday",
+    "type": "Bank",
+    "description": "RBI Bank Holiday"
+  },
+  {
+    "date": "2026-10-10",
+    "name": "Dasara School Holidays Begin",
+    "type": "School",
+    "description": "Dasara Break"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Dasara School Holidays End",
+    "type": "School",
+    "description": "School Resumes"
+  }
+]

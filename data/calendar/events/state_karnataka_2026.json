@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-11-01",
+    "name": "Kannada Rajyotsava",
+    "description": "Karnataka State Formation Day",
+    "state": "Karnataka",
+    "type": "Observance"
+  },
+  {
+    "date": "2026-04-20",
+    "name": "Basava Jayanti",
+    "description": "Birth anniversary of the philosopher Lord Basaveshwara, founder of Lingayatism",
+    "state": "Karnataka",
+    "type": "Observance"
+  },
+  {
+    "date": "2026-11-27",
+    "name": "Kanakadasa Jayanti",
+    "description": "Birth anniversary of the great Haridasa saint Kanakadasa",
+    "state": "Karnataka",
+    "type": "Observance"
+  }
+]

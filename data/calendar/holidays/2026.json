@@ -1,0 +1,134 @@
+[
+  {
+    "name": "New Year's Day",
+    "date": "2026-01-01",
+    "type": "National",
+    "description": ""
+  },
+  {
+    "name": "Republic Day",
+    "date": "2026-01-26",
+    "type": "Gazetted",
+    "description": "National Holiday"
+  },
+  {
+    "name": "Maha Shivratri",
+    "date": "2026-02-15",
+    "type": "Restricted",
+    "description": ""
+  },
+  {
+    "name": "Holi",
+    "date": "2026-03-04",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Id-ul-Fitr",
+    "date": "2026-03-21",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Ram Navami",
+    "date": "2026-03-26",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Mahavir Jayanti",
+    "date": "2026-03-31",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Bank Closing",
+    "date": "2026-04-01",
+    "type": "Bank",
+    "description": "Bank Holiday"
+  },
+  {
+    "name": "Good Friday",
+    "date": "2026-04-03",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Ambedkar Jayanti",
+    "date": "2026-04-14",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Budha Purnima",
+    "date": "2026-05-01",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "May Day",
+    "date": "2026-05-01",
+    "type": "National",
+    "description": "Labour Day"
+  },
+  {
+    "name": "Bakrid / Id-ul-Zuha",
+    "date": "2026-05-27",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Muharram",
+    "date": "2026-06-26",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2026-08-15",
+    "type": "Gazetted",
+    "description": "National Holiday"
+  },
+  {
+    "name": "Id-e-Milad",
+    "date": "2026-08-26",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Janmashtami",
+    "date": "2026-09-04",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Mahatma Gandhi Jayanti",
+    "date": "2026-10-02",
+    "type": "Gazetted",
+    "description": "National Holiday"
+  },
+  {
+    "name": "Dussehra",
+    "date": "2026-10-20",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Diwali",
+    "date": "2026-11-08",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Guru Nanak Jayanti",
+    "date": "2026-11-24",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2026-12-25",
+    "type": "Gazetted",
+    "description": ""
+  }
+]

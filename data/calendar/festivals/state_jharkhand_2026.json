@@ -1,27 +1,32 @@
 [
   {
+    "date": "2026-03-22",
+    "name": "Sarhul",
+    "description": "Tribal new year worshipping nature"
+  },
+  {
+    "date": "2026-09-22",
+    "name": "Karam Festival",
+    "description": "Worship of Karam tree for prosperity"
+  },
+  {
     "date": "2026-11-13",
     "name": "Chhath Puja (Nahay Khay)",
-    "description": "First Day of Chhath Puja, taking holy bath and eating bottle gourd meal"
+    "description": "First Day of Chhath Puja"
   },
   {
     "date": "2026-11-14",
     "name": "Chhath Puja (Kharna)",
-    "description": "Second Day of Chhath Puja, fasting all day and eating sweet kheer at night"
+    "description": "Second Day of Chhath Puja"
   },
   {
     "date": "2026-11-15",
-    "name": "Chhath Puja (Sanjhiya Arghya)",
-    "description": "Third Day of Chhath Puja, offering arghya to the setting Sun at river banks"
+    "name": "Jharkhand Foundation Day",
+    "description": "State Formation Day"
   },
   {
     "date": "2026-11-16",
     "name": "Chhath Puja (Usha Arghya)",
-    "description": "Fourth Day of Chhath Puja, offering arghya to the rising Sun and breaking fast"
-  },
-  {
-    "date": "2026-11-24",
-    "name": "Sama Chakeva",
-    "description": "Folk festival celebrating brother-sister bond with clay toys"
+    "description": "Fourth Day of Chhath Puja"
   }
 ]

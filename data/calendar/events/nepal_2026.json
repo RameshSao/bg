@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "description": "International New Year's Day",
+    "type": "Observance",
+    "isNepali": true,
+    "state": "Nepal"
+  },
+  {
+    "date": "2026-02-18",
+    "name": "National Democracy Day",
+    "description": "Rashtriya Prajatantra Diwas, commemorating the end of Rana rule in 1951.",
+    "type": "Historical",
+    "isNepali": true,
+    "state": "Nepal"
+  },
+  {
+    "date": "2026-03-07",
+    "name": "Nari Dibas (Women's Day)",
+    "description": "International Women's Day",
+    "type": "Observance",
+    "isNepali": true,
+    "state": "Nepal"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Republic Day",
+    "description": "Ganatantra Diwas, celebrating the declaration of Nepal as a republic.",
+    "type": "Historical",
+    "isNepali": true,
+    "state": "Nepal"
+  },
+  {
+    "date": "2026-09-13",
+    "name": "Constitution Day",
+    "description": "Sambidhan Diwas, commemorating the adoption of the new constitution in 2015.",
+    "type": "Historical",
+    "isNepali": true,
+    "state": "Nepal"
+  }
+]

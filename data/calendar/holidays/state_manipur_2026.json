@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2026-03-03",
+    "name": "Yaoshang Begins",
+    "type": "State Holiday",
+    "description": "Manipuri Holi festival"
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Sajibu Nongma Panba (Cheiraoba)",
+    "type": "State Holiday",
+    "description": "Meitei New Year"
+  },
+  {
+    "date": "2026-06-16",
+    "name": "Kang (Rath Yatra)",
+    "type": "State Holiday",
+    "description": "Manipuri Chariot festival"
+  },
+  {
+    "date": "2026-10-21",
+    "name": "Heikru Hidongba",
+    "type": "State Holiday",
+    "description": "Meitei boat race festival"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "Manipur Day",
+    "type": "State Holiday",
+    "description": "Formation of Manipur"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Ningol Chakouba",
+    "type": "State Holiday",
+    "description": "Festival for married daughters"
+  },
+  {
+    "date": "2026-04-01",
+    "name": "Annual Bank Closing",
+    "type": "Bank",
+    "description": "Bank Holiday"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Summer Vacation Starts",
+    "type": "School",
+    "description": "Summer break for schools"
+  },
+  {
+    "date": "2026-06-25",
+    "name": "Summer Vacation Ends",
+    "type": "School",
+    "description": "Schools Reopen"
+  }
+]
