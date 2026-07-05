@@ -1,4 +1,28 @@
 {
+  "narasimha-jayanti": {
+    "en": {
+      "title": "Narasimha Jayanti",
+      "deity": "Lord Narasimha",
+      "description": "Celebrates the appearance of Lord Narasimha, the half-man, half-lion avatar of Lord Vishnu.",
+      "story": "To protect his young devotee Prahlada and destroy the demon king Hiranyakashipu (who had a boon that he couldn't be killed by man or beast, inside or outside, day or night), Lord Vishnu appeared from a pillar as Narasimha at twilight and defeated the demon.",
+      "rules": [
+        "Observe a fast until sunset (the time Lord Narasimha appeared).",
+        "Perform puja to Lord Narasimha and Goddess Lakshmi.",
+        "Recite Narasimha Kavacham and distribute sweets."
+      ]
+    },
+    "hi": {
+      "title": "नरसिंह जयंती",
+      "deity": "भगवान नरसिंह",
+      "description": "वैशाख शुक्ल चतुर्दशी को हिरण्यकश्यप के अत्याचारों से भक्त प्रह्लाद की रक्षा करने के लिए भगवान विष्णु ने नरसिंह अवतार लिया था।",
+      "story": "हिरण्यकश्यप को वरदान था कि उसे कोई मनुष्य या पशु, भीतर या बाहर, दिन या रात में न मार सके। भगवान विष्णु ने खंभे से आधा सिंह और आधा मनुष्य (नरसिंह) रूप में प्रकट होकर गोधूलि बेला में उसका वध किया।",
+      "rules": [
+        "सूर्यास्त (भगवान के प्रकट होने के समय) तक उपवास रखें।",
+        "भगवान नरसिंह और माता लक्ष्मी का पूजन करें।",
+        "नरसिंह कवच का पाठ करें।"
+      ]
+    }
+  },
   "balarama-jayanti": {
     "en": {
       "title": "Balarama Jayanti",

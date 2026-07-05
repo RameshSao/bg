@@ -1,4 +1,160 @@
 {
+  "ganesh-chaturthi": {
+    "en": {
+      "title": "Vinayaka Chaturthi",
+      "deity": "Lord Ganesha",
+      "description": "Vinayaka Chaturthi is observed on the 4th day of the waxing moon (Shukla Chaturthi). It is a day to invite wisdom, auspiciousness, and new beginnings into our lives.",
+      "story": "Worshipping Ganesha at midday (Madhyahna) is the primary ritual. It commemorates the manifestation of Ganesha as the supreme intellect. It is said that starting any project after this Puja ensures it will be completed without any delays.",
+      "rules": [
+        "Perform the Puja precisely during the Madhyahna Kaal (Midday).",
+        "Offer 21 blades of Durva grass and yellow flowers.",
+        "Prepare sweet Modaks—Ganesha's favorite offering.",
+        "Observe a partial fast until the midday rituals are complete."
+      ]
+    },
+    "hi": {
+      "title": "विनायक चतुर्थी",
+      "deity": "भगवान गणेश",
+      "description": "विनायक चतुर्थी शुक्ल पक्ष की चतुर्थी को मनाई जाती है। यह दिन जीवन में बुद्धि, शुभता और नए कार्यों में सफलता का आह्वान करने के लिए बेहद पवित्र है।",
+      "story": "इस दिन मध्याह्न (दोपहर) काल में गणेश जी की पूजा करने का मुख्य विधान है। यह बुद्धि के देवता गणेश जी के प्राकट्य दिवस के रूप में भी मनाया जाता है। इस दिन पूजा के बाद शुरू किया गया कोई भी कार्य निर्विघ्न पूरा होता है।",
+      "rules": [
+        "गणेश जी की मुख्य पूजा दोपहर के समय (मध्याह्न काल) करें।",
+        "बाप्पा को 21 दूर्वा दल (घास) और पीले फूल चढ़ाएं।",
+        "भगवान गणेश के प्रिय मोदक या लड्डू का भोग लगाएं।",
+        "दोपहर की पूजा संपन्न होने तक आंशिक उपवास रखें।"
+      ]
+    }
+  },
+  "janmashtami": {
+    "en": {
+      "title": "Masik Janmashtami",
+      "deity": "Lord Krishna (Gopal)",
+      "description": "Masik Janmashtami is a monthly opportunity to immerse oneself in the love and teachings of Lord Krishna, the embodiment of joy and divine wisdom.",
+      "story": "While Maha Janmashtami falls once a year, devotees keep this monthly fast on Rohini Nakshatra or Krishna Ashtami to maintain a constant devotional link with the Lord who steals away all karmic debts.",
+      "rules": [
+        "Prepare a small swing or altar for Bal-Krishna.",
+        "Sing Bhajans and Kirtans throughout the evening.",
+        "Offer Makhan (butter) and Misri to the Lord.",
+        "Avoid heavy meals and focus on internal 'Bhava' or devotion."
+      ]
+    },
+    "hi": {
+      "title": "मासिक जन्माष्टमी",
+      "deity": "भगवान कृष्ण (गोपाल)",
+      "description": "मासिक जन्माष्टमी हर महीने भगवान श्री कृष्ण के प्रति प्रेम, समर्पण और उनकी लीलाओं का स्मरण करने का एक मधुर अवसर है।",
+      "story": "यद्यपि मुख्य जन्माष्टमी वर्ष में एक बार आती है, परंतु कई वैष्णव भक्त हर महीने कृष्ण पक्ष की अष्टमी या रोहिणी नक्षत्र में कान्हा का व्रत रखते हैं ताकि प्रभु से निरंतर भक्ति का संबंध बना रहे।",
+      "rules": [
+        "घर के मंदिर में बाल कृष्ण (लड्डू गोपाल) के लिए झूला सजाएं।",
+        "शाम के समय कृष्ण भजन, कीर्तन और विष्णु सहस्रनाम का पाठ करें।",
+        "ठाकुर जी को माखन, मिश्री और तुलसी दल का भोग लगाएं।",
+        "तामसिक भोजन से दूर रहें और सात्विक रहकर केवल फलाहार करें।"
+      ]
+    }
+  },
+  "holi": {
+    "en": {
+      "title": "Holi",
+      "deity": "Lord Vishnu (Narasimha)",
+      "description": "The festival of colors celebrating the arrival of spring and the triumph of divine love and devotion over evil.",
+      "story": "The demon king Hiranyakashipu wanted to kill his son Prahlada, a staunch devotee of Lord Vishnu. The king's sister, Holika, sat in fire with Prahlada, wearing a fireproof shawl. Due to Lord Vishnu's grace, Holika was burned to ashes while Prahlada emerged unharmed.",
+      "rules": [
+        "Perform Holika Dahan (sacred bonfire) in the evening.",
+        "Offer raw cotton thread, jaggery, and grains to the Holika fire.",
+        "Play with natural dry colors (Gulal) on the following day.",
+        "Prepare traditional sweets like Gujiya and share with loved ones."
+      ]
+    },
+    "hi": {
+      "title": "होली",
+      "deity": "भगवान विष्णु (नरसिंह अवतार)",
+      "description": "रंगों का यह त्योहार वसंत ऋतु के आगमन, भाईचारे और बुराई पर अच्छाई की विजय का परम पावन उत्सव है।",
+      "story": "हिरण्यकश्यप ने अपने विष्णु भक्त पुत्र प्रह्लाद को मारने के लिए अपनी बहन होलिका (जिसे वरदान था कि वह आग में नहीं जलेगी) की गोद में बैठाकर आग में डाल दिया। प्रभु की कृपा से होलिका जलकर भस्म हो गई और प्रह्लाद सुरक्षित बच गए।",
+      "rules": [
+        "पूर्णिमा की शाम को शुभ मुहूर्त में होलिका दहन (अलाव) करें।",
+        "होलिका की अग्नि में कच्चा सूत, उपले, गुड़ और नई फसल के अनाज अर्पित करें।",
+        "अगले दिन धुलेंडी पर प्राकृतिक रंगों और गुलाल से होली खेलें।",
+        "गुझिया जैसे पारंपरिक पकवान बनाएं और अपनों के साथ साझा करें।"
+      ]
+    }
+  },
+  "chhath-puja": {
+    "en": {
+      "title": "Chhath Puja",
+      "deity": "Surya Dev (Sun) & Chhathi Maiya",
+      "description": "A grand 4-day solar festival celebrated with absolute purity, dedicated to Surya Dev and his consort Chhathi Maiya.",
+      "story": "When Pandavas lost their kingdom, Draupadi observed the Chhath fast on the advice of Sage Dhaumya. Pleased by her devotion, Surya Dev blessed the Pandavas, who won their kingdom back. It is also believed Lord Rama and Sita performed this puja upon returning to Ayodhya.",
+      "rules": [
+        "Observe extreme physical and mental purity during the four days.",
+        "Offer 'Arghya' (prayers and water) to the setting Sun on the third day.",
+        "Offer the final 'Arghya' to the rising Sun on the fourth day.",
+        "Prepare Thekua (traditional wheat sweet) in a completely hygienic environment as Prasad."
+      ]
+    },
+    "hi": {
+      "title": "छठ पूजा",
+      "deity": "सूर्य देव और छठी मैया",
+      "description": "चार दिवसीय यह महापर्व अत्यंत सादगी, शुद्धता और आस्था के साथ मनाया जाता है। इसमें डूबते और उगते सूर्य देव तथा छठी मैया की पूजा की जाती है।",
+      "story": "पांडवों के वनवास के समय द्रौपदी ने महर्षि धौम्य की सलाह पर सूर्य देव और छठी मैया का यह कठिन व्रत किया था। उनकी कृपा से पांडवों को राजपाट वापस मिला। माना जाता है कि लंका विजय के बाद राम-सीता ने भी यह व्रत किया था।",
+      "rules": [
+        "चार दिनों तक पूर्ण स्वच्छता और सात्विकता का पालन करें।",
+        "तीसरे दिन (संध्या अर्घ्य) नदी या जलाशय में खड़े होकर डूबते सूर्य को अर्घ्य दें।",
+        "चौथे दिन (उषा अर्घ्य) उगते सूर्य को अर्घ्य अर्पित कर व्रत का पारण करें।",
+        "गेहूं और गुड़ से बना विशेष प्रसाद 'ठेकुआ' पवित्रता के साथ तैयार करें।"
+      ]
+    }
+  },
+  "gudi-padwa": {
+    "en": {
+      "title": "Gudi Padwa",
+      "deity": "Lord Brahma",
+      "description": "Marks the Maharashtrian New Year and the first day of Chaitra Navratri. Represents victory, prosperity, and new hope.",
+      "story": "Lord Rama returned to Ayodhya on this day after defeating Ravana. The people of Ayodhya celebrated his victory by hoisting Gudi (victory flags). It is also the day when Lord Brahma created the universe.",
+      "rules": [
+        "Hoist a 'Gudi' (victory flag decorated with neem leaves, mango leaves, and a copper pot) outside your house.",
+        "Eat a mixture of Neem leaves and Jaggery in the morning to purify the body.",
+        "Draw colorful Rangoli designs at the entrance.",
+        "Prepare traditional dishes like Shrikhand and Puri."
+      ]
+    },
+    "hi": {
+      "title": "गुड़ी पड़वा",
+      "deity": "ब्रह्मा जी / विजय ध्वज",
+      "description": "चैत्र शुक्ल प्रतिपदा को मनाया जाने वाला यह पर्व हिंदू नव संवत्सर (नव वर्ष) का प्रारंभ है और यह विजय तथा सुख-समृद्धि का प्रतीक है।",
+      "story": "इसी दिन भगवान राम ने रावण का वध कर 14 वर्ष के वनवास के बाद अयोध्या वापसी की थी, जिसकी खुशी में लोगों ने विजय पताका (गुड़ी) फहराई। इसी दिन ब्रह्मा जी ने सृष्टि का निर्माण भी शुरू किया था।",
+      "rules": [
+        "घर के बाहर नीम की पत्तियां, आम के पत्ते और तांबे का लोटा लगाकर 'गुड़ी' (ध्वज) फहराएं।",
+        "सुबह शरीर की शुद्धि के लिए नीम की पत्तियां और गुड़ मिलाकर खाएं।",
+        "घर के मुख्य द्वार पर रंगोली बनाएं और बंदनवार सजाएं।",
+        "श्रीखंड-पूरी जैसे स्वादिष्ट पारंपरिक व्यंजन बनाएं।"
+      ]
+    }
+  },
+  "diwali": {
+    "en": {
+      "title": "Diwali",
+      "deity": "Goddess Lakshmi & Lord Ganesha",
+      "description": "Diwali, the Festival of Lights, symbolizes the spiritual victory of light over darkness, good over evil, and knowledge over ignorance.",
+      "story": "Lord Rama, along with Goddess Sita and Lakshmana, returned to Ayodhya on this day after 14 years of exile and defeating the demon king Ravana. To celebrate their return and illuminate the dark Amavasya night, the citizens of Ayodhya lit thousands of clay lamps (diyas).",
+      "rules": [
+        "Clean and decorate the house with oil lamps (diyas) and colorful Rangoli.",
+        "Perform Lakshmi-Ganesha Puja in the evening during the auspicious Pradosh Muhurta.",
+        "Distribute sweets (Mithai) and gifts to family, friends, and the needy.",
+        "Wear new clothes and seek the blessings of elders for prosperity."
+      ]
+    },
+    "hi": {
+      "title": "दीपावली",
+      "deity": "माता लक्ष्मी और भगवान गणेश",
+      "description": "रोशनी का त्योहार दीपावली अंधकार पर प्रकाश, बुराई पर अच्छाई और अज्ञान पर ज्ञान की आध्यात्मिक विजय का पावन प्रतीक है।",
+      "story": "भगवान श्री राम, माता सीता और लक्ष्मण जी के साथ 14 वर्ष के वनवास और लंकापति रावण का वध करने के बाद इसी दिन अयोध्या लौटे थे। उनके आगमन की खुशी में अयोध्यावासियों ने कार्तिक अमावस्या की काली रात को हजारों दीये जलाकर आलोकित किया था।",
+      "rules": [
+        "घर की सफाई करें और शाम को मिट्टी के दीयों तथा रंगोली से घर को सजाएं।",
+        "संध्याकाल के शुभ प्रदोष मुहूर्त में माता लक्ष्मी और भगवान गणेश की विधि-विधान से पूजा करें।",
+        "मित्रों, परिवार और जरूरतमंदों में मिठाई व उपहार बांटें।",
+        "नए वस्त्र धारण करें और समृद्धि के लिए बड़ों का आशीर्वाद लें।"
+      ]
+    }
+  },
   "republic-day": {
     "en": {
       "title": "Republic Day",
