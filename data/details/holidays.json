@@ -1,0 +1,357 @@
+{
+  "republic-day": {
+    "en": {
+      "title": "Republic Day",
+      "deity": "Nation (Bharat Mata)",
+      "description": "Commemorates the day on which the Constitution of India came into effect on January 26, 1950, transitioning India into a sovereign republic.",
+      "story": "Although India gained independence from British rule on August 15, 1947, it did not have a permanent constitution. The drafting committee, headed by Dr. B.R. Ambedkar, drafted the Constitution of India which was adopted on November 26, 1949, and officially came into effect on January 26, 1950. January 26 was chosen as the Republic Day because it was on this day in 1930 that the Indian National Congress declared Purna Swaraj (complete independence) from British rule. The day honors the democratic values and constitutional rights of all citizens.",
+      "rules": [
+        "Attend or watch the national flag hoisting ceremony.",
+        "Watch the grand Republic Day Parade broadcast from Rajpath, New Delhi.",
+        "Sing the National Anthem and pay respect to freedom fighters and the armed forces.",
+        "Participate in local community and cultural events celebrating unity in diversity."
+      ]
+    },
+    "hi": {
+      "title": "गणतंत्र दिवस",
+      "deity": "राष्ट्र (भारत माता)",
+      "description": "26 जनवरी 1950 को भारत का संविधान लागू होने और भारत के एक संप्रभु लोकतांत्रिक गणराज्य बनने के उपलक्ष्य में मनाया जाता है।",
+      "story": "भारत 15 अगस्त 1947 को स्वतंत्र हुआ था, लेकिन देश के पास अपना स्थायी संविधान नहीं था। डॉ. बी.आर. अंबेडकर की अध्यक्षता में प्रारूप समिति ने नया संविधान तैयार किया, जिसे 26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 को पूर्ण रूप से लागू किया गया। 26 जनवरी की तिथि इसलिए चुनी गई क्योंकि इसी दिन 1930 में भारतीय राष्ट्रीय कांग्रेस ने पूर्ण स्वराज की घोषणा की थी। यह दिन देश के लोकतांत्रिक मूल्यों और नागरिकों के संवैधानिक अधिकारों का सम्मान करने का पर्व है।",
+      "rules": [
+        "ध्वजारोहण कार्यक्रम में भाग लें या उसे देखें।",
+        "राजपथ, नई दिल्ली में आयोजित भव्य गणतंत्र दिवस परेड का प्रसारण देखें।",
+        "राष्ट्रगान गाएं और स्वतंत्रता सेनानियों व वीर जवानों को श्रद्धांजलि अर्पित करें।",
+        "विविधता में एकता को बढ़ावा देने वाले सामाजिक व सांस्कृतिक कार्यक्रमों में भाग लें।"
+      ]
+    }
+  },
+  "independence-day": {
+    "en": {
+      "title": "Independence Day",
+      "deity": "Nation (Bharat Mata)",
+      "description": "Celebrates the nation's independence from British colonial rule on August 15, 1947.",
+      "story": "India was ruled by the British Empire for nearly 200 years. After decades of struggle, non-violent movements, and revolutionary sacrifices led by Mahatma Gandhi, Subhas Chandra Bose, Bhagat Singh, and millions of freedom fighters, the British Parliament passed the Indian Independence Act. At the stroke of midnight on August 15, 1947, India became a free nation. Jawaharlal Nehru, the first Prime Minister of India, hoisted the national flag at the Lahori Gate of the Red Fort in Delhi, delivering his famous 'Tryst with Destiny' speech.",
+      "rules": [
+        "Watch the Prime Minister hoist the Tricolor at the Red Fort and address the nation.",
+        "Host or attend flag hoisting ceremonies in schools, offices, or residential societies.",
+        "Remember and pay tribute to the patriots who fought for India's freedom.",
+        "Fly kites, a traditional activity symbolizing freedom, and enjoy patriotic songs."
+      ]
+    },
+    "hi": {
+      "title": "स्वतंत्रता दिवस",
+      "deity": "राष्ट्र (भारत माता)",
+      "description": "15 अगस्त 1947 को ब्रिटिश औपनिवेशिक शासन से देश को मिली स्वतंत्रता की याद में मनाया जाता है।",
+      "story": "भारत पर लगभग 200 वर्षों तक ब्रिटिश शासन रहा। महात्मा गांधी, सुभाष चंद्र बोस, भगत सिंह और लाखों स्वतंत्रता सेनानियों के नेतृत्व में लंबे संघर्ष और बलिदान के बाद, भारत को आजादी मिली। 15 अगस्त 1947 की आधी रात को स्वतंत्र भारत के पहले प्रधानमंत्री जवाहरलाल नेहरू ने दिल्ली के लाल किले के लाहौरी गेट पर तिरंगा फहराया और अपना ऐतिहासिक भाषण दिया।",
+      "rules": [
+        "लाल किले पर प्रधानमंत्री द्वारा किए जाने वाले ध्वजारोहण और राष्ट्र के नाम संबोधन को देखें।",
+        "विद्यालयों, कार्यालयों या सोसायटियों में आयोजित ध्वजारोहण कार्यक्रमों में शामिल हों।",
+        "आजादी के लिए प्राण न्यौछावर करने वाले देशवासियों को नमन करें।",
+        "पतंग उड़ाएं, जो स्वतंत्रता का प्रतीक है, और देशभक्ति के कार्यक्रमों में भाग लें।"
+      ]
+    }
+  },
+  "new-year": {
+    "en": {
+      "title": "New Year's Day",
+      "deity": "None (New Beginnings)",
+      "description": "Celebrated globally on January 1 to mark the start of the new calendar year.",
+      "story": "Under the Roman Calendar, the year began in March. In 45 BC, Julius Caesar introduced the Julian calendar, establishing January 1 as the start of the year to honor Janus, the Roman god of doors, beginnings, and transitions. The Gregorian calendar adopted in 1582 solidified this tradition globally. It represents a fresh start, hope, and positive change.",
+      "rules": [
+        "Reflect on the achievements, lessons, and memories of the past year.",
+        "Set positive goals, resolutions, and self-improvement plans for the future.",
+        "Exchange greetings, warm wishes, and sweets with friends and family.",
+        "Commit to starting the year with a clean, positive, and healthy mindset."
+      ]
+    },
+    "hi": {
+      "title": "नव वर्ष दिवस",
+      "deity": "नई शुरुआत",
+      "description": "नए कैलेंडर वर्ष की शुरुआत के उपलक्ष्य में प्रत्येक वर्ष 1 जनवरी को वैश्विक स्तर पर मनाया जाता है।",
+      "story": "रोमन कैलेंडर के अनुसार वर्ष की शुरुआत मार्च से होती थी। 45 ईसा पूर्व में जूलियस सीज़र ने जूलियन कैलेंडर की शुरुआत की और जनवरी के देवता 'जानुस' (जो शुरुआत और द्वारों के देवता थे) के सम्मान में 1 जनवरी को नए वर्ष का प्रारंभ घोषित किया। 1582 में ग्रैगोरी कैलेंडर द्वारा इसे वैश्विक मान्यता दी गई।",
+      "rules": [
+        "बीते वर्ष की खट्टी-मीठी यादों और सीखों का सिंहावलोकन करें।",
+        "आने वाले वर्ष के लिए सकारात्मक संकल्प और लक्ष्य निर्धारित करें।",
+        "मित्रों और परिजनों को नव वर्ष की शुभकामनाएं भेजें।"
+      ]
+    }
+  },
+  "mahavir-jayanti": {
+    "en": {
+      "title": "Mahavir Jayanti",
+      "deity": "Lord Mahavira (24th Tirthankara)",
+      "description": "The most important religious festival for Jains, celebrating the birth anniversary of Lord Mahavira.",
+      "story": "Lord Mahavira was born in Kundalpur, Bihar, in 599 BC as Prince Vardhamana. At the age of 30, he renounced his royal life, kingdom, and family in search of spiritual awakening. After 12 years of intense penance, he attained Kevala Jnana (omniscience). He preached the core principles of Jainism: Ahimsa (non-violence), Satya (truth), Asteya (non-stealing), Brahmacharya (chastity), and Aparigraha (non-attachment), guiding souls towards liberation.",
+      "rules": [
+        "Perform ceremonial Abhisheka (bath) of Lord Mahavira's idol.",
+        "Observe a fast or consume strictly satvic, vegetarian food.",
+        "Engage in charity, helping the poor, and donating food or clothes.",
+        "Practice absolute non-violence, kindness, and compassion for all living beings."
+      ]
+    },
+    "hi": {
+      "title": "महावीर जयंती",
+      "deity": "भगवान महावीर (24वें तीर्थंकर)",
+      "description": "जैन समाज का सबसे बड़ा धार्मिक पर्व, जो जैन धर्म के 24वें तीर्थंकर भगवान महावीर के जन्म कल्याणक के रूप में मनाया जाता है।",
+      "story": "भगवान महावीर का जन्म 599 ईसा पूर्व बिहार के कुंडलपुर में क्षत्रिय राजा सिद्धार्थ और रानी त्रिशला के घर राजकुमार वर्धमान के रूप में हुआ था। 30 वर्ष की आयु में उन्होंने राजपाठ त्यागकर दीक्षा ले ली। 12 वर्षों की कठिन तपस्या के बाद उन्हें केवल ज्ञान प्राप्त हुआ। उन्होंने पंच महाव्रत (अहिंसा, सत्य, अचौर्य, ब्रह्मचर्य और अपरिग्रह) का उपदेश दिया।",
+      "rules": [
+        "भगवान महावीर की प्रतिमा का जलाभिषेक व पूजा-अर्चना करें।",
+        "जैन मंदिरों में रथयात्रा और प्रार्थना सभाओं में भाग लें।",
+        "गरीबों को दान दें और जीवों पर दया करने का संकल्प लें।"
+      ]
+    }
+  },
+  "good-friday": {
+    "en": {
+      "title": "Good Friday",
+      "deity": "Lord Jesus Christ",
+      "description": "A solemn day observed by Christians to commemorate the crucifixion and death of Jesus Christ.",
+      "story": "According to the Gospels, Jesus Christ was arrested, tried, and sentenced to death by crucifixion under Pontius Pilate. On this day, he carried his cross to Calvary and was crucified. Good Friday represents the ultimate sacrifice of Jesus out of love for humanity, taking upon himself the sins of the world. It is called 'Good' because the word historically meant holy or pious, symbolizing salvation and redemption.",
+      "rules": [
+        "Attend church service, particularly the midday or afternoon solemn prayers.",
+        "Observe fasting, penance, or abstain from meat as a sign of mourning.",
+        "Reflect quietly on forgiveness, sacrifice, and unconditional love.",
+        "Perform acts of kindness, charity, and help those in distress."
+      ]
+    },
+    "hi": {
+      "title": "गुड फ्राइडे",
+      "deity": "प्रभु यीशु मसीह",
+      "description": "ईसाई समुदाय द्वारा प्रभु ईसा मसीह (यीशु) के क्रूस पर चढ़ाए जाने और उनके बलिदान की स्मृति में मनाया जाने वाला शोक और प्रार्थना का दिन।",
+      "story": "बाइबिल के अनुसार, इसी दिन यहूदियों के धार्मिक गुरुओं की उकसाहट पर रोमन गवर्नर पीलातुस ने यीशु मसीह को सूली (क्रूस) पर चढ़ाने का आदेश दिया था। उन्होंने मानवता के कल्याण और पापों की क्षमा के लिए हँसते-हँसते अपना बलिदान दे दिया। ईसाई मान्यता में इसे 'गुड' (पवित्र) इसलिए कहा जाता है क्योंकि यह दिन मानव जाति के उद्धार का मार्ग प्रशस्त करता है।",
+      "rules": [
+        "चर्च की प्रार्थना सभाओं में भाग लें और शांत रहकर चिंतन करें।",
+        "इस दिन उपवास रखें और मांस-मदिरा का पूरी तरह त्याग करें।",
+        "दूसरों के प्रति क्षमाभाव रखें और परोपकार के कार्य करें।"
+      ]
+    }
+  },
+  "ambedkar-jayanti": {
+    "en": {
+      "title": "Ambedkar Jayanti",
+      "deity": "Dr. B.R. Ambedkar",
+      "description": "Birth anniversary of Dr. Bhimrao Ramji Ambedkar, celebrated on April 14, honoring his contribution as the father of the Indian Constitution.",
+      "story": "Born in 1891, Dr. B.R. Ambedkar was a legendary jurist, economist, politician, and social reformer. He dedicated his life to fighting social discrimination against Dalits, women, and laborers. He served as independent India's first Law Minister and chaired the Drafting Committee of the Constitution of India. His legacy continues to inspire movements for social equality and human rights.",
+      "rules": [
+        "Offer floral tributes to Dr. B.R. Ambedkar's portraits or statues.",
+        "Read and discuss constitutional values: Justice, Liberty, Equality, and Fraternity.",
+        "Participate in seminars, debates, or cultural programs celebrating social justice.",
+        "Contribute to the education and empowerment of underprivileged children."
+      ]
+    },
+    "hi": {
+      "title": "अंबेडकर जयंती",
+      "deity": "डॉ. बी.आर. अंबेडकर",
+      "description": "भारतीय संविधान के निर्माता, महान विधिवेत्ता और समाज सुधारक बाबासाहेब डॉ. भीमराव रामजी अंबेडकर की जन्म जयंती।",
+      "story": "डॉ. भीमराव अंबेडकर का जन्म 14 अप्रैल 1891 को मध्य प्रदेश के महू में हुआ था। उन्होंने जीवन भर दलितों, पिछड़ों और महिलाओं के अधिकारों के लिए संघर्ष किया। वे स्वतंत्र भारत के प्रथम कानून मंत्री और संविधान सभा की प्रारूप समिति के अध्यक्ष थे। उन्होंने समाज से छुआछूत मिटाने और समानता स्थापित करने में ऐतिहासिक भूमिका निभाई।",
+      "rules": [
+        "बाबासाहेब की प्रतिमा या चित्र पर माल्यार्पण कर उन्हें नमन करें।",
+        "समानता, बंधुत्व और मानवाधिकारों से जुड़े लेख व भाषण सुनें।",
+        "वंचित वर्ग के बच्चों की शिक्षा में सहायता करने का संकल्प लें।"
+      ]
+    }
+  },
+  "dussehra": {
+    "en": {
+      "title": "Dussehra",
+      "deity": "Lord Rama & Goddess Durga",
+      "description": "Also known as Vijayadashami, it celebrates the victory of good over evil on the tenth day of Ashwin Shukla Paksha.",
+      "story": "Dussehra marks two monumental legends: \n1. Lord Rama defeated and killed the ten-headed demon king Ravana, rescuing his wife Sita. This marks the culmination of the 10-day Ramlila.\n2. Goddess Durga defeated the buffalo demon Mahishasura after a long nine-day battle, symbolizing the victory of cosmic righteousness. The day signifies that truth always triumphs.",
+      "rules": [
+        "Witness the burning of the effigies of Ravana, Kumbhakarna, and Meghanada.",
+        "Perform Shastra Puja (worship of tools, books, and instruments) and vehicle puja.",
+        "Exchange Shami leaves (traditionally representing gold) with elders for blessings.",
+        "Resolve to destroy personal vices like anger, ego, greed, and jealousy."
+      ]
+    },
+    "hi": {
+      "title": "दशहरा (विजयादशमी)",
+      "deity": "भगवान श्री राम और मां दुर्गा",
+      "description": "बुराई पर अच्छाई और असत्य पर सत्य की विजय का महान उत्सव, जो आश्विन शुक्ल दशमी को मनाया जाता है।",
+      "story": "दशहरे के दिन दो प्रमुख पौराणिक घटनाएं घटी थीं:\n1. भगवान श्री राम ने अहंकारी लंकापति रावण का वध कर सीता जी को मुक्त कराया था।\n2. मां दुर्गा ने महिषासुर का वध कर देवताओं को उसके भय से मुक्ति दिलाई थी। यह पर्व संदेश देता है कि अधर्म कितना भी शक्तिशाली क्यों न हो, अंत में धर्म की ही विजय होती है।",
+      "rules": [
+        "रावण दहन के कार्यक्रम में शामिल हों।",
+        "शस्त्र पूजा, बही-खाता पूजन और वाहनों का पूजन करें।",
+        "अपराजिता देवी की पूजा करें और शमी के पत्ते बांटकर बड़ों का आशीर्वाद लें।"
+      ]
+    }
+  },
+  "guru-nanak-jayanti": {
+    "en": {
+      "title": "Guru Nanak Jayanti",
+      "deity": "Guru Nanak Dev Ji",
+      "description": "Also known as Gurpurab, celebrating the birth anniversary of Guru Nanak Dev Ji, the founder of Sikhism.",
+      "story": "Guru Nanak Dev Ji was born in 1469 in Talwandi (now Nankana Sahib, Pakistan). He traveled across Asia spreading the message of 'Ik Onkar' (One God) and universal brotherhood, rejecting caste barriers, empty rituals, and discrimination. His teachings are preserved in the Guru Granth Sahib. He established the pillars of Sikhism: Naam Japna (remembering God), Kirat Karni (honest livelihood), and Vand Chhako (sharing with others).",
+      "rules": [
+        "Visit a Gurudwara to attend prayers, listen to Gurbani hymns, and seek blessings.",
+        "Participate in Langar (the free community kitchen) by serving or eating together.",
+        "Join the Nagar Kirtan (holy procession) held before Gurpurab.",
+        "Practice sharing, helping the needy, and performing selfless service (Seva)."
+      ]
+    },
+    "hi": {
+      "title": "गुरु नानक जयंती (गुरपुरब)",
+      "deity": "गुरु नानक देव जी",
+      "description": "सिख धर्म के संस्थापक और पहले गुरु, गुरु नानक देव जी के प्रकाश पर्व के रूप में कार्तिक पूर्णिमा को मनाया जाता है।",
+      "story": "गुरु नानक देव जी का जन्म 1469 में राय भोई की तलवंडी (अब ननकाना साहिब, पाकिस्तान) में हुआ था। उन्होंने अंधविश्वासों और ऊंच-नीच का विरोध करते हुए 'एक ओंकार' (ईश्वर एक है) का संदेश दिया। उन्होंने लंगर परंपरा की शुरुआत की, जहां सभी बिना किसी भेद-भाव के एक साथ बैठकर भोजन करते हैं।",
+      "rules": [
+        "गुरुद्वारे जाकर शबद-कीर्तन सुनें और अरदास में शामिल हों।",
+        "लंगर सेवा (भोजन पकाने या परोसने) में भाग लें।",
+        "नगर कीर्तन और प्रभात फेरियों में भाग लें।"
+      ]
+    }
+  },
+  "christmas": {
+    "en": {
+      "title": "Christmas Day",
+      "deity": "Lord Jesus Christ",
+      "description": "An annual festival celebrated globally on December 25 to commemorate the birth of Jesus Christ.",
+      "story": "According to Christian tradition, Jesus Christ was born in Bethlehem to the Virgin Mary and Joseph. His birth fulfills messianic prophecies, representing the arrival of God's love, light, and salvation into the world. It is celebrated worldwide as a time of joy, goodwill, family reunions, giving gifts, and showing kindness to the needy.",
+      "rules": [
+        "Attend midnight mass or Christmas morning church services.",
+        "Decorate a Christmas tree, display nativity scenes, and light up the house.",
+        "Exchange gifts and share festive meals with family and friends.",
+        "Reach out to the poor and lonely, donating food, toys, or winter clothes."
+      ]
+    },
+    "hi": {
+      "title": "बड़ा दिन (क्रिसमस)",
+      "deity": "प्रभु यीशु मसीह",
+      "description": "प्रभु यीशु मसीह के जन्म दिवस के उपलक्ष्य में प्रत्येक वर्ष 25 दिसंबर को हर्षोल्लास के साथ मनाया जाने वाला त्योहार।",
+      "story": "ईसाई मान्यताओं के अनुसार, इसी दिन बेथलहम में कुंवारी मरियम और यूसुफ के यहाँ यीशु मसीह का जन्म हुआ था। उन्हें ईश्वर का पुत्र माना जाता है जिन्होंने जगत को प्रेम, दया और शांति का संदेश दिया। यह त्योहार दुनिया भर में खुशियां बांटने और एक-दूसरे की मदद करने का अवसर है।",
+      "rules": [
+        "चर्च की विशेष प्रार्थना सभा में भाग लें।",
+        "घर को क्रिसमस ट्री और रोशनी से सजाएं।",
+        "परिजनों को उपहार दें और निर्धनों में भोजन व वस्त्र वितरित करें।"
+      ]
+    }
+  },
+  "pongal": {
+    "en": {
+      "title": "Pongal",
+      "deity": "Surya Dev (The Sun God) & Mother Nature",
+      "description": "A four-day harvest festival celebrated in Tamil Nadu to thank the Sun God and farm animals for a successful harvest.",
+      "rules": [
+        "Clean and decorate houses with mango leaves and colorful Kolam drawings.",
+        "Boil fresh rice with milk and jaggery in a new clay pot until it overflows (symbolizing abundance).",
+        "Offer the freshly cooked Pongal dish to the Sun God (Surya Dev).",
+        "Bathe and decorate farm cattle (Mattu Pongal) and feed them Pongal."
+      ],
+      "story": "Pongal marks the beginning of the sun's six-month journey northwards (Uttarayan). According to legend, Lord Shiva once asked his bull, Basava, to tell humans to have an oil bath daily and eat once a month. Basava mistakenly told them to eat daily and have an oil bath once a month. Enraged, Shiva banished Basava to earth to help humans plow fields and produce more food. This festival honors the essential role of cattle and the Sun in agriculture."
+    },
+    "hi": {
+      "title": "पोंगल",
+      "deity": "सूर्य देव और प्रकृति",
+      "description": "तमिलनाडु में मनाया जाने वाला चार दिवसीय फसल उत्सव, जिसमें सूर्य देव और कृषि पशुओं के प्रति आभार व्यक्त किया जाता है।",
+      "rules": [
+        "घरों की सफाई कर आम के पत्तों और रंग-बिरंगी कोलम रंगोली से सजाएं।",
+        "नए मिट्टी के बर्तन में नए चावल, दूध और गुड़ मिलाकर पोंगल पकाएं और उसे उफनने दें (जो समृद्धि का प्रतीक है)।",
+        "सूर्य देव को तैयार पोंगल का भोग लगाएं।",
+        "मवेशियों को नहलाकर सजाएं (माट्टु पोंगल) और उन्हें पोंगल खिलाएं।"
+      ],
+      "story": "पोंगल सूर्य के उत्तरायण होने के समय मनाया जाता है। पौराणिक कथा के अनुसार, भगवान शिव ने अपने बैल बसव को पृथ्वी पर जाकर संदेश देने को कहा कि मनुष्य प्रतिदिन स्नान करें और महीने में एक बार खाएं। बसव ने गलती से कह दिया कि प्रतिदिन खाएं और महीने में एक बार स्नान करें। शिवजी ने क्रोधित होकर बसव को पृथ्वी पर रहकर मनुष्यों के लिए खेती में मदद करने की आज्ञा दी। यह उत्सव बैल और सूर्य देव के प्रति कृतज्ञता प्रकट करता है।"
+    }
+  },
+  "shivaji-jayanti": {
+    "en": {
+      "title": "Chhatrapati Shivaji Maharaj Jayanti",
+      "deity": "Chhatrapati Shivaji Maharaj",
+      "description": "Birth anniversary of the legendary Maratha warrior king Chhatrapati Shivaji Maharaj, celebrated with great pride.",
+      "rules": [
+        "Garland portraits and statues of Chhatrapati Shivaji Maharaj.",
+        "Organize cultural programs highlighting Shivaji's valor and progressive ideals.",
+        "Participate in processions with traditional drums (Dhol Tasha).",
+        "Study and promote Shivaji's ideals of administration and respect for women."
+      ],
+      "story": "Born in 1630 at Shivneri Fort, Shivaji Maharaj founded the Maratha Empire. Facing powerful adversaries like the Adilshahi and Mughal dynasties, he pioneered guerrilla warfare (Ganimi Kava), established a strong navy, and built formidable hill forts. He was crowned Chhatrapati in 1674. He is revered not only as a military genius but also as a compassionate ruler who valued religious freedom, established an administrative council (Ashta Pradhan), and fiercely protected his subjects."
+    },
+    "hi": {
+      "title": "छत्रपति शिवाजी महाराज जयंती",
+      "deity": "छत्रपति शिवाजी महाराज",
+      "description": "महान मराठा साम्राज्य के संस्थापक छत्रपति शिवाजी महाराज की जन्म जयंती, जो उनके साहस और स्वाभिमान की याद में मनाई जाती है।",
+      "rules": [
+        "छत्रपति शिवाजी महाराज की प्रतिमाओं और चित्रों पर माल्यार्पण करें।",
+        "शिवाजी महाराज के शौर्य, सुशासन और आदर्शों पर आधारित सांस्कृतिक कार्यक्रम आयोजित करें।",
+        "पारंपरिक ढोल-ताशा के साथ शोभायात्राओं में भाग लें।",
+        "शिवाजी महाराज के प्रशासनिक सिद्धांतों और महिलाओं के सम्मान के आदर्शों का प्रचार करें।"
+      ],
+      "story": "शिवनेरी दुर्ग में 1630 में जन्मे शिवाजी महाराज ने मुगलों और आदिलशाही के खिलाफ संघर्ष कर एक स्वतंत्र मराठा साम्राज्य की स्थापना की। उन्होंने गुरिल्ला युद्ध (गनिमी कावा) की रणनीति विकसित की और एक सशक्त नौसेना खड़ी की। 1674 में उनका राज्याभिषेक हुआ। शिवाजी महाराज न केवल एक महान योद्धा थे, बल्कि एक धर्मनिरपेक्ष और प्रजावत्सल शासक थे जिन्होंने महिला सम्मान, प्रशासनिक कुशलता और न्याय को सर्वोपरि रखा।"
+    }
+  },
+  "lohri": {
+    "en": {
+      "title": "Lohri Festival Significance",
+      "deity": "Agni Dev (Fire God) & Surya Dev",
+      "description": "A vibrant Punjabi harvest festival celebrated with bonfires, singing, and dancing to mark the end of peak winter.",
+      "rules": [
+        "Light a bonfire in the evening and circle it with family.",
+        "Offer sesame seeds (til), jaggery (gur), peanuts, and popcorn into the fire.",
+        "Prepare and share Makki ki Roti and Sarson ka Saag.",
+        "Sing traditional folk songs dedicated to Dulla Bhatti."
+      ],
+      "story": "Lohri is primarily associated with the harvesting of rabi crops and welcoming longer, warmer days. Historically, it is dedicated to Dulla Bhatti, a legendary local hero who lived in Punjab during the reign of Akbar. Dulla Bhatti rescued young Hindu girls from being sold into slavery, arranged their marriages, and gave them dowries. People sing songs in his praise to celebrate bravery and community protection."
+    },
+    "hi": {
+      "title": "लोहड़ी त्योहार का महत्व और कथा",
+      "deity": "अग्नि देव और सूर्य देव",
+      "description": "शीत ऋतु की विदाई और नई फसल के आगमन का प्रतीक, जो विशेष रूप से पंजाब और उत्तर भारत में अलाव जलाकर, नाच-गाने के साथ मनाया जाता है।",
+      "rules": [
+        "शाम को अलाव (लोहड़ी की आग) जलाएं और परिवार के साथ उसकी परिक्रमा करें।",
+        "अग्नि में तिल, गुड़, मूंगफली और रेवड़ी अर्पित करें।",
+        "मक्के की रोटी और सरसों का साग जैसे पारंपरिक भोजन का आनंद लें।",
+        "दुल्ला भट्टी की याद में पारंपरिक लोकगीत गाएं।"
+      ],
+      "story": "लोहड़ी का त्योहार फसलों (विशेष रूप से रबी फसलों) की कटाई और कड़ाके की ठंड की विदाई का प्रतीक है। इस दिन दुल्ला भट्टी नामक नायक की लोककथा गाई जाती है, जिन्होंने अकबर के शासनकाल में डाकुओं से गरीब हिंदू लड़कियों की रक्षा की थी और उनके विवाह संपन्न कराए थे। लोग उनकी वीरता के प्रति आभार व्यक्त करने और नई फसल की समृद्धि का स्वागत करने के लिए आग के फेरे लेते हैं।"
+    }
+  },
+  "vishu": {
+    "en": {
+      "title": "Vishu Festival (Kerala New Year)",
+      "deity": "Lord Vishnu & Lord Krishna",
+      "description": "The astronomical New Year festival of Kerala, celebrated with the viewing of Vishukkani (auspicious sight) in the morning.",
+      "rules": [
+        "Prepare 'Vishukkani' the night before with yellow flowers (Kanikkonna), fruits, metal mirror, coins, and rice.",
+        "View the Vishukkani first thing upon waking up at dawn.",
+        "Give money (Vishukkaineetam) to younger family members.",
+        "Prepare a special feast called Sadya."
+      ],
+      "story": "Vishu marks the transit of the Sun into Meda Rasi (Aries) and represents the spring equinox when day and night are of equal duration. The viewing of the Vishukkani is based on the belief that seeing auspicious items first thing on New Year's day brings prosperity and good fortune throughout the year. It also celebrates Lord Krishna defeating the demon Narakasura, returning light and joy to the world."
+    },
+    "hi": {
+      "title": "विषु त्योहार (केरल नववर्ष)",
+      "deity": "भगवान विष्णु और भगवान कृष्ण",
+      "description": "केरल का पारंपरिक नववर्ष और सौर नववर्ष उत्सव, जो सुबह 'विषुकणी' (शुभ दर्शन) देखने की परंपरा के साथ मनाया जाता है।",
+      "rules": [
+        "एक रात पहले 'विषुकणी' सजाएं जिसमें पीले फूल (कणिकोन्ना), फल, आईना, सिक्के और अनाज रखें।",
+        "सुबह उठते ही सबसे पहले अपनी आंखें बंद करके विषुकणी के दर्शन करें।",
+        "परिवार के छोटे सदस्यों को धन (विषुकैनीट्टम) उपहार में दें।",
+        "पारंपरिक दावत 'सद्या' तैयार करें।"
+      ],
+      "story": "विषु खगोलीय रूप से सूर्य के मेष राशि में प्रवेश (मेष संक्रांति) का प्रतीक है। केरल में माना जाता है कि नववर्ष के दिन आंख खोलते ही सबसे पहले पवित्र और समृद्धिदायक वस्तुओं (विषुकणी) के दर्शन करने से पूरा वर्ष सुखमय बीतता है। यह दिन भगवान कृष्ण द्वारा नरकासुर का वध करने की खुशी में भी मनाया जाता है, जिससे संसार में पुनः धर्म की स्थापना हुई।"
+    }
+  },
+  "muharram": {
+    "en": {
+      "title": "Muharram Remembrance",
+      "deity": "Imam Hussain (Grandson of Prophet Muhammad)",
+      "description": "The first month of the Islamic calendar, observed as a period of mourning to commemorate the martyrdom of Hazrat Imam Hussain at the Battle of Karbala.",
+      "rules": [
+        "Participate in mourning processions (Tazia) and gatherings (Majlis).",
+        "Observe fasting, especially on the day of Ashura (10th of Muharram).",
+        "Perform acts of charity and distribute water and food (Sabeel) to the needy."
+      ],
+      "story": "Muharram marks the tragic Battle of Karbala in 680 AD. Imam Hussain, along with his family and 72 loyal companions, stood against the unjust, tyrannical forces of Yazid to protect the true spirit of Islam. Cut off from water for days, Hussain was martyred on the 10th of Muharram (Ashura). His martyrdom represents the eternal victory of truth over falsehood and stands as a global symbol of resistance against tyranny."
+    },
+    "hi": {
+      "title": "मुहर्रम (यौम-ए-आशूरा)",
+      "deity": "इमाम हुसैन (हजरत मोहम्मद के नवासे)",
+      "description": "इस्लामी कैलेंडर का पहला महीना, जिसे कर्बला के युद्ध में शहीद हुए हजरत इमाम हुसैन और उनके साथियों की याद में शोक पर्व के रूप में मनाया जाता है।",
+      "rules": [
+        "शोक सभाओं (मजलिस) और ताज़िया जुलूसों में भाग लें।",
+        "आशूरा (मुहर्रम के 10वें दिन) रोजा (उपवास) रखें।",
+        "गरीबों में पानी और भोजन (सबील) का वितरण करें और दान दें।"
+      ],
+      "story": "सन् 680 ईस्वी में कर्बला (इराक़) की तपती धरती पर इमाम हुसैन और यज़ीद की सेना के बीच ऐतिहासिक युद्ध हुआ था। यज़ीद के क्रूर शासन और अधर्म का विरोध करने पर इमाम हुसैन, उनके परिवार और 72 साथियों को पानी से वंचित कर शहीद कर दिया गया था। मुहर्रम के 10वें दिन हुसैन की शहादत हुई, जिसे सत्य, न्याय और मानवता की रक्षा के लिए सबसे बड़ा बलिदान माना जाता है।"
+    }
+  }
+}

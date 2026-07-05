@@ -1,0 +1,538 @@
+{
+  "buddha-purnima": {
+    "en": {
+      "title": "Buddha Purnima",
+      "deity": "Lord Buddha",
+      "description": "Marks the birth, enlightenment, and Mahaparinirvana of Gautama Buddha, the founder of Buddhism.",
+      "story": "Siddhartha Gautama was born as a prince in Lumbini. Troubled by human suffering, he renounced his kingdom. After years of meditation under the Bodhi tree in Bodh Gaya, he attained supreme enlightenment on this Full Moon day, becoming the Buddha.",
+      "rules": [
+        "Practice meditation, non-violence, and mindfulness.",
+        "Donate food and clothes to the poor.",
+        "Offer prayers at Buddhist temples or home altars."
+      ]
+    },
+    "hi": {
+      "title": "बुद्ध पूर्णिमा",
+      "deity": "भगवान बुद्ध",
+      "description": "वैशाख पूर्णिमा को बौद्ध धर्म के प्रवर्तक भगवान गौतम बुद्ध के जन्म, ज्ञान प्राप्ति और महापरिनिर्वाण के रूप में मनाया जाता है।",
+      "story": "राजकुमार सिद्धार्थ का जन्म लुंबिनी में हुआ था। संसार के दुखों को देखकर उन्होंने गृहत्याग किया और बोधगया में बोधि वृक्ष के नीचे तपस्या कर आज ही के दिन परम ज्ञान प्राप्त किया और बुद्ध कहलाए।",
+      "rules": [
+        "ध्यान, अहिंसा और करुणा का पालन करें।",
+        "गरीबों को भोजन और वस्त्र दान करें।",
+        "बौद्ध विहारों या घर पर दीप जलाकर प्रार्थना करें।"
+      ]
+    }
+  },
+  "summer-solstice": {
+    "en": {
+      "title": "Summer Solstice",
+      "deity": "Surya Dev (The Sun God)",
+      "description": "The astronomical day when the Earth's pole has its maximum tilt toward the Sun, resulting in the longest day of the year in the Northern Hemisphere.",
+      "story": "Since ancient times, the Summer Solstice has been celebrated globally. In the Hindu tradition, it marks the entry of the Sun into Dakshinayana (southerly movement), a period of transition and spiritual reflection. It represents the peak of solar energy, light, fertility, and the abundance of nature, reminding us of our connection to the solar system.",
+      "rules": [
+        "Perform Surya Namaskar (Sun Salutations) at sunrise to harness solar energy.",
+        "Spend time in nature, soaking in natural sunlight for health and vitality.",
+        "Practice meditation at noon when the Sun is at its highest point.",
+        "Light a symbolic lamp or candle in the evening to celebrate the power of light."
+      ]
+    },
+    "hi": {
+      "title": "ग्रीष्म संक्रांति (समर सॉल्स्टिस)",
+      "deity": "सूर्य देव",
+      "description": "खगोलीय घटना जब पृथ्वी का उत्तरी ध्रुव सूर्य की ओर सर्वाधिक झुका होता है, जिससे उत्तरी गोलार्ध में वर्ष का सबसे लंबा दिन और सबसे छोटी रात होती है।",
+      "story": "प्राचीन काल से ही ग्रीष्म संक्रांति का सांस्कृतिक और खगोलीय महत्व रहा है। हिंदू पंचांग के अनुसार, यह काल सूर्य के दक्षिणायन गमन के प्रारंभ का संकेत देता है, जो साधना और आध्यात्मिक चिंतन के लिए उत्तम है। यह दिन प्रकाश, ऊर्जा और प्रकृति की पूर्णता का उत्सव मनाता है।",
+      "rules": [
+        "प्रातःकाल सूर्योदय के समय सूर्य नमस्कार करें और अर्घ्य दें।",
+        "प्रकृति के संपर्क में रहें और ताजी धूप ग्रहण करें।",
+        "दोपहर में ध्यान का अभ्यास करें और शाम को घर में दीपक जलाएं।"
+      ]
+    }
+  },
+  "winter-solstice": {
+    "en": {
+      "title": "Winter Solstice",
+      "deity": "Surya Dev (The Sun God)",
+      "description": "The astronomical day when the Earth's pole has its maximum tilt away from the Sun, resulting in the shortest day and longest night of the year in the Northern Hemisphere.",
+      "story": "Historically, the Winter Solstice represents the 'rebirth of the sun' because from this day onward, the days gradually begin to grow longer. In Hindu tradition, it is closely related to the onset of Uttarayan (northerly movement of the Sun) celebrated during Makar Sankranti. It is a time for introspection, renewal, and hope for the return of warmth and light.",
+      "rules": [
+        "Meditate or practice introspection, reflecting on the lessons of the past year.",
+        "Light oil lamps or candles in the house to symbolize hope and inner light during the longest night.",
+        "Consume warm, nourishing winter foods like sesame, jaggery, and ginger.",
+        "Rest, recharge, and set intentions for the coming spring."
+      ]
+    },
+    "hi": {
+      "title": "शीत संक्रांति (विंटर सॉल्स्टिस)",
+      "deity": "सूर्य देव",
+      "description": "खगोलीय घटना जब पृथ्वी का दक्षिणी ध्रुव सूर्य की ओर झुका होता है, जिससे उत्तरी गोलार्ध में साल का सबसे छोटा दिन और सबसे लंबी रात होती है।",
+      "story": "विंटर सॉल्स्टिस को प्राचीन संस्कृतियों में सूर्य के पुनर्जन्म के रूप में देखा जाता था क्योंकि इसके बाद से दिन लंबे होने शुरू होते हैं। भारतीय संस्कृति में इसका संबंध उत्तरायण के आगमन से है। यह दिन आत्मनिरीक्षण, पुराने को छोड़ने और जीवन में नए प्रकाश के आगमन की प्रतीक्षा का प्रतीक है।",
+      "rules": [
+        "लंबी रात के समय घर में दीप जलाकर प्रकाश और आशा का स्वागत करें।",
+        "तिल, गुड़ और गर्म तासीर वाली चीजों का सेवन करें।",
+        "आने वाले वर्ष के लिए नए संकल्प लें और ध्यान करें।"
+      ]
+    }
+  },
+  "onam": {
+    "en": {
+      "title": "Onam",
+      "deity": "Lord Vamana & King Mahabali",
+      "description": "The harvest festival of Kerala, commemorating the benevolent rule of King Mahabali and the Vamana avatar of Lord Vishnu.",
+      "rules": [
+        "Create beautiful flower carpets (Pookalam) at the entrance of the house.",
+        "Prepare the grand multi-course vegetarian feast called Onasadya served on banana leaves.",
+        "Wear traditional Kerala attire (Mundu and Kasavu saree).",
+        "Participate in community events like boat races (Vallam Kali) and traditional dances."
+      ],
+      "story": "King Mahabali was a generous Asura king who ruled Kerala with perfect justice and equality. Fearing his growing power, the Devas appealed to Lord Vishnu, who took the form of the dwarf Brahmin Vamana. Vamana requested three paces of land. Mahabali agreed, and Vamana grew to cosmic size, measuring earth and heaven in two steps. Mahabali offered his head for the third step. Pleased with his devotion, Vishnu granted him a boon to visit his beloved subjects once every year. Onam marks the annual return of King Mahabali to Kerala."
+    },
+    "hi": {
+      "title": "ओणम",
+      "deity": "भगवान वामन और राजा महाबली",
+      "description": "केरल का प्रमुख फसल उत्सव, जो राजा महाबली के न्यायप्रिय शासन और भगवान विष्णु के वामन अवतार की स्मृति में मनाया जाता है।",
+      "rules": [
+        "घर के प्रवेश द्वार पर फूलों की सुंदर रंगोली (पूकलम) बनाएं।",
+        "केले के पत्ते पर परोसे जाने वाले पारंपरिक ओणम भोज (ओणासद्या) की तैयारी करें।",
+        "पारंपरिक केरल परिधान (मुंडू और कसावू साड़ी) धारण करें।",
+        "नौका दौड़ (वल्लम काली) और लोक नृत्यों का आनंद लें।"
+      ],
+      "story": "दानवीर असुर राजा महाबली के शासनकाल में केरल में सुख-समृद्धि चरम पर थी। देवराज इंद्र के भय को दूर करने के लिए भगवान विष्णु ने वामन अवतार लिया और राजा से तीन पग भूमि मांगी। दो पगों में पृथ्वी और स्वर्ग नापने के बाद, महाबली ने तीसरे पग के लिए अपना सिर समर्पित कर दिया। भगवान वामन ने प्रसन्न होकर उन्हें वर्ष में एक बार अपनी प्रजा से मिलने का वरदान दिया। इसी आगमन की खुशी में ओणम मनाया जाता है।"
+    }
+  },
+  "bihu": {
+    "en": {
+      "title": "Bihu",
+      "deity": "Mother Nature & Surya Dev",
+      "description": "The national festival of Assam, consisting of three agricultural festivals: Bohag Bihu, Kati Bihu, and Bhogali Bihu.",
+      "rules": [
+        "Offer prayers to elders and exchange Gamosa (traditional woven cloth) as a mark of respect.",
+        "Prepare traditional snacks like Pitha, Laru, and Jolpan.",
+        "Light traditional lamps (Saki) under the Tulsi plant during Kati Bihu.",
+        "Build and burn traditional bamboo structures (Meji) during Bhogali Bihu."
+      ],
+      "story": "Bihu represents the agricultural lifecycle of Assam. Bohag Bihu (in April) marks the beginning of the seed-sowing season and the Assamese New Year. Kati Bihu (in October) is a quiet festival dedicated to praying for crop protection as the paddy fields ripen. Bhogali Bihu (in January) marks the harvesting season, celebrated with community feasts and gratitude to the elements of nature for food and sustenance."
+    },
+    "hi": {
+      "title": "बिहू",
+      "deity": "प्रकृति और सूर्य देव",
+      "description": "असम का प्रमुख त्योहार, जो साल में तीन बार फसल चक्र के अनुसार मनाया जाता है: बोहाग बिहू, काती बिहू और भोगली बिहू।",
+      "rules": [
+        "बड़ों का आशीर्वाद लें और सम्मान के रूप में गमोसा (पारंपरिक वस्त्र) भेंट करें।",
+        "पारंपरिक व्यंजन जैसे पीठा, लारू और जोलपान तैयार करें।",
+        "काती बिहू के दौरान तुलसी के पौधे के पास मिट्टी के दीपक (साकी) जलाएं।",
+        "भोगली बिहू के दौरान बांस की विशेष झोपड़ियां (मेजी) बनाकर जलाएं।"
+      ],
+      "story": "बिहू त्योहार असम के कृषि जीवन का दर्पण है। बोहाग बिहू (अप्रैल) नए साल और बुवाई की शुरुआत का प्रतीक है। काती बिहू (अक्टूबर) फसलों की रक्षा के लिए की जाने वाली मौन प्रार्थना है जब धान की बालियां पकने लगती हैं। भोगली बिहू (जनवरी) फसल कटने के बाद अन्न के प्रति आभार व्यक्त करने का उत्सव है, जिसमें सामूहिक भोज आयोजित किए जाते हैं।"
+    }
+  },
+  "eid-ul-fitr": {
+    "en": {
+      "title": "Eid-ul-Fitr",
+      "deity": "None (Almighty Allah)",
+      "description": "The festival of breaking the fast, marking the conclusion of the holy month of Ramadan.",
+      "rules": [
+        "Perform the special Eid congregational prayers in the morning.",
+        "Give charity (Fitrana) to the poor before the prayers so they can also celebrate.",
+        "Wear new clothes, exchange greetings (Eid Mubarak), and visit friends and family.",
+        "Prepare and share sweet dishes, especially Sheer Khurma (vermicelli pudding)."
+      ],
+      "story": "Eid-ul-Fitr is celebrated on the first day of Shawwal after the sighting of the new crescent moon. It is a day of thanksgiving to Allah for granting believers the spiritual strength to fast during the holy month of Ramadan. Ramadan is the month in which the Quran was first revealed to Prophet Muhammad. The festival is a celebration of peace, charity, brotherhood, and spiritual renewal."
+    },
+    "hi": {
+      "title": "ईद-उल-फ़ितर",
+      "deity": "अल्लाह (ईश्वर)",
+      "description": "रमज़ान के पवित्र महीने के समापन पर मनाया जाने वाला खुशियों का त्योहार, जिसे मीठी ईद भी कहा जाता है।",
+      "rules": [
+        "सुबह ईदगाह या मस्जिद में जाकर विशेष ईद की नमाज़ अदा करें।",
+        "नमाज़ से पहले गरीबों को दान (फ़ितरा) अवश्य दें ताकि वे भी खुशी मना सकें।",
+        "नए वस्त्र पहनें, गले मिलकर ईद की बधाई दें और रिश्तेदारों के घर जाएं।",
+        "घर पर सेंवईं और शीर खुरमा जैसे मीठे पकवान बनाकर मेहमानों को खिलाएं।"
+      ],
+      "story": "ईद-उल-फ़ितर रमज़ान के रोज़ों (व्रत) के समाप्त होने पर शव्वाल महीने की पहली तारीख को चांद दिखने पर मनाई जाती है। यह त्योहार अल्लाह के प्रति आभार व्यक्त करने का दिन है, जिन्होंने पूरे महीने संयम और इबादत की शक्ति दी। रमज़ान वही महीना है जिसमें पवित्र कुरान का अवतरण हुआ था। यह त्योहार आपसी भाईचारे, शांति और दान का संदेश देता है।"
+    }
+  },
+  "eid-al-adha": {
+    "en": {
+      "title": "Eid-al-Adha / Bakrid",
+      "deity": "None (Almighty Allah)",
+      "description": "The festival of sacrifice, commemorating Prophet Ibrahim's absolute devotion to God.",
+      "rules": [
+        "Perform Eid prayers in congregation in the morning.",
+        "Perform the ritual sacrifice of an animal (Qurbani) if financially able.",
+        "Divide the meat into three equal parts: one for family, one for relatives, and one for the needy.",
+        "Practice charity, kindness, and help those in distress."
+      ],
+      "story": "Eid-al-Adha commemorates the story of Prophet Ibrahim (Abraham), who was tested by Allah. Ibrahim was asked to sacrifice his beloved son, Ismail, as proof of his devotion. As Ibrahim was about to perform the sacrifice, Allah intervened and replaced Ismail with a ram, accepting Ibrahim's devotion. The festival honors the spirit of selflessness, obedience to divine command, and compassion for the poor."
+    },
+    "hi": {
+      "title": "ईद-अल-अज़हा / बकरीद",
+      "deity": "अल्लाह (ईश्वर)",
+      "description": "कुर्बानी और समर्पण का त्योहार, जो पैगंबर इब्राहिम के अल्लाह के प्रति अटूट विश्वास की याद दिलाता है।",
+      "rules": [
+        "सुबह सामूहिक रूप से बकरीद की नमाज़ अदा करें।",
+        "सक्षम होने पर पशु की कुर्बानी (कुर्बानी) की रस्म पूरी करें।",
+        "कुर्बानी के मांस को तीन भागों में बांटें: एक हिस्सा खुद के लिए, एक रिश्तेदारों के लिए और एक गरीबों के लिए।",
+        "गरीबों और जरूरतमंदों की उदारतापूर्वक मदद करें।"
+      ],
+      "story": "यह त्योहार पैगंबर इब्राहिम (अब्राहम) की परीक्षा की कहानी से जुड़ा है। अल्लाह ने उनके विश्वास की परीक्षा लेने के लिए उनके प्रिय पुत्र इस्माइल की कुर्बानी मांगी थी। जब इब्राहिम अपने बेटे की कुर्बानी देने लगे, तो अल्लाह ने उनके समर्पण से प्रसन्न होकर उनके बेटे की जगह एक दुंबे (भेड़) को रख दिया। यह त्योहार त्याग, आज्ञाकारिता और गरीबों के प्रति सेवा भावना का प्रतीक है।"
+    }
+  },
+  "easter": {
+    "en": {
+      "title": "Easter Sunday",
+      "deity": "Lord Jesus Christ",
+      "description": "Celebrates the resurrection of Lord Jesus Christ from the dead, representing new life and hope.",
+      "rules": [
+        "Attend special Easter Sunday church services.",
+        "Decorate and share colorful Easter eggs (symbolizing rebirth).",
+        "Gather with family and friends for a festive celebratory meal.",
+        "Reflect on the messages of forgiveness, love, and spiritual renewal."
+      ],
+      "story": "According to Christian beliefs, Jesus Christ, the Son of God, was crucified on Good Friday to redeem humanity's sins. On the third day (Easter Sunday), he rose from the dead, defeating death and proving his divinity. The resurrection is the cornerstone of Christian faith, bringing hope of eternal life and the victory of light over darkness."
+    },
+    "hi": {
+      "title": "ईस्टर संडे",
+      "deity": "प्रभु यीशु मसीह",
+      "description": "प्रभु यीशु मसीह के पुनरुत्थान (दोबारा जीवित होने) का उत्सव, जो नई आशा और जीवन का संदेश देता है।",
+      "rules": [
+        "सुबह गिरजाघर (चर्च) जाकर विशेष ईस्टर प्रार्थना सभा में भाग लें।",
+        "रंगीन ईस्टर अंडे सजाएं और एक-दूसरे को भेंट करें (जो नए जीवन का प्रतीक हैं)।",
+        "परिवार और मित्रों के साथ मिलकर उत्सव भोज का आनंद लें।",
+        "क्षमा, प्रेम और आध्यात्मिक जागृति के संदेशों पर मनन करें।"
+      ],
+      "story": "ईसाई मान्यताओं के अनुसार, प्रभु यीशु मसीह को मानव जाति के पापों के प्रायश्चित के लिए गुड फ्राइडे के दिन सूली पर चढ़ाया गया था। इसके तीसरे दिन यानी संडे को वे कब्र से जीवित हो उठे। यीशु मसीह का पुनर्जीवित होना मृत्यु पर विजय और ईश्वर के प्रेम का प्रमाण है। यह त्योहार अंधकार पर प्रकाश की जीत का संदेश देता है।"
+    }
+  },
+  "ratha-yatra": {
+    "en": {
+      "title": "Ratha Yatra Origin & Significance",
+      "deity": "Lord Jagannath, Lord Balabhadra, Goddess Subhadra",
+      "description": "The grand chariot festival of Puri, Odisha, where Lord Jagannath along with his siblings visits his aunt's temple (Gundicha Temple).",
+      "rules": [
+        "Participate in pulling the holy chariots if attending, which is believed to cleanse past sins.",
+        "Perform Jagannath Puja at home and offer special sweets like Podapitha.",
+        "Recite Jagannath Ashtakam and Vishnu Sahasranama.",
+        "Perform charity and feed the needy."
+      ],
+      "story": "Lord Jagannath (Lord Krishna) expresses his desire to visit his birthplace, Gundicha Temple, along with his elder brother Balabhadra and sister Subhadra. The siblings travel on three massive, beautifully decorated wooden chariots: Nandighosha (Jagannath), Taladhwaja (Balabhadra), and Darpadalana (Subhadra). King Indradyumna and Queen Gundicha constructed the temple and initiated the grand chariot procession. The festival represents the supreme lord leaving his grand temple to meet his devotees directly on the streets, regardless of caste, creed, or background."
+    },
+    "hi": {
+      "title": "रथ यात्रा का महत्व और पौराणिक कथा",
+      "deity": "भगवान जगन्नाथ, बलभद्र और देवी सुभद्रा",
+      "description": "पुरी, ओडिशा का विश्व प्रसिद्ध भव्य रथ उत्सव, जिसमें भगवान जगन्नाथ अपने भाई-बहन के साथ अपनी मौसी के घर (गुंडिचा मंदिर) जाते हैं।",
+      "rules": [
+        "भगवान के रथों को खींचने में भाग लें, इसे अत्यंत पुण्यदायी माना गया है।",
+        "घर पर भगवान जगन्नाथ की आरती करें और विशेष रूप से पोड़ापीठा या मालपुआ का भोग लगाएं।",
+        "जगन्नाथ अष्टकम और विष्णु सहस्रनाम का पाठ करें।",
+        "गरीबों को अन्नदान करें।"
+      ],
+      "story": "पौराणिक मान्यता के अनुसार, एक बार भगवान कृष्ण की बहन सुभद्रा ने द्वारका देखने की इच्छा प्रकट की। तब भगवान कृष्ण और बलभद्र ने उन्हें रथ में बैठाकर पूरी द्वारका का भ्रमण कराया। इसके बाद से ही हर वर्ष रथयात्रा का आयोजन होने लगा। पुरी में भगवान जगन्नाथ अपने बड़े भाई बलभद्र और बहन सुभद्रा के साथ विशाल रथों पर सवार होकर गुंडिचा मंदिर जाते हैं। यह उत्सव दर्शाता है कि कैसे स्वयं सृष्टि के स्वामी अपने गर्भगृह से बाहर आकर हर वर्ण और जाति के भक्तों को दर्शन देते हैं।"
+    }
+  },
+  "guru-purnima": {
+    "en": {
+      "title": "Guru Purnima Significance & Puja Vidhi",
+      "deity": "Lord Shiva (Adi Guru) & Sage Veda Vyasa",
+      "description": "A sacred day dedicated to honoring academic and spiritual teachers (Gurus) and celebrating the birth anniversary of Sage Veda Vyasa.",
+      "rules": [
+        "Offer prayers, flowers, and respects to your spiritual or academic Gurus.",
+        "Worship Sage Vyasa (the compiler of the Vedas) and Lord Shiva (the first Guru).",
+        "Recite Guru Gita, Guru Stotram, or study sacred texts.",
+        "Engage in meditation and self-reflection to honor the lineage of knowledge."
+      ],
+      "story": "Guru Purnima marks the birth anniversary of Sage Krishna Dvaipayana Vyasa (Veda Vyasa), who structured the four Vedas, wrote the 18 Puranas, the Mahabharata, and the Srimad Bhagavatam. It is also believed that on this full moon day, Lord Shiva became the first Guru (Adi Guru) and began transmitting the knowledge of Yoga to the Saptarishis (the seven sages) at Lake Kantisarovar. Thus, this day is celebrated to express deep gratitude for the light of wisdom that guides us from darkness to light."
+    },
+    "hi": {
+      "title": "गुरु पूर्णिमा का महत्व और पौराणिक कथा",
+      "deity": "भगवान शिव (आदि गुरु) और महर्षि वेदव्यास",
+      "description": "ज्ञान, मार्गदर्शन और सत्य की राह दिखाने वाले गुरुओं के प्रति कृतज्ञता व्यक्त करने का पावन पर्व, जो महर्षि वेदव्यास की जयंती के रूप में मनाया जाता है।",
+      "rules": [
+        "अपने गुरुदेव के चरणों का स्पर्श कर आशीर्वाद लें और उन्हें फल-फूल अर्पित करें।",
+        "आदि गुरु भगवान शिव और वेदों का संकलन करने वाले महर्षि व्यास की पूजा करें।",
+        "गुरु गीता, गुरु स्तोत्र का पाठ करें या धार्मिक ग्रंथों का अध्ययन करें।",
+        "ध्यान करें और गुरु के दिखाए मार्ग पर चलने का संकल्प लें।"
+      ],
+      "story": "पौराणिक मान्यता के अनुसार, आषाढ़ पूर्णिमा के दिन महर्षि पराशर के पुत्र वेदव्यास जी का जन्म हुआ था। उन्होंने ही ऋग्वेद, यजुर्वेद, सामवेद और अथर्ववेद का विभाजन किया, महाभारत और 18 पुराणों की रचना की। इसलिए उन्हें ज्ञान का आदि स्रोत मानकर उनकी जयंती को गुरु पूर्णिमा या व्यास पूर्णिमा के रूप में मनाया जाता है। इसके अलावा, भगवान शिव ने इसी दिन सर्वप्रथम सप्तऋषियों को योग और तंत्र का ज्ञान प्रदान कर संसार के प्रथम गुरु (आदि गुरु) का रूप धारण किया था।"
+    }
+  },
+  "cherchera": {
+    "en": {
+      "title": "Cherchera Festival Significance",
+      "deity": "Goddess Annapurna",
+      "description": "A traditional harvest festival of Chhattisgarh celebrated on Paush Purnima, representing charity and the sharing of food.",
+      "rules": [
+        "Worship Goddess Annapurna (the deity of food and nourishment).",
+        "Donate grains, vegetables, or money to children and the needy.",
+        "Prepare traditional Chhattisgarhi delicacies like Fara and Muthiya.",
+        "Welcome visiting children singing traditional harvest songs."
+      ],
+      "story": "Cherchera is celebrated to mark the harvest season and the joy of crop collection. On this day, children and youth visit houses in the village chanting 'Cherchera, Koki Kothi Ke Dhan Hera' (donate paddy from your barns). Homeowners generously donate grains to symbolise that food is meant to be shared and no one should go hungry. According to folklore, Goddess Annapurna distributed grains on this day to end a severe drought, highlighting the importance of charity and community spirit."
+    },
+    "hi": {
+      "title": "चेरचेरा त्योहार का महत्व और कथा",
+      "deity": "माता अन्नपूर्णा",
+      "description": "छत्तीसगढ़ का पारंपरिक फसल उत्सव जो पौष पूर्णिमा को मनाया जाता है। यह दान-पुण्य और नई फसल की खुशी का प्रतीक है।",
+      "rules": [
+        "अन्न की अधिष्ठात्री देवी माता अन्नपूर्णा की पूजा करें।",
+        "बच्चों और जरूरतमंदों को अनाज, सब्जियां या पैसे का दान दें।",
+        "पारंपरिक छत्तीसगढ़ी व्यंजन जैसे फरा और मुठिया तैयार करें।",
+        "घर आने वाले बच्चों का पारंपरिक लोक गीतों के साथ स्वागत करें।"
+      ],
+      "story": "चेरचेरा नई फसल के घर आने की खुशी में मनाया जाता है। इस दिन गांवों में बच्चे और युवा टोलियां बनाकर 'चेरचेरा, कोठी के धान ल हेर हेरा' गाते हुए घर-घर जाते हैं। गृहस्थ उन्हें प्रसन्नतापूर्वक नए धान का दान करते हैं। माना जाता है कि इसी दिन माता अन्नपूर्णा ने धरती पर अकाल दूर करने के लिए अन्न का दान किया था। यह त्योहार समाज में सहभागिता और दानशीलता को बढ़ावा देता है।"
+    }
+  },
+  "guru-ravidas": {
+    "en": {
+      "title": "Guru Dev Ravidas Jayanti",
+      "deity": "Guru Ravidas Ji",
+      "description": "Birth anniversary of the famous Bhakti movement saint, reformer, and poet who advocated for caste equality and spiritual freedom.",
+      "rules": [
+        "Visit Ravidas temples and participate in bhajan recitations.",
+        "Read and recite his devotional hymns (shabads) included in the Guru Granth Sahib.",
+        "Practice non-discrimination and engage in charity."
+      ],
+      "story": "Guru Ravidas was born in Varanasi in a humble shoemaker family. Despite facing social discrimination, he rose to become one of the most prominent saints of the Bhakti movement. He taught that God resides in every human soul and that spiritual realization is accessible to all, regardless of caste. His teachings of 'Begampura' (a land without sorrow and discrimination) inspired millions to fight for social justice."
+    },
+    "hi": {
+      "title": "गुरु रविदास जयंती",
+      "deity": "संत रविदास (रैदास) जी",
+      "description": "भक्ति आंदोलन के प्रमुख संत, समाज सुधारक और कवि संत रविदास जी की जयंती, जिन्होंने जातिगत भेदभाव का विरोध किया और समानता का संदेश दिया।",
+      "rules": [
+        "रविदास मंदिरों के दर्शन करें और भजन-कीर्तन में भाग लें।",
+        "गुरु ग्रंथ साहिब में संकलित उनकी वाणियों और भजनों का पाठ करें।",
+        "समानता और आपसी प्रेम के उनके आदर्शों का पालन करें।"
+      ],
+      "story": "संत रविदास जी का जन्म वाराणसी में एक साधारण चर्मकार परिवार में हुआ था। सामाजिक भेदभाव के बावजूद वे भक्ति और ज्ञान की पराकाष्ठा तक पहुंचे। उन्होंने कहा था 'मन चंगा तो कठौती में गंगा', अर्थात यदि मन शुद्ध है तो ईश्वर हृदय में ही निवास करते हैं। उन्होंने समाज को ऊंच-नीच के भेद से मुक्त होकर निष्काम भक्ति करने का मार्ग दिखाया और एक ऐसे समाज 'बेगमपुरा' की कल्पना की जहां कोई दुख और भेदभाव न हो।"
+    }
+  },
+  "pohela-boishakh": {
+    "en": {
+      "title": "Pohela Boishakh (Bengali New Year)",
+      "deity": "Goddess Lakshmi & Lord Ganesha",
+      "description": "The first day of the Bengali calendar (New Year), celebrated with cultural processions, cleaning of homes, and starting new account books (Haalkhata).",
+      "rules": [
+        "Worship Goddess Lakshmi and Lord Ganesha for prosperity in the new year.",
+        "Wear new traditional clothes and clean the entire house.",
+        "Perform puja at shops and open new ledger books (Haalkhata) for business.",
+        "Prepare traditional Bengali dishes like Panta Bhat and sweets."
+      ],
+      "story": "Pohela Boishakh was historically linked to agricultural tax collection during the Mughal era under Emperor Akbar. Taxes were collected based on the harvest calendar, leading to the creation of the Bengali calendar (Bangabda). Merchants celebrate this day by clearing old debts and starting the 'Haalkhata' (red ledger books) with prayers, invoking blessings for business prosperity."
+    },
+    "hi": {
+      "title": "पोइला बैशाख (बंगाली नववर्ष)",
+      "deity": "माता लक्ष्मी और भगवान गणेश",
+      "description": "बंगाली कैलेंडर का पहला दिन (नववर्ष), जिसे नए कपड़े पहनकर, मंदिरों में पूजा-अर्चना और व्यापार में नए बहीखाते (हालखाता) शुरू करके मनाया जाता है।",
+      "rules": [
+        "नए वर्ष की समृद्धि के लिए माता लक्ष्मी और श्री गणेश की पूजा करें।",
+        "पूरे घर की सफाई करें और सुंदर पारंपरिक परिधान धारण करें।",
+        "दुकानों पर पूजा करें और व्यापार के लिए नया बहीखाता (हालखाता) खोलें।",
+        "पारंपरिक बंगाली व्यंजन और मिठाइयां तैयार करें।"
+      ],
+      "story": "पोइला बैशाख का इतिहास मुगल काल से जुड़ा है। सम्राट अकबर के समय कृषि कर (टैक्स) वसूलने के लिए एक नए सौर कैलेंडर की आवश्यकता महसूस हुई, जिसके परिणामस्वरूप बंगाली संवत (बंगाब्द) का निर्माण हुआ। फसल कटाई के बाद किसान कर चुकाते थे और व्यापारी अपने पुराने हिसाब-किताब को बंद कर नए बहीखाते 'हालखाता' की शुरुआत लक्ष्मी-गणेश पूजा के साथ करते थे।"
+    }
+  },
+  "pana-sankranti": {
+    "en": {
+      "title": "Pana Sankranti (Odia New Year)",
+      "deity": "Lord Hanuman & Lord Jagannath",
+      "description": "The traditional New Year in Odisha, celebrating the arrival of summer with the offering of a sweet drink called Pana.",
+      "rules": [
+        "Worship Lord Hanuman, as this day is also celebrated as Hanuman Jayanti in Odisha.",
+        "Hang a small earthen pot (basundhara theki) with a tiny hole over the Tulsi plant to drip water representing summer rain.",
+        "Prepare and drink 'Pana', a refreshing sweet mixture of wood apple, yogurt, milk, and spices.",
+        "Read the new Odia almanac (Panji)."
+      ],
+      "story": "Pana Sankranti, also known as Maha Vishuva Sankranti, marks the transition of the Sun into Aries. It represents the beginning of the hot summer season. The unique ritual of hanging the 'Basundhara Theki' (pot) filled with water over the Tulsi plant represents humanity's prayers for water and cooling rains to protect nature during the scorching heat. In Odisha, it is also celebrated as Hanuman's birth anniversary due to his immense strength and devotion."
+    },
+    "hi": {
+      "title": "पना संक्रांति (ओड़िया नववर्ष)",
+      "deity": "भगवान हनुमान और भगवान जगन्नाथ",
+      "description": "ओडिशा का पारंपरिक नववर्ष और महाविषुव संक्रांति, जिसमें गर्मी के मौसम का स्वागत करने के लिए बेल से बना मीठा पेय 'पना' अर्पित किया जाता है।",
+      "rules": [
+        "भगवान हनुमान की पूजा करें (ओडिशा में इस दिन हनुमान जयंती भी मनाई जाती है)।",
+        "तुलसी के पौधे के ऊपर पानी से भरा एक छोटा घड़ा (वसुंधरा ठेकी) लटकाएं जिसमें से बूंद-बूंद पानी टपके।",
+        "बेल, दही, दूध और मसालों से बना शीतल पेय 'पना' तैयार करें और वितरित करें।",
+        "नया ओड़िया पंचांग (पंजी) पढ़ें।"
+      ],
+      "story": "पना संक्रांति (महाविषुव संक्रांति) सूर्य के मेष राशि में प्रवेश का पर्व है। यह ग्रीष्म ऋतु के आगमन का सूचक है। तुलसी के पौधे के ऊपर मिट्टी का पात्र लटकाना जिसमें से बूंद-बूंद पानी गिरता है, यह दर्शाता है कि भीषण गर्मी में प्रकृति और जीवन को जीवित रखने के लिए जल कितना महत्वपूर्ण है। ओड़िया संस्कृति में भगवान हनुमान के शौर्य और समर्पण को याद करते हुए इसे हनुमान जयंती के रूप में भी मनाया जाता है।"
+    }
+  },
+  "puthandu": {
+    "en": {
+      "title": "Puthandu Festival (Tamil New Year)",
+      "deity": "Lord Murugan & Goddess Durga",
+      "description": "The Tamil New Year, marked by cleaning homes, drawing colorful Kolams (rangoli), and viewing the auspicious visual tray (Kanni).",
+      "rules": [
+        "Prepare a tray containing gold coins, fruits, flowers, betel leaves, and a mirror to view first thing in the morning (Kanni).",
+        "Draw colorful Kolams at the entrance of the house.",
+        "Worship Lord Murugan and seek blessings from elders.",
+        "Prepare 'Mangai Pachadi', a dish combining sweet, sour, bitter, and spicy tastes."
+      ],
+      "story": "Puthandu marks the first day of the Tamil month Chittirai. According to legend, Lord Brahma began the creation of the universe on this day. It is also believed that Lord Indran visited Earth to grant peace. The special dish 'Mangai Pachadi' (made of raw mango, jaggery, neem flowers, and red chili) represents that life is a mixture of different emotions—happiness, anger, sadness, and surprise—which must be accepted equally in the new year."
+    },
+    "hi": {
+      "title": "पुथांडु त्योहार (तमिल नववर्ष)",
+      "deity": "भगवान मुरुगन और माता दुर्गा",
+      "description": "तमिल कैलेंडर का नववर्ष, जो घरों की सफाई करके, रंग-बिरंगी कोलम (रंगोली) बनाकर और नववर्ष के शुभ दर्शन (कणी) करके मनाया जाता है।",
+      "rules": [
+        "सुबह उठकर सबसे पहले सोने के सिक्के, फल, फूल और दर्पण से सजी थाली (पुथांडु कणी) देखें।",
+        "घर के प्रवेश द्वार पर सुंदर कोलम (रंगोली) बनाएं।",
+        "भगवान मुरुगन की पूजा करें और बड़ों का आशीर्वाद लें।",
+        "मीठे, खट्टे, कड़वे और तीखे स्वाद वाला विशेष व्यंजन 'मांगई पच्चड़ी' बनाएं।"
+      ],
+      "story": "पुथांडु तमिल महीने चिथिरै के पहले दिन मनाया जाता है। पौराणिक मान्यता है कि इसी दिन सृष्टि के रचयिता भगवान ब्रह्मा ने ब्रह्मांड का निर्माण शुरू किया था। तमिल परंपरा में नए साल के दिन बनाया जाने वाला 'मांगई पच्चड़ी' (कच्चा आम, गुड़, नीम के फूल और मिर्च का मिश्रण) यह संदेश देता है कि जीवन सुख-दुख, कड़वाहट और उत्साह का मिश्रण है और हमें नए वर्ष में इन सभी अनुभवों को सहजता से स्वीकार करना चाहिए।"
+    }
+  },
+  "parashurama-jayanti": {
+    "en": {
+      "title": "Parashurama Jayanti",
+      "deity": "Lord Parashurama (sixth avatar of Lord Vishnu)",
+      "description": "Birth anniversary of Lord Parashurama, the warrior-sage who is believed to be immortal (Chiranjeevi).",
+      "rules": [
+        "Worship Lord Vishnu and Lord Parashurama with flowers, incense, and sweets.",
+        "Observe a fast (Vrat) on Akshaya Tritiya day.",
+        "Read the Parashurama Katha or recite Vishnu Sahasranama."
+      ],
+      "story": "Parashurama was born to Sage Jamadagni and Renuka. He received his famous axe (Parashu) from Lord Shiva after performing intense penance. When the corrupt, arrogant warrior kings (Kshatriyas) began abusing their power and oppressing the earth, Parashurama rid the earth of these tyrants 21 times, restoring justice and righteousness. He is one of the seven Chiranjeevis (immortals) who is believed to reside on Earth till the end of the Kali Yuga."
+    },
+    "hi": {
+      "title": "परशुराम जयंती",
+      "deity": "भगवान परशुराम (भगवान विष्णु के छठे अवतार)",
+      "description": "अक्षय तृतीया के दिन मनाई जाने वाली भगवान परशुराम की जयंती, जो शस्त्र और शास्त्र के ज्ञाता तथा अमर (चिरंजीवी) माने जाते हैं।",
+      "rules": [
+        "भगवान विष्णु और परशुराम जी की धूप-दीप, अक्षत और पुष्पों से पूजा करें।",
+        "अक्षय तृतीया के दिन उपवास रखें।",
+        "परशुराम जी की कथा पढ़ें या सुनें और विष्णु सहस्रनाम का पाठ करें।"
+      ],
+      "story": "भगवान परशुराम का जन्म महर्षि जमदग्नि और माता रेणुका के घर हुआ था। वे भगवान शिव के परम भक्त थे और कठिन तपस्या के बाद उन्हें दिव्य फरसा (परशु) प्राप्त हुआ था। जब पृथ्वी पर अभिमानी और पापी क्षत्रिय राजाओं ने प्रजा पर अत्याचार करना शुरू किया, तब परशुराम जी ने पृथ्वी को 21 बार दुष्ट राजाओं से मुक्त कराया और न्याय की स्थापना की। वे सप्तचिरंजीवियों में से एक हैं जो आज भी महेंद्र पर्वत पर तपस्या में लीन माने जाते हैं।"
+    }
+  },
+  "mahavir-kevala-jnana": {
+    "en": {
+      "title": "Mahavir Swami Kevala Jnana (Enlightenment)",
+      "deity": "Lord Mahavir (24th Tirthankara)",
+      "description": "Celebrates the day when Lord Mahavir attained Kevala Jnana (supreme, infinite knowledge) after 12 years of severe penance.",
+      "rules": [
+        "Perform Abhishek and worship of Lord Mahavir in Jain temples.",
+        "Practice silence (Mauna) and meditation for self-purification.",
+        "Refrain from any form of violence (Ahimsa) and observe fasting.",
+        "Read the teachings of Mahavir Swami on truth and non-attachment."
+      ],
+      "story": "After renouncing his kingdom at the age of 30, Vardhamana (Mahavir) spent twelve and a half years in deep meditation, silence, and severe fasting. He faced numerous physical and mental trials. Under a Sal tree on the banks of the Rijupalika River near Jrimbhikagrama, on the tenth day of Vaisakha Shukla Paksha, he attained Kevala Jnana—omniscience. He became a Jina (conqueror) and began preaching the paths of Ahimsa, Satya, Asteya, Brahmacharya, and Aparigraha."
+    },
+    "hi": {
+      "title": "महावीर स्वामी केवल ज्ञान कल्याणक",
+      "deity": "भगवान महावीर (24वें तीर्थंकर)",
+      "description": "जैन धर्म के 24वें तीर्थंकर भगवान महावीर द्वारा 12 वर्षों की घोर तपस्या के बाद केवल ज्ञान (परम ज्ञान) प्राप्त करने का उत्सव।",
+      "rules": [
+        "जैन मंदिरों में जाकर भगवान महावीर का अभिषेक और पूजन करें।",
+        "मौन और ध्यान साधना का अभ्यास करें।",
+        "अहिंसा व्रत का पालन करें और सात्विक आहार लें।",
+        "महावीर स्वामी के सत्य, अपरिग्रह और अनेकांतवाद के उपदेशों को पढ़ें।"
+      ],
+      "story": "30 वर्ष की आयु में राजसी ठाट-बाट त्यागने के बाद, वर्धमान (महावीर) ने 12 वर्षों तक मौन रहकर घोर तपस्या और उपवास किए। वैशाख शुक्ल दशमी के दिन, जृंभिकग्राम के पास ऋजुकुला नदी के तट पर एक शाल वृक्ष के नीचे ध्यानमग्न अवस्था में उन्हें 'केवल ज्ञान' (पूर्ण ज्ञान) की प्राप्ति हुई। वे राग-द्वेष को जीतकर 'जिन' और 'केवली' कहलाए, जिसके बाद उन्होंने जीव मात्र के कल्याण के लिए पांच महाव्रतों का उपदेश दिया।"
+    }
+  },
+  "raja-parba": {
+    "en": {
+      "title": "Raja Parba Festival (Odisha)",
+      "deity": "Bhudevi (Mother Earth)",
+      "description": "A unique three-day festival in Odisha celebrating womanhood and the menstruation period of Mother Earth, during which all agricultural activities are suspended.",
+      "rules": [
+        "Do not dig the soil or cut trees, allowing Mother Earth to rest.",
+        "Set up swings (Doli) on tree branches and sing traditional Raja songs.",
+        "Prepare and share traditional sweets like Poda Pitha.",
+        "Walk barefoot is avoided; girls wear new clothes and apply Alata."
+      ],
+      "story": "Raja Parba is based on the belief that Bhudevi (Mother Earth), the consort of Lord Vishnu, undergoes menstruation during these three days before the monsoon rains. The first day is Pahili Raja, the second is Mithuna Sankranti, and the third is Bhu Daaha (cleansing of Earth). Just as a woman rests during her cycles, the soil is left undisturbed. The festival celebrates fertility and prepares the land for the upcoming sowing season with happiness and community plays."
+    },
+    "hi": {
+      "title": "राजा परबा त्योहार (ओडिशा)",
+      "deity": "भूदेवी (धरती माता)",
+      "description": "ओडिशा का अनूठा तीन दिवसीय त्योहार जो मातृत्व और धरती माता के आराम का उत्सव है। इस दौरान कृषि संबंधी सभी कार्य बंद रहते हैं।",
+      "rules": [
+        "धरती पर हल न चलाएं, खुदाई न करें और मिट्टी को विश्राम दें।",
+        "पेड़ों पर झूले (डोली) लगाएं और राजा गीत गाएं।",
+        "पारंपरिक मीठा व्यंजन 'पोड़ा पीठा' तैयार करें।",
+        "लड़कियां नए कपड़े पहनें और पैरों में आलता लगाएं।"
+      ],
+      "story": "राजा परबा त्योहार में यह माना जाता है कि भगवान विष्णु की पत्नी भूदेवी (धरती माता) इन तीन दिनों में रजस्वला होती हैं और वर्षा ऋतु से पहले विश्राम करती हैं। पहला दिन पहली राजा, दूसरा मिथुन संक्रांति और तीसरा भू दाह (धरती की शुद्धि) होता है। जैसे महिलाओं को सम्मान और आराम दिया जाता है, वैसे ही इन तीन दिनों में धरती को खोदा नहीं जाता। यह उत्सव प्रकृति की उर्वरता और नई फसल की तैयारी का उत्सव है।"
+    }
+  },
+  "nuakhai": {
+    "en": {
+      "title": "Nuakhai Harvest Festival (Western Odisha)",
+      "deity": "Goddess Samaleswari",
+      "description": "An important agricultural festival of Odisha celebrated to welcome the new rice harvest, characterized by community eating and seeking blessings.",
+      "rules": [
+        "Offer the first crop of the season (Nabanna) to Goddess Samaleswari.",
+        "Prepare traditional dishes using new rice, including Arisa Pitha.",
+        "Perform Nuakhai Juhar (greeting and seeking blessings from elders).",
+        "Wear new traditional attire and celebrate with folk dances like Sambalpuri."
+      ],
+      "story": "Nuakhai combines two Odia words: 'Nua' meaning new, and 'Khai' meaning eat. The festival represents the gratitude of farmers for a successful harvest. Historically, it dates back to the Vedic era but was formalized in the 12th century by Chauhan kings. On this day, the entire family gathers to eat the new rice at a specific auspicious time (Lagna), representing unity, prosperity, and the continuity of life."
+    },
+    "hi": {
+      "title": "नुआखाई फसल उत्सव (ओडिशा)",
+      "deity": "मां समलेश्वरी",
+      "description": "पश्चिमी ओडिशा का प्रमुख कृषि त्योहार, जो नए कटे हुए धान (चावल) के स्वागत और समृद्धि की प्रार्थना के लिए मनाया जाता है।",
+      "rules": [
+        "वर्ष की नई फसल (नवान्न) को सबसे पहले कुलदेवी मां समलेश्वरी को अर्पित करें।",
+        "नए चावल से बनी खीर और पारंपरिक 'अरिसा पीठा' का भोग लगाएं।",
+        "बड़ों के पैर छूकर 'नुआखाई जुहार' (आशीर्वाद और सम्मान) करें।",
+        "नए वस्त्र पहनकर पारंपरिक संबलपुरी लोक नृत्य और गीतों का आनंद लें।"
+      ],
+      "story": "नुआखाई शब्द 'नुआ' (नया) और 'खाई' (खाना) से बना है। यह किसानों द्वारा सफल फसल के लिए प्रकृति के प्रति आभार व्यक्त करने का त्योहार है। इसका इतिहास वैदिक काल से जुड़ा है जिसे 12वीं शताब्दी में चौहान राजाओं ने औपचारिक रूप दिया था। शुभ मुहूर्त (लग्न) पर परिवार के सभी सदस्य एक साथ बैठकर नए चावल का प्रसाद ग्रहण करते हैं, जो आपसी प्रेम और एकता का प्रतीक है।"
+    }
+  },
+  "milad-un-nabi": {
+    "en": {
+      "title": "Milad-un-Nabi (Prophet's Birthday)",
+      "deity": "Prophet Muhammad",
+      "description": "Celebrates the birth anniversary of the Islamic Prophet Muhammad, marked by prayers, charity, and religious discourses.",
+      "rules": [
+        "Offer special prayers (Mawlid) and send blessings (Salawat) upon the Prophet.",
+        "Attend religious gatherings (Milad) discussing the Prophet's life and values.",
+        "Engage in charity, feeding the poor, and helping those in need."
+      ],
+      "story": "Prophet Muhammad was born in Mecca in the year 570 AD. He is regarded by Muslims as the final messenger of God, who brought the teachings of the Quran. His birthday, celebrated on the 12th of Rabi' al-awwal, is observed by studying his character (Al-Amin - the trustworthy), showing compassion, and distributing food. It is a day of gratitude and spreading peace."
+    },
+    "hi": {
+      "title": "मिलाद-उन-नबी (ईद-ए-मिलाद)",
+      "deity": "हजरत पैगंबर मोहम्मद",
+      "description": "इस्लाम के संस्थापक हजरत पैगंबर मोहम्मद साहब का जन्मदिवस, जिसे प्रार्थनाओं, मिलाद गोष्ठियों और परोपकार के साथ मनाया जाता है।",
+      "rules": [
+        "विशेष प्रार्थनाएं करें और पैगंबर साहब पर दुरूद (दुआ) भेजें।",
+        "पैगंबर साहब के जीवन और उनके शांति के उपदेशों पर चर्चा करने के लिए जलसों में भाग लें।",
+        "गरीबों को भोजन कराएं और दान-पुण्य के कार्य करें।"
+      ],
+      "story": "पैगंबर मोहम्मद साहब का जन्म मक्का (सऊदी अरब) में वर्ष 570 ईस्वी में रबी-उल-अव्वल महीने की 12 तारीख को हुआ था। वे अल्लाह के आखिरी संदेशवाहक माने जाते हैं जिन्होंने मानवता को शांति, दया और भाईचारे का पाठ सिखाया। इस दिन को मुस्लिम समाज कृतज्ञता व्यक्त करने, उनके जीवन चरित्र का स्मरण करने और जरूरतमंदों की मदद करने के लिए मनाता है।"
+    }
+  },
+  "vishwakarma-jayanti": {
+    "en": {
+      "title": "Vishwakarma Puja / Jayanti",
+      "deity": "Lord Vishwakarma (Divine Architect)",
+      "description": "A day of worship dedicated to Lord Vishwakarma, the divine architect of the universe, celebrated by engineers, artisans, and workers.",
+      "rules": [
+        "Clean and worship all tools, machinery, and vehicles in your workspace.",
+        "Perform Vishwakarma Puja with flowers, incense, and sweets.",
+        "Do not use tools or work with machines on this day to give them rest.",
+        "Distribute Prasad among workers and staff."
+      ],
+      "story": "Lord Vishwakarma is described in the Rigveda as the architect and builder of the universe. He created the divine city of Dwarka (Lord Krishna's kingdom), Ravana's golden Lanka, Indra's Indrapuri, and various celestial weapons (like Lord Shiva's Trishul and Indra's Vajra). Workers worship him to seek blessings for success, safety in their factories, and prosperity in their skills and craftsmanship."
+    },
+    "hi": {
+      "title": "विश्वकर्मा पूजा और जयंती",
+      "deity": "भगवान विश्वकर्मा (सृष्टि के शिल्पी)",
+      "description": "सृष्टि के दिव्य वास्तुकार और शिल्पी भगवान विश्वकर्मा की पूजा का पावन दिन, जिसे इंजीनियरों, शिल्पकारों और कारीगरों द्वारा अपने औजारों की पूजा के साथ मनाया जाता है।",
+      "rules": [
+        "कारखाने, कार्यालय या घर के सभी औजारों, मशीनों और वाहनों की सफाई कर पूजा करें।",
+        "भगवान विश्वकर्मा की मूर्ति स्थापित कर धूप-दीप और नैवेद्य अर्पित करें।",
+        "इस दिन मशीनों और औजारों को विश्राम दें और कार्य न करें।",
+        "कर्मचारियों और कारीगरों में प्रसाद वितरित करें।"
+      ],
+      "story": "भगवान विश्वकर्मा का वर्णन ऋग्वेद में ब्रह्मांड के शिल्पी के रूप में किया गया है। उन्होंने कृष्ण की द्वारका, रावण की सोने की लंका, इंद्र की अमरावती और देवताओं के दिव्य रथ बनाए। कारखानों में काम करने वाले लोग इस दिन यंत्रों और मशीनों की पूजा करते हैं ताकि उनका काम सुचारू रूप से चलता रहे।"
+    }
+  }
+}

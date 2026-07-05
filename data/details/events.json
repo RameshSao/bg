@@ -1,0 +1,412 @@
+{
+  "balarama-jayanti": {
+    "en": {
+      "title": "Balarama Jayanti",
+      "deity": "Lord Balarama",
+      "description": "Celebrates the birth of Lord Balarama, the elder brother of Lord Krishna and the avatar of Adisesha.",
+      "story": "Lord Balarama was born as the eighth son of Vasudeva and Devaki, transferred to Rohini's womb to protect him from Kansa. He represents strength and farming, carrying a plow (Hal) as his weapon.",
+      "rules": [
+        "Observe a fast until noon.",
+        "Worship Lord Balarama and Krishna with blue flowers and Tulsi.",
+        "Offer honey and milk products."
+      ]
+    },
+    "hi": {
+      "title": "बलराम जयंती",
+      "deity": "भगवान बलराम",
+      "description": "भगवान कृष्ण के बड़े भाई और शेषनाग के अवतार भगवान बलराम के जन्मोत्सव के रूप में यह पर्व मनाया जाता है।",
+      "story": "कंस के अत्याचारों से बचाने के लिए योगमाया द्वारा देवकी के सातवें गर्भ को रोहिणी के गर्भ में स्थानांतरित किया गया था। बलराम जी शक्ति और कृषि के प्रतीक हैं, जिनका मुख्य शस्त्र हल और मूसल है।",
+      "rules": [
+        "दोपहर तक उपवास रखें।",
+        "बलराम जी और कृष्ण जी का नीले फूलों व तुलसी से पूजन करें।",
+        "शहद और मक्खन का भोग लगाएं।"
+      ]
+    }
+  },
+  "gandhi-jayanti": {
+    "en": {
+      "title": "Gandhi Jayanti",
+      "deity": "None (Peace & Truth)",
+      "description": "The birth anniversary of Mohandas Karamchand Gandhi, the Father of the Nation, celebrated on October 2.",
+      "story": "Mahatma Gandhi was born on October 2, 1869, in Porbandar, Gujarat. He pioneered the concept of Satyagraha—resistance to tyranny through mass non-violent civil disobedience. His leadership in movements like the Dandi March and Quit India led India to freedom. His principles of Ahimsa (non-violence) and Satya (truth) inspired civil rights movements worldwide. In honor of his philosophy, the United Nations General Assembly declared October 2 as the International Day of Non-Violence.",
+      "rules": [
+        "Offer flowers and pray at memorials or images of Mahatma Gandhi.",
+        "Participate in cleanliness drives (Swachh Bharat Abhiyan) and community service.",
+        "Observe a moment of silence to reflect on peace, truth, and harmony.",
+        "Avoid any form of violence and speak the truth in daily interactions."
+      ]
+    },
+    "hi": {
+      "title": "गांधी जयंती",
+      "deity": "शांति और सत्य",
+      "description": "राष्ट्रपिता मोहनदास करमचंद गांधी की जन्म जयंती के उपलक्ष्य में प्रत्येक वर्ष 2 अक्टूबर को मनाई जाती है।",
+      "story": "महात्मा गांधी का जन्म 2 अक्टूबर 1869 को गुजरात के पोरबंदर में हुआ था। उन्होंने सत्य और अहिंसा के सिद्धांतों पर आधारित 'सत्याग्रह' आंदोलन की शुरुआत की। दांडी मार्च और भारत छोड़ो जैसे आंदोलनों के जरिए उन्होंने देश को स्वतंत्र कराया। उनके विचारों से प्रभावित होकर संयुक्त राष्ट्र संघ ने 2 अक्टूबर को 'अंतरराष्ट्रीय अहिंसा दिवस' के रूप में घोषित किया है।",
+      "rules": [
+        "बापू की प्रतिमा या चित्र पर पुष्पांजलि अर्पित करें और प्रार्थना सभाओं में भाग लें।",
+        "स्वच्छता अभियान और समाज सेवा के कार्यों में श्रमदान करें।",
+        "सत्य, अहिंसा और सादगी के सिद्धांतों को अपने जीवन में अपनाने का संकल्प लें।"
+      ]
+    }
+  },
+  "fathers-day": {
+    "en": {
+      "title": "Father's Day",
+      "deity": "Parents (Father)",
+      "description": "A day celebrated worldwide to recognize and honor the invaluable contributions of fathers and father figures.",
+      "story": "Father's Day was first proposed by Sonora Smart Dodd in 1910 to honor her father, William Jackson Smart, a Civil War veteran who raised six children as a single parent. Her efforts led to the first local celebration in Washington, and it was eventually signed into law as a permanent national holiday by US President Richard Nixon in 1972, celebrated annually on the third Sunday of June. It celebrates paternal bonds and the role of fathers in families.",
+      "rules": [
+        "Spend quality time with your father, grandfathers, or father figures.",
+        "Express gratitude through a letter, card, or a thoughtful gesture.",
+        "Help him with chores, or cook his favorite meal to show appreciation.",
+        "Take a moment to honor the memory of fathers who are no longer with us."
+      ]
+    },
+    "hi": {
+      "title": "पितृ दिवस (फादर्स डे)",
+      "deity": "माता-पिता (पिता)",
+      "description": "पिताओं और पिता तुल्य पिताओं के अमूल्य योगदान और स्नेह के सम्मान में हर साल मनाया जाने वाला एक विशेष दिन।",
+      "story": "फादर्स डे का विचार सर्वप्रथम 1910 में सोनोरा स्मार्ट डोड ने रखा था, जो अपने पिता विलियम जैक्सन स्मार्ट का सम्मान करना चाहती थीं, जिन्होंने अपनी पत्नी की मृत्यु के बाद अकेले ही छह बच्चों का पालन-पोषण किया था। 1972 में अमेरिकी राष्ट्रपति रिचर्ड निक्सन ने इसे राष्ट्रीय अवकाश घोषित किया। आज यह पर्व पिताओं के त्याग और उनके प्रति बच्चों के प्रेम को समर्पित है।",
+      "rules": [
+        "अपने पिता या पिता तुल्य बड़ों के साथ समय बिताएं और उनसे बातें करें।",
+        "उनके प्रति आभार व्यक्त करने के लिए उपहार या कोई प्रेम भरा संदेश दें।",
+        "उनके स्वास्थ्य का ध्यान रखें और उनके कार्यों में सहायता करें।"
+      ]
+    }
+  },
+  "mothers-day": {
+    "en": {
+      "title": "Mother's Day",
+      "deity": "Parents (Mother)",
+      "description": "A special day dedicated to honoring mothers, motherhood, maternal bonds, and the influence of mothers in society.",
+      "story": "Mother's Day was founded by Anna Jarvis in the early 20th century in the United States to honor her own mother, a peace activist who cared for wounded soldiers. Anna Jarvis campaigned to make Mother's Day a recognized holiday, which succeeded in 1914 when President Woodrow Wilson signed the proclamation declaring the second Sunday of May as Mother's Day. It reminds us of the selfless love, care, and sacrifice of mothers.",
+      "rules": [
+        "Help your mother with her daily activities so she can rest and feel special.",
+        "Express your love and thanks for her unconditional support.",
+        "Gift her flowers, cards, or spend a quiet day together.",
+        "Show respect and appreciation to grandmothers, stepmothers, and mother figures."
+      ]
+    },
+    "hi": {
+      "title": "मातृ दिवस (मदर्स डे)",
+      "deity": "माता-पिता (माता)",
+      "description": "माताओं के असीम प्रेम, ममता और उनके बलिदान के सम्मान में मनाया जाने वाला पावन दिवस।",
+      "story": "मदर्स डे की शुरुआत 20वीं शताब्दी के प्रारंभ में अमेरिका में एना जार्विस द्वारा की गई थी। वह अपनी मां की स्मृति का सम्मान करना चाहती थीं, जो एक सामाजिक कार्यकर्ता थीं। 1914 में अमेरिकी राष्ट्रपति वुडरो विल्सन ने मई के दूसरे रविवार को मातृ दिवस के रूप में मनाने की घोषणा की। यह दिन प्रत्येक व्यक्ति को अपनी मां के प्रति कृतज्ञता प्रकट करने का अवसर देता है।",
+      "rules": [
+        "अपनी मां को दैनिक कार्यों से विश्राम दें और उनकी सहायता करें।",
+        "उनके प्रति अपने प्रेम और आदर को व्यक्त करें।",
+        "उन्हें कोई उपहार दें या उनके साथ पसंदीदा भोजन का आनंद लें।"
+      ]
+    }
+  },
+  "international-yoga-day": {
+    "en": {
+      "title": "International Yoga Day",
+      "deity": "Lord Shiva (Adiyogi) & Sage Patanjali",
+      "description": "Celebrated globally on June 21 to promote health, harmony, and peace through the ancient Indian practice of Yoga.",
+      "story": "The International Day of Yoga was proposed by Prime Minister Narendra Modi during his address to the UN General Assembly in 2014, and was co-sponsored by a record 177 nations. June 21 was selected because it is the Summer Solstice, the longest day in the Northern Hemisphere, which holds great significance in Indian culture as the beginning of Dakshinayana, a period of transition believed to be highly supportive for yogic practices.",
+      "rules": [
+        "Perform a session of Asanas (physical postures) in the morning.",
+        "Practice Pranayama (breath regulation) and Dhyana (meditation) for mental peace.",
+        "Read about the philosophy of yoga, such as Patanjali's Ashtanga Yoga.",
+        "Commit to a healthy, balanced diet (Sattvic food) and mindful living."
+      ]
+    },
+    "hi": {
+      "title": "अंतरराष्ट्रीय योग दिवस",
+      "deity": "भगवान शिव (आदियोगी) और महर्षि पतंजलि",
+      "description": "योग के शारीरिक, मानसिक और आध्यात्मिक लाभों के प्रति वैश्विक जागरूकता फैलाने के लिए प्रतिवर्ष 21 जून को मनाया जाने वाला दिवस।",
+      "story": "भारतीय प्रधानमंत्री नरेंद्र मोदी की पहल पर 2014 में संयुक्त राष्ट्र महासभा ने 21 जून को योग दिवस घोषित किया, जिसे 177 देशों का समर्थन मिला। 21 जून की तिथि ग्रीष्म संक्रांति का दिन है, जो दक्षिणायन की शुरुआत का प्रतीक है। आध्यात्मिक दृष्टि से यह समय साधना और योग के आरंभ के लिए सर्वोत्तम माना जाता है।",
+      "rules": [
+        "सुबह उठकर योगासनों का अभ्यास करें।",
+        "प्राणायाम और ध्यान के जरिए मानसिक शांति का अनुभव करें।",
+        "योग दर्शन और यम-नियम के बारे में पढ़ें और सात्विक आहार अपनाएं।"
+      ]
+    }
+  },
+  "ramana-maharshi": {
+    "en": {
+      "title": "Ramana Maharshi Jayanti",
+      "deity": "Bhagavan Sri Ramana Maharshi",
+      "description": "Birth anniversary of the renowned saint and philosopher Sri Ramana Maharshi, known for his teachings on Self-Enquiry (Atma-Vichara).",
+      "rules": [
+        "Meditate and reflect on the question 'Who am I?' (Self-Enquiry).",
+        "Read and contemplate the spiritual discourses of Ramana Maharshi.",
+        "Perform silent meditation or worship at Arunachala temple/altars."
+      ],
+      "story": "Sri Ramana Maharshi was born in 1879 in Tiruchuli, Tamil Nadu. At the age of 16, he underwent a profound death-experience where he realized the eternal nature of the Self, independent of the body. He left his home and went to the sacred Arunachala hill in Tiruvannamalai, where he spent the rest of his life in deep silence and meditation. His simple, direct teachings on Self-Enquiry attracted seekers from all over the world, guiding them to realize the inner truth beyond thoughts and ego."
+    },
+    "hi": {
+      "title": "रमण महर्षि जयंती",
+      "deity": "भगवान श्री रमण महर्षि",
+      "description": "महान संत और आत्म-साक्षात्कार के प्रणेता श्री रमण महर्षि की जन्म जयंती, जिन्होंने आत्म-अन्वेषण (मैं कौन हूँ?) का मार्ग दिखाया।",
+      "rules": [
+        "ध्यान करें और 'मैं कौन हूँ?' के मूल विचार पर आत्म-चिंतन करें।",
+        "रमण महर्षि के प्रवचनों और उपदेशों का अध्ययन करें।",
+        "शांति और मौन ध्यान का अभ्यास करें।"
+      ],
+      "story": "श्री रमण महर्षि का जन्म 1879 में तमिलनाडु के तिरुचुली में हुआ था। 16 वर्ष की आयु में उन्हें मृत्यु का गहरा अनुभव हुआ, जिससे उन्हें आभास हुआ कि शरीर नश्वर है परंतु आत्मा अमर है। इसके बाद वे सब कुछ त्याग कर पवित्र अरुणाचल पर्वत (तिरुवन्नामलाई) आ गए और जीवनपर्यंत वहीं रहे। उन्होंने अत्यंत सरल शब्दों में बताया कि सत्य को खोजने का सबसे सीधा तरीका स्वयं से यह पूछना है कि 'मैं कौन हूँ'। उनके मौन और वचनों से दुनिया भर के लाखों अध्यात्मिक साधकों को शांति मिली।"
+    }
+  },
+  "paramahansa-yogananda": {
+    "en": {
+      "title": "Paramahansa Yogananda Jayanti",
+      "deity": "Paramahansa Yogananda",
+      "description": "Birth anniversary of the author of 'Autobiography of a Yogi' and pioneer of Kriya Yoga in the West.",
+      "rules": [
+        "Practice Kriya Yoga or silent meditation techniques.",
+        "Read chapters from the 'Autobiography of a Yogi'.",
+        "Offer prayers for world peace and self-realization."
+      ],
+      "story": "Born in Gorakhpur, India, in 1893, Yogananda dedicated his life to spiritual realization under his Guru Sri Yukteswar Giri. In 1920, he traveled to the United States and founded the Self-Realization Fellowship (SRF) to share the ancient science of Kriya Yoga. He successfully built a bridge between Western scientific efficiency and Eastern spiritual wisdom, teaching millions that God is an experience of divine peace and joy felt through meditation."
+    },
+    "hi": {
+      "title": "परमहंस योगानंद जयंती",
+      "deity": "परमहंस योगानंद",
+      "description": "विश्व प्रसिद्ध पुस्तक 'एक योगी की आत्मकथा' के लेखक और पश्चिम में क्रिया योग का प्रसार करने वाले महान आध्यात्मिक गुरु की जयंती।",
+      "rules": [
+        "क्रिया योग और ध्यान साधना का अभ्यास करें।",
+        "'एक योगी की आत्मकथा' के अध्यायों का पाठ करें।",
+        "विश्व शांति और आत्म-साक्षात्कार के लिए प्रार्थना करें।"
+      ],
+      "story": "योगानंद जी का जन्म 1893 में गोरखपुर में हुआ था। अपने गुरु श्री युक्तेश्वर गिरि के मार्गदर्शन में उन्होंने कठोर साधना की। 1920 में वे अमेरिका गए और वहां 'सेल्फ-रियलाइजेशन फेलोशिप' की स्थापना की। उन्होंने पूर्व की आध्यात्मिक धरोहर (क्रिया योग) और पश्चिम के वैज्ञानिक दृष्टिकोण के बीच एक सेतु का निर्माण किया, जिससे लाखों पाश्चात्य साधकों को योग की शक्ति का अनुभव हुआ।"
+    }
+  },
+  "guru-gobind-singh": {
+    "en": {
+      "title": "Guru Gobind Singh Jayanti",
+      "deity": "Guru Gobind Singh Ji",
+      "description": "Prakash Purab (birth anniversary) of the tenth Sikh Guru, who founded the Khalsa Panth and compiled the Guru Granth Sahib.",
+      "rules": [
+        "Visit Gurudwaras and participate in Nagar Kirtan and prayers (Ardas).",
+        "Perform Seva (community service) and eat in Langar.",
+        "Reflect on Guru Gobind Singh Ji's teachings of equality, courage, and justice."
+      ],
+      "story": "Guru Gobind Singh Ji was born in Patna in 1666. He became the Guru at the age of nine after his father, Guru Tegh Bahadur, was martyred by Emperor Aurangzeb. In 1699, he established the Khalsa Panth, introducing the five articles of faith (the five K's). He spent his life fighting tyranny and injustice, losing his four sons in battles. He declared the holy scripture Guru Granth Sahib as the eternal, final Guru for all Sikhs."
+    },
+    "hi": {
+      "title": "गुरु गोबिंद सिंह जयंती (प्रकाश पर्व)",
+      "deity": "गुरु गोबिंद सिंह जी",
+      "description": "सिख धर्म के दसवें गुरु, खालसा पंथ के संस्थापक और समाज सुधारक गुरु गोबिंद सिंह जी की जन्म जयंती (प्रकाश पर्व)।",
+      "rules": [
+        "गुरुद्वारे जाएं, नगर कीर्तन में भाग लें और अरदास करें।",
+        "लंगर और सामुदायिक सेवा (सेवा) में योगदान दें।",
+        "समानता, वीरता और न्याय के उनके महान आदर्शों का स्मरण करें।"
+      ],
+      "story": "गुरु गोबिंद सिंह जी का जन्म 1666 में पटना में हुआ था। नौ वर्ष की आयु में उन्होंने गुरु पद संभाला, जब उनके पिता गुरु तेग बहादुर जी को धर्म रक्षा के लिए मुगलों द्वारा शहीद कर दिया गया था। उन्होंने 1699 में आनंदपुर साहिब में खालसा पंथ की स्थापना की और पांच ककार (केश, कंगा, कड़ा, कछैरा, कृपाण) अनिवार्य किए। उन्होंने जीवनभर अत्याचार के खिलाफ युद्ध किया और अपने चारों साहिबजादों का बलिदान दिया। उन्होंने गुरु ग्रंथ साहिब को सिख धर्म का शाश्वत गुरु घोषित किया।"
+    }
+  },
+  "dayanand-saraswati": {
+    "en": {
+      "title": "Maharishi Dayanand Saraswati Jayanti",
+      "deity": "Maharishi Dayanand Saraswati",
+      "description": "Birth anniversary of the founder of Arya Samaj, social reformer, and scholar who called for a return to the Vedas.",
+      "rules": [
+        "Perform a Yajna (Havan) and chant Vedic mantras.",
+        "Read portions of the 'Satyarth Prakash' (Light of Truth).",
+        "Reflect on his social reforms, including women's education and eradication of untouchability."
+      ],
+      "story": "Born in Tankara, Gujarat, in 1824, Dayanand Saraswati was a profound Sanskrit scholar. Disillusioned by superstitious practices in his childhood, he renounced the world to seek truth. In 1875, he founded the Arya Samaj in Bombay, promoting monotheism and the authority of the Vedas ('Back to the Vedas'). He advocated for women's rights, education, and equality, laying the foundation for modern social reforms in India."
+    },
+    "hi": {
+      "title": "महर्षि दयानंद सरस्वती जयंती",
+      "deity": "महर्षि दयानंद सरस्वती",
+      "description": "आर्य समाज के संस्थापक, महान समाज सुधारक और वेदों के प्रकांड विद्वान महर्षि दयानंद सरस्वती की जन्म जयंती।",
+      "rules": [
+        "वैदिक यज्ञ (हवन) करें और वेदमंत्रों का उच्चारण करें।",
+        "उनके प्रसिद्ध ग्रंथ 'सत्यार्थ प्रकाश' का अध्ययन करें।",
+        "नारी शिक्षा और सामाजिक समानता के उनके विचारों को जीवन में अपनाएं।"
+      ],
+      "story": "महर्षि दयानंद का जन्म 1824 में गुजरात के टंकारा में हुआ था। बचपन में शिवरात्रि के दिन एक चूहे को शिवलिंग पर चढ़ते देख उन्हें मूर्ति पूजा के प्रति संशय हुआ, जिसके बाद वे सत्य की खोज में निकल गए। उन्होंने 1875 में बंबई में 'आर्य समाज' की स्थापना की और 'वेदों की ओर लौटो' का नारा दिया। उन्होंने अंधविश्वासों, बाल विवाह और छुआछूत का कड़ा विरोध किया तथा नारी शिक्षा और विधवा पुनर्विवाह का समर्थन कर आधुनिक भारत के निर्माण में अहम भूमिका निभाई।"
+    }
+  },
+  "ramakrishna-paramahamsa": {
+    "en": {
+      "title": "Ramakrishna Paramahamsa Jayanti",
+      "deity": "Sri Ramakrishna Paramahamsa",
+      "description": "Birth anniversary of the legendary 19th-century saint and mystic of Bengal, who taught the essential unity of all religions.",
+      "rules": [
+        "Meditate on the Divine Mother Kali or the Supreme Self.",
+        "Read 'The Gospel of Sri Ramakrishna' (Ramakrishna Kathamrita).",
+        "Participate in spiritual discourse and practice universal love."
+      ],
+      "story": "Sri Ramakrishna was born in 1836 in Kamarpukur, Bengal. He served as the priest of the Dakshineswar Kali Temple. Through various spiritual disciplines of Hinduism, Islam, and Christianity, he realized the same ultimate truth, declaring 'As many faiths, so many paths' (Jato Met Tato Path). His most famous disciple, Swami Vivekananda, established the Ramakrishna Mission to propagate his teachings of serving humanity as worship of God."
+    },
+    "hi": {
+      "title": "रामकृष्ण परमहंस जयंती",
+      "deity": "श्री रामकृष्ण परमहंस",
+      "description": "19वीं सदी के महान संत और रहस्यवादी, जिन्होंने सर्वधर्म समभाव का संदेश दिया और स्वामी विवेकानंद के गुरु थे।",
+      "rules": [
+        "मां काली या निराकार ब्रह्म का ध्यान करें।",
+        "'श्री रामकृष्ण वचनामृत' (कथामृत) का पाठ और मनन करें।",
+        "मानव सेवा को ही माधव सेवा मानकर दान-पुण्य करें।"
+      ],
+      "story": "रामकृष्ण परमहंस का जन्म 1836 में बंगाल के कामारपुकुर गांव में हुआ था। वे दक्षिणेश्वर काली मंदिर के मुख्य पुजारी रहे। उन्होंने सरल जीवन जीते हुए मां काली की प्रत्यक्ष अनुभूति की। उन्होंने विभिन्न धर्मों की साधनाओं से यह सिद्ध किया कि सभी धर्मों का अंतिम लक्ष्य एक ही ईश्वर की प्राप्ति है ('जितने मत, उतने पथ')। उनके प्रिय शिष्य स्वामी विवेकानंद ने पूरी दुनिया में उनके विचारों और मानवता की सेवा का प्रचार किया।"
+    }
+  },
+  "samarth-ramdas": {
+    "en": {
+      "title": "Samarth Ramdas Jayanti",
+      "deity": "Samarth Ramdas Swami",
+      "description": "Birth anniversary of the famous saint, poet, and spiritual guide from Maharashtra, best known for his text 'Dasbodh'.",
+      "rules": [
+        "Read and reflect on the verses of 'Dasbodh' or 'Manache Shlok'.",
+        "Worship Lord Rama and Lord Hanuman.",
+        "Reflect on his teachings of physical strength, mental discipline, and national awareness."
+      ],
+      "story": "Samarth Ramdas was born in 1608 on Ram Navami day. He renounced his marriage ceremony to dedicate his life to God. He spent years in deep penance along the banks of the Krishna River. He established Hanuman temples across Maharashtra to promote physical fitness and strength, guiding Chhatrapati Shivaji Maharaj as a spiritual mentor. His literary masterpiece, Dasbodh, teaches how to balance householder life with spiritual liberation."
+    },
+    "hi": {
+      "title": "समर्थ रामदास जयंती",
+      "deity": "समर्थ रामदास स्वामी",
+      "description": "महाराष्ट्र के महान संत, कवि और छत्रपति शिवाजी महाराज के आध्यात्मिक गुरु समर्थ रामदास स्वामी की जन्म जयंती।",
+      "rules": [
+        "उनके प्रसिद्ध ग्रंथ 'दासबोध' या 'मनाचे श्लोक' (मन के श्लोक) का पाठ करें।",
+        "भगवान राम और हनुमान जी की पूजा-आराधना करें।",
+        "शारीरिक बल और मानसिक अनुशासन को बढ़ाने का संकल्प लें।"
+      ],
+      "story": "समर्थ रामदास जी का जन्म 1608 में राम नवमी के दिन हुआ था। वे विवाह मंडप से 'सावधान' शब्द सुनते ही भाग गए और साधना में लीन हो गए। उन्होंने समाज को बलशाली और जागृत करने के लिए पूरे महाराष्ट्र में हनुमान जी के मंदिरों और अखाड़ों की स्थापना की। वे छत्रपति शिवाजी महाराज के गुरु थे और उन्होंने स्वराज्य की स्थापना में उन्हें मार्गदर्शन दिया। उनके ग्रंथ 'दासबोध' में व्यवहारिक और आध्यात्मिक जीवन को संतुलित करने की सुंदर शिक्षाएं हैं।"
+    }
+  },
+  "basaveshwara-jayanti": {
+    "en": {
+      "title": "Basaveshwara Jayanti",
+      "deity": "Lord Basaveshwara (Basavanna)",
+      "description": "Birth anniversary of the 12th-century philosopher, statesman, and social reformer Basaveshwara, who founded the Veerashaiva Lingayat movement.",
+      "rules": [
+        "Worship Lord Shiva and perform Abhishekam.",
+        "Recite the Vachanas (devotional poems) written by Basavanna.",
+        "Participate in community service and practice non-violence."
+      ],
+      "story": "Basaveshwara was born in Karnataka in 1131 AD. He was a prime minister in the Kalachuri kingdom. He used his position to carry out social reforms, establishing the 'Anubhava Mantapa' (Hall of Spiritual Experience) where people of all castes and backgrounds gathered to discuss philosophy and equality. He introduced the concepts of 'Kayaka' (work is worship) and 'Dasoha' (distribution of wealth), advocating for a casteless and gender-equal society."
+    },
+    "hi": {
+      "title": "बसवेश्वर जयंती",
+      "deity": "महात्मा बसवेश्वर (बसवन्ना)",
+      "description": "12वीं सदी के महान समाज सुधारक, दार्शनिक और वीरशैव लिंगायत आंदोलन के प्रणेता महात्मा बसवेश्वर की जन्म जयंती।",
+      "rules": [
+        "भगवान शिव का अभिषेक और पूजन करें।",
+        "बसवेश्वर जी द्वारा रचित वचनों (भक्ति कविताओं) का पाठ और श्रवण करें।",
+        "समानता, सेवा और अहिंसा के मार्ग पर चलने का संकल्प लें।"
+      ],
+      "story": "महात्मा बसवेश्वर का जन्म 1131 ईस्वी में कर्नाटक में हुआ था। वे राजा बिज्जला के दरबार में प्रधानमंत्री थे। उन्होंने सामाजिक कुप्रथाओं का विरोध किया और 'अनुभव मंटप' की स्थापना की, जो विश्व की पहली संसद मानी जाती है जहां सभी जाति, धर्म और वर्ग के लोग आकर आध्यात्मिक चर्चा करते थे। उन्होंने नारा दिया 'कायकवे कैलास' (कर्म ही पूजा है) और ऊंच-नीच के भेद को मिटाकर मानवतावादी समाज की नींव रखी।"
+    }
+  },
+  "adi-shankaracharya": {
+    "en": {
+      "title": "Adi Shankaracharya Jayanti",
+      "deity": "Adi Guru Shankaracharya",
+      "description": "Birth anniversary of the great philosopher and theologian who consolidated the doctrine of Advaita Vedanta and established the four mathas.",
+      "rules": [
+        "Worship Adi Shankaracharya and Lord Shiva.",
+        "Recite Shankaracharya's famous hymns like Bhaja Govindam, Nirvana Shatakam, or Kanakadhara Stotram.",
+        "Reflect on the non-dual philosophy (Advaita) - the unity of Atman and Brahman."
+      ],
+      "story": "Adi Shankaracharya was born in Kalady, Kerala, in the 8th century AD. Showing extraordinary genius from childhood, he mastered the Vedas by age eight and took Sannyasa. He traveled across India on foot, defeating opposing schools of thought in philosophical debates and writing commentaries on the Upanishads, Bhagavad Gita, and Brahma Sutras. He established four monastic seats (Mathas) at Dwarka, Puri, Sringeri, and Jyotirmath to revive Sanatan Dharma."
+    },
+    "hi": {
+      "title": "आदि शंकराचार्य जयंती",
+      "deity": "आदि गुरु शंकराचार्य",
+      "description": "अद्वैत वेदांत दर्शन के प्रणेता, सनातन धर्म के पुनरुद्धारक और चार पीठों के संस्थापक आदि गुरु शंकराचार्य की जन्म जयंती।",
+      "rules": [
+        "आदि गुरु शंकराचार्य और भगवान शिव की पूजा करें।",
+        "उनके द्वारा रचित 'भज गोविंदम', 'निर्वाण षटकम' या 'कनकधारा स्तोत्र' का पाठ करें।",
+        "आत्मा और परमात्मा की एकता (आद्वैत सिद्धांत) पर आत्म-चिंतन करें।"
+      ],
+      "story": "आदि शंकराचार्य का जन्म 8वीं शताब्दी में केरल के कालडी गांव में हुआ था। आठ वर्ष की आयु तक उन्होंने चारों वेदों का ज्ञान प्राप्त कर लिया और सन्यास ले लिया। उन्होंने पूरे भारत की पैदल यात्रा की, शास्त्रार्थ में विद्वानों को पराजित किया और उपनिषदों, गीता व ब्रह्मसूत्र पर ऐतिहासिक भाष्य लिखे। उन्होंने देश की चारों दिशाओं में चार धामों/मठों (द्वारका, पुरी, श्रृंगेरी और ज्योतिर्मठ) की स्थापना की ताकि सनातन संस्कृति को पुनः सुदृढ़ किया जा सके।"
+    }
+  },
+  "maharana-pratap": {
+    "en": {
+      "title": "Maharana Pratap Jayanti",
+      "deity": "Maharana Pratap Singh",
+      "description": "Birth anniversary of the legendary Rajput warrior king of Mewar, Maharana Pratap, celebrated for his patriotism, courage, and resistance against Mughal expansion.",
+      "rules": [
+        "Garland portraits of Maharana Pratap and pay tribute to his valor.",
+        "Organize discussions and lectures on the Battle of Haldighati.",
+        "Reflect on his life of dedication, choosing to eat grass rotis in the forest rather than surrendering his kingdom."
+      ],
+      "story": "Maharana Pratap was born in Mewar, Rajasthan, in 1540. He became the ruler of Mewar in 1572. When Mughal Emperor Akbar demanded submission, Pratap refused. In 1576, they fought the historic Battle of Haldighati, where Pratap and his loyal horse Chetak showed unmatched bravery. Despite losing his capital, he continued guerrilla warfare to reclaim most of Mewar. He is celebrated as India's epitome of patriotism and defiance against external domination."
+    },
+    "hi": {
+      "title": "महाराणा प्रताप जयंती",
+      "deity": "महाराणा प्रताप सिंह",
+      "description": "मेवाड़ के महान राजपूत योद्धा और राष्ट्रभक्त महाराणा प्रताप की जयंती, जो उनके स्वाभिमान, अदम्य साहस और स्वतंत्रता संग्राम के लिए मनाई जाती है।",
+      "rules": [
+        "महाराणा प्रताप के चित्र पर माल्यार्पण कर उनके शौर्य को नमन करें।",
+        "हल्दीघाटी के युद्ध और उनके जीवन संघर्ष पर परिचर्चा आयोजित करें।",
+        "देशभक्ति और मातृभूमि के प्रति उनके समर्पण का संकल्प लें।"
+      ],
+      "story": "महाराणा प्रताप का जन्म 1540 in राजस्थान के मेवाड़ में हुआ था। मुग़ल सम्राट अकबर की अधीनता स्वीकार करने से मना करते हुए उन्होंने आजीवन संघर्ष किया। 1576 में लड़ा गया 'हल्दीघाटी का युद्ध' इतिहास का सबसे भीषण युद्ध माना जाता है, जिसमें उनके प्रिय घोड़े 'चेतक' ने भी अपना बलिदान दिया था। उन्होंने जंगलों में रहकर घास की सूखी रोटियां खाना स्वीकार किया, लेकिन मेवाड़ का सिर नहीं झुकने दिया। वे भारतीय इतिहास में वीरता और राष्ट्र स्वाभिमान के अमर प्रतीक हैं।"
+    }
+  },
+  "kabir-jayanti": {
+    "en": {
+      "title": "Kabir Jayanti",
+      "deity": "Sant Kabir Das",
+      "description": "Birth anniversary of the famous 15th-century mystic poet and saint Sant Kabir Das, who promoted spiritual unity and criticized religious dogmas.",
+      "rules": [
+        "Read, recite, and sing Kabir's Couplets (Dohe) and Bhajans.",
+        "Reflect on his messages of love, simple living, and inner spirituality.",
+        "Promote communal harmony and unity across all communities."
+      ],
+      "story": "Sant Kabir Das was born in Varanasi, brought up by a Muslim weaver family (Niru and Nima), and became a disciple of Swami Ramananda. He wrote poetry in simple language, challenging the blind rituals and hypocrisy of both Hindus and Muslims, famously writing 'Pothi Padh Padh Jag Mua, Pandit Bhaya Na Koy...'. He taught that God is formless (Nirguna) and resides in the heart of every seeker. His compilation, Bijak, remains a guiding light of spiritual wisdom."
+    },
+    "hi": {
+      "title": "कबीर जयंती",
+      "deity": "संत कबीर दास जी",
+      "description": "15वीं सदी के महान रहस्यवादी कवि, समाज सुधारक और संत कबीर दास जी की जन्म जयंती, जिन्होंने समाज में फैले आडंबरों पर कड़ा प्रहार किया।",
+      "rules": [
+        "कबीर के प्रसिद्ध दोहों और भजनों का पाठ करें व उनका अर्थ समझें।",
+        "बाहरी आडंबरों को त्याग कर मन की पवित्रता और प्रेम के मार्ग पर चलें।",
+        "साम्प्रदायिक सौहार्द और भाईचारे को बढ़ावा दें।"
+      ],
+      "story": "संत कबीर दास जी का जन्म वाराणसी में हुआ था और उनका पालन-पोषण एक जुलाहा दंपत्ति (नीरू और नीमा) ने किया था। वे स्वामी रामानंद के शिष्य थे। कबीर ने हिंदू और मुस्लिम दोनों धर्मों की कुप्रथाओं पर निर्भीक होकर दोहे लिखे, जैसे 'पोथी पढ़ि पढ़ि जग मुआ, पंडित भया न कोय, ढाई आखर प्रेम का, पढ़े सो पंडित होय'। उन्होंने ईश्वर को निराकार मानकर अंतर्मन की शुद्धि और परोपकार को ही सच्चा धर्म बताया। उनकी रचनाएं 'बीजक' में संकलित हैं।"
+    }
+  },
+  "tulsidas-jayanti": {
+    "en": {
+      "title": "Goswami Tulsidas Jayanti",
+      "deity": "Goswami Tulsidas Ji & Lord Rama",
+      "description": "Birth anniversary of the legendary saint and poet Goswami Tulsidas, best known for compiling the Ramcharitmanas.",
+      "rules": [
+        "Recite the Ramcharitmanas, Hanuman Chalisa, or Rama Raksha Stotra.",
+        "Worship Lord Rama, Goddess Sita, and Lord Hanuman.",
+        "Donate food and scriptures to devotees."
+      ],
+      "story": "Tulsidas was born in Rajapur, Uttar Pradesh. According to legend, he did not cry at birth but uttered the name of Rama, earning the childhood name 'Rambola'. Initially attached to his wife, her words of advice turned his focus completely toward God. He spent years in Varanasi and Ayodhya compiling the epic Ramcharitmanas in Awadhi language, making the story of Rama accessible to the common man, which was previously only in Sanskrit."
+    },
+    "hi": {
+      "title": "गोस्वामी तुलसीदास जयंती",
+      "deity": "गोस्वामी तुलसीदास और भगवान श्री राम",
+      "description": "रामचरितमानस के रचयिता, महान रामभक्त और कवि गोस्वामी तुलसीदास जी की जन्म जयंती।",
+      "rules": [
+        "रामचरितमानस के बालकांड, सुंदरकांड या हनुमान चालीसा का पाठ करें।",
+        "श्री राम, माता सीता और हनुमान जी की विशेष पूजा-आरती करें।",
+        "धार्मिक ग्रंथों और अन्न का दान करें।"
+      ],
+      "story": "गोस्वामी तुलसीदास जी का जन्म उत्तर प्रदेश के राजापुर में हुआ था। मान्यता है कि वे जन्म के समय रोए नहीं थे बल्कि उनके मुख से 'राम' शब्द निकला था, जिससे उनका नाम 'रामबोला' पड़ा। अपनी पत्नी रत्नावली की एक सीख से उनका जीवन बदल गया और वे रामभक्ति में लीन हो गए। उन्होंने अवधी भाषा में महाकाव्य 'श्रीरामचरितमानस' की रचना की, जिससे भगवान राम की कथा जन-जन तक पहुंची, जो पहले केवल संस्कृत तक सीमित थी।"
+    }
+  },
+  "guru-tegh-bahadur": {
+    "en": {
+      "title": "Guru Tegh Bahadur Shaheedi Diwas",
+      "deity": "Guru Tegh Bahadur Ji",
+      "description": "Commemorates the martyrdom of the ninth Sikh Guru, who sacrificed his life for religious freedom.",
+      "rules": [
+        "Visit Gurudwaras and listen to Gurbani.",
+        "Contemplate his sacrifice and practice selfless service."
+      ],
+      "story": "Guru Tegh Bahadur Ji stood up against the forced conversion of Kashmiri Pandits by Emperor Aurangzeb. Refusing to convert to Islam, he was publicly beheaded in Delhi in 1675. His sacrifice remains a supreme example of protecting the right to practice faith freely."
+    },
+    "hi": {
+      "title": "गुरु तेग बहादुर शहीदी दिवस",
+      "deity": "गुरु तेग बहादुर जी",
+      "description": "सिखों के नौवें गुरु का शहीदी दिवस, जिन्होंने कश्मीरी पंडितों के धर्म की रक्षा के लिए दिल्ली में अपने प्राणों का बलिदान दिया।",
+      "rules": [
+        "गुरुद्वारे जाकर अरदास और शबद-कीर्तन सुनें।",
+        "उनके महान बलिदान और परोपकार के जीवन से प्रेरणा लें।"
+      ],
+      "story": "कश्मीरी पंडितों की धार्मिक स्वतंत्रता की रक्षा के लिए गुरु तेग बहादुर जी स्वयं दिल्ली आए और औरंगजेब की कैद में रहकर यातनाएं सहीं। उन्होंने धर्म परिवर्तन से मना किया और चांदनी चौक पर शहीद हो गए, जिसे आज गुरुद्वारा सीस गंज साहिब के नाम से जाना जाता है।"
+    }
+  }
+}
