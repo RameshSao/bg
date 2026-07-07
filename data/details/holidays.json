@@ -158,14 +158,21 @@
   "republic-day": {
     "en": {
       "title": "Republic Day",
-      "deity": "Nation (Bharat Mata)",
-      "description": "Commemorates the day on which the Constitution of India came into effect on January 26, 1950, transitioning India into a sovereign republic.",
-      "story": "Although India gained independence from British rule on August 15, 1947, it did not have a permanent constitution. The drafting committee, headed by Dr. B.R. Ambedkar, drafted the Constitution of India which was adopted on November 26, 1949, and officially came into effect on January 26, 1950. January 26 was chosen as the Republic Day because it was on this day in 1930 that the Indian National Congress declared Purna Swaraj (complete independence) from British rule. The day honors the democratic values and constitutional rights of all citizens.",
+      "description": "India's Constitution came into force on this day in 1950, completing the transition from a British dominion to a sovereign democratic republic.",
+      "deity": "🇮🇳",
+      "story": "At 10:18 AM on January 26, 1950, Dr. Rajendra Prasad was sworn in as India's first President and the Constitution of India — the longest written constitution in the world, three years in the making — came into force. India ceased to be a dominion of the British Crown and became a fully sovereign, secular, democratic republic.\n\nThe date was chosen deliberately. January 26, 1930 was Purna Swaraj Day, when the Indian National Congress first unfurled the flag and demanded complete independence. By enacting the Constitution on this same date, the founders wove continuity between the freedom struggle and its legal culmination.\n\nDr. B.R. Ambedkar, the principal architect of the Constitution, spent 2 years, 11 months, and 18 days on a document of 395 articles and 8 schedules — granting every citizen fundamental rights regardless of caste, creed, or gender, at a time when such guarantees were radical.",
       "rules": [
         "Attend or watch the national flag hoisting ceremony.",
         "Watch the grand Republic Day Parade broadcast from Rajpath, New Delhi.",
         "Sing the National Anthem and pay respect to freedom fighters and the armed forces.",
-        "Participate in local community and cultural events celebrating unity in diversity."
+        "Participate in local community and cultural events celebrating unity in diversity.",
+        "Worship: Regional (New Delhi) - Grand parade on Kartavya Path; bravery awards to children; President's At Home reception.",
+        "Worship: Regional (States & UTs) - Governor/Lt Governor hoists the flag; state-level cultural parades.",
+        "Worship: Regional (Indian diaspora) - Embassy events, flag-hoisting, and cultural programmes worldwide.",
+        "Worship: Significance - Republic Day is less a celebration of history and more a renewal of constitutional promise — the idea that India is a work in progress, a project of pluralism and democracy. The parade's state tableaux serve as a yearly reminder of India's dizzying diversity, all under one tricolour.",
+        "Worship: Resource - Republic Day — Official Website: https://www.india.gov.in/my-government/constitution-india",
+        "Worship: Resource - Constitution of India — Full Text: https://legislative.gov.in/constitution-of-india/",
+        "Worship: Resource - Republic Day — Wikipedia: https://en.wikipedia.org/wiki/Republic_Day_(India)"
       ]
     },
     "hi": {
@@ -174,24 +181,39 @@
       "description": "26 जनवरी 1950 को भारत का संविधान लागू होने और भारत के एक संप्रभु लोकतांत्रिक गणराज्य बनने के उपलक्ष्य में मनाया जाता है।",
       "story": "भारत 15 अगस्त 1947 को स्वतंत्र हुआ था, लेकिन देश के पास अपना स्थायी संविधान नहीं था। डॉ. बी.आर. अंबेडकर की अध्यक्षता में प्रारूप समिति ने नया संविधान तैयार किया, जिसे 26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 को पूर्ण रूप से लागू किया गया। 26 जनवरी की तिथि इसलिए चुनी गई क्योंकि इसी दिन 1930 में भारतीय राष्ट्रीय कांग्रेस ने पूर्ण स्वराज की घोषणा की थी। यह दिन देश के लोकतांत्रिक मूल्यों और नागरिकों के संवैधानिक अधिकारों का सम्मान करने का पर्व है।",
       "rules": [
-        "ध्वजारोहण कार्यक्रम में भाग लें या उसे देखें।",
-        "राजपथ, नई दिल्ली में आयोजित भव्य गणतंत्र दिवस परेड का प्रसारण देखें।",
-        "राष्ट्रगान गाएं और स्वतंत्रता सेनानियों व वीर जवानों को श्रद्धांजलि अर्पित करें।",
-        "विविधता में एकता को बढ़ावा देने वाले सामाजिक व सांस्कृतिक कार्यक्रमों में भाग लें।"
+        "Attend or watch the national flag hoisting ceremony.",
+        "Watch the grand Republic Day Parade broadcast from Rajpath, New Delhi.",
+        "Sing the National Anthem and pay respect to freedom fighters and the armed forces.",
+        "Participate in local community and cultural events celebrating unity in diversity.",
+        "Worship: Regional (New Delhi) - Grand parade on Kartavya Path; bravery awards to children; President's At Home reception.",
+        "Worship: Regional (States & UTs) - Governor/Lt Governor hoists the flag; state-level cultural parades.",
+        "Worship: Regional (Indian diaspora) - Embassy events, flag-hoisting, and cultural programmes worldwide.",
+        "Worship: Significance - Republic Day is less a celebration of history and more a renewal of constitutional promise — the idea that India is a work in progress, a project of pluralism and democracy. The parade's state tableaux serve as a yearly reminder of India's dizzying diversity, all under one tricolour.",
+        "Worship: Resource - Republic Day — Official Website: https://www.india.gov.in/my-government/constitution-india",
+        "Worship: Resource - Constitution of India — Full Text: https://legislative.gov.in/constitution-of-india/",
+        "Worship: Resource - Republic Day — Wikipedia: https://en.wikipedia.org/wiki/Republic_Day_(India)"
       ]
     }
   },
   "independence-day": {
     "en": {
       "title": "Independence Day",
-      "deity": "Nation (Bharat Mata)",
-      "description": "Celebrates the nation's independence from British colonial rule on August 15, 1947.",
-      "story": "India was ruled by the British Empire for nearly 200 years. After decades of struggle, non-violent movements, and revolutionary sacrifices led by Mahatma Gandhi, Subhas Chandra Bose, Bhagat Singh, and millions of freedom fighters, the British Parliament passed the Indian Independence Act. At the stroke of midnight on August 15, 1947, India became a free nation. Jawaharlal Nehru, the first Prime Minister of India, hoisted the national flag at the Lahori Gate of the Red Fort in Delhi, delivering his famous 'Tryst with Destiny' speech.",
+      "description": "India's freedom from British rule came at midnight on August 14–15, 1947 — Nehru's 'Tryst with Destiny' moment.",
+      "deity": "🇮🇳",
+      "story": "At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom.\" Jawaharlal Nehru spoke these words to the Constituent Assembly on the night of August 14–15, 1947 — one of history's most celebrated political speeches.\n\nTwo hundred years of British rule ended not with a single act but with a long, extraordinary movement: the non-cooperation of Gandhi, the militant nationalism of Bose, the legal battles of Gokhale and Tilak, the organisation of women like Sarojini Naidu and Kasturba Gandhi, the mass civil disobedience of millions of ordinary Indians. The final transfer of power was decided under the Mountbatten Plan, and at midnight, India became free.\n\nIt was also a moment of catastrophe: Partition — the division of the subcontinent into India and Pakistan — displaced 15 million people and killed between 200,000 and 2 million in communal violence. Freedom and tragedy were born on the same night, a complexity that independence celebrations carry quietly within them.",
       "rules": [
         "Watch the Prime Minister hoist the Tricolor at the Red Fort and address the nation.",
         "Host or attend flag hoisting ceremonies in schools, offices, or residential societies.",
         "Remember and pay tribute to the patriots who fought for India's freedom.",
-        "Fly kites, a traditional activity symbolizing freedom, and enjoy patriotic songs."
+        "Fly kites, a traditional activity symbolizing freedom, and enjoy patriotic songs.",
+        "Worship: Regional (Red Fort, Delhi) - The centrepiece — Prime Minister's address broadcast live; military and cultural parades.",
+        "Worship: Regional (Gujarat / Rajasthan) - Kite-flying traditions make the sky tricoloured.",
+        "Worship: Regional (Goa) - Liberation Day (Dec 19) is equally important — Goa was liberated from Portugal only in 1961.",
+        "Worship: Regional (Indian diaspora) - Embassy flag-hoisting events worldwide; cultural programmes.",
+        "Worship: Significance - Independence Day is a reckoning — a moment to measure how far the republic has come against the ideals Nehru articulated and Ambedkar encoded in the Constitution. The Red Fort address has been used by every Prime Minister to set national agenda, making it simultaneously a festival and a State of the Union. India's ongoing argument with itself about democracy, secularism, and justice is this festival's living content.",
+        "Worship: Resource - Tryst with Destiny — Nehru's full speech: https://www.constitutionofindia.net/blogs/nehru-s-tryst-with-destiny-speech/",
+        "Worship: Resource - Independence Day — Wikipedia: https://en.wikipedia.org/wiki/Indian_Independence_Day",
+        "Worship: Resource - India's Freedom Struggle — NCERT: https://ncert.nic.in/textbook.php?fhss2=8-10"
       ]
     },
     "hi": {
@@ -200,10 +222,18 @@
       "description": "15 अगस्त 1947 को ब्रिटिश औपनिवेशिक शासन से देश को मिली स्वतंत्रता की याद में मनाया जाता है।",
       "story": "भारत पर लगभग 200 वर्षों तक ब्रिटिश शासन रहा। महात्मा गांधी, सुभाष चंद्र बोस, भगत सिंह और लाखों स्वतंत्रता सेनानियों के नेतृत्व में लंबे संघर्ष और बलिदान के बाद, भारत को आजादी मिली। 15 अगस्त 1947 की आधी रात को स्वतंत्र भारत के पहले प्रधानमंत्री जवाहरलाल नेहरू ने दिल्ली के लाल किले के लाहौरी गेट पर तिरंगा फहराया और अपना ऐतिहासिक भाषण दिया।",
       "rules": [
-        "लाल किले पर प्रधानमंत्री द्वारा किए जाने वाले ध्वजारोहण और राष्ट्र के नाम संबोधन को देखें।",
-        "विद्यालयों, कार्यालयों या सोसायटियों में आयोजित ध्वजारोहण कार्यक्रमों में शामिल हों।",
-        "आजादी के लिए प्राण न्यौछावर करने वाले देशवासियों को नमन करें।",
-        "पतंग उड़ाएं, जो स्वतंत्रता का प्रतीक है, और देशभक्ति के कार्यक्रमों में भाग लें।"
+        "Watch the Prime Minister hoist the Tricolor at the Red Fort and address the nation.",
+        "Host or attend flag hoisting ceremonies in schools, offices, or residential societies.",
+        "Remember and pay tribute to the patriots who fought for India's freedom.",
+        "Fly kites, a traditional activity symbolizing freedom, and enjoy patriotic songs.",
+        "Worship: Regional (Red Fort, Delhi) - The centrepiece — Prime Minister's address broadcast live; military and cultural parades.",
+        "Worship: Regional (Gujarat / Rajasthan) - Kite-flying traditions make the sky tricoloured.",
+        "Worship: Regional (Goa) - Liberation Day (Dec 19) is equally important — Goa was liberated from Portugal only in 1961.",
+        "Worship: Regional (Indian diaspora) - Embassy flag-hoisting events worldwide; cultural programmes.",
+        "Worship: Significance - Independence Day is a reckoning — a moment to measure how far the republic has come against the ideals Nehru articulated and Ambedkar encoded in the Constitution. The Red Fort address has been used by every Prime Minister to set national agenda, making it simultaneously a festival and a State of the Union. India's ongoing argument with itself about democracy, secularism, and justice is this festival's living content.",
+        "Worship: Resource - Tryst with Destiny — Nehru's full speech: https://www.constitutionofindia.net/blogs/nehru-s-tryst-with-destiny-speech/",
+        "Worship: Resource - Independence Day — Wikipedia: https://en.wikipedia.org/wiki/Indian_Independence_Day",
+        "Worship: Resource - India's Freedom Struggle — NCERT: https://ncert.nic.in/textbook.php?fhss2=8-10"
       ]
     }
   },
@@ -285,14 +315,22 @@
   "ambedkar-jayanti": {
     "en": {
       "title": "Ambedkar Jayanti",
-      "deity": "Dr. B.R. Ambedkar",
-      "description": "Birth anniversary of Dr. Bhimrao Ramji Ambedkar, celebrated on April 14, honoring his contribution as the father of the Indian Constitution.",
-      "story": "Born in 1891, Dr. B.R. Ambedkar was a legendary jurist, economist, politician, and social reformer. He dedicated his life to fighting social discrimination against Dalits, women, and laborers. He served as independent India's first Law Minister and chaired the Drafting Committee of the Constitution of India. His legacy continues to inspire movements for social equality and human rights.",
+      "description": "Birthday of Dr. B.R. Ambedkar — architect of India's Constitution, champion of Dalit rights, and one of history's greatest jurists.",
+      "deity": "📚",
+      "story": "April 14, 1891: Bhimrao Ramji Ambedkar is born in Mhow (now Dr. Ambedkar Nagar), Madhya Pradesh, into a Mahar family — considered \"untouchable\" under the caste hierarchy. The discrimination he faced from childhood — being made to sit separately in school, denied water from the common vessel, prohibited from entering temples — would have broken most spirits. Instead, it created one of the 20th century's most formidable minds.\n\nAmbedkar earned degrees from Bombay, Columbia University (where he studied under John Dewey), and the London School of Economics, becoming one of the first Indians to earn a doctorate in economics from a foreign university. He practised law, launched newspapers, organised the Dalit community, and debated Mahatma Gandhi on the question of separate electorates for Dalits — a historic confrontation that resulted in the Poona Pact (1932).\n\nAs Law Minister in Nehru's cabinet, he chaired the Drafting Committee of India's Constitution — writing the world's most comprehensive charter of rights for a newly independent, deeply unequal nation. He resigned in 1951 over disagreement on Hindu Code reform. In 1956, he converted to Buddhism with half a million followers, rejecting a caste system he had fought his entire life.",
       "rules": [
         "Offer floral tributes to Dr. B.R. Ambedkar's portraits or statues.",
         "Read and discuss constitutional values: Justice, Liberty, Equality, and Fraternity.",
         "Participate in seminars, debates, or cultural programs celebrating social justice.",
-        "Contribute to the education and empowerment of underprivileged children."
+        "Contribute to the education and empowerment of underprivileged children.",
+        "Worship: Regional (Maharashtra) - Largest celebrations; Chaitya Bhoomi (his memorial in Mumbai) receives 2–3 million visitors; processions in Nagpur.",
+        "Worship: Regional (Uttar Pradesh) - Rallies in Lucknow and Agra; speeches by political leaders; large Dalit community gatherings.",
+        "Worship: Regional (Karnataka) - Ambedkar Jayanti is a public holiday; rallies and community events in Bengaluru.",
+        "Worship: Regional (Punjab) - Ravidassia community celebrations; reading of Ambedkar and Ravidas texts.",
+        "Worship: Significance - Ambedkar Jayanti is a day to remember that democracy is not a destination but a practice. Ambedkar's life is proof that intellect and determination can challenge centuries of entrenched hierarchy. His Constitution gave legal force to equality that society had denied in practice — and every generation must decide anew whether to honour that promise. The day is as much a call to action as a celebration.",
+        "Worship: Resource - B. R. Ambedkar — Wikipedia: https://en.wikipedia.org/wiki/B._R._Ambedkar",
+        "Worship: Resource - Ambedkar's writings — Dr. Ambedkar Foundation: https://www.drambedkarfoundation.nic.in/",
+        "Worship: Resource - Annihilation of Caste — full text: https://www.ambedkar.org/ambcd/Annihilation%20of%20Caste.htm"
       ]
     },
     "hi": {
@@ -301,9 +339,18 @@
       "description": "भारतीय संविधान के निर्माता, महान विधिवेत्ता और समाज सुधारक बाबासाहेब डॉ. भीमराव रामजी अंबेडकर की जन्म जयंती।",
       "story": "डॉ. भीमराव अंबेडकर का जन्म 14 अप्रैल 1891 को मध्य प्रदेश के महू में हुआ था। उन्होंने जीवन भर दलितों, पिछड़ों और महिलाओं के अधिकारों के लिए संघर्ष किया। वे स्वतंत्र भारत के प्रथम कानून मंत्री और संविधान सभा की प्रारूप समिति के अध्यक्ष थे। उन्होंने समाज से छुआछूत मिटाने और समानता स्थापित करने में ऐतिहासिक भूमिका निभाई।",
       "rules": [
-        "बाबासाहेब की प्रतिमा या चित्र पर माल्यार्पण कर उन्हें नमन करें।",
-        "समानता, बंधुत्व और मानवाधिकारों से जुड़े लेख व भाषण सुनें।",
-        "वंचित वर्ग के बच्चों की शिक्षा में सहायता करने का संकल्प लें।"
+        "Offer floral tributes to Dr. B.R. Ambedkar's portraits or statues.",
+        "Read and discuss constitutional values: Justice, Liberty, Equality, and Fraternity.",
+        "Participate in seminars, debates, or cultural programs celebrating social justice.",
+        "Contribute to the education and empowerment of underprivileged children.",
+        "Worship: Regional (Maharashtra) - Largest celebrations; Chaitya Bhoomi (his memorial in Mumbai) receives 2–3 million visitors; processions in Nagpur.",
+        "Worship: Regional (Uttar Pradesh) - Rallies in Lucknow and Agra; speeches by political leaders; large Dalit community gatherings.",
+        "Worship: Regional (Karnataka) - Ambedkar Jayanti is a public holiday; rallies and community events in Bengaluru.",
+        "Worship: Regional (Punjab) - Ravidassia community celebrations; reading of Ambedkar and Ravidas texts.",
+        "Worship: Significance - Ambedkar Jayanti is a day to remember that democracy is not a destination but a practice. Ambedkar's life is proof that intellect and determination can challenge centuries of entrenched hierarchy. His Constitution gave legal force to equality that society had denied in practice — and every generation must decide anew whether to honour that promise. The day is as much a call to action as a celebration.",
+        "Worship: Resource - B. R. Ambedkar — Wikipedia: https://en.wikipedia.org/wiki/B._R._Ambedkar",
+        "Worship: Resource - Ambedkar's writings — Dr. Ambedkar Foundation: https://www.drambedkarfoundation.nic.in/",
+        "Worship: Resource - Annihilation of Caste — full text: https://www.ambedkar.org/ambcd/Annihilation%20of%20Caste.htm"
       ]
     }
   },
@@ -508,6 +555,38 @@
         "गरीबों में पानी और भोजन (सबील) का वितरण करें और दान दें।"
       ],
       "story": "सन् 680 ईस्वी में कर्बला (इराक़) की तपती धरती पर इमाम हुसैन और यज़ीद की सेना के बीच ऐतिहासिक युद्ध हुआ था। यज़ीद के क्रूर शासन और अधर्म का विरोध करने पर इमाम हुसैन, उनके परिवार और 72 साथियों को पानी से वंचित कर शहीद कर दिया गया था। मुहर्रम के 10वें दिन हुसैन की शहादत हुई, जिसे सत्य, न्याय और मानवता की रक्षा के लिए सबसे बड़ा बलिदान माना जाता है।"
+    }
+  },
+  "gandhi-jayanti": {
+    "en": {
+      "title": "Gandhi Jayanti",
+      "description": "Birthday of Mahatma Gandhi — father of the nation and apostle of nonviolent resistance (Satyagraha).",
+      "deity": "🕊️",
+      "story": "Mohandas Karamchand Gandhi was born on October 2, 1869, in Porbandar, Gujarat. He trained as a barrister in London, practiced in South Africa where he first developed the concept of Satyagraha (truth-force), returned to India in 1915, and over the next 32 years transformed a privileged elite independence movement into a mass uprising of ordinary people.\n\nHis tools were extraordinary in their simplicity: non-cooperation (refusing to buy British cloth; spinning khadi on a charkha), civil disobedience (the 1930 Dandi Salt March — walking 241 miles to make salt from seawater, defying British law), and fasting (using his own frail body as a bargaining instrument of conscience).\n\nHe was shot on January 30, 1948, in the garden of Birla House, Delhi, while walking to an evening prayer meeting. \"Hey Ram\" were, by some accounts, his last words. The United Nations declared October 2 as the International Day of Non-Violence in 2007, recognising that his methods have inspired liberation movements everywhere — from Martin Luther King to Nelson Mandela.",
+      "rules": [
+        "Worship: Regional (Rajghat, Delhi) - National prayer service attended by dignitaries; Samadhi covered with flowers.",
+        "Worship: Regional (Porbandar (Gujarat)) - Birthplace celebrations; Kirti Mandir museum events.",
+        "Worship: Regional (Sabarmati Ashram (Ahmedabad)) - Gandhi's home for 13 years; spinning demonstrations; exhibitions.",
+        "Worship: Significance - Gandhi Jayanti is a day to ask whether the tools he invented — non-violence, civil disobedience, the moral force of personal example — are still relevant. Every authoritarian government that has been peacefully overthrown since 1947 carries his shadow. His failures (on caste, on some aspects of gender) are also worth examining honestly. The festival works best not as hagiography but as a live argument with his ideas.",
+        "Worship: Resource - Mahatma Gandhi — Wikipedia: https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Worship: Resource - Gandhi's writings — Collected Works: https://www.gandhiashramsabarmati.org/en/mahatma-gandhi/writings.html",
+        "Worship: Resource - UN International Day of Non-Violence: https://www.un.org/en/observances/non-violence-day"
+      ]
+    },
+    "hi": {
+      "title": "गांधी जयंती",
+      "description": "Birthday of Mahatma Gandhi — father of the nation and apostle of nonviolent resistance (Satyagraha).",
+      "deity": "🕊️",
+      "story": "Mohandas Karamchand Gandhi was born on October 2, 1869, in Porbandar, Gujarat. He trained as a barrister in London, practiced in South Africa where he first developed the concept of Satyagraha (truth-force), returned to India in 1915, and over the next 32 years transformed a privileged elite independence movement into a mass uprising of ordinary people.\n\nHis tools were extraordinary in their simplicity: non-cooperation (refusing to buy British cloth; spinning khadi on a charkha), civil disobedience (the 1930 Dandi Salt March — walking 241 miles to make salt from seawater, defying British law), and fasting (using his own frail body as a bargaining instrument of conscience).\n\nHe was shot on January 30, 1948, in the garden of Birla House, Delhi, while walking to an evening prayer meeting. \"Hey Ram\" were, by some accounts, his last words. The United Nations declared October 2 as the International Day of Non-Violence in 2007, recognising that his methods have inspired liberation movements everywhere — from Martin Luther King to Nelson Mandela.",
+      "rules": [
+        "Worship: Regional (Rajghat, Delhi) - National prayer service attended by dignitaries; Samadhi covered with flowers.",
+        "Worship: Regional (Porbandar (Gujarat)) - Birthplace celebrations; Kirti Mandir museum events.",
+        "Worship: Regional (Sabarmati Ashram (Ahmedabad)) - Gandhi's home for 13 years; spinning demonstrations; exhibitions.",
+        "Worship: Significance - Gandhi Jayanti is a day to ask whether the tools he invented — non-violence, civil disobedience, the moral force of personal example — are still relevant. Every authoritarian government that has been peacefully overthrown since 1947 carries his shadow. His failures (on caste, on some aspects of gender) are also worth examining honestly. The festival works best not as hagiography but as a live argument with his ideas.",
+        "Worship: Resource - Mahatma Gandhi — Wikipedia: https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "Worship: Resource - Gandhi's writings — Collected Works: https://www.gandhiashramsabarmati.org/en/mahatma-gandhi/writings.html",
+        "Worship: Resource - UN International Day of Non-Violence: https://www.un.org/en/observances/non-violence-day"
+      ]
     }
   }
 }
