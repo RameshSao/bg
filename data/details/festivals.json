@@ -2,13 +2,22 @@
   "buddha-purnima": {
     "en": {
       "title": "Buddha Purnima",
-      "deity": "Lord Buddha",
-      "description": "Marks the birth, enlightenment, and Mahaparinirvana of Gautama Buddha, the founder of Buddhism.",
-      "story": "Siddhartha Gautama was born as a prince in Lumbini. Troubled by human suffering, he renounced his kingdom. After years of meditation under the Bodhi tree in Bodh Gaya, he attained supreme enlightenment on this Full Moon day, becoming the Buddha.",
+      "description": "Triple anniversary of the Buddha — his birth, enlightenment, and parinirvana (death), all on the same full-moon day.",
+      "deity": "🪷",
+      "story": "In the Buddhist tradition, the full moon of Vaishakha is the most sacred night of the year — for on this night, three of the four great events in Siddhartha Gautama's life coincided.\n\nBorn a prince in Lumbini (present-day Nepal) around 563 BCE, Siddhartha grew up shielded from suffering. At 29, he encountered an old man, a sick man, a corpse, and a wandering ascetic. These \"four sights\" shattered his protected world. He left his palace, wife, and infant son in the middle of the night to seek the end of suffering.\n\nAfter six years of extreme asceticism — nearly starving himself to death — he realised that the middle path between indulgence and deprivation was the way. Sitting under a pipal tree (now the Bodhi tree in Bodh Gaya), he resolved not to rise until he attained enlightenment. On the full moon of Vaishakha, he became the Buddha — the Awakened One. Later, in Vaishakha, he attained Mahaparinirvana (final death/liberation) at Kushinagar.\n\nHis first teaching — the Dhammacakkappavattana Sutta (Setting the Wheel of Dharma in Motion) — at Sarnath near Varanasi, introduced the Four Noble Truths and the Eightfold Path that would reshape Asia.",
       "rules": [
         "Practice meditation, non-violence, and mindfulness.",
         "Donate food and clothes to the poor.",
-        "Offer prayers at Buddhist temples or home altars."
+        "Offer prayers at Buddhist temples or home altars.",
+        "Worship: Regional (Bodh Gaya (Bihar)) - The holiest Buddhist site on earth; thousands of monks and pilgrims from across Asia; meditation vigils under the Bodhi Tree.",
+        "Worship: Regional (Sarnath (UP)) - Site of the first sermon; candle-lit processions; archaeological museum visits.",
+        "Worship: Regional (Maharashtra (Nagpur / Mumbai)) - Navayana Buddhist community (Ambedkarite Buddhists) — the largest Buddhist population in India — holds massive gatherings.",
+        "Worship: Regional (Sikkim / Ladakh) - Tibetan Buddhist traditions; lamas perform prayers; monasteries open to all.",
+        "Worship: Regional (Sri Lanka, Thailand, Myanmar) - Called Wesak; a public holiday with lantern festivals, across Buddhist Southeast Asia.",
+        "Worship: Significance - Buddhism's impact on human civilisation is incalculable: its philosophy of non-violence, mindfulness, and compassion influenced Hindu reform movements, shaped the Maurya Empire under Ashoka, spread across Asia, and now informs secular mindfulness practices worldwide. Buddha Purnima is a day to encounter that teaching fresh — not as history, but as a living invitation to wake up.",
+        "Worship: Resource - Buddha Purnima — Wikipedia: https://en.wikipedia.org/wiki/Buddha%27s_Birthday",
+        "Worship: Resource - Dhammapada — Pali Canon in English: https://www.accesstoinsight.org/tipitaka/kn/dhp/",
+        "Worship: Resource - Bodh Gaya — UNESCO World Heritage: https://whc.unesco.org/en/list/1056/"
       ]
     },
     "hi": {
@@ -17,9 +26,18 @@
       "description": "वैशाख पूर्णिमा को बौद्ध धर्म के प्रवर्तक भगवान गौतम बुद्ध के जन्म, ज्ञान प्राप्ति और महापरिनिर्वाण के रूप में मनाया जाता है।",
       "story": "राजकुमार सिद्धार्थ का जन्म लुंबिनी में हुआ था। संसार के दुखों को देखकर उन्होंने गृहत्याग किया और बोधगया में बोधि वृक्ष के नीचे तपस्या कर आज ही के दिन परम ज्ञान प्राप्त किया और बुद्ध कहलाए।",
       "rules": [
-        "ध्यान, अहिंसा और करुणा का पालन करें।",
-        "गरीबों को भोजन और वस्त्र दान करें।",
-        "बौद्ध विहारों या घर पर दीप जलाकर प्रार्थना करें।"
+        "Practice meditation, non-violence, and mindfulness.",
+        "Donate food and clothes to the poor.",
+        "Offer prayers at Buddhist temples or home altars.",
+        "Worship: Regional (Bodh Gaya (Bihar)) - The holiest Buddhist site on earth; thousands of monks and pilgrims from across Asia; meditation vigils under the Bodhi Tree.",
+        "Worship: Regional (Sarnath (UP)) - Site of the first sermon; candle-lit processions; archaeological museum visits.",
+        "Worship: Regional (Maharashtra (Nagpur / Mumbai)) - Navayana Buddhist community (Ambedkarite Buddhists) — the largest Buddhist population in India — holds massive gatherings.",
+        "Worship: Regional (Sikkim / Ladakh) - Tibetan Buddhist traditions; lamas perform prayers; monasteries open to all.",
+        "Worship: Regional (Sri Lanka, Thailand, Myanmar) - Called Wesak; a public holiday with lantern festivals, across Buddhist Southeast Asia.",
+        "Worship: Significance - Buddhism's impact on human civilisation is incalculable: its philosophy of non-violence, mindfulness, and compassion influenced Hindu reform movements, shaped the Maurya Empire under Ashoka, spread across Asia, and now informs secular mindfulness practices worldwide. Buddha Purnima is a day to encounter that teaching fresh — not as history, but as a living invitation to wake up.",
+        "Worship: Resource - Buddha Purnima — Wikipedia: https://en.wikipedia.org/wiki/Buddha%27s_Birthday",
+        "Worship: Resource - Dhammapada — Pali Canon in English: https://www.accesstoinsight.org/tipitaka/kn/dhp/",
+        "Worship: Resource - Bodh Gaya — UNESCO World Heritage: https://whc.unesco.org/en/list/1056/"
       ]
     }
   },
@@ -76,25 +94,41 @@
   "onam": {
     "en": {
       "title": "Onam",
-      "deity": "Lord Vamana & King Mahabali",
-      "description": "The harvest festival of Kerala, commemorating the benevolent rule of King Mahabali and the Vamana avatar of Lord Vishnu.",
+      "description": "Kerala's grandest harvest festival — celebrating the legendary return of King Mahabali, with pookalam flower carpets, sadhya feasts, and snake boat races.",
+      "deity": "🌺",
+      "story": "Once upon a time, Kerala was ruled by a king called Mahabali — so just, so generous, so loved by his people that even the gods grew jealous of his popularity. Indra, king of the gods, petitioned Vishnu to intervene. Vishnu disguised himself as a dwarf brahmin (Vamana) and approached Mahabali, who was famous for granting any wish to any petitioner.\n\nVamana asked for three steps of land. Mahabali laughed — what need for so little? He agreed. Vamana then grew to cosmic size, spanning the entire universe in two steps. With the third step hovering, Mahabali realised the divine trick — and humbly offered his own head. Vishnu pushed him gently into the netherworld.\n\nThe beauty of the story is its ending: Vishnu, moved by Mahabali's generosity and dignity, granted him a wish. Mahabali asked only that he be allowed to visit his beloved people once a year. Onam is that annual visit. On the day of Thiruvonam, every home in Kerala is the king's: clean, flower-adorned, prosperous — a welcome fit for the greatest of rulers.",
       "rules": [
         "Create beautiful flower carpets (Pookalam) at the entrance of the house.",
         "Prepare the grand multi-course vegetarian feast called Onasadya served on banana leaves.",
         "Wear traditional Kerala attire (Mundu and Kasavu saree).",
-        "Participate in community events like boat races (Vallam Kali) and traditional dances."
-      ],
-      "story": "King Mahabali was a generous Asura king who ruled Kerala with perfect justice and equality. Fearing his growing power, the Devas appealed to Lord Vishnu, who took the form of the dwarf Brahmin Vamana. Vamana requested three paces of land. Mahabali agreed, and Vamana grew to cosmic size, measuring earth and heaven in two steps. Mahabali offered his head for the third step. Pleased with his devotion, Vishnu granted him a boon to visit his beloved subjects once every year. Onam marks the annual return of King Mahabali to Kerala."
+        "Participate in community events like boat races (Vallam Kali) and traditional dances.",
+        "Worship: Regional (Alappuzha (Alleppey)) - Nehru Trophy Boat Race — the most famous snake boat race, watched by thousands.",
+        "Worship: Regional (Thrissur) - Atham processions with caparisoned elephants and percussion ensembles.",
+        "Worship: Regional (Kasaragod / Kannur) - Distinctive folk arts — Theyyam, Padayani performances during Onam.",
+        "Worship: Regional (Kerala diaspora) - Onam celebrations in the Gulf, UK, USA with sadhya and cultural events far from home.",
+        "Worship: Significance - Onam is the secular soul of Kerala — celebrated equally by Hindus, Christians, and Muslims who call the state home. It is a festival not of a deity but of a just king, which is why it accommodates everyone. The snake boat races represent Kerala's communal rowing tradition where caste and class differences dissolve in the river. The Onam Sadhya on a banana leaf is perhaps the world's most democratic shared meal — the same food for every person, regardless of who they are.",
+        "Worship: Resource - Onam — Wikipedia: https://en.wikipedia.org/wiki/Onam",
+        "Worship: Resource - Onam Sadhya guide — Kerala Tourism: https://www.keralatourism.org/onam/",
+        "Worship: Resource - Nehru Trophy Boat Race: https://www.nehrotrophy.in/"
+      ]
     },
     "hi": {
       "title": "ओणम",
       "deity": "भगवान वामन और राजा महाबली",
       "description": "केरल का प्रमुख फसल उत्सव, जो राजा महाबली के न्यायप्रिय शासन और भगवान विष्णु के वामन अवतार की स्मृति में मनाया जाता है।",
       "rules": [
-        "घर के प्रवेश द्वार पर फूलों की सुंदर रंगोली (पूकलम) बनाएं।",
-        "केले के पत्ते पर परोसे जाने वाले पारंपरिक ओणम भोज (ओणासद्या) की तैयारी करें।",
-        "पारंपरिक केरल परिधान (मुंडू और कसावू साड़ी) धारण करें।",
-        "नौका दौड़ (वल्लम काली) और लोक नृत्यों का आनंद लें।"
+        "Create beautiful flower carpets (Pookalam) at the entrance of the house.",
+        "Prepare the grand multi-course vegetarian feast called Onasadya served on banana leaves.",
+        "Wear traditional Kerala attire (Mundu and Kasavu saree).",
+        "Participate in community events like boat races (Vallam Kali) and traditional dances.",
+        "Worship: Regional (Alappuzha (Alleppey)) - Nehru Trophy Boat Race — the most famous snake boat race, watched by thousands.",
+        "Worship: Regional (Thrissur) - Atham processions with caparisoned elephants and percussion ensembles.",
+        "Worship: Regional (Kasaragod / Kannur) - Distinctive folk arts — Theyyam, Padayani performances during Onam.",
+        "Worship: Regional (Kerala diaspora) - Onam celebrations in the Gulf, UK, USA with sadhya and cultural events far from home.",
+        "Worship: Significance - Onam is the secular soul of Kerala — celebrated equally by Hindus, Christians, and Muslims who call the state home. It is a festival not of a deity but of a just king, which is why it accommodates everyone. The snake boat races represent Kerala's communal rowing tradition where caste and class differences dissolve in the river. The Onam Sadhya on a banana leaf is perhaps the world's most democratic shared meal — the same food for every person, regardless of who they are.",
+        "Worship: Resource - Onam — Wikipedia: https://en.wikipedia.org/wiki/Onam",
+        "Worship: Resource - Onam Sadhya guide — Kerala Tourism: https://www.keralatourism.org/onam/",
+        "Worship: Resource - Nehru Trophy Boat Race: https://www.nehrotrophy.in/"
       ],
       "story": "दानवीर असुर राजा महाबली के शासनकाल में केरल में सुख-समृद्धि चरम पर थी। देवराज इंद्र के भय को दूर करने के लिए भगवान विष्णु ने वामन अवतार लिया और राजा से तीन पग भूमि मांगी। दो पगों में पृथ्वी और स्वर्ग नापने के बाद, महाबली ने तीसरे पग के लिए अपना सिर समर्पित कर दिया। भगवान वामन ने प्रसन्न होकर उन्हें वर्ष में एक बार अपनी प्रजा से मिलने का वरदान दिया। इसी आगमन की खुशी में ओणम मनाया जाता है।"
     }
@@ -127,26 +161,44 @@
   },
   "eid-ul-fitr": {
     "en": {
-      "title": "Eid-ul-Fitr",
-      "deity": "None (Almighty Allah)",
-      "description": "The festival of breaking the fast, marking the conclusion of the holy month of Ramadan.",
+      "title": "Eid ul-Fitr",
+      "description": "The festival of breaking the fast — celebrating the end of Ramadan, Islam's month of fasting, prayer, and reflection.",
+      "deity": "🌙",
+      "story": "Eid ul-Fitr is the reward for a month well lived. For 29 or 30 days, Muslim communities worldwide observe Ramadan — a month of fasting from dawn to dusk, intensified prayer, charity, and spiritual renewal. On the sighting of the new crescent moon (hilal), Ramadan ends and Eid begins.\n\nThe Prophet Muhammad is reported to have said that God gives a special night of forgiveness at the end of Ramadan, and Eid is the morning after — a day of gratitude and community. The word \"Fitr\" comes from the Arabic root meaning to break fast, but also the same root as \"fitrat\" (innate nature) — suggesting the festival is a return to one's essential, uncorrupted self.\n\nBefore the Eid prayer, every adult Muslim must pay Zakat ul-Fitr — a compulsory charity ensuring that even the poorest members of the community can celebrate. This is the festival's most important social message: no one is left behind.",
       "rules": [
         "Perform the special Eid congregational prayers in the morning.",
         "Give charity (Fitrana) to the poor before the prayers so they can also celebrate.",
         "Wear new clothes, exchange greetings (Eid Mubarak), and visit friends and family.",
-        "Prepare and share sweet dishes, especially Sheer Khurma (vermicelli pudding)."
-      ],
-      "story": "Eid-ul-Fitr is celebrated on the first day of Shawwal after the sighting of the new crescent moon. It is a day of thanksgiving to Allah for granting believers the spiritual strength to fast during the holy month of Ramadan. Ramadan is the month in which the Quran was first revealed to Prophet Muhammad. The festival is a celebration of peace, charity, brotherhood, and spiritual renewal."
+        "Prepare and share sweet dishes, especially Sheer Khurma (vermicelli pudding).",
+        "Worship: Regional (Hyderabad) - Famous for haleem and biryani during Ramadan; Charminar area lit spectacularly for Eid.",
+        "Worship: Regional (Lucknow) - Nawabi elegance — attar, sheermal, and shahi tukda; elaborate family gatherings.",
+        "Worship: Regional (Kashmir) - Hazratbal Shrine is the spiritual heart of Eid in the Valley; grand congregational prayers.",
+        "Worship: Regional (Kerala (Mappila)) - Known as Cheriya Perunnal; unique Mappila songs and traditional Malabar cuisine.",
+        "Worship: Regional (Kolkata (Park Circus)) - Largest Eid congregation in eastern India; Nakhoda Mosque overflows onto the streets.",
+        "Worship: Significance - Eid ul-Fitr is Islam's most joyous festival — the counterpoint to Ramadan's austerity. It embodies the faith's insistence on communal celebration, obligatory charity, and gratitude. In India, where Muslims are the second-largest religious community (approximately 200 million), Eid is also a moment of inter-community celebration: Hindu, Sikh, and Christian neighbours exchange sweets and greetings, making it a festival of India's broader social fabric.",
+        "Worship: Resource - Eid ul-Fitr — Wikipedia: https://en.wikipedia.org/wiki/Eid_al-Fitr",
+        "Worship: Resource - Ramadan and Eid — BBC Religion: https://www.bbc.co.uk/religion/religions/islam/holydays/eid.shtml",
+        "Worship: Resource - IslamicFinder — Eid Date Calculator: https://www.islamicfinder.org/islamic-events/"
+      ]
     },
     "hi": {
       "title": "ईद-उल-फ़ितर",
       "deity": "अल्लाह (ईश्वर)",
       "description": "रमज़ान के पवित्र महीने के समापन पर मनाया जाने वाला खुशियों का त्योहार, जिसे मीठी ईद भी कहा जाता है।",
       "rules": [
-        "सुबह ईदगाह या मस्जिद में जाकर विशेष ईद की नमाज़ अदा करें।",
-        "नमाज़ से पहले गरीबों को दान (फ़ितरा) अवश्य दें ताकि वे भी खुशी मना सकें।",
-        "नए वस्त्र पहनें, गले मिलकर ईद की बधाई दें और रिश्तेदारों के घर जाएं।",
-        "घर पर सेंवईं और शीर खुरमा जैसे मीठे पकवान बनाकर मेहमानों को खिलाएं।"
+        "Perform the special Eid congregational prayers in the morning.",
+        "Give charity (Fitrana) to the poor before the prayers so they can also celebrate.",
+        "Wear new clothes, exchange greetings (Eid Mubarak), and visit friends and family.",
+        "Prepare and share sweet dishes, especially Sheer Khurma (vermicelli pudding).",
+        "Worship: Regional (Hyderabad) - Famous for haleem and biryani during Ramadan; Charminar area lit spectacularly for Eid.",
+        "Worship: Regional (Lucknow) - Nawabi elegance — attar, sheermal, and shahi tukda; elaborate family gatherings.",
+        "Worship: Regional (Kashmir) - Hazratbal Shrine is the spiritual heart of Eid in the Valley; grand congregational prayers.",
+        "Worship: Regional (Kerala (Mappila)) - Known as Cheriya Perunnal; unique Mappila songs and traditional Malabar cuisine.",
+        "Worship: Regional (Kolkata (Park Circus)) - Largest Eid congregation in eastern India; Nakhoda Mosque overflows onto the streets.",
+        "Worship: Significance - Eid ul-Fitr is Islam's most joyous festival — the counterpoint to Ramadan's austerity. It embodies the faith's insistence on communal celebration, obligatory charity, and gratitude. In India, where Muslims are the second-largest religious community (approximately 200 million), Eid is also a moment of inter-community celebration: Hindu, Sikh, and Christian neighbours exchange sweets and greetings, making it a festival of India's broader social fabric.",
+        "Worship: Resource - Eid ul-Fitr — Wikipedia: https://en.wikipedia.org/wiki/Eid_al-Fitr",
+        "Worship: Resource - Ramadan and Eid — BBC Religion: https://www.bbc.co.uk/religion/religions/islam/holydays/eid.shtml",
+        "Worship: Resource - IslamicFinder — Eid Date Calculator: https://www.islamicfinder.org/islamic-events/"
       ],
       "story": "ईद-उल-फ़ितर रमज़ान के रोज़ों (व्रत) के समाप्त होने पर शव्वाल महीने की पहली तारीख को चांद दिखने पर मनाई जाती है। यह त्योहार अल्लाह के प्रति आभार व्यक्त करने का दिन है, जिन्होंने पूरे महीने संयम और इबादत की शक्ति दी। रमज़ान वही महीना है जिसमें पवित्र कुरान का अवतरण हुआ था। यह त्योहार आपसी भाईचारे, शांति और दान का संदेश देता है।"
     }
@@ -205,26 +257,42 @@
   },
   "ratha-yatra": {
     "en": {
-      "title": "Ratha Yatra Origin & Significance",
-      "deity": "Lord Jagannath, Lord Balabhadra, Goddess Subhadra",
-      "description": "The grand chariot festival of Puri, Odisha, where Lord Jagannath along with his siblings visits his aunt's temple (Gundicha Temple).",
+      "title": "Rath Yatra",
+      "description": "The Chariot Festival of Lord Jagannath — one of the world's largest religious processions, held at Puri, Odisha.",
+      "deity": "🎡",
+      "story": "Every year in the monsoon month of Ashadha, Lord Jagannath — \"Lord of the Universe,\" a form of Vishnu worshipped especially in Odisha — leaves his temple at Puri to visit his birthplace (or his aunt's home, in one tradition) just 3 km away. Three colossal wooden chariots, built fresh each year from specific trees selected by astrologers, carry Jagannath, his brother Balabhadra, and sister Subhadra through the streets.\n\nThe chariots are so enormous — Jagannath's \"Nandighosa\" stands 14 metres high on 16 wheels — that the English word \"juggernaut\" (an unstoppable force) derives from \"Jagannath,\" coined by medieval European travellers who saw pilgrims throw themselves before the wheels in ecstatic devotion.\n\nThe theological heart of Rath Yatra is revolutionary: inside the Jagannath temple, entry is forbidden to non-Hindus and even to certain castes. But on the street during Rath Yatra, anyone can touch the ropes of the chariot and receive the same merit as if they'd touched the deity. For one day, all hierarchies dissolve on the grand avenue (Bada Danda).",
       "rules": [
         "Participate in pulling the holy chariots if attending, which is believed to cleanse past sins.",
         "Perform Jagannath Puja at home and offer special sweets like Podapitha.",
         "Recite Jagannath Ashtakam and Vishnu Sahasranama.",
-        "Perform charity and feed the needy."
-      ],
-      "story": "Lord Jagannath (Lord Krishna) expresses his desire to visit his birthplace, Gundicha Temple, along with his elder brother Balabhadra and sister Subhadra. The siblings travel on three massive, beautifully decorated wooden chariots: Nandighosha (Jagannath), Taladhwaja (Balabhadra), and Darpadalana (Subhadra). King Indradyumna and Queen Gundicha constructed the temple and initiated the grand chariot procession. The festival represents the supreme lord leaving his grand temple to meet his devotees directly on the streets, regardless of caste, creed, or background."
+        "Perform charity and feed the needy.",
+        "Worship: Regional (Puri (Odisha)) - The original and largest — UNESCO-recognised cultural heritage; over a million pilgrims.",
+        "Worship: Regional (Ahmedabad (Gujarat)) - Second largest in India; 18 chariots process through the old city at dawn.",
+        "Worship: Regional (Kolkata (West Bengal)) - Major Rath Yatra at Mahesh (Serampore, since 1396 CE — the oldest outside Puri) and Iskcon Temple.",
+        "Worship: Regional (Global (ISKCON)) - Hare Krishna communities worldwide hold Rath Yatras — London, New York, Sydney, Toronto.",
+        "Worship: Significance - Rath Yatra is a festival of access — the god comes to the people rather than the people entering the god's house. It encodes the Bhakti movement's central argument: that devotion requires no intermediary, no caste barrier, no priestly gatekeeper. Lord Jagannath's wooden, unfinished features (no hands, no feet) are a visual statement that the divine is beyond human definition.",
+        "Worship: Resource - Rath Yatra — Wikipedia: https://en.wikipedia.org/wiki/Rath_Yatra",
+        "Worship: Resource - Puri Jagannath Temple — Official: https://www.shreejagannath.org/",
+        "Worship: Resource - Origin of 'Juggernaut' — Merriam-Webster: https://www.merriam-webster.com/dictionary/juggernaut"
+      ]
     },
     "hi": {
       "title": "रथ यात्रा का महत्व और पौराणिक कथा",
       "deity": "भगवान जगन्नाथ, बलभद्र और देवी सुभद्रा",
       "description": "पुरी, ओडिशा का विश्व प्रसिद्ध भव्य रथ उत्सव, जिसमें भगवान जगन्नाथ अपने भाई-बहन के साथ अपनी मौसी के घर (गुंडिचा मंदिर) जाते हैं।",
       "rules": [
-        "भगवान के रथों को खींचने में भाग लें, इसे अत्यंत पुण्यदायी माना गया है।",
-        "घर पर भगवान जगन्नाथ की आरती करें और विशेष रूप से पोड़ापीठा या मालपुआ का भोग लगाएं।",
-        "जगन्नाथ अष्टकम और विष्णु सहस्रनाम का पाठ करें।",
-        "गरीबों को अन्नदान करें।"
+        "Participate in pulling the holy chariots if attending, which is believed to cleanse past sins.",
+        "Perform Jagannath Puja at home and offer special sweets like Podapitha.",
+        "Recite Jagannath Ashtakam and Vishnu Sahasranama.",
+        "Perform charity and feed the needy.",
+        "Worship: Regional (Puri (Odisha)) - The original and largest — UNESCO-recognised cultural heritage; over a million pilgrims.",
+        "Worship: Regional (Ahmedabad (Gujarat)) - Second largest in India; 18 chariots process through the old city at dawn.",
+        "Worship: Regional (Kolkata (West Bengal)) - Major Rath Yatra at Mahesh (Serampore, since 1396 CE — the oldest outside Puri) and Iskcon Temple.",
+        "Worship: Regional (Global (ISKCON)) - Hare Krishna communities worldwide hold Rath Yatras — London, New York, Sydney, Toronto.",
+        "Worship: Significance - Rath Yatra is a festival of access — the god comes to the people rather than the people entering the god's house. It encodes the Bhakti movement's central argument: that devotion requires no intermediary, no caste barrier, no priestly gatekeeper. Lord Jagannath's wooden, unfinished features (no hands, no feet) are a visual statement that the divine is beyond human definition.",
+        "Worship: Resource - Rath Yatra — Wikipedia: https://en.wikipedia.org/wiki/Rath_Yatra",
+        "Worship: Resource - Puri Jagannath Temple — Official: https://www.shreejagannath.org/",
+        "Worship: Resource - Origin of 'Juggernaut' — Merriam-Webster: https://www.merriam-webster.com/dictionary/juggernaut"
       ],
       "story": "पौराणिक मान्यता के अनुसार, एक बार भगवान कृष्ण की बहन सुभद्रा ने द्वारका देखने की इच्छा प्रकट की। तब भगवान कृष्ण और बलभद्र ने उन्हें रथ में बैठाकर पूरी द्वारका का भ्रमण कराया। इसके बाद से ही हर वर्ष रथयात्रा का आयोजन होने लगा। पुरी में भगवान जगन्नाथ अपने बड़े भाई बलभद्र और बहन सुभद्रा के साथ विशाल रथों पर सवार होकर गुंडिचा मंदिर जाते हैं। यह उत्सव दर्शाता है कि कैसे स्वयं सृष्टि के स्वामी अपने गर्भगृह से बाहर आकर हर वर्ण और जाति के भक्तों को दर्शन देते हैं।"
     }
@@ -1363,6 +1431,318 @@
         "श्वानों (कुत्तों) को भोजन कराएं।"
       ],
       "story": "सती अनुसूया की परीक्षा लेने आए त्रिदेवों ने उनकी भक्ति से प्रसन्न होकर उनके पुत्र के रूप में जन्म लिया। दत्तात्रेय जी में ब्रह्मा, विष्णु और महेश तीनों का अंश समाहित है। उन्होंने प्रकृति से ही 24 गुरु बनाए और ज्ञान प्राप्त किया।"
+    }
+  },
+  "lohri": {
+    "en": {
+      "title": "Lohri",
+      "description": "Bonfire festival marking the end of winter and the harvest of the rabi crop.",
+      "deity": "🔥",
+      "story": "Lohri lights up the winter night every January 13 — always the eve of Makar Sankranti — with crackling bonfires, bhangra beats, and showers of popcorn and sesame into the flames.\n\nThe festival's oldest layer celebrates the winter solstice. The sun's northward journey (Uttarayan) begins the next morning, so Lohri is the year's last long, cold night — burned away symbolically. For Punjab's farming communities it marks the harvest of sugarcane and the planting season for wheat, two reasons to rejoice.\n\nA beloved folk story ties Lohri to Dulla Bhatti, a Robin-Hood-like hero from Mughal times who saved village girls from being sold into slavery and arranged their marriages with dignity. His songs — \"Sunder mundriye ho!\" — are still sung around every bonfire, a 400-year-old pop song passed mouth to mouth.",
+      "rules": [
+        "Worship: Regional (Punjab / Haryana) - Grand community bonfires; bhangra competitions; gifts of rewri and gajak exchanged between families.",
+        "Worship: Regional (Delhi NCR) - High-rise societies host Lohri nights on terraces with DJs mixing folk and Bollywood.",
+        "Worship: Regional (Himachal Pradesh) - Known as Maghi here; hill communities sing Pahadi folk songs around smaller fires.",
+        "Worship: Regional (Sindhi community) - Celebrated as Lal Loi with similar bonfire traditions carried from pre-partition Punjab.",
+        "Worship: Significance - Lohri is at once an agrarian thanksgiving, a winter-solstice ritual, and a community social event. It reinforces bonds of neighbourhood (mohalla) and family, and keeps alive an oral folk-music tradition in the voice of Dulla Bhatti that predates recorded Punjabi literature. For the diaspora in Canada and the UK, it has become a powerful marker of cultural identity.",
+        "Worship: Resource - Lohri — Punjab Government Cultural Portal: https://punjabgov.in/culture/festivals/lohri/",
+        "Worship: Resource - Lohri on Wikipedia: https://en.wikipedia.org/wiki/Lohri",
+        "Worship: Resource - Story of Dulla Bhatti: https://www.tribuneindia.com/news/features/the-legend-of-dulla-bhatti/"
+      ]
+    },
+    "hi": {
+      "title": "लोहड़ी",
+      "description": "Bonfire festival marking the end of winter and the harvest of the rabi crop.",
+      "deity": "🔥",
+      "story": "Lohri lights up the winter night every January 13 — always the eve of Makar Sankranti — with crackling bonfires, bhangra beats, and showers of popcorn and sesame into the flames.\n\nThe festival's oldest layer celebrates the winter solstice. The sun's northward journey (Uttarayan) begins the next morning, so Lohri is the year's last long, cold night — burned away symbolically. For Punjab's farming communities it marks the harvest of sugarcane and the planting season for wheat, two reasons to rejoice.\n\nA beloved folk story ties Lohri to Dulla Bhatti, a Robin-Hood-like hero from Mughal times who saved village girls from being sold into slavery and arranged their marriages with dignity. His songs — \"Sunder mundriye ho!\" — are still sung around every bonfire, a 400-year-old pop song passed mouth to mouth.",
+      "rules": [
+        "Worship: Regional (Punjab / Haryana) - Grand community bonfires; bhangra competitions; gifts of rewri and gajak exchanged between families.",
+        "Worship: Regional (Delhi NCR) - High-rise societies host Lohri nights on terraces with DJs mixing folk and Bollywood.",
+        "Worship: Regional (Himachal Pradesh) - Known as Maghi here; hill communities sing Pahadi folk songs around smaller fires.",
+        "Worship: Regional (Sindhi community) - Celebrated as Lal Loi with similar bonfire traditions carried from pre-partition Punjab.",
+        "Worship: Significance - Lohri is at once an agrarian thanksgiving, a winter-solstice ritual, and a community social event. It reinforces bonds of neighbourhood (mohalla) and family, and keeps alive an oral folk-music tradition in the voice of Dulla Bhatti that predates recorded Punjabi literature. For the diaspora in Canada and the UK, it has become a powerful marker of cultural identity.",
+        "Worship: Resource - Lohri — Punjab Government Cultural Portal: https://punjabgov.in/culture/festivals/lohri/",
+        "Worship: Resource - Lohri on Wikipedia: https://en.wikipedia.org/wiki/Lohri",
+        "Worship: Resource - Story of Dulla Bhatti: https://www.tribuneindia.com/news/features/the-legend-of-dulla-bhatti/"
+      ]
+    }
+  },
+  "holika-dahan": {
+    "en": {
+      "title": "Holika Dahan",
+      "description": "The bonfire of Holi eve — burning Holika to celebrate the triumph of devotion over arrogance.",
+      "deity": "🔥",
+      "story": "On the night before Holi burns the bonfire of Holika Dahan — a fire that is simultaneously mythological, seasonal, and purifying.\n\nThe story: Hiranyakashipu, a demon king, had won a boon of near-immortality and demanded that all in his kingdom worship him alone. His young son Prahlada refused — he was an ardent devotee of Vishnu. The furious king tried to kill Prahlada in twelve ways and failed each time, divinely protected. Finally, Hiranyakashipu asked his sister Holika — who possessed a magic cloak that made her fireproof — to sit in a bonfire with Prahlada on her lap.\n\nBut divine grace turned the trick: the cloak flew from Holika to Prahlada. Holika burned; Prahlada walked out unharmed. The fire we light on Purnima night re-enacts this — burning arrogance, ego, and all that is destructive, to prepare the ground for the riot of colour the next morning.",
+      "rules": [
+        "Worship: Regional (Braj Mandal (Mathura/Vrindavan)) - Holika Dahan here is especially sacred — the region where Krishna, Vishnu's avatar, played Holi.",
+        "Worship: Regional (Rajasthan) - Songs specific to Holika Dahan sung by women circling the fire.",
+        "Worship: Regional (Maharashtra) - Shimga festival begins; coconut and dried dung offerings; local folk songs.",
+        "Worship: Regional (Punjab) - The bonfire is called Holika; closely follows Lohri traditions.",
+        "Worship: Significance - Holika Dahan encodes an eternal moral: devotion and righteousness outlast tyranny. The bonfire is also seasonal — it burns the straw and dry waste of winter, literally and symbolically clearing the air for spring. Many communities use the ash to prepare herbal preparations, linking the mythological to the medicinal.",
+        "Worship: Resource - Holika Dahan — Wikipedia: https://en.wikipedia.org/wiki/Holika_Dahan",
+        "Worship: Resource - Prahlada Story — Bhagavata Purana summary: https://www.sacred-texts.com/hin/vp/index.htm"
+      ]
+    },
+    "hi": {
+      "title": "होलिका दहन",
+      "description": "The bonfire of Holi eve — burning Holika to celebrate the triumph of devotion over arrogance.",
+      "deity": "🔥",
+      "story": "On the night before Holi burns the bonfire of Holika Dahan — a fire that is simultaneously mythological, seasonal, and purifying.\n\nThe story: Hiranyakashipu, a demon king, had won a boon of near-immortality and demanded that all in his kingdom worship him alone. His young son Prahlada refused — he was an ardent devotee of Vishnu. The furious king tried to kill Prahlada in twelve ways and failed each time, divinely protected. Finally, Hiranyakashipu asked his sister Holika — who possessed a magic cloak that made her fireproof — to sit in a bonfire with Prahlada on her lap.\n\nBut divine grace turned the trick: the cloak flew from Holika to Prahlada. Holika burned; Prahlada walked out unharmed. The fire we light on Purnima night re-enacts this — burning arrogance, ego, and all that is destructive, to prepare the ground for the riot of colour the next morning.",
+      "rules": [
+        "Worship: Regional (Braj Mandal (Mathura/Vrindavan)) - Holika Dahan here is especially sacred — the region where Krishna, Vishnu's avatar, played Holi.",
+        "Worship: Regional (Rajasthan) - Songs specific to Holika Dahan sung by women circling the fire.",
+        "Worship: Regional (Maharashtra) - Shimga festival begins; coconut and dried dung offerings; local folk songs.",
+        "Worship: Regional (Punjab) - The bonfire is called Holika; closely follows Lohri traditions.",
+        "Worship: Significance - Holika Dahan encodes an eternal moral: devotion and righteousness outlast tyranny. The bonfire is also seasonal — it burns the straw and dry waste of winter, literally and symbolically clearing the air for spring. Many communities use the ash to prepare herbal preparations, linking the mythological to the medicinal.",
+        "Worship: Resource - Holika Dahan — Wikipedia: https://en.wikipedia.org/wiki/Holika_Dahan",
+        "Worship: Resource - Prahlada Story — Bhagavata Purana summary: https://www.sacred-texts.com/hin/vp/index.htm"
+      ]
+    }
+  },
+  "holi": {
+    "en": {
+      "title": "Holi",
+      "description": "The Festival of Colours — India's most exuberant celebration of spring, love, and the victory of good over evil.",
+      "deity": "🎨",
+      "story": "The morning after Holika Dahan, India erupts in colour. Holi is the festival that dissolves all boundaries — of caste, class, age, and social distance — in a blizzard of powdered pigment and water.\n\nIts deepest story is of Krishna and Radha. The dark-skinned Krishna, jealous of fair Radha's complexion, complained to his mother Yashoda. She laughingly told him to colour Radha's face with whatever colour he wished. He did, and the divine love-play of colour began. Every Holi, the plains of Braj (around Mathura and Vrindavan) re-enact this moment, the most romantic episode in all of Hindu mythology.\n\nThe festival also celebrates the harvest of rabi crops — the air thick with the fragrances of blooming flowers that produce natural colours. And it is the final exhalation of winter, a last day of abandon before the heat of summer settles in.",
+      "rules": [
+        "Worship: Regional (Braj Mandal (UP)) - Lathmar Holi at Barsana: women chase men with sticks (lathis) while men shield themselves — a re-enactment of Krishna's teasing of Radha's friends.",
+        "Worship: Regional (Vrindavan) - Phoolon wali Holi: played with flower petals; Banke Bihari temple turns into a sea of marigolds.",
+        "Worship: Regional (West Bengal) - Dol Yatra / Dol Purnima: idol of Krishna swung on a decorated swing; more devotional than raucous.",
+        "Worship: Regional (Maharashtra) - Shimga: five-day festival; rangpanchami five days later is the final colour celebration.",
+        "Worship: Regional (Manipur) - Yaosang: five-day festival with Thabal Chongba (moonlit folk dance) and community games.",
+        "Worship: Regional (Rajasthan) - Royal Holi at Jaipur with elephant processions and folk performances.",
+        "Worship: Regional (Punjab) - Hola Mohalla (next day at Anandpur Sahib): Sikh martial arts (gatka), poetry, and kirtan.",
+        "Worship: Significance - No festival captures the Indian spirit of joyful surrender to the present moment as completely as Holi. It is a sociological experiment in equality — for one morning, everyone is colourful and no one's clothes are pristine enough to signal status. The festival's global spread (Holi events now happen across Europe, North America, and Australia) suggests its message of colour-as-connection resonates far beyond its cultural origin.",
+        "Worship: Resource - Holi — Wikipedia: https://en.wikipedia.org/wiki/Holi",
+        "Worship: Resource - Holi Festival Guide — India Tourism: https://www.incredibleindia.org/content/incredibleindia/en/events/holi.html",
+        "Worship: Resource - Lathmar Holi — National Geographic: https://www.nationalgeographic.com/travel/article/lathmar-holi"
+      ]
+    },
+    "hi": {
+      "title": "होली",
+      "description": "The Festival of Colours — India's most exuberant celebration of spring, love, and the victory of good over evil.",
+      "deity": "🎨",
+      "story": "The morning after Holika Dahan, India erupts in colour. Holi is the festival that dissolves all boundaries — of caste, class, age, and social distance — in a blizzard of powdered pigment and water.\n\nIts deepest story is of Krishna and Radha. The dark-skinned Krishna, jealous of fair Radha's complexion, complained to his mother Yashoda. She laughingly told him to colour Radha's face with whatever colour he wished. He did, and the divine love-play of colour began. Every Holi, the plains of Braj (around Mathura and Vrindavan) re-enact this moment, the most romantic episode in all of Hindu mythology.\n\nThe festival also celebrates the harvest of rabi crops — the air thick with the fragrances of blooming flowers that produce natural colours. And it is the final exhalation of winter, a last day of abandon before the heat of summer settles in.",
+      "rules": [
+        "Worship: Regional (Braj Mandal (UP)) - Lathmar Holi at Barsana: women chase men with sticks (lathis) while men shield themselves — a re-enactment of Krishna's teasing of Radha's friends.",
+        "Worship: Regional (Vrindavan) - Phoolon wali Holi: played with flower petals; Banke Bihari temple turns into a sea of marigolds.",
+        "Worship: Regional (West Bengal) - Dol Yatra / Dol Purnima: idol of Krishna swung on a decorated swing; more devotional than raucous.",
+        "Worship: Regional (Maharashtra) - Shimga: five-day festival; rangpanchami five days later is the final colour celebration.",
+        "Worship: Regional (Manipur) - Yaosang: five-day festival with Thabal Chongba (moonlit folk dance) and community games.",
+        "Worship: Regional (Rajasthan) - Royal Holi at Jaipur with elephant processions and folk performances.",
+        "Worship: Regional (Punjab) - Hola Mohalla (next day at Anandpur Sahib): Sikh martial arts (gatka), poetry, and kirtan.",
+        "Worship: Significance - No festival captures the Indian spirit of joyful surrender to the present moment as completely as Holi. It is a sociological experiment in equality — for one morning, everyone is colourful and no one's clothes are pristine enough to signal status. The festival's global spread (Holi events now happen across Europe, North America, and Australia) suggests its message of colour-as-connection resonates far beyond its cultural origin.",
+        "Worship: Resource - Holi — Wikipedia: https://en.wikipedia.org/wiki/Holi",
+        "Worship: Resource - Holi Festival Guide — India Tourism: https://www.incredibleindia.org/content/incredibleindia/en/events/holi.html",
+        "Worship: Resource - Lathmar Holi — National Geographic: https://www.nationalgeographic.com/travel/article/lathmar-holi"
+      ]
+    }
+  },
+  "baisakhi": {
+    "en": {
+      "title": "Baisakhi",
+      "description": "Harvest festival of Punjab and the founding anniversary of the Khalsa — the Sikh community of the pure.",
+      "deity": "⚔️",
+      "story": "Baisakhi wears two faces: it is at once the ancient harvest festival of wheat in Punjab and one of the most important dates in Sikh history.\n\nThe agricultural layer is pre-Sikh and pan-Indian. The solar transit into Aries (Mesha Sankranti) marks the first harvest of the rabi wheat crop. For Punjab's farmers — the granary of India — this was the year's crescendo: months of sowing, tending, and praying came to fruition.\n\nThe historical layer is electric. On Baisakhi 1699, Guru Gobind Singh — the tenth and last human Guru of the Sikhs — gathered 80,000 followers at Anandpur Sahib. He emerged with a drawn sword and asked for five volunteers willing to give their lives. Five men stepped forward — the Panj Pyare (Five Beloved Ones). Instead of being killed, they were initiated into the Khalsa, the community of the pure, with the Amrit ceremony. They received new names ending in \"Singh\" (lion, for men) and \"Kaur\" (princess, for women). On this day, Sikhism transformed from a devotional movement into a community with a shared identity and code of conduct (Rehat Maryada).",
+      "rules": [
+        "Worship: Regional (Anandpur Sahib (Punjab)) - The holiest Baisakhi — pilgrims gather at the birthplace of the Khalsa; massive Amrit ceremonies.",
+        "Worship: Regional (Amritsar (Golden Temple)) - Continuous kirtan at Harmandir Sahib; flag-hoisting (Nishan Sahib changed).",
+        "Worship: Regional (Haryana / Himachal) - Agricultural fairs; traditional folk dances; wrestling bouts.",
+        "Worship: Regional (Kerala) - Vishu (same day, different tradition): auspicious first sight (Vishukani) of gold, flowers, rice, and a coin; children given Vishukaineetam (gift of money).",
+        "Worship: Regional (Tamil Nadu) - Puthandu (Tamil New Year, Apr 14): first sight of the 'Kani' tray with auspicious objects.",
+        "Worship: Significance - Baisakhi demonstrates how a natural cycle (harvest) and a historical moment (founding of the Khalsa) can fuse into something far greater than either alone. The Khalsa's founding principles — equality of all humans, service (seva), readiness to defend the weak — make Baisakhi as politically relevant today as it was in 1699. It is also the day of the Jallianwala Bagh massacre (1919), when British troops fired on a Baisakhi gathering, galvanising India's independence movement.",
+        "Worship: Resource - Baisakhi — Wikipedia: https://en.wikipedia.org/wiki/Vaisakhi",
+        "Worship: Resource - Khalsa — Sikh History: https://www.sgpc.net/history-of-khalsa/",
+        "Worship: Resource - Jallianwala Bagh — National Memorial: https://jallianwalabagh.org.in/"
+      ]
+    },
+    "hi": {
+      "title": "ਬੈਸਾਖੀ / वैसाखी",
+      "description": "Harvest festival of Punjab and the founding anniversary of the Khalsa — the Sikh community of the pure.",
+      "deity": "⚔️",
+      "story": "Baisakhi wears two faces: it is at once the ancient harvest festival of wheat in Punjab and one of the most important dates in Sikh history.\n\nThe agricultural layer is pre-Sikh and pan-Indian. The solar transit into Aries (Mesha Sankranti) marks the first harvest of the rabi wheat crop. For Punjab's farmers — the granary of India — this was the year's crescendo: months of sowing, tending, and praying came to fruition.\n\nThe historical layer is electric. On Baisakhi 1699, Guru Gobind Singh — the tenth and last human Guru of the Sikhs — gathered 80,000 followers at Anandpur Sahib. He emerged with a drawn sword and asked for five volunteers willing to give their lives. Five men stepped forward — the Panj Pyare (Five Beloved Ones). Instead of being killed, they were initiated into the Khalsa, the community of the pure, with the Amrit ceremony. They received new names ending in \"Singh\" (lion, for men) and \"Kaur\" (princess, for women). On this day, Sikhism transformed from a devotional movement into a community with a shared identity and code of conduct (Rehat Maryada).",
+      "rules": [
+        "Worship: Regional (Anandpur Sahib (Punjab)) - The holiest Baisakhi — pilgrims gather at the birthplace of the Khalsa; massive Amrit ceremonies.",
+        "Worship: Regional (Amritsar (Golden Temple)) - Continuous kirtan at Harmandir Sahib; flag-hoisting (Nishan Sahib changed).",
+        "Worship: Regional (Haryana / Himachal) - Agricultural fairs; traditional folk dances; wrestling bouts.",
+        "Worship: Regional (Kerala) - Vishu (same day, different tradition): auspicious first sight (Vishukani) of gold, flowers, rice, and a coin; children given Vishukaineetam (gift of money).",
+        "Worship: Regional (Tamil Nadu) - Puthandu (Tamil New Year, Apr 14): first sight of the 'Kani' tray with auspicious objects.",
+        "Worship: Significance - Baisakhi demonstrates how a natural cycle (harvest) and a historical moment (founding of the Khalsa) can fuse into something far greater than either alone. The Khalsa's founding principles — equality of all humans, service (seva), readiness to defend the weak — make Baisakhi as politically relevant today as it was in 1699. It is also the day of the Jallianwala Bagh massacre (1919), when British troops fired on a Baisakhi gathering, galvanising India's independence movement.",
+        "Worship: Resource - Baisakhi — Wikipedia: https://en.wikipedia.org/wiki/Vaisakhi",
+        "Worship: Resource - Khalsa — Sikh History: https://www.sgpc.net/history-of-khalsa/",
+        "Worship: Resource - Jallianwala Bagh — National Memorial: https://jallianwalabagh.org.in/"
+      ]
+    }
+  },
+  "eid-ul-adha": {
+    "en": {
+      "title": "Eid ul-Adha",
+      "description": "The Festival of Sacrifice — commemorating Ibrahim's willingness to sacrifice his son in obedience to God.",
+      "deity": "🌙",
+      "story": "Eid ul-Adha — the \"Greater Eid\" — falls at the culmination of the Hajj pilgrimage and commemorates one of the Abrahamic tradition's most profound stories.\n\nGod commanded Ibrahim (Abraham) to sacrifice his beloved son Ismail (Ishmael). Father and son, both willing, proceeded. At the decisive moment, God intervened: Ismail was replaced by a ram, and Ibrahim's devotion was declared complete. The story is a meditation on faith, surrender, and the nature of true sacrifice — not the ritual but the inner readiness that makes it meaningful.\n\nAt Mina near Mecca, Hajj pilgrims perform the ritual of Qurbani (animal sacrifice) and the stoning of pillars representing the devil who tried to dissuade Ibrahim. Muslims worldwide, even those who have not performed Hajj, perform Qurbani in solidarity — one-third of the meat kept, one-third given to relatives, one-third donated to the poor.",
+      "rules": [
+        "Worship: Regional (Hyderabad) - Haleem — the iconic slow-cooked meat-and-wheat dish — reaches its peak season at Bakrid.",
+        "Worship: Regional (Lucknow) - Galawati kebabs, nihari, and sheermal are central to the festive meal.",
+        "Worship: Regional (Kerala) - Pathiri (rice bread) with mutton curry is the traditional feast.",
+        "Worship: Regional (Kashmir) - Tabak maaz (fried lamb ribs) and rogan josh prepared on Eid.",
+        "Worship: Regional (West Bengal) - Biryani with aloo (potato) — a Kolkata-specific tradition — is the Eid dish.",
+        "Worship: Significance - Eid ul-Adha links the universal to the local: the same Quranic story is enacted from Morocco to Malaysia on the same day. Its core message — that obedience to a higher good may demand personal sacrifice — resonates far beyond any single faith. The obligatory sharing of meat with the poor also makes it one of the world's largest annual acts of organised food distribution.",
+        "Worship: Resource - Eid ul-Adha — Wikipedia: https://en.wikipedia.org/wiki/Eid_al-Adha",
+        "Worship: Resource - Story of Ibrahim — Quran (37:100-113): https://quran.com/37/100-113"
+      ]
+    },
+    "hi": {
+      "title": "ईद उल-अज़हा / बकरीद",
+      "description": "The Festival of Sacrifice — commemorating Ibrahim's willingness to sacrifice his son in obedience to God.",
+      "deity": "🌙",
+      "story": "Eid ul-Adha — the \"Greater Eid\" — falls at the culmination of the Hajj pilgrimage and commemorates one of the Abrahamic tradition's most profound stories.\n\nGod commanded Ibrahim (Abraham) to sacrifice his beloved son Ismail (Ishmael). Father and son, both willing, proceeded. At the decisive moment, God intervened: Ismail was replaced by a ram, and Ibrahim's devotion was declared complete. The story is a meditation on faith, surrender, and the nature of true sacrifice — not the ritual but the inner readiness that makes it meaningful.\n\nAt Mina near Mecca, Hajj pilgrims perform the ritual of Qurbani (animal sacrifice) and the stoning of pillars representing the devil who tried to dissuade Ibrahim. Muslims worldwide, even those who have not performed Hajj, perform Qurbani in solidarity — one-third of the meat kept, one-third given to relatives, one-third donated to the poor.",
+      "rules": [
+        "Worship: Regional (Hyderabad) - Haleem — the iconic slow-cooked meat-and-wheat dish — reaches its peak season at Bakrid.",
+        "Worship: Regional (Lucknow) - Galawati kebabs, nihari, and sheermal are central to the festive meal.",
+        "Worship: Regional (Kerala) - Pathiri (rice bread) with mutton curry is the traditional feast.",
+        "Worship: Regional (Kashmir) - Tabak maaz (fried lamb ribs) and rogan josh prepared on Eid.",
+        "Worship: Regional (West Bengal) - Biryani with aloo (potato) — a Kolkata-specific tradition — is the Eid dish.",
+        "Worship: Significance - Eid ul-Adha links the universal to the local: the same Quranic story is enacted from Morocco to Malaysia on the same day. Its core message — that obedience to a higher good may demand personal sacrifice — resonates far beyond any single faith. The obligatory sharing of meat with the poor also makes it one of the world's largest annual acts of organised food distribution.",
+        "Worship: Resource - Eid ul-Adha — Wikipedia: https://en.wikipedia.org/wiki/Eid_al-Adha",
+        "Worship: Resource - Story of Ibrahim — Quran (37:100-113): https://quran.com/37/100-113"
+      ]
+    }
+  },
+  "ganesh-chaturthi": {
+    "en": {
+      "title": "Ganesh Chaturthi",
+      "description": "Ten-day festival welcoming Lord Ganesha into homes and pandals — the beloved elephant-headed god of new beginnings.",
+      "deity": "🐘",
+      "story": "Ganesha has the head of an elephant and the body of a boy, the trunk of wisdom and the belly of abundance, a mouse as his vehicle and a laddoo in his hand. He is the first deity invoked in any Hindu ceremony — the remover of obstacles, the lord of beginnings, the patron of arts and wisdom.\n\nHow did he come to have an elephant's head? Parvati, lonely while Shiva roamed, created a boy from the turmeric paste of her body — a son made entirely of her own substance. When Shiva returned and found a stranger guarding Parvati's chambers, not knowing it was his own child, a confrontation followed and Shiva severed the boy's head. Parvati's anguish was so devastating that Shiva promised to restore the child — his soldiers found an elephant calf nearby, whose head was transplanted. Ganesha was reborn, loved by both parents, the living symbol of how destruction can become creation.\n\nThe ten-day festival in Maharashtra owes its public, community character to Bal Gangadhar Tilak, who in 1893 transformed it from a private household puja into a community festival as a tool to unite Indians across caste lines against British rule. The political became devotional; the devotional became political.",
+      "rules": [
+        "Worship: Regional (Mumbai) - The largest — Lalbaugcha Raja draws 2 million visitors; processions of 150,000+ for visarjan at Girgaum Chowpatty.",
+        "Worship: Regional (Pune) - Kasba Ganapati (the city's manacha/chief Ganapati) and four other honoured idols have century-old traditions.",
+        "Worship: Regional (Hyderabad) - Khairatabad Ganesh — one of India's tallest idols (up to 70 feet); 11-day celebration.",
+        "Worship: Regional (Goa) - Clay idols in family homes; traditional Konkani songs; visarjan in the sea.",
+        "Worship: Regional (Karnataka) - Major celebrations in Bengaluru; government-sponsored cultural programmes.",
+        "Worship: Significance - Ganesh Chaturthi is a masterclass in how festivals can carry political meaning. Tilak's insight — that a beloved god could unite people where political argument could not — remains powerful. The festival also prompts modern questions about ecology: clay (shadu mati) idols dissolve without harming rivers; plaster-of-Paris idols do not. The \"green Ganesha\" movement reflects the festival's capacity for self-reform.",
+        "Worship: Resource - Ganesh Chaturthi — Wikipedia: https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+        "Worship: Resource - Tilak and Ganeshotsav — political history: https://www.livehistoryindia.com/story/people/bal-gangadhar-tilak-and-the-ganeshotsava-festival/",
+        "Worship: Resource - Eco-friendly Ganesha initiative: https://www.earth5r.org/green-ganesh/"
+      ]
+    },
+    "hi": {
+      "title": "गणेश चतुर्थी",
+      "description": "Ten-day festival welcoming Lord Ganesha into homes and pandals — the beloved elephant-headed god of new beginnings.",
+      "deity": "🐘",
+      "story": "Ganesha has the head of an elephant and the body of a boy, the trunk of wisdom and the belly of abundance, a mouse as his vehicle and a laddoo in his hand. He is the first deity invoked in any Hindu ceremony — the remover of obstacles, the lord of beginnings, the patron of arts and wisdom.\n\nHow did he come to have an elephant's head? Parvati, lonely while Shiva roamed, created a boy from the turmeric paste of her body — a son made entirely of her own substance. When Shiva returned and found a stranger guarding Parvati's chambers, not knowing it was his own child, a confrontation followed and Shiva severed the boy's head. Parvati's anguish was so devastating that Shiva promised to restore the child — his soldiers found an elephant calf nearby, whose head was transplanted. Ganesha was reborn, loved by both parents, the living symbol of how destruction can become creation.\n\nThe ten-day festival in Maharashtra owes its public, community character to Bal Gangadhar Tilak, who in 1893 transformed it from a private household puja into a community festival as a tool to unite Indians across caste lines against British rule. The political became devotional; the devotional became political.",
+      "rules": [
+        "Worship: Regional (Mumbai) - The largest — Lalbaugcha Raja draws 2 million visitors; processions of 150,000+ for visarjan at Girgaum Chowpatty.",
+        "Worship: Regional (Pune) - Kasba Ganapati (the city's manacha/chief Ganapati) and four other honoured idols have century-old traditions.",
+        "Worship: Regional (Hyderabad) - Khairatabad Ganesh — one of India's tallest idols (up to 70 feet); 11-day celebration.",
+        "Worship: Regional (Goa) - Clay idols in family homes; traditional Konkani songs; visarjan in the sea.",
+        "Worship: Regional (Karnataka) - Major celebrations in Bengaluru; government-sponsored cultural programmes.",
+        "Worship: Significance - Ganesh Chaturthi is a masterclass in how festivals can carry political meaning. Tilak's insight — that a beloved god could unite people where political argument could not — remains powerful. The festival also prompts modern questions about ecology: clay (shadu mati) idols dissolve without harming rivers; plaster-of-Paris idols do not. The \"green Ganesha\" movement reflects the festival's capacity for self-reform.",
+        "Worship: Resource - Ganesh Chaturthi — Wikipedia: https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+        "Worship: Resource - Tilak and Ganeshotsav — political history: https://www.livehistoryindia.com/story/people/bal-gangadhar-tilak-and-the-ganeshotsava-festival/",
+        "Worship: Resource - Eco-friendly Ganesha initiative: https://www.earth5r.org/green-ganesh/"
+      ]
+    }
+  },
+  "bhai-dooj": {
+    "en": {
+      "title": "Bhai Dooj",
+      "description": "The sister-brother festival that closes the Diwali sequence — sisters apply tilak on brothers' foreheads and pray for their wellbeing.",
+      "deity": "🤝",
+      "story": "Two days after Diwali, the sibling bond celebrated in Rakshabandhan (Shravana) is renewed. Yama, the god of death, visited his sister Yami (the River Yamuna) on this day. Delighted, she applied tilak on his forehead and fed him. Yama, in return, declared that any brother who receives tilak from his sister on this day will be protected from untimely death.\n\nThe festival is called Bhai Dooj in Hindi, Bhai Phota in Bengal (where \"phota\" means the ceremonial mark), Bhau Beej in Maharashtra, and Yamadwiteya (honouring the Yama-Yami story) in some traditions.",
+      "rules": [
+        "Worship: Regional (West Bengal) - Bhai Phota — elaborate ceremony; the sister creates a complex design on the brother's forehead using sandalwood paste.",
+        "Worship: Regional (Maharashtra) - Bhau Beej — brothers invited to sisters' homes for a meal; sweets of Diwali served.",
+        "Worship: Regional (Goa) - Bhav Bij — special coconut sweets prepared by sisters.",
+        "Worship: Significance - The Diwali quintet ends on the note of siblinghood — the most egalitarian human relationship, chosen by neither party and yet often the most enduring. That a festival sequence beginning with wealth (Dhanteras) ends with love (Bhai Dooj) says something about India's actual hierarchy of values.",
+        "Worship: Resource - Bhai Dooj — Wikipedia: https://en.wikipedia.org/wiki/Bhai_Dooj"
+      ]
+    },
+    "hi": {
+      "title": "भाई दूज",
+      "description": "The sister-brother festival that closes the Diwali sequence — sisters apply tilak on brothers' foreheads and pray for their wellbeing.",
+      "deity": "🤝",
+      "story": "Two days after Diwali, the sibling bond celebrated in Rakshabandhan (Shravana) is renewed. Yama, the god of death, visited his sister Yami (the River Yamuna) on this day. Delighted, she applied tilak on his forehead and fed him. Yama, in return, declared that any brother who receives tilak from his sister on this day will be protected from untimely death.\n\nThe festival is called Bhai Dooj in Hindi, Bhai Phota in Bengal (where \"phota\" means the ceremonial mark), Bhau Beej in Maharashtra, and Yamadwiteya (honouring the Yama-Yami story) in some traditions.",
+      "rules": [
+        "Worship: Regional (West Bengal) - Bhai Phota — elaborate ceremony; the sister creates a complex design on the brother's forehead using sandalwood paste.",
+        "Worship: Regional (Maharashtra) - Bhau Beej — brothers invited to sisters' homes for a meal; sweets of Diwali served.",
+        "Worship: Regional (Goa) - Bhav Bij — special coconut sweets prepared by sisters.",
+        "Worship: Significance - The Diwali quintet ends on the note of siblinghood — the most egalitarian human relationship, chosen by neither party and yet often the most enduring. That a festival sequence beginning with wealth (Dhanteras) ends with love (Bhai Dooj) says something about India's actual hierarchy of values.",
+        "Worship: Resource - Bhai Dooj — Wikipedia: https://en.wikipedia.org/wiki/Bhai_Dooj"
+      ]
+    }
+  },
+  "guru-nanak-jayanti": {
+    "en": {
+      "title": "Guru Nanak Jayanti",
+      "description": "Birthday of Guru Nanak Dev Ji — founder of Sikhism and one of history's greatest mystic poets.",
+      "deity": "☀️",
+      "story": "Guru Nanak was born on Kartik Purnima in 1469 in Nankana Sahib (present-day Pakistan). From childhood, he was drawn to spiritual questions rather than worldly success, angering his father but entrancing neighbours with his wisdom. At 30, he disappeared into a river for three days and emerged transformed — declaring \"There is no Hindu, there is no Muslim.\" His mission: to make the One God's love accessible to all.\n\nOver the next 25 years he undertook four great Udasis (journeys) — north to the Himalayas and Tibet, south to Sri Lanka, east to Assam and Bengal, and west to Mecca and Baghdad — covering over 28,000 km largely on foot. Everywhere he challenged caste, religious exclusivity, and the rituals that separated humans from God and from each other.\n\nHis compositions — 974 hymns in the Guru Granth Sahib — are in 19 languages, including Hindi, Punjabi, Persian, Sanskrit, and several regional dialects, making them the most linguistically diverse sacred scripture of a single author in the world. The message is singular: the divine is One, and love is the only language in which it speaks.",
+      "rules": [
+        "Worship: Regional (Amritsar (Golden Temple)) - The holiest celebration; the entire Harmandir Sahib complex illuminated; lakhs of pilgrims take a dip in the Amrit Sarovar.",
+        "Worship: Regional (Nankana Sahib (Pakistan)) - Guru Nanak's birthplace; Sikh pilgrims from India and worldwide granted visas.",
+        "Worship: Regional (Delhi) - Gurdwara Sis Ganj, Bangla Sahib, and Rakab Ganj light up; massive langar.",
+        "Worship: Regional (Patna (Bihar)) - Also the birthplace of Guru Gobind Singh; Takht Sri Patna Sahib celebrations.",
+        "Worship: Significance - Guru Nanak's ideas — that God is accessible to all without priestly mediation, that honest labour (kirat karo), sharing (vand chhako), and remembrance of God (naam japo) are the complete spiritual path — are as countercultural today as they were in 1499. The langar tradition he established, which feeds millions daily in Gurdwaras worldwide without asking for religion, caste, or wealth, may be humanity's longest-running experiment in universal hospitality.",
+        "Worship: Resource - Guru Nanak — Wikipedia: https://en.wikipedia.org/wiki/Guru_Nanak",
+        "Worship: Resource - Japji Sahib — Guru Nanak's morning prayer: https://www.sikhnet.com/japji",
+        "Worship: Resource - Golden Temple — Official: https://www.goldentempleamritsar.org/"
+      ]
+    },
+    "hi": {
+      "title": "ਗੁਰੂ ਨਾਨਕ ਜਯੰਤੀ",
+      "description": "Birthday of Guru Nanak Dev Ji — founder of Sikhism and one of history's greatest mystic poets.",
+      "deity": "☀️",
+      "story": "Guru Nanak was born on Kartik Purnima in 1469 in Nankana Sahib (present-day Pakistan). From childhood, he was drawn to spiritual questions rather than worldly success, angering his father but entrancing neighbours with his wisdom. At 30, he disappeared into a river for three days and emerged transformed — declaring \"There is no Hindu, there is no Muslim.\" His mission: to make the One God's love accessible to all.\n\nOver the next 25 years he undertook four great Udasis (journeys) — north to the Himalayas and Tibet, south to Sri Lanka, east to Assam and Bengal, and west to Mecca and Baghdad — covering over 28,000 km largely on foot. Everywhere he challenged caste, religious exclusivity, and the rituals that separated humans from God and from each other.\n\nHis compositions — 974 hymns in the Guru Granth Sahib — are in 19 languages, including Hindi, Punjabi, Persian, Sanskrit, and several regional dialects, making them the most linguistically diverse sacred scripture of a single author in the world. The message is singular: the divine is One, and love is the only language in which it speaks.",
+      "rules": [
+        "Worship: Regional (Amritsar (Golden Temple)) - The holiest celebration; the entire Harmandir Sahib complex illuminated; lakhs of pilgrims take a dip in the Amrit Sarovar.",
+        "Worship: Regional (Nankana Sahib (Pakistan)) - Guru Nanak's birthplace; Sikh pilgrims from India and worldwide granted visas.",
+        "Worship: Regional (Delhi) - Gurdwara Sis Ganj, Bangla Sahib, and Rakab Ganj light up; massive langar.",
+        "Worship: Regional (Patna (Bihar)) - Also the birthplace of Guru Gobind Singh; Takht Sri Patna Sahib celebrations.",
+        "Worship: Significance - Guru Nanak's ideas — that God is accessible to all without priestly mediation, that honest labour (kirat karo), sharing (vand chhako), and remembrance of God (naam japo) are the complete spiritual path — are as countercultural today as they were in 1499. The langar tradition he established, which feeds millions daily in Gurdwaras worldwide without asking for religion, caste, or wealth, may be humanity's longest-running experiment in universal hospitality.",
+        "Worship: Resource - Guru Nanak — Wikipedia: https://en.wikipedia.org/wiki/Guru_Nanak",
+        "Worship: Resource - Japji Sahib — Guru Nanak's morning prayer: https://www.sikhnet.com/japji",
+        "Worship: Resource - Golden Temple — Official: https://www.goldentempleamritsar.org/"
+      ]
+    }
+  },
+  "christmas": {
+    "en": {
+      "title": "Christmas",
+      "description": "The birth of Jesus Christ — celebrated across India with Midnight Mass, carols, decorated trees, and a uniquely Indian festive warmth.",
+      "deity": "⭐",
+      "story": "December 25 is the day Christians worldwide celebrate the birth of Jesus of Nazareth — the central figure of Christianity, believed to be the Son of God and the Messiah promised in the Hebrew scriptures. The nativity story: Mary and Joseph, travelling to Bethlehem for a Roman census, find no room at any inn. The child is born in a stable among animals, visited first by shepherds told by angels, then by the Magi (wise men from the East) who follow a star.\n\nChristianity arrived in India remarkably early. The Thomas Christians of Kerala trace their origin to the apostle Thomas, who is said to have landed at Cranganore (Kodungallur) in 52 CE — before Christianity had even reached most of Europe. Francis Xavier brought Jesuit Christianity to Goa in the 16th century. The British brought Protestant missions in the 18th and 19th centuries. India's Christian community of approximately 30 million is one of the oldest in the world.\n\nChristmas in India has absorbed Indian colour: Santa Claus arrives not through snow but through tropical warmth; decorations include marigold garlands alongside tinsel; midnight mass is attended by people of all faiths in the spirit of neighbourhood.",
+      "rules": [
+        "Worship: Regional (Goa) - Most festive in India — Portuguese Christian heritage; Midnight Mass at the Basilica of Bom Jesus; Goan pork sorpotel and bebinca; star lanterns (farol) in every window.",
+        "Worship: Regional (Kerala) - Thomas Christian heritage; Midnight Mass at ancient Syrian Christian churches; Kerala puttu and chicken curry for Christmas breakfast.",
+        "Worship: Regional (Meghalaya / Nagaland) - Predominantly Christian states; communities celebrate like a national festival; carol competitions across villages.",
+        "Worship: Regional (Mumbai) - Mount Mary Church in Bandra; large East Indian Catholic community; Christmas bazaars.",
+        "Worship: Regional (Tamil Nadu) - Church processions; Christians in village communities construct nativity scenes from terracotta.",
+        "Worship: Regional (Delhi) - Sacred Heart Cathedral; interfaith carol concerts; markets at Connaught Place and INA.",
+        "Worship: Significance - Christmas in India is an example of India's civilisational superpower: the ability to celebrate the other's joy as your own. Hindus, Muslims, and Sikhs attend Midnight Mass, exchange gifts, and share plum cake — not because they have converted their theology but because hospitality is its own theology here. The festival has also become deeply commercial, but beneath the tinsel remains the story of a child born in poverty, in an animal shelter, who changed the world.",
+        "Worship: Resource - Christianity in India — Wikipedia: https://en.wikipedia.org/wiki/Christianity_in_India",
+        "Worship: Resource - Thomas Christians — Kerala Heritage: https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
+        "Worship: Resource - Christmas in Goa — Goa Tourism: https://www.goa-tourism.com/christmas-in-goa.html"
+      ]
+    },
+    "hi": {
+      "title": "क्रिसमस",
+      "description": "The birth of Jesus Christ — celebrated across India with Midnight Mass, carols, decorated trees, and a uniquely Indian festive warmth.",
+      "deity": "⭐",
+      "story": "December 25 is the day Christians worldwide celebrate the birth of Jesus of Nazareth — the central figure of Christianity, believed to be the Son of God and the Messiah promised in the Hebrew scriptures. The nativity story: Mary and Joseph, travelling to Bethlehem for a Roman census, find no room at any inn. The child is born in a stable among animals, visited first by shepherds told by angels, then by the Magi (wise men from the East) who follow a star.\n\nChristianity arrived in India remarkably early. The Thomas Christians of Kerala trace their origin to the apostle Thomas, who is said to have landed at Cranganore (Kodungallur) in 52 CE — before Christianity had even reached most of Europe. Francis Xavier brought Jesuit Christianity to Goa in the 16th century. The British brought Protestant missions in the 18th and 19th centuries. India's Christian community of approximately 30 million is one of the oldest in the world.\n\nChristmas in India has absorbed Indian colour: Santa Claus arrives not through snow but through tropical warmth; decorations include marigold garlands alongside tinsel; midnight mass is attended by people of all faiths in the spirit of neighbourhood.",
+      "rules": [
+        "Worship: Regional (Goa) - Most festive in India — Portuguese Christian heritage; Midnight Mass at the Basilica of Bom Jesus; Goan pork sorpotel and bebinca; star lanterns (farol) in every window.",
+        "Worship: Regional (Kerala) - Thomas Christian heritage; Midnight Mass at ancient Syrian Christian churches; Kerala puttu and chicken curry for Christmas breakfast.",
+        "Worship: Regional (Meghalaya / Nagaland) - Predominantly Christian states; communities celebrate like a national festival; carol competitions across villages.",
+        "Worship: Regional (Mumbai) - Mount Mary Church in Bandra; large East Indian Catholic community; Christmas bazaars.",
+        "Worship: Regional (Tamil Nadu) - Church processions; Christians in village communities construct nativity scenes from terracotta.",
+        "Worship: Regional (Delhi) - Sacred Heart Cathedral; interfaith carol concerts; markets at Connaught Place and INA.",
+        "Worship: Significance - Christmas in India is an example of India's civilisational superpower: the ability to celebrate the other's joy as your own. Hindus, Muslims, and Sikhs attend Midnight Mass, exchange gifts, and share plum cake — not because they have converted their theology but because hospitality is its own theology here. The festival has also become deeply commercial, but beneath the tinsel remains the story of a child born in poverty, in an animal shelter, who changed the world.",
+        "Worship: Resource - Christianity in India — Wikipedia: https://en.wikipedia.org/wiki/Christianity_in_India",
+        "Worship: Resource - Thomas Christians — Kerala Heritage: https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
+        "Worship: Resource - Christmas in Goa — Goa Tourism: https://www.goa-tourism.com/christmas-in-goa.html"
+      ]
     }
   }
 }
