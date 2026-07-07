@@ -432,5 +432,525 @@
       ],
       "story": "कश्मीरी पंडितों की धार्मिक स्वतंत्रता की रक्षा के लिए गुरु तेग बहादुर जी स्वयं दिल्ली आए और औरंगजेब की कैद में रहकर यातनाएं सहीं। उन्होंने धर्म परिवर्तन से मना किया और चांदनी चौक पर शहीद हो गए, जिसे आज गुरुद्वारा सीस गंज साहिब के नाम से जाना जाता है।"
     }
+  },
+  "gudi-padwa": {
+    "en": {
+      "title": "Gudi Padwa / Ugadi",
+      "description": "The Hindu New Year for Maharashtra and the Deccan — celebrating the start of the new Panchanga year.",
+      "deity": "🌅",
+      "story": "When the Chaitra month begins — typically in late March or early April — the Hindu lunisolar calendar turns a new page. This is Chaitra Shukla Pratipada: the first day of the first bright fortnight of the first month. Ugadi (from Sanskrit \"Yuga\" + \"Adi\" = beginning of an age) and Gudi Padwa (Marathi for \"flag of the new year\") celebrate this cosmic beginning.\n\nBrahma, the creator, is said to have begun creating the universe on this very tithi (lunar day). The Vikrama and Shalivahana calendars both begin here. The Shalivahana era, which counts years from the military victory of King Shalivahana in the first century CE, is the traditional calendar of the Deccan and is still used in Maharashtra's Panchanga.\n\nIn Maharashtra, the Gudi — a bamboo staff adorned with a copper pot, neem leaves, mango leaves, flowers, and a silk cloth — is erected outside every home at dawn. It represents the victory flag of Lord Rama, who returned to Ayodhya after defeating Ravana, or alternatively the flag of Shalivahana's victorious army.",
+      "rules": [
+        "Worship: Regional (Maharashtra) - Gudi hoisted outside homes; shrikhand-puri feast; Gudi Padwa processions in Mumbai.",
+        "Worship: Regional (Karnataka / AP / Telangana) - Ugadi; Ugadi Pachadi (six-taste chutney) is central; new accounts opened; Panchanga Sravanam (public reading of almanac).",
+        "Worship: Regional (Goa (Konkani)) - Called Sanvsar Padvo; Konkani community celebrations.",
+        "Worship: Regional (Sindhi community) - Cheti Chand (same day): Sindhi New Year honouring Saint Jhulelal, deity of the River Indus.",
+        "Worship: Regional (Kashmir (Kashmiri Pandits)) - Navreh: Kashmiri New Year; thali of rice, walnuts, and Panchanga placed by the bedside the night before.",
+        "Worship: Significance - The New Year festival of the Deccan carries within it a complete philosophy of life — the Ugadi Pachadi that mixes bitter, sweet, sour, and spicy in one bowl is a reminder that a well-lived year will contain all emotions, and that one must greet them all with equanimity. The act of reading the Panchanga publicly makes astronomy a community affair.",
+        "Worship: Resource - Gudi Padwa — Wikipedia: https://en.wikipedia.org/wiki/Gudi_Padwa",
+        "Worship: Resource - Ugadi — Wikipedia: https://en.wikipedia.org/wiki/Ugadi",
+        "Worship: Resource - Cheti Chand — Sindhi New Year: https://en.wikipedia.org/wiki/Cheti_Chand"
+      ]
+    },
+    "hi": {
+      "title": "गुडी पाडवा / उगादि",
+      "description": "The Hindu New Year for Maharashtra and the Deccan — celebrating the start of the new Panchanga year.",
+      "deity": "🌅",
+      "story": "When the Chaitra month begins — typically in late March or early April — the Hindu lunisolar calendar turns a new page. This is Chaitra Shukla Pratipada: the first day of the first bright fortnight of the first month. Ugadi (from Sanskrit \"Yuga\" + \"Adi\" = beginning of an age) and Gudi Padwa (Marathi for \"flag of the new year\") celebrate this cosmic beginning.\n\nBrahma, the creator, is said to have begun creating the universe on this very tithi (lunar day). The Vikrama and Shalivahana calendars both begin here. The Shalivahana era, which counts years from the military victory of King Shalivahana in the first century CE, is the traditional calendar of the Deccan and is still used in Maharashtra's Panchanga.\n\nIn Maharashtra, the Gudi — a bamboo staff adorned with a copper pot, neem leaves, mango leaves, flowers, and a silk cloth — is erected outside every home at dawn. It represents the victory flag of Lord Rama, who returned to Ayodhya after defeating Ravana, or alternatively the flag of Shalivahana's victorious army.",
+      "rules": [
+        "Worship: Regional (Maharashtra) - Gudi hoisted outside homes; shrikhand-puri feast; Gudi Padwa processions in Mumbai.",
+        "Worship: Regional (Karnataka / AP / Telangana) - Ugadi; Ugadi Pachadi (six-taste chutney) is central; new accounts opened; Panchanga Sravanam (public reading of almanac).",
+        "Worship: Regional (Goa (Konkani)) - Called Sanvsar Padvo; Konkani community celebrations.",
+        "Worship: Regional (Sindhi community) - Cheti Chand (same day): Sindhi New Year honouring Saint Jhulelal, deity of the River Indus.",
+        "Worship: Regional (Kashmir (Kashmiri Pandits)) - Navreh: Kashmiri New Year; thali of rice, walnuts, and Panchanga placed by the bedside the night before.",
+        "Worship: Significance - The New Year festival of the Deccan carries within it a complete philosophy of life — the Ugadi Pachadi that mixes bitter, sweet, sour, and spicy in one bowl is a reminder that a well-lived year will contain all emotions, and that one must greet them all with equanimity. The act of reading the Panchanga publicly makes astronomy a community affair.",
+        "Worship: Resource - Gudi Padwa — Wikipedia: https://en.wikipedia.org/wiki/Gudi_Padwa",
+        "Worship: Resource - Ugadi — Wikipedia: https://en.wikipedia.org/wiki/Ugadi",
+        "Worship: Resource - Cheti Chand — Sindhi New Year: https://en.wikipedia.org/wiki/Cheti_Chand"
+      ]
+    }
+  },
+  "dussehra": {
+    "en": {
+      "title": "Dussehra / Vijayadashami",
+      "description": "Victory of good over evil — Rama's defeat of Ravana and Durga's defeat of Mahishasura, celebrated with burning of Ravana's effigy.",
+      "deity": "🏹",
+      "story": "Vijayadashami means \"the tenth day of victory.\" It celebrates two simultaneous mythological victories: Rama's defeat of the ten-headed demon king Ravana, ending a fourteen-year exile and rescuing Sita; and Durga's final destruction of Mahishasura on this same tenth day after nine nights of battle.\n\nThe burning of Ravana's effigy is a primal drama: towering figures of Ravana, his brother Kumbhakarna, and his son Meghanada — stuffed with fireworks — are ignited at dusk, lighting up the sky in a thunderous finale. Ram Lila — dramatic re-enactments of the Ramayana performed for the preceding thirty days — culminates in the burning.\n\nVijayadashami is also the traditional day to begin new enterprises. Weapons and tools are worshipped (Ayudha Puja in the South). Learned people begin new studies. Armies traditionally began campaigns on this day.",
+      "rules": [
+        "Worship: Regional (Delhi (Ramlila Maidan)) - Effigy of Ravana at Delhi's famous Ramlila, attended by the Prime Minister.",
+        "Worship: Regional (Varanasi / Ayodhya) - Month-long Ram Lila ends; one of the oldest dramatic traditions in India.",
+        "Worship: Regional (Mysuru (Karnataka)) - Dasara — the grandest secular festival of South India; golden howdah elephant procession, lit palace.",
+        "Worship: Regional (Kullu (Himachal)) - Kullu Dussehra — week-long festival beginning after Vijayadashami, unique regional tradition.",
+        "Worship: Regional (Bastar (Chhattisgarh)) - Bastar Dussehra — tribal traditions going back 600 years; 75-day celebration of goddess Danteshwari.",
+        "Worship: Significance - The burning of Ravana is a ritual of civic psychology — the community identifies its demons (corruption, injustice, arrogance) and symbolically destroys them. That this ritual is performed year after year — and the demons always return — is an admission of the ongoing nature of the moral struggle. Dussehra is not the end of evil but an annual renewal of the intention to fight it.",
+        "Worship: Resource - Dussehra — Wikipedia: https://en.wikipedia.org/wiki/Dussehra",
+        "Worship: Resource - Ram Lila, Delhi — Intangible Heritage: https://ich.unesco.org/en/RL/ramlila-the-traditional-performance-of-the-ramayana-00001"
+      ]
+    },
+    "hi": {
+      "title": "दशहरा / विजयदशमी",
+      "description": "Victory of good over evil — Rama's defeat of Ravana and Durga's defeat of Mahishasura, celebrated with burning of Ravana's effigy.",
+      "deity": "🏹",
+      "story": "Vijayadashami means \"the tenth day of victory.\" It celebrates two simultaneous mythological victories: Rama's defeat of the ten-headed demon king Ravana, ending a fourteen-year exile and rescuing Sita; and Durga's final destruction of Mahishasura on this same tenth day after nine nights of battle.\n\nThe burning of Ravana's effigy is a primal drama: towering figures of Ravana, his brother Kumbhakarna, and his son Meghanada — stuffed with fireworks — are ignited at dusk, lighting up the sky in a thunderous finale. Ram Lila — dramatic re-enactments of the Ramayana performed for the preceding thirty days — culminates in the burning.\n\nVijayadashami is also the traditional day to begin new enterprises. Weapons and tools are worshipped (Ayudha Puja in the South). Learned people begin new studies. Armies traditionally began campaigns on this day.",
+      "rules": [
+        "Worship: Regional (Delhi (Ramlila Maidan)) - Effigy of Ravana at Delhi's famous Ramlila, attended by the Prime Minister.",
+        "Worship: Regional (Varanasi / Ayodhya) - Month-long Ram Lila ends; one of the oldest dramatic traditions in India.",
+        "Worship: Regional (Mysuru (Karnataka)) - Dasara — the grandest secular festival of South India; golden howdah elephant procession, lit palace.",
+        "Worship: Regional (Kullu (Himachal)) - Kullu Dussehra — week-long festival beginning after Vijayadashami, unique regional tradition.",
+        "Worship: Regional (Bastar (Chhattisgarh)) - Bastar Dussehra — tribal traditions going back 600 years; 75-day celebration of goddess Danteshwari.",
+        "Worship: Significance - The burning of Ravana is a ritual of civic psychology — the community identifies its demons (corruption, injustice, arrogance) and symbolically destroys them. That this ritual is performed year after year — and the demons always return — is an admission of the ongoing nature of the moral struggle. Dussehra is not the end of evil but an annual renewal of the intention to fight it.",
+        "Worship: Resource - Dussehra — Wikipedia: https://en.wikipedia.org/wiki/Dussehra",
+        "Worship: Resource - Ram Lila, Delhi — Intangible Heritage: https://ich.unesco.org/en/RL/ramlila-the-traditional-performance-of-the-ramayana-00001"
+      ]
+    }
+  },
+  "winter-olympics-2026": {
+    "en": {
+      "title": "Winter Olympics 2026",
+      "description": "The XXV Winter Olympics in Milano-Cortina, Italy — India's athletes compete in alpine skiing and cross-country events.",
+      "deity": "🏔️",
+      "story": "The 2026 Winter Olympic Games (February 6–22) unfolded across the breathtaking landscape of the Italian Alps — Milan's ice arenas, Cortina d'Ampezzo's alpine runs, Livigno's snowboard halfpipe, and the ski jumps of Val di Fiemme. More than 3,500 athletes from 93 nations competed across 16 disciplines and 195 events.\n\nThe Games marked a historic milestone: NHL players returned to Olympic ice hockey for the first time since 2014, following a breakthrough agreement between the IIHF and the league. The debut sport of ski mountaineering — racing up and down steep slopes on lightweight skis — added a thrilling new dimension to the programme.\n\nIndia sent a small contingent, with alpine skier Arif Khan and cross-country specialists among those carrying the tricolour. While medals eluded India's winter athletes — as they typically do — their participation on the world's biggest winter stage is itself a growing story of a tropical nation finding its feet in the snow.",
+      "rules": [
+        "Worship: Regional (Himachal Pradesh / J&K / Uttarakhand) - Mountain states with ski slopes watched most keenly — Gulmarg and Auli resorts saw an uptick in visitors inspired by Olympic alpine events.",
+        "Worship: Regional (Delhi / Mumbai (urban viewers)) - Sports bars and streaming viewership peaked for figure skating and short-track speed skating.",
+        "Worship: Regional (Indian Olympic Association) - Focused on lessons for 2030 Winter Olympics preparation; discussions on funding for young athletes in luge and biathlon.",
+        "Worship: Significance - Every Winter Olympics is a reminder that India's sporting horizon extends beyond cricket, wrestling, and badminton. The Himalayas offer natural terrain for world-class winter athletes — the challenge is infrastructure, funding, and identifying talent early. India's long-term ambition: host a Winter Olympics in the 2040s.",
+        "Worship: Resource - Milano Cortina 2026 — Official Site: https://www.olympics.com/en/milano-cortina-2026",
+        "Worship: Resource - 2026 Winter Olympics — Wikipedia: https://en.wikipedia.org/wiki/2026_Winter_Olympics"
+      ]
+    },
+    "hi": {
+      "title": "शीतकालीन ओलंपिक 2026",
+      "description": "The XXV Winter Olympics in Milano-Cortina, Italy — India's athletes compete in alpine skiing and cross-country events.",
+      "deity": "🏔️",
+      "story": "The 2026 Winter Olympic Games (February 6–22) unfolded across the breathtaking landscape of the Italian Alps — Milan's ice arenas, Cortina d'Ampezzo's alpine runs, Livigno's snowboard halfpipe, and the ski jumps of Val di Fiemme. More than 3,500 athletes from 93 nations competed across 16 disciplines and 195 events.\n\nThe Games marked a historic milestone: NHL players returned to Olympic ice hockey for the first time since 2014, following a breakthrough agreement between the IIHF and the league. The debut sport of ski mountaineering — racing up and down steep slopes on lightweight skis — added a thrilling new dimension to the programme.\n\nIndia sent a small contingent, with alpine skier Arif Khan and cross-country specialists among those carrying the tricolour. While medals eluded India's winter athletes — as they typically do — their participation on the world's biggest winter stage is itself a growing story of a tropical nation finding its feet in the snow.",
+      "rules": [
+        "Worship: Regional (Himachal Pradesh / J&K / Uttarakhand) - Mountain states with ski slopes watched most keenly — Gulmarg and Auli resorts saw an uptick in visitors inspired by Olympic alpine events.",
+        "Worship: Regional (Delhi / Mumbai (urban viewers)) - Sports bars and streaming viewership peaked for figure skating and short-track speed skating.",
+        "Worship: Regional (Indian Olympic Association) - Focused on lessons for 2030 Winter Olympics preparation; discussions on funding for young athletes in luge and biathlon.",
+        "Worship: Significance - Every Winter Olympics is a reminder that India's sporting horizon extends beyond cricket, wrestling, and badminton. The Himalayas offer natural terrain for world-class winter athletes — the challenge is infrastructure, funding, and identifying talent early. India's long-term ambition: host a Winter Olympics in the 2040s.",
+        "Worship: Resource - Milano Cortina 2026 — Official Site: https://www.olympics.com/en/milano-cortina-2026",
+        "Worship: Resource - 2026 Winter Olympics — Wikipedia: https://en.wikipedia.org/wiki/2026_Winter_Olympics"
+      ]
+    }
+  },
+  "icc-t20-wc-2026": {
+    "en": {
+      "title": "ICC Men's T20 World Cup 2026",
+      "description": "India co-hosts the Men's T20 World Cup — 20 teams, 55 matches across Narendra Modi Stadium, Eden Gardens, Wankhede, and more.",
+      "deity": "🏏",
+      "story": "The 10th edition of the ICC Men's T20 World Cup (February 7 – March 8, 2026) was a homecoming like no other. India and Sri Lanka co-hosted a 20-team, 55-match tournament that brought the world's best T20 cricketers to the iconic cathedrals of Indian cricket: the 132,000-capacity Narendra Modi Stadium in Ahmedabad, Eden Gardens in Kolkata, Wankhede in Mumbai, Chepauk in Chennai, and the Arun Jaitley Stadium in Delhi.\n\nDefending champions India — the team that won the 2024 World Cup in the West Indies — entered as heavy favourites on home soil. The tournament's most anticipated match: India vs Pakistan on February 15 in Colombo, held at a neutral venue per bilateral agreement.\n\nNew entry Italy made their first-ever Men's T20 World Cup appearance, while Bangladesh's withdrawal (over security concerns about playing in India) led to Scotland stepping in — the first time Bangladesh missed a men's T20 World Cup.",
+      "rules": [
+        "Worship: Regional (Ahmedabad) - Narendra Modi Stadium hosted the Final on March 8 — the world's largest cricket venue at full capacity was an unforgettable sight.",
+        "Worship: Regional (Mumbai) - Wankhede Stadium hosted key group games; Marine Drive and Bandra became informal cricket carnivals.",
+        "Worship: Regional (Kolkata) - Eden Gardens — the 'Mecca of Indian cricket' — hosted two Super Eight matches with its legendary atmosphere.",
+        "Worship: Regional (Chennai) - MA Chidambaram Stadium (Chepauk) known for its fiery, knowledgeable crowd; South Indian fans especially vocal.",
+        "Worship: Regional (Delhi) - Arun Jaitley Stadium hosted India's opening match vs USA on February 7.",
+        "Worship: Regional (Sri Lanka (Colombo)) - R. Premadasa Stadium hosted several matches including India vs Pakistan, maintaining the spirit of co-hosting.",
+        "Worship: Significance - Hosting a global cricket event of this scale on home soil is a moment of national pride. The BCCI's ability to organise world-class cricket infrastructure — from spotless pitches to seamless broadcast operations for a global audience — demonstrated India's position at the centre of world cricket's financial and cultural gravity.",
+        "Worship: Resource - ICC Men's T20 WC 2026 — Official: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026",
+        "Worship: Resource - 2026 Men's T20 World Cup — Wikipedia: https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup",
+        "Worship: Resource - ESPNcricinfo — T20 WC 2026: https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138"
+      ]
+    },
+    "hi": {
+      "title": "टी20 विश्व कप 2026",
+      "description": "India co-hosts the Men's T20 World Cup — 20 teams, 55 matches across Narendra Modi Stadium, Eden Gardens, Wankhede, and more.",
+      "deity": "🏏",
+      "story": "The 10th edition of the ICC Men's T20 World Cup (February 7 – March 8, 2026) was a homecoming like no other. India and Sri Lanka co-hosted a 20-team, 55-match tournament that brought the world's best T20 cricketers to the iconic cathedrals of Indian cricket: the 132,000-capacity Narendra Modi Stadium in Ahmedabad, Eden Gardens in Kolkata, Wankhede in Mumbai, Chepauk in Chennai, and the Arun Jaitley Stadium in Delhi.\n\nDefending champions India — the team that won the 2024 World Cup in the West Indies — entered as heavy favourites on home soil. The tournament's most anticipated match: India vs Pakistan on February 15 in Colombo, held at a neutral venue per bilateral agreement.\n\nNew entry Italy made their first-ever Men's T20 World Cup appearance, while Bangladesh's withdrawal (over security concerns about playing in India) led to Scotland stepping in — the first time Bangladesh missed a men's T20 World Cup.",
+      "rules": [
+        "Worship: Regional (Ahmedabad) - Narendra Modi Stadium hosted the Final on March 8 — the world's largest cricket venue at full capacity was an unforgettable sight.",
+        "Worship: Regional (Mumbai) - Wankhede Stadium hosted key group games; Marine Drive and Bandra became informal cricket carnivals.",
+        "Worship: Regional (Kolkata) - Eden Gardens — the 'Mecca of Indian cricket' — hosted two Super Eight matches with its legendary atmosphere.",
+        "Worship: Regional (Chennai) - MA Chidambaram Stadium (Chepauk) known for its fiery, knowledgeable crowd; South Indian fans especially vocal.",
+        "Worship: Regional (Delhi) - Arun Jaitley Stadium hosted India's opening match vs USA on February 7.",
+        "Worship: Regional (Sri Lanka (Colombo)) - R. Premadasa Stadium hosted several matches including India vs Pakistan, maintaining the spirit of co-hosting.",
+        "Worship: Significance - Hosting a global cricket event of this scale on home soil is a moment of national pride. The BCCI's ability to organise world-class cricket infrastructure — from spotless pitches to seamless broadcast operations for a global audience — demonstrated India's position at the centre of world cricket's financial and cultural gravity.",
+        "Worship: Resource - ICC Men's T20 WC 2026 — Official: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026",
+        "Worship: Resource - 2026 Men's T20 World Cup — Wikipedia: https://en.wikipedia.org/wiki/2026_Men%27s_T20_World_Cup",
+        "Worship: Resource - ESPNcricinfo — T20 WC 2026: https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2025-26-1502138"
+      ]
+    }
+  },
+  "icc-t20-wc-final-2026": {
+    "en": {
+      "title": "ICC T20 World Cup Final",
+      "description": "The grand finale of the Men's T20 World Cup 2026 at the world's largest cricket stadium in Ahmedabad.",
+      "deity": "🏆",
+      "story": "March 8, 2026 — the day the cricketing world held its breath. The final of the ICC Men's T20 World Cup 2026 was played at the Narendra Modi Stadium in Ahmedabad, the world's largest cricket venue, in front of a capacity crowd of 132,000. For cricket-mad India, this was the pinnacle of a tournament they had poured their hearts into as both hosts and competitors.\n\nThe Super Eight stage had narrowed the field to four semi-finalists; two survived to contest the ultimate prize. With India co-hosting, even the possibility of an India vs Pakistan final sent the entire subcontinent into a frenzy of anticipation. The trophy that waited on the podium: the gleaming ICC T20 World Cup — the most-watched short-format championship on Earth.",
+      "rules": [
+        "Worship: Regional (Ahmedabad / Gujarat) - Host city celebrations; massive watch parties across the city; traffic halted around the stadium hours before match time.",
+        "Worship: Regional (Mumbai / Delhi / Kolkata / Chennai) - Giant LED screens set up in public squares; fan parks organised by state governments.",
+        "Worship: Regional (Villages and small towns) - Tea stalls, dhabas, and community halls became impromptu cricket screening venues — a uniquely Indian tradition.",
+        "Worship: Significance - A World Cup Final on home soil is a generational event. The last time India hosted an ICC final was the 2023 ODI World Cup (though Australia won that one). 2026 gave Indian cricket fans another chance to witness the sport's greatest occasion in their own stadiums, with their own noise.",
+        "Worship: Resource - ICC Men's T20 WC 2026 — Official: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026",
+        "Worship: Resource - Narendra Modi Stadium: https://en.wikipedia.org/wiki/Narendra_Modi_Stadium"
+      ]
+    },
+    "hi": {
+      "title": "टी20 विश्व कप फाइनल",
+      "description": "The grand finale of the Men's T20 World Cup 2026 at the world's largest cricket stadium in Ahmedabad.",
+      "deity": "🏆",
+      "story": "March 8, 2026 — the day the cricketing world held its breath. The final of the ICC Men's T20 World Cup 2026 was played at the Narendra Modi Stadium in Ahmedabad, the world's largest cricket venue, in front of a capacity crowd of 132,000. For cricket-mad India, this was the pinnacle of a tournament they had poured their hearts into as both hosts and competitors.\n\nThe Super Eight stage had narrowed the field to four semi-finalists; two survived to contest the ultimate prize. With India co-hosting, even the possibility of an India vs Pakistan final sent the entire subcontinent into a frenzy of anticipation. The trophy that waited on the podium: the gleaming ICC T20 World Cup — the most-watched short-format championship on Earth.",
+      "rules": [
+        "Worship: Regional (Ahmedabad / Gujarat) - Host city celebrations; massive watch parties across the city; traffic halted around the stadium hours before match time.",
+        "Worship: Regional (Mumbai / Delhi / Kolkata / Chennai) - Giant LED screens set up in public squares; fan parks organised by state governments.",
+        "Worship: Regional (Villages and small towns) - Tea stalls, dhabas, and community halls became impromptu cricket screening venues — a uniquely Indian tradition.",
+        "Worship: Significance - A World Cup Final on home soil is a generational event. The last time India hosted an ICC final was the 2023 ODI World Cup (though Australia won that one). 2026 gave Indian cricket fans another chance to witness the sport's greatest occasion in their own stadiums, with their own noise.",
+        "Worship: Resource - ICC Men's T20 WC 2026 — Official: https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026",
+        "Worship: Resource - Narendra Modi Stadium: https://en.wikipedia.org/wiki/Narendra_Modi_Stadium"
+      ]
+    }
+  },
+  "ipl-2026": {
+    "en": {
+      "title": "IPL 2026 — Season Opens",
+      "description": "India's biggest cricket carnival kicks off — TATA IPL 2026 (Season 19) with 10 teams, 84 matches, and a nation at full fever.",
+      "deity": "🪁",
+      "story": "The Indian Premier League is not merely a cricket tournament — it is India's grandest sporting carnival, a two-month festival of sixes, strategy, and celebrity that brings together the world's best players under the home-city passions of millions of fans.\n\nTATA IPL 2026 is Season 19 — the tournament expanded to 84 matches for the first time, with each of the 10 teams playing 14 league games. Defending champions Royal Challengers Bengaluru (who won their maiden IPL title in 2025) returned to defend, while old giants like Mumbai Indians, Chennai Super Kings, and Kolkata Knight Riders sought to reclaim dominance.\n\nThe season ran March 28 – May 31. One significant shadow: following a deadly stampede during RCB's 2025 victory parade, the BCCI and Karnataka government negotiated venue adjustments for RCB's home matches. The IPL also coincided with state elections in West Bengal, Tamil Nadu, and Assam, requiring a phased schedule release.",
+      "rules": [
+        "Worship: Regional (Mumbai) - Mumbai Indians' Wankhede matches are the most glamorous — Bollywood celebrities in the stands, sea breeze, and world-class crowds.",
+        "Worship: Regional (Chennai) - The 'Yellow Army' at Chepauk is India's most loyal and knowledgeable fan base; Vadivelu memes and mass celebrations are distinctly Tamil.",
+        "Worship: Regional (Kolkata) - Eden Gardens' Knight Riders matches: the loudest and most atmospheric stadium experience in India.",
+        "Worship: Regional (Bengaluru) - RCB's Chinnaswamy Stadium — a fortress of passion, though the 2025 tragedy hung over the 2026 season.",
+        "Worship: Regional (Delhi / Hyderabad / Jaipur / Ahmedabad) - Each city has its own flavour of fanaticism — from Delhi's cosmopolitan crowd to Jaipur's royal-pink pride.",
+        "Worship: Significance - The IPL single-handedly revolutionised global cricket. It created the franchise T20 model copied worldwide, made Indian cricketers the highest-paid players on earth, and turned evening cricket into prime-time entertainment for 1.4 billion people. Season 19 was another chapter in this extraordinary story.",
+        "Worship: Resource - IPL Official Site: https://www.iplt20.com/",
+        "Worship: Resource - 2026 IPL — Wikipedia: https://en.wikipedia.org/wiki/2026_Indian_Premier_League",
+        "Worship: Resource - ESPNcricinfo — IPL 2026: https://www.espncricinfo.com/series/ipl-2026-1510719"
+      ]
+    },
+    "hi": {
+      "title": "इंडियन प्रीमियर लीग 2026",
+      "description": "India's biggest cricket carnival kicks off — TATA IPL 2026 (Season 19) with 10 teams, 84 matches, and a nation at full fever.",
+      "deity": "🪁",
+      "story": "The Indian Premier League is not merely a cricket tournament — it is India's grandest sporting carnival, a two-month festival of sixes, strategy, and celebrity that brings together the world's best players under the home-city passions of millions of fans.\n\nTATA IPL 2026 is Season 19 — the tournament expanded to 84 matches for the first time, with each of the 10 teams playing 14 league games. Defending champions Royal Challengers Bengaluru (who won their maiden IPL title in 2025) returned to defend, while old giants like Mumbai Indians, Chennai Super Kings, and Kolkata Knight Riders sought to reclaim dominance.\n\nThe season ran March 28 – May 31. One significant shadow: following a deadly stampede during RCB's 2025 victory parade, the BCCI and Karnataka government negotiated venue adjustments for RCB's home matches. The IPL also coincided with state elections in West Bengal, Tamil Nadu, and Assam, requiring a phased schedule release.",
+      "rules": [
+        "Worship: Regional (Mumbai) - Mumbai Indians' Wankhede matches are the most glamorous — Bollywood celebrities in the stands, sea breeze, and world-class crowds.",
+        "Worship: Regional (Chennai) - The 'Yellow Army' at Chepauk is India's most loyal and knowledgeable fan base; Vadivelu memes and mass celebrations are distinctly Tamil.",
+        "Worship: Regional (Kolkata) - Eden Gardens' Knight Riders matches: the loudest and most atmospheric stadium experience in India.",
+        "Worship: Regional (Bengaluru) - RCB's Chinnaswamy Stadium — a fortress of passion, though the 2025 tragedy hung over the 2026 season.",
+        "Worship: Regional (Delhi / Hyderabad / Jaipur / Ahmedabad) - Each city has its own flavour of fanaticism — from Delhi's cosmopolitan crowd to Jaipur's royal-pink pride.",
+        "Worship: Significance - The IPL single-handedly revolutionised global cricket. It created the franchise T20 model copied worldwide, made Indian cricketers the highest-paid players on earth, and turned evening cricket into prime-time entertainment for 1.4 billion people. Season 19 was another chapter in this extraordinary story.",
+        "Worship: Resource - IPL Official Site: https://www.iplt20.com/",
+        "Worship: Resource - 2026 IPL — Wikipedia: https://en.wikipedia.org/wiki/2026_Indian_Premier_League",
+        "Worship: Resource - ESPNcricinfo — IPL 2026: https://www.espncricinfo.com/series/ipl-2026-1510719"
+      ]
+    }
+  },
+  "french-open-2026": {
+    "en": {
+      "title": "French Open (Roland-Garros)",
+      "description": "The clay-court Grand Slam at Roland-Garros — the world watches as Alcaraz, Sinner, and Gauff battle on terre battue.",
+      "deity": "🎾",
+      "story": "Roland-Garros (May 18 – June 7, 2026) is the most demanding of tennis's four Grand Slams — two weeks of gruelling clay-court battles that test endurance, heavy topspin, and mental fortitude unlike any other surface. The distinctive red clay of Paris slows the ball and produces longer rallies; it is where champions are truly made.\n\nThe 2026 French Open follows a 2025 edition won by Carlos Alcaraz (men's) and Coco Gauff (women's). Both will return looking to defend. World No. 1 Jannik Sinner — coming off Australian Open and Wimbledon titles in 2025 — seeks his first French Open crown. India's Sumit Nagal and Ramkumar Ramanathan have been competing on the ATP Tour, though Grand Slam breakthrough remains the dream.\n\nIndia's most celebrated Roland-Garros connection remains Leander Paes and Mahesh Bhupathi's doubles dominance in the late 1990s and 2000s — they won the French Open doubles together, making India briefly the most feared doubles partnership in the world.",
+      "rules": [
+        "Worship: Regional (Maharashtra (Pune)) - Shrinivas Khanna's legacy and the Pune Open's ATP heritage make Maharashtra the home of Indian tennis.",
+        "Worship: Regional (Karnataka (Bengaluru)) - Rohan Bopanna, India's most decorated current doubles player, hails from Coorg, Karnataka — his Grand Slam appearances draw huge pride.",
+        "Worship: Regional (Tamil Nadu) - SDAT's tennis academy has produced multiple Davis Cup players; Chennai Open (now defunct) once brought top-50 players to India.",
+        "Worship: Significance - Grand Slam tennis represents the highest individual excellence in sport — no team to carry you, pure athletic and mental battle. For India, tennis has produced legends (Paes, Bhupathi, Bopanna) who punched far above their country's weight in doubles, inspiring a generation.",
+        "Worship: Resource - Roland-Garros Official: https://www.rolandgarros.com/",
+        "Worship: Resource - 2026 ATP Tour — Wikipedia: https://en.wikipedia.org/wiki/2026_ATP_Tour"
+      ]
+    },
+    "hi": {
+      "title": "फ्रेंच ओपन 2026",
+      "description": "The clay-court Grand Slam at Roland-Garros — the world watches as Alcaraz, Sinner, and Gauff battle on terre battue.",
+      "deity": "🎾",
+      "story": "Roland-Garros (May 18 – June 7, 2026) is the most demanding of tennis's four Grand Slams — two weeks of gruelling clay-court battles that test endurance, heavy topspin, and mental fortitude unlike any other surface. The distinctive red clay of Paris slows the ball and produces longer rallies; it is where champions are truly made.\n\nThe 2026 French Open follows a 2025 edition won by Carlos Alcaraz (men's) and Coco Gauff (women's). Both will return looking to defend. World No. 1 Jannik Sinner — coming off Australian Open and Wimbledon titles in 2025 — seeks his first French Open crown. India's Sumit Nagal and Ramkumar Ramanathan have been competing on the ATP Tour, though Grand Slam breakthrough remains the dream.\n\nIndia's most celebrated Roland-Garros connection remains Leander Paes and Mahesh Bhupathi's doubles dominance in the late 1990s and 2000s — they won the French Open doubles together, making India briefly the most feared doubles partnership in the world.",
+      "rules": [
+        "Worship: Regional (Maharashtra (Pune)) - Shrinivas Khanna's legacy and the Pune Open's ATP heritage make Maharashtra the home of Indian tennis.",
+        "Worship: Regional (Karnataka (Bengaluru)) - Rohan Bopanna, India's most decorated current doubles player, hails from Coorg, Karnataka — his Grand Slam appearances draw huge pride.",
+        "Worship: Regional (Tamil Nadu) - SDAT's tennis academy has produced multiple Davis Cup players; Chennai Open (now defunct) once brought top-50 players to India.",
+        "Worship: Significance - Grand Slam tennis represents the highest individual excellence in sport — no team to carry you, pure athletic and mental battle. For India, tennis has produced legends (Paes, Bhupathi, Bopanna) who punched far above their country's weight in doubles, inspiring a generation.",
+        "Worship: Resource - Roland-Garros Official: https://www.rolandgarros.com/",
+        "Worship: Resource - 2026 ATP Tour — Wikipedia: https://en.wikipedia.org/wiki/2026_ATP_Tour"
+      ]
+    }
+  },
+  "ipl-final-2026": {
+    "en": {
+      "title": "IPL 2026 — Grand Final",
+      "description": "The curtain falls on IPL Season 19 — one franchise lifts the trophy, a nation exhales.",
+      "deity": "🏆",
+      "story": "May 31, 2026 — the IPL Final. By this evening, 84 matches have been played, stars have risen and fallen, and only two franchises remain. The IPL Final is India's equivalent of a Super Bowl: the whole country pauses. Even cricket agnostics know the score.\n\nThe IPL Final trophy presentation is one of cricket's most theatrical moments — fireworks, confetti, the losing captain's gracious speech, and then the winning captain hoisting the glittering trophy as thousands in the stadium and hundreds of millions on screens across India erupt.",
+      "rules": [
+        "Worship: Regional (Winning team's home city) - Spontaneous street celebrations; the franchise's home stadium opens for fans to gather even without tickets.",
+        "Worship: Regional (Mumbai / Delhi / Chennai) - India's three largest cricket markets always see mass public celebrations regardless of which team wins.",
+        "Worship: Regional (Fantasy cricket players) - IPL Final is the season's biggest fantasy cricket day — crores of rupees in prizes decided on the night.",
+        "Worship: Significance - The IPL has made cricket the world's second-richest sport league (after the NFL). Its Final is watched by more live television viewers than any other single sporting event in India's annual calendar, surpassing even India's own international cricket matches.",
+        "Worship: Resource - IPL Official Site: https://www.iplt20.com/"
+      ]
+    },
+    "hi": {
+      "title": "आईपीएल 2026 फाइनल",
+      "description": "The curtain falls on IPL Season 19 — one franchise lifts the trophy, a nation exhales.",
+      "deity": "🏆",
+      "story": "May 31, 2026 — the IPL Final. By this evening, 84 matches have been played, stars have risen and fallen, and only two franchises remain. The IPL Final is India's equivalent of a Super Bowl: the whole country pauses. Even cricket agnostics know the score.\n\nThe IPL Final trophy presentation is one of cricket's most theatrical moments — fireworks, confetti, the losing captain's gracious speech, and then the winning captain hoisting the glittering trophy as thousands in the stadium and hundreds of millions on screens across India erupt.",
+      "rules": [
+        "Worship: Regional (Winning team's home city) - Spontaneous street celebrations; the franchise's home stadium opens for fans to gather even without tickets.",
+        "Worship: Regional (Mumbai / Delhi / Chennai) - India's three largest cricket markets always see mass public celebrations regardless of which team wins.",
+        "Worship: Regional (Fantasy cricket players) - IPL Final is the season's biggest fantasy cricket day — crores of rupees in prizes decided on the night.",
+        "Worship: Significance - The IPL has made cricket the world's second-richest sport league (after the NFL). Its Final is watched by more live television viewers than any other single sporting event in India's annual calendar, surpassing even India's own international cricket matches.",
+        "Worship: Resource - IPL Official Site: https://www.iplt20.com/"
+      ]
+    }
+  },
+  "fifa-world-cup-2026": {
+    "en": {
+      "title": "FIFA World Cup 2026 — Opens",
+      "description": "The biggest sporting event on Earth — 48 nations, 104 matches across 16 cities. The first World Cup with three host nations.",
+      "deity": "⚽",
+      "story": "The 2026 FIFA World Cup (June 11 – July 19) is the most ambitious World Cup in history: the first hosted by three nations (USA, Canada, Mexico), the first with 48 teams instead of 32, and the first with 104 matches — 25 more than 2022. The opening ceremony and first match took place at the legendary Estadio Azteca in Mexico City on June 11, with Mexico facing South Africa in a historic moment for the stadium that has now hosted three World Cup openers.\n\nThe expanded format introduced a new Round of 32, with 12 groups of four teams each feeding into a knockout bracket. Football heavyweights Brazil, France, Germany, Argentina, England, and Spain all entered as title contenders — though the unpredictability of a 48-team tournament meant more opportunities for underdogs than ever before.\n\nIndia did not qualify (they rarely do), but Indian football fans are among the world's most passionate neutrals — especially in Kerala, West Bengal, Goa, and the northeastern states where football culture runs deep. Kolkata's Maidan, where football has been played since the 1870s, transforms into a festival of South American and European jerseys each World Cup season.",
+      "rules": [
+        "Worship: Regional (Kerala) - The Brazil vs Argentina debate is a cultural institution; entire villages split into camps; 2 AM viewing parties are normal.",
+        "Worship: Regional (West Bengal (Kolkata)) - The 'Mecca of Indian football' — East Bengal vs Mohun Bagan football culture means every World Cup is personal.",
+        "Worship: Regional (Goa) - Portuguese footballing heritage; Goa has produced India's finest club football talent; beach bars run 24/7 World Cup broadcasts.",
+        "Worship: Regional (Manipur / Mizoram / Meghalaya) - Northeast India's football-first states; Bhaichung Bhutia-era inspiration still burns; community screenings in every village.",
+        "Worship: Regional (Mumbai / Delhi) - Expat communities of South Americans, Europeans, and Africans bring authentic World Cup atmosphere to sports bars.",
+        "Worship: Significance - The FIFA World Cup is the most-watched event in human history — the 2022 final alone drew 1.5 billion viewers. For India, where football is the second-most-popular sport, the World Cup is a month-long festival of global belonging, even without a national team in the tournament. Every four years, India joins the planet in the beautiful game's greatest celebration.",
+        "Worship: Resource - FIFA World Cup 2026 — Official: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+        "Worship: Resource - 2026 FIFA World Cup — Wikipedia: https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+      ]
+    },
+    "hi": {
+      "title": "फीफा विश्व कप 2026",
+      "description": "The biggest sporting event on Earth — 48 nations, 104 matches across 16 cities. The first World Cup with three host nations.",
+      "deity": "⚽",
+      "story": "The 2026 FIFA World Cup (June 11 – July 19) is the most ambitious World Cup in history: the first hosted by three nations (USA, Canada, Mexico), the first with 48 teams instead of 32, and the first with 104 matches — 25 more than 2022. The opening ceremony and first match took place at the legendary Estadio Azteca in Mexico City on June 11, with Mexico facing South Africa in a historic moment for the stadium that has now hosted three World Cup openers.\n\nThe expanded format introduced a new Round of 32, with 12 groups of four teams each feeding into a knockout bracket. Football heavyweights Brazil, France, Germany, Argentina, England, and Spain all entered as title contenders — though the unpredictability of a 48-team tournament meant more opportunities for underdogs than ever before.\n\nIndia did not qualify (they rarely do), but Indian football fans are among the world's most passionate neutrals — especially in Kerala, West Bengal, Goa, and the northeastern states where football culture runs deep. Kolkata's Maidan, where football has been played since the 1870s, transforms into a festival of South American and European jerseys each World Cup season.",
+      "rules": [
+        "Worship: Regional (Kerala) - The Brazil vs Argentina debate is a cultural institution; entire villages split into camps; 2 AM viewing parties are normal.",
+        "Worship: Regional (West Bengal (Kolkata)) - The 'Mecca of Indian football' — East Bengal vs Mohun Bagan football culture means every World Cup is personal.",
+        "Worship: Regional (Goa) - Portuguese footballing heritage; Goa has produced India's finest club football talent; beach bars run 24/7 World Cup broadcasts.",
+        "Worship: Regional (Manipur / Mizoram / Meghalaya) - Northeast India's football-first states; Bhaichung Bhutia-era inspiration still burns; community screenings in every village.",
+        "Worship: Regional (Mumbai / Delhi) - Expat communities of South Americans, Europeans, and Africans bring authentic World Cup atmosphere to sports bars.",
+        "Worship: Significance - The FIFA World Cup is the most-watched event in human history — the 2022 final alone drew 1.5 billion viewers. For India, where football is the second-most-popular sport, the World Cup is a month-long festival of global belonging, even without a national team in the tournament. Every four years, India joins the planet in the beautiful game's greatest celebration.",
+        "Worship: Resource - FIFA World Cup 2026 — Official: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+        "Worship: Resource - 2026 FIFA World Cup — Wikipedia: https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+      ]
+    }
+  },
+  "womens-t20-wc-2026": {
+    "en": {
+      "title": "ICC Women's T20 World Cup",
+      "description": "12 nations compete at Lord's, Edgbaston, Old Trafford & more — India face Pakistan at Edgbaston on June 14.",
+      "deity": "🏏",
+      "story": "The 10th ICC Women's T20 World Cup (June 12 – July 5, 2026) was hosted by England — one of cricket's spiritual homes — with Lord's hosting the final on July 5. Twelve nations competed across seven iconic English venues: Lord's, Old Trafford, Headingley, Edgbaston, The Rose Bowl, The Oval, and Bristol.\n\nIndia's women's team, one of the most popular in world cricket, was placed in Group 1 alongside Australia, South Africa, Pakistan, Bangladesh, and the Netherlands. The most anticipated match: India vs Pakistan at Edgbaston on June 14.\n\nIndian women's cricket has surged in profile since Mithali Raj and Jhulan Goswami inspired a generation, and now Smriti Mandhana, Harmanpreet Kaur, and Deepti Sharma carry the flag. The BCCI's growing investment in women's cricket — including the Women's Premier League — has strengthened depth significantly.",
+      "rules": [
+        "Worship: Regional (All India) - Growing TV and streaming viewership; the Women's Premier League (WPL) has created city-based fanbases for women's cricket.",
+        "Worship: Regional (Delhi / Mumbai / Bengaluru) - WPL franchises in these cities mean fans have pre-existing emotional connections with players representing India.",
+        "Worship: Regional (Schools and colleges) - Women's T20 World Cup is used as inspiration material in schools promoting women's sports participation.",
+        "Worship: Significance - Women's cricket is undergoing a revolution in India. The Women's Premier League (modelled on IPL), BCCI's equal pay initiatives, and consistent media coverage have transformed women's cricketers from afterthoughts into celebrities. Every World Cup is a milestone in this ongoing transformation.",
+        "Worship: Resource - ICC Women's T20 WC 2026 — Official: https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026",
+        "Worship: Resource - 2026 Women's T20 WC — Wikipedia: https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup"
+      ]
+    },
+    "hi": {
+      "title": "महिला टी20 विश्व कप 2026",
+      "description": "12 nations compete at Lord's, Edgbaston, Old Trafford & more — India face Pakistan at Edgbaston on June 14.",
+      "deity": "🏏",
+      "story": "The 10th ICC Women's T20 World Cup (June 12 – July 5, 2026) was hosted by England — one of cricket's spiritual homes — with Lord's hosting the final on July 5. Twelve nations competed across seven iconic English venues: Lord's, Old Trafford, Headingley, Edgbaston, The Rose Bowl, The Oval, and Bristol.\n\nIndia's women's team, one of the most popular in world cricket, was placed in Group 1 alongside Australia, South Africa, Pakistan, Bangladesh, and the Netherlands. The most anticipated match: India vs Pakistan at Edgbaston on June 14.\n\nIndian women's cricket has surged in profile since Mithali Raj and Jhulan Goswami inspired a generation, and now Smriti Mandhana, Harmanpreet Kaur, and Deepti Sharma carry the flag. The BCCI's growing investment in women's cricket — including the Women's Premier League — has strengthened depth significantly.",
+      "rules": [
+        "Worship: Regional (All India) - Growing TV and streaming viewership; the Women's Premier League (WPL) has created city-based fanbases for women's cricket.",
+        "Worship: Regional (Delhi / Mumbai / Bengaluru) - WPL franchises in these cities mean fans have pre-existing emotional connections with players representing India.",
+        "Worship: Regional (Schools and colleges) - Women's T20 World Cup is used as inspiration material in schools promoting women's sports participation.",
+        "Worship: Significance - Women's cricket is undergoing a revolution in India. The Women's Premier League (modelled on IPL), BCCI's equal pay initiatives, and consistent media coverage have transformed women's cricketers from afterthoughts into celebrities. Every World Cup is a milestone in this ongoing transformation.",
+        "Worship: Resource - ICC Women's T20 WC 2026 — Official: https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026",
+        "Worship: Resource - 2026 Women's T20 WC — Wikipedia: https://en.wikipedia.org/wiki/2026_Women%27s_T20_World_Cup"
+      ]
+    }
+  },
+  "wimbledon-2026": {
+    "en": {
+      "title": "Wimbledon 2026",
+      "description": "The oldest Grand Slam — strawberries, whites, grass courts, and the world's finest tennis at the All England Club.",
+      "deity": "🎾",
+      "story": "Wimbledon (June 29 – July 12, 2026) is the oldest and most storied Grand Slam — held at the All England Lawn Tennis & Croquet Club since 1877. Players wear all-white. Crowds eat strawberries and cream. Centre Court's retractable roof opens to summer sky when weather allows. No other sporting venue carries quite the same weight of history and tradition.\n\nDefending men's champion Jannik Sinner arrived as one of the firm favourites, with Carlos Alcaraz — who had already beaten him in the 2026 French Open final — eager to add another Wimbledon title to his collection. On the women's side, Iga Świątek (defending Wimbledon champion) faced pressure from a rising pack.\n\nIndia's Rohan Bopanna — at 46, still competing at the highest level of doubles — remained a beloved figure at Wimbledon, where his longevity and grace have earned enormous respect.",
+      "rules": [
+        "Worship: Regional (Karnataka) - Rohan Bopanna's Coorg origin makes Wimbledon particularly personal for Karnataka — 'Coorg ke Bete' screens in the hills.",
+        "Worship: Regional (Maharashtra (Pune)) - India's tennis capital follows closely; young players at Shiv Chhatrapati Sports Complex watch for inspiration.",
+        "Worship: Regional (Delhi) - The Delhi Lawn Tennis Association and India's Davis Cup history give the capital a deep tennis culture.",
+        "Worship: Significance - Wimbledon is one of sport's most powerful symbols of excellence and tradition. India has produced world-class doubles players — Paes, Bhupathi, Bopanna — who have won Wimbledon doubles titles. Their legacy continues to inspire India's next generation of tennis talent.",
+        "Worship: Resource - Wimbledon Official: https://www.wimbledon.com/",
+        "Worship: Resource - 2026 Wimbledon — Wikipedia: https://en.wikipedia.org/wiki/2026_Wimbledon_Championships"
+      ]
+    },
+    "hi": {
+      "title": "विंबलडन 2026",
+      "description": "The oldest Grand Slam — strawberries, whites, grass courts, and the world's finest tennis at the All England Club.",
+      "deity": "🎾",
+      "story": "Wimbledon (June 29 – July 12, 2026) is the oldest and most storied Grand Slam — held at the All England Lawn Tennis & Croquet Club since 1877. Players wear all-white. Crowds eat strawberries and cream. Centre Court's retractable roof opens to summer sky when weather allows. No other sporting venue carries quite the same weight of history and tradition.\n\nDefending men's champion Jannik Sinner arrived as one of the firm favourites, with Carlos Alcaraz — who had already beaten him in the 2026 French Open final — eager to add another Wimbledon title to his collection. On the women's side, Iga Świątek (defending Wimbledon champion) faced pressure from a rising pack.\n\nIndia's Rohan Bopanna — at 46, still competing at the highest level of doubles — remained a beloved figure at Wimbledon, where his longevity and grace have earned enormous respect.",
+      "rules": [
+        "Worship: Regional (Karnataka) - Rohan Bopanna's Coorg origin makes Wimbledon particularly personal for Karnataka — 'Coorg ke Bete' screens in the hills.",
+        "Worship: Regional (Maharashtra (Pune)) - India's tennis capital follows closely; young players at Shiv Chhatrapati Sports Complex watch for inspiration.",
+        "Worship: Regional (Delhi) - The Delhi Lawn Tennis Association and India's Davis Cup history give the capital a deep tennis culture.",
+        "Worship: Significance - Wimbledon is one of sport's most powerful symbols of excellence and tradition. India has produced world-class doubles players — Paes, Bhupathi, Bopanna — who have won Wimbledon doubles titles. Their legacy continues to inspire India's next generation of tennis talent.",
+        "Worship: Resource - Wimbledon Official: https://www.wimbledon.com/",
+        "Worship: Resource - 2026 Wimbledon — Wikipedia: https://en.wikipedia.org/wiki/2026_Wimbledon_Championships"
+      ]
+    }
+  },
+  "fifa-world-cup-final-2026": {
+    "en": {
+      "title": "FIFA World Cup Final 2026",
+      "description": "The grandest sporting final on Earth — the FIFA World Cup 2026 decider at MetLife Stadium before 82,500 fans.",
+      "deity": "🏆",
+      "story": "July 19, 2026 — the FIFA World Cup Final at MetLife Stadium in East Rutherford, New Jersey, home stadium of the New York Giants and Jets, packed with 82,500 fans who flew, drove, and dreamed their way to this moment. One nation would lift the golden trophy; the rest of the world would watch.\n\nIn India, it was 2 AM IST when the first whistle blew — and millions were awake. Kerala's beaches had been lit with bonfires through the night. Kolkata's Maidan had hosted a massive public screening earlier in the day. Goa's restaurants hadn't closed. This is what the World Cup does to India: it makes the whole world feel like one stadium.\n\nThe 2026 Final was the culmination of the most-expanded World Cup in history — 48 teams, 104 matches, three host nations — all of it distilling down to 90 minutes (or more) at one of the Western Hemisphere's great stadiums.",
+      "rules": [
+        "Worship: Regional (Kerala) - Public watch parties in Thiruvananthapuram, Kochi, and Kozhikode; winning country's flag raised in multiple villages.",
+        "Worship: Regional (West Bengal) - Maidan's football community holds post-final debates for days; Bengali sports media devotes front pages.",
+        "Worship: Regional (Goa) - Beach party atmosphere — most international-feeling World Cup celebration in India.",
+        "Worship: Regional (Manipur / Nagaland) - Northeast India's football passion at its peak; community celebrations regardless of result.",
+        "Worship: Significance - The World Cup Final is watched by more simultaneous viewers than any event in human history. For India — a football-loving nation without a competitive national team — it is a humbling reminder and a powerful inspiration: the goal is to one day field a team that plays in this tournament, not just watches it.",
+        "Worship: Resource - FIFA World Cup 2026 — Official: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"
+      ]
+    },
+    "hi": {
+      "title": "फीफा वर्ल्ड कप फाइनल 2026",
+      "description": "The grandest sporting final on Earth — the FIFA World Cup 2026 decider at MetLife Stadium before 82,500 fans.",
+      "deity": "🏆",
+      "story": "July 19, 2026 — the FIFA World Cup Final at MetLife Stadium in East Rutherford, New Jersey, home stadium of the New York Giants and Jets, packed with 82,500 fans who flew, drove, and dreamed their way to this moment. One nation would lift the golden trophy; the rest of the world would watch.\n\nIn India, it was 2 AM IST when the first whistle blew — and millions were awake. Kerala's beaches had been lit with bonfires through the night. Kolkata's Maidan had hosted a massive public screening earlier in the day. Goa's restaurants hadn't closed. This is what the World Cup does to India: it makes the whole world feel like one stadium.\n\nThe 2026 Final was the culmination of the most-expanded World Cup in history — 48 teams, 104 matches, three host nations — all of it distilling down to 90 minutes (or more) at one of the Western Hemisphere's great stadiums.",
+      "rules": [
+        "Worship: Regional (Kerala) - Public watch parties in Thiruvananthapuram, Kochi, and Kozhikode; winning country's flag raised in multiple villages.",
+        "Worship: Regional (West Bengal) - Maidan's football community holds post-final debates for days; Bengali sports media devotes front pages.",
+        "Worship: Regional (Goa) - Beach party atmosphere — most international-feeling World Cup celebration in India.",
+        "Worship: Regional (Manipur / Nagaland) - Northeast India's football passion at its peak; community celebrations regardless of result.",
+        "Worship: Significance - The World Cup Final is watched by more simultaneous viewers than any event in human history. For India — a football-loving nation without a competitive national team — it is a humbling reminder and a powerful inspiration: the goal is to one day field a team that plays in this tournament, not just watches it.",
+        "Worship: Resource - FIFA World Cup 2026 — Official: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"
+      ]
+    }
+  },
+  "commonwealth-games-2026": {
+    "en": {
+      "title": "Commonwealth Games Glasgow 2026",
+      "description": "India's biggest multi-sport event after the Olympics — 10 sports including 6 Para events in Glasgow.",
+      "deity": "🥇",
+      "story": "The XXIII Commonwealth Games (Glasgow 2026, July 23 – August 2) was a leaner, more focused Games than previous editions — 10 sports across four venues in an eight-mile corridor in Glasgow, with six integrated Para sports. The 2026 edition was awarded to Glasgow after Victoria (Australia) withdrew as host in 2023 over cost concerns — making Glasgow the first city to host the Commonwealth Games twice (after 2014).\n\nIndia entered as one of the strongest Commonwealth Games nations, with historical dominance in wrestling, weightlifting, boxing, badminton, and shooting. The 2022 Birmingham Games saw India win 61 medals (22 gold). Glasgow offered fewer sports and events, but India's athletes were hungry for medals, with Wrestling, Weightlifting, Boxing, Swimming, and Athletics on the programme.\n\nThe Games' mascot \"Finnie\" — a Glaswegian unicorn wearing a traffic cone as her horn (a reference to Glasgow's famous Wellington statue tradition) — captured global affection.",
+      "rules": [
+        "Worship: Regional (Haryana) - India's wrestling powerhouse — Haryana boys and girls (Vinesh Phogat's legacy) are always Commonwealth medal favourites.",
+        "Worship: Regional (Punjab / Himachal Pradesh) - Weightlifting strength from these states; multiple Commonwealth golds over the decades.",
+        "Worship: Regional (Andhra Pradesh / Telangana) - PV Sindhu's home base; badminton communities follow her Commonwealth bids with extreme passion.",
+        "Worship: Regional (Kerala) - Strong athletics tradition; relay and middle-distance runners from Kerala frequently represent India.",
+        "Worship: Significance - The Commonwealth Games sit in a unique emotional space for India — they're the tournament where India wins a lot of medals and the country allows itself to feel genuinely proud of its athletes, not just cricket stars. They also spotlight sports like wrestling, weightlifting, and boxing that get little attention outside the Games cycle.",
+        "Worship: Resource - Glasgow 2026 — Official: https://www.glasgow2026.com/",
+        "Worship: Resource - 2026 Commonwealth Games — Wikipedia: https://en.wikipedia.org/wiki/2026_Commonwealth_Games"
+      ]
+    },
+    "hi": {
+      "title": "राष्ट्रमंडल खेल 2026",
+      "description": "India's biggest multi-sport event after the Olympics — 10 sports including 6 Para events in Glasgow.",
+      "deity": "🥇",
+      "story": "The XXIII Commonwealth Games (Glasgow 2026, July 23 – August 2) was a leaner, more focused Games than previous editions — 10 sports across four venues in an eight-mile corridor in Glasgow, with six integrated Para sports. The 2026 edition was awarded to Glasgow after Victoria (Australia) withdrew as host in 2023 over cost concerns — making Glasgow the first city to host the Commonwealth Games twice (after 2014).\n\nIndia entered as one of the strongest Commonwealth Games nations, with historical dominance in wrestling, weightlifting, boxing, badminton, and shooting. The 2022 Birmingham Games saw India win 61 medals (22 gold). Glasgow offered fewer sports and events, but India's athletes were hungry for medals, with Wrestling, Weightlifting, Boxing, Swimming, and Athletics on the programme.\n\nThe Games' mascot \"Finnie\" — a Glaswegian unicorn wearing a traffic cone as her horn (a reference to Glasgow's famous Wellington statue tradition) — captured global affection.",
+      "rules": [
+        "Worship: Regional (Haryana) - India's wrestling powerhouse — Haryana boys and girls (Vinesh Phogat's legacy) are always Commonwealth medal favourites.",
+        "Worship: Regional (Punjab / Himachal Pradesh) - Weightlifting strength from these states; multiple Commonwealth golds over the decades.",
+        "Worship: Regional (Andhra Pradesh / Telangana) - PV Sindhu's home base; badminton communities follow her Commonwealth bids with extreme passion.",
+        "Worship: Regional (Kerala) - Strong athletics tradition; relay and middle-distance runners from Kerala frequently represent India.",
+        "Worship: Significance - The Commonwealth Games sit in a unique emotional space for India — they're the tournament where India wins a lot of medals and the country allows itself to feel genuinely proud of its athletes, not just cricket stars. They also spotlight sports like wrestling, weightlifting, and boxing that get little attention outside the Games cycle.",
+        "Worship: Resource - Glasgow 2026 — Official: https://www.glasgow2026.com/",
+        "Worship: Resource - 2026 Commonwealth Games — Wikipedia: https://en.wikipedia.org/wiki/2026_Commonwealth_Games"
+      ]
+    }
+  },
+  "us-open-2026": {
+    "en": {
+      "title": "US Open Tennis 2026",
+      "description": "The year's final Grand Slam — the electric night sessions of Flushing Meadows under New York's lights.",
+      "deity": "🎾",
+      "story": "The US Open (August 31 – September 13, 2026) at the USTA Billie Jean King National Tennis Center in Flushing Meadows, New York, is the season's final Grand Slam — and the loudest. Night sessions under the Arthur Ashe Stadium lights, with New York City's energy radiating through the crowd, create an atmosphere unlike any other tennis event.\n\nDefending men's champion Carlos Alcaraz and women's champion Aryna Sabalenka entered as favourites. Jannik Sinner, seeking a Grand Slam calendar sweep, was on most people's radar as the player most likely to challenge Alcaraz.\n\nIndia's connection to the US Open includes Leander Paes' doubles success and Sania Mirza's mixed doubles titles. Young Indian players like Sumit Nagal have qualified for main draw appearances, giving Indian fans a stake in the draw.",
+      "rules": [
+        "Worship: Regional (Maharashtra (Pune / Mumbai)) - India's tennis heartland; Mahesh Bhupathi's academies follow the Slam closely.",
+        "Worship: Regional (Telangana) - Sania Mirza's Hyderabad — her US Open mixed doubles titles (2014, 2015) remain the gold standard for Indian women's tennis.",
+        "Worship: Regional (All India) - Growing streaming audiences; US Open night sessions draw strong viewership given the IST-friendly broadcast schedule.",
+        "Worship: Significance - The US Open marks the end of tennis's Grand Slam calendar — whoever claims the year-end No. 1 ranking has usually won or contended at Flushing Meadows. For Indian tennis, it remains the venue where Sania Mirza rose to global stardom and Leander Paes cemented his doubles legacy.",
+        "Worship: Resource - US Open Official: https://www.usopen.org/",
+        "Worship: Resource - 2026 US Open — Dates: https://www.usopen.org/en_US/news/articles/2025-12-11/2026_us_open_tournament_dates.html"
+      ]
+    },
+    "hi": {
+      "title": "यूएस ओपन टेनिस 2026",
+      "description": "The year's final Grand Slam — the electric night sessions of Flushing Meadows under New York's lights.",
+      "deity": "🎾",
+      "story": "The US Open (August 31 – September 13, 2026) at the USTA Billie Jean King National Tennis Center in Flushing Meadows, New York, is the season's final Grand Slam — and the loudest. Night sessions under the Arthur Ashe Stadium lights, with New York City's energy radiating through the crowd, create an atmosphere unlike any other tennis event.\n\nDefending men's champion Carlos Alcaraz and women's champion Aryna Sabalenka entered as favourites. Jannik Sinner, seeking a Grand Slam calendar sweep, was on most people's radar as the player most likely to challenge Alcaraz.\n\nIndia's connection to the US Open includes Leander Paes' doubles success and Sania Mirza's mixed doubles titles. Young Indian players like Sumit Nagal have qualified for main draw appearances, giving Indian fans a stake in the draw.",
+      "rules": [
+        "Worship: Regional (Maharashtra (Pune / Mumbai)) - India's tennis heartland; Mahesh Bhupathi's academies follow the Slam closely.",
+        "Worship: Regional (Telangana) - Sania Mirza's Hyderabad — her US Open mixed doubles titles (2014, 2015) remain the gold standard for Indian women's tennis.",
+        "Worship: Regional (All India) - Growing streaming audiences; US Open night sessions draw strong viewership given the IST-friendly broadcast schedule.",
+        "Worship: Significance - The US Open marks the end of tennis's Grand Slam calendar — whoever claims the year-end No. 1 ranking has usually won or contended at Flushing Meadows. For Indian tennis, it remains the venue where Sania Mirza rose to global stardom and Leander Paes cemented his doubles legacy.",
+        "Worship: Resource - US Open Official: https://www.usopen.org/",
+        "Worship: Resource - 2026 US Open — Dates: https://www.usopen.org/en_US/news/articles/2025-12-11/2026_us_open_tournament_dates.html"
+      ]
+    }
+  },
+  "chess-olympiad-2026": {
+    "en": {
+      "title": "Chess Olympiad 2026",
+      "description": "The 46th Chess Olympiad in Samarkand — India fields the world's strongest chess nation, led by World Champion D. Gukesh.",
+      "deity": "♟️",
+      "story": "The 46th Chess Olympiad (September 15–28, 2026) in Samarkand, Uzbekistan — at the Silk Road International Exhibition Center — is chess's most prestigious team event. Nearly 380 teams from 200 nations compete in open and women's sections. India entered as the sport's most exciting nation, riding a wave of unprecedented success.\n\nIn 2023, the Chess Olympiad was held in Chennai — India's hometown advantage led to an emotional gold medal. In 2024, D. Gukesh became World Chess Champion at age 18, the youngest-ever world champion. R. Praggnanandhaa has been a consistent top-5 player. Arjun Erigaisi, Vidit Gujarathi, and B. Adhiban round out a team that is, arguably, the strongest India has ever fielded.\n\nIndia's women's team — led by Koneru Humpy, Harika Dronavalli, and rising star Divya Deshmukh — is also among the world's elite. The 2026 Olympiad was a chance for India to prove that 2023's home gold was no fluke.",
+      "rules": [
+        "Worship: Regional (Tamil Nadu) - Home of Gukesh, Praggnanandhaa, and Adhiban — Chennai has become the chess capital of the world; schools have chess as a subject.",
+        "Worship: Regional (Telangana) - Koneru Humpy and Harika Dronavalli are Telugu icons; Hyderabad follows women's chess as seriously as men's.",
+        "Worship: Regional (West Bengal) - Historic chess culture — Kolkata clubs have produced grandmasters for decades.",
+        "Worship: Regional (All India (online)) - ChessBase India's YouTube coverage of Olympiad rounds drew millions of live viewers — chess is now a spectator sport in India.",
+        "Worship: Significance - India's chess revolution — fuelled by visionary coaches, AICF investment, and the extraordinary talent of a generation born around 2000 — has made India the sport's most exciting nation. D. Gukesh's World Championship victory at 18 was India's deepest individual sports achievement in decades. The 2026 Olympiad was a chance to turn individual brilliance into collective glory.",
+        "Worship: Resource - 46th Chess Olympiad — FIDE: https://calendar.fide.com/calendar.php?id=5072",
+        "Worship: Resource - ChessBase India: https://www.chessbase.in/",
+        "Worship: Resource - Chess Olympiad 2026 — Wikipedia: https://en.wikipedia.org/wiki/46th_Chess_Olympiad"
+      ]
+    },
+    "hi": {
+      "title": "शतरंज ओलंपियाड 2026",
+      "description": "The 46th Chess Olympiad in Samarkand — India fields the world's strongest chess nation, led by World Champion D. Gukesh.",
+      "deity": "♟️",
+      "story": "The 46th Chess Olympiad (September 15–28, 2026) in Samarkand, Uzbekistan — at the Silk Road International Exhibition Center — is chess's most prestigious team event. Nearly 380 teams from 200 nations compete in open and women's sections. India entered as the sport's most exciting nation, riding a wave of unprecedented success.\n\nIn 2023, the Chess Olympiad was held in Chennai — India's hometown advantage led to an emotional gold medal. In 2024, D. Gukesh became World Chess Champion at age 18, the youngest-ever world champion. R. Praggnanandhaa has been a consistent top-5 player. Arjun Erigaisi, Vidit Gujarathi, and B. Adhiban round out a team that is, arguably, the strongest India has ever fielded.\n\nIndia's women's team — led by Koneru Humpy, Harika Dronavalli, and rising star Divya Deshmukh — is also among the world's elite. The 2026 Olympiad was a chance for India to prove that 2023's home gold was no fluke.",
+      "rules": [
+        "Worship: Regional (Tamil Nadu) - Home of Gukesh, Praggnanandhaa, and Adhiban — Chennai has become the chess capital of the world; schools have chess as a subject.",
+        "Worship: Regional (Telangana) - Koneru Humpy and Harika Dronavalli are Telugu icons; Hyderabad follows women's chess as seriously as men's.",
+        "Worship: Regional (West Bengal) - Historic chess culture — Kolkata clubs have produced grandmasters for decades.",
+        "Worship: Regional (All India (online)) - ChessBase India's YouTube coverage of Olympiad rounds drew millions of live viewers — chess is now a spectator sport in India.",
+        "Worship: Significance - India's chess revolution — fuelled by visionary coaches, AICF investment, and the extraordinary talent of a generation born around 2000 — has made India the sport's most exciting nation. D. Gukesh's World Championship victory at 18 was India's deepest individual sports achievement in decades. The 2026 Olympiad was a chance to turn individual brilliance into collective glory.",
+        "Worship: Resource - 46th Chess Olympiad — FIDE: https://calendar.fide.com/calendar.php?id=5072",
+        "Worship: Resource - ChessBase India: https://www.chessbase.in/",
+        "Worship: Resource - Chess Olympiad 2026 — Wikipedia: https://en.wikipedia.org/wiki/46th_Chess_Olympiad"
+      ]
+    }
+  },
+  "asian-games-2026": {
+    "en": {
+      "title": "Asian Games 2026 — Aichi-Nagoya",
+      "description": "The 20th Asian Games in Aichi-Nagoya, Japan — India's second-biggest medal opportunity after the Olympics, across 41 sports.",
+      "deity": "🏅",
+      "story": "The 20th Asian Games (September 19 – October 4, 2026) in Aichi Prefecture, Japan — with the opening ceremony at Paloma Mizuho Stadium in Nagoya — brought together 45 National Olympic Committees across 41 sports, 68 disciplines, and 461 events. Japan hosted the Asian Games for the third time (after Tokyo 1958 and Hiroshima 1994), in venues that also used 2020 Olympic infrastructure.\n\nIndia is typically Asia's third-largest medal winner (after China and Japan), and the Asian Games are India's biggest medal haul outside the Olympics. At the 2023 Hangzhou Asian Games, India won a historic 107 medals (28 gold) — its best-ever performance. The 2026 squad arrived in Nagoya building on that momentum.\n\nIndia's medal hopes centred on Neeraj Chopra (javelin), PV Sindhu and Lakshya Sen (badminton), India's kabaddi teams (perennial Asian champions), wrestling's deep talent pool, and the newly strengthened athletics programme. Chess was added as an Asian Games sport, giving India additional medal opportunities.",
+      "rules": [
+        "Worship: Regional (Haryana) - Wrestling and boxing medals machine — Haryana athletes typically deliver 30-40% of India's Asian Games haul.",
+        "Worship: Regional (Kerala) - Athletics strength; relay teams and individual sprinters often carry Kerala pride into Asian Games.",
+        "Worship: Regional (Andhra Pradesh / Telangana) - Badminton's heartland — PV Sindhu, Saina Nehwal's tradition continues.",
+        "Worship: Regional (Punjab / Himachal Pradesh) - Weightlifting and shooting medals regularly come from these states.",
+        "Worship: Regional (Manipur / Mizoram) - Boxing — Mary Kom's legacy; northeastern India punches above its weight in combat sports.",
+        "Worship: Regional (Karnataka) - Hockey — India's hockey revival owes much to Karnataka's infrastructure and tradition.",
+        "Worship: Significance - The Asian Games measure India's standing in the continent's sporting order. The 2023 breakthrough of 107 medals showed that India is no longer just a cricket-and-badminton nation — it is building depth across athletics, swimming, and combat sports. The 2026 edition is a test of whether that 2023 performance was a peak or a new baseline.",
+        "Worship: Resource - Aichi-Nagoya 2026 — Official: https://www.aichi-nagoya2026.org/en/",
+        "Worship: Resource - 2026 Asian Games — Wikipedia: https://en.wikipedia.org/wiki/2026_Asian_Games",
+        "Worship: Resource - Olympics.com — Asian Games 2026: https://www.olympics.com/en/news/asian-games-2026-competition-schedule-released"
+      ]
+    },
+    "hi": {
+      "title": "एशियाई खेल 2026",
+      "description": "The 20th Asian Games in Aichi-Nagoya, Japan — India's second-biggest medal opportunity after the Olympics, across 41 sports.",
+      "deity": "🏅",
+      "story": "The 20th Asian Games (September 19 – October 4, 2026) in Aichi Prefecture, Japan — with the opening ceremony at Paloma Mizuho Stadium in Nagoya — brought together 45 National Olympic Committees across 41 sports, 68 disciplines, and 461 events. Japan hosted the Asian Games for the third time (after Tokyo 1958 and Hiroshima 1994), in venues that also used 2020 Olympic infrastructure.\n\nIndia is typically Asia's third-largest medal winner (after China and Japan), and the Asian Games are India's biggest medal haul outside the Olympics. At the 2023 Hangzhou Asian Games, India won a historic 107 medals (28 gold) — its best-ever performance. The 2026 squad arrived in Nagoya building on that momentum.\n\nIndia's medal hopes centred on Neeraj Chopra (javelin), PV Sindhu and Lakshya Sen (badminton), India's kabaddi teams (perennial Asian champions), wrestling's deep talent pool, and the newly strengthened athletics programme. Chess was added as an Asian Games sport, giving India additional medal opportunities.",
+      "rules": [
+        "Worship: Regional (Haryana) - Wrestling and boxing medals machine — Haryana athletes typically deliver 30-40% of India's Asian Games haul.",
+        "Worship: Regional (Kerala) - Athletics strength; relay teams and individual sprinters often carry Kerala pride into Asian Games.",
+        "Worship: Regional (Andhra Pradesh / Telangana) - Badminton's heartland — PV Sindhu, Saina Nehwal's tradition continues.",
+        "Worship: Regional (Punjab / Himachal Pradesh) - Weightlifting and shooting medals regularly come from these states.",
+        "Worship: Regional (Manipur / Mizoram) - Boxing — Mary Kom's legacy; northeastern India punches above its weight in combat sports.",
+        "Worship: Regional (Karnataka) - Hockey — India's hockey revival owes much to Karnataka's infrastructure and tradition.",
+        "Worship: Significance - The Asian Games measure India's standing in the continent's sporting order. The 2023 breakthrough of 107 medals showed that India is no longer just a cricket-and-badminton nation — it is building depth across athletics, swimming, and combat sports. The 2026 edition is a test of whether that 2023 performance was a peak or a new baseline.",
+        "Worship: Resource - Aichi-Nagoya 2026 — Official: https://www.aichi-nagoya2026.org/en/",
+        "Worship: Resource - 2026 Asian Games — Wikipedia: https://en.wikipedia.org/wiki/2026_Asian_Games",
+        "Worship: Resource - Olympics.com — Asian Games 2026: https://www.olympics.com/en/news/asian-games-2026-competition-schedule-released"
+      ]
+    }
   }
 }
