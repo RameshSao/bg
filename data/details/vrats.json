@@ -1,16 +1,26 @@
 {
   "guru-purnima": {
     "en": {
-      "title": "Guru Purnima Significance & Puja Vidhi",
-      "deity": "Lord Shiva (Adi Guru) & Sage Veda Vyasa",
-      "description": "A sacred day dedicated to honoring academic and spiritual teachers (Gurus) and celebrating the birth anniversary of Sage Veda Vyasa.",
+      "title": "Guru Purnima",
+      "description": "Guru worship, gratitude to teachers, knowledge and wisdom, spiritual guidance, Sage Vyasa's birth",
+      "deity": "",
+      "story": "Guru Purnima celebrates the birth of Sage Vyasa, the author of the Mahabharata and the compiler of the Vedas. 'Guru' means teacher, and 'Purnima' means full moon. The festival honors all gurus, teachers, and spiritual guides who have enlightened humanity. In the Hindu tradition, a guru (teacher) is considered second only to God as the one who dispels darkness and brings knowledge. Sage Vyasa is revered as the greatest guru of all time. He not only authored the Mahabharata but also composed 18 Puranas (ancient texts), classified the Vedas into four parts (Rig, Yajur, Sama, and Atharva), and guided many students toward spiritual enlightenment. Guru Purnima is the day to honor and express gratitude to all gurus, teachers, and mentors who have guided us. On this day, disciples traditionally prostrate before their gurus and receive blessings. In educational institutions, it is a day to honor teachers. In spiritual circles, it marks the beginning of intensive spiritual practice or 'Chaturmas' (four-month period of austerity).",
       "rules": [
-        "Offer prayers, flowers, and respects to your spiritual or academic Gurus.",
-        "Worship Sage Vyasa (the compiler of the Vedas) and Lord Shiva (the first Guru).",
-        "Recite Guru Gita, Guru Stotram, or study sacred texts.",
-        "Engage in meditation and self-reflection to honor the lineage of knowledge."
-      ],
-      "story": "Guru Purnima marks the birth anniversary of Sage Krishna Dvaipayana Vyasa (Veda Vyasa), who structured the four Vedas, wrote the 18 Puranas, the Mahabharata, and the Srimad Bhagavatam. It is also believed that on this full moon day, Lord Shiva became the first Guru (Adi Guru) and began transmitting the knowledge of Yoga to the Saptarishis (the seven sages) at Lake Kantisarovar. Thus, this day is celebrated to express deep gratitude for the light of wisdom that guides us from darkness to light."
+        "Worship: Significance - Guru worship, gratitude to teachers, knowledge and wisdom, spiritual guidance, Sage Vyasa's birth",
+        "Worship: Preparation - Prepare offerings of flowers, fruits, and sweets",
+        "Worship: Step 1 - Create or use an idol of Sage Vyasa or your personal guru",
+        "Worship: Step 2 - Light lamps and burn incense",
+        "Worship: Step 3 - Offer flowers, fruits, and sweets with devotion",
+        "Worship: Step 4 - Perform Aarti",
+        "Worship: Step 5 - If you have a guru, prostrate before him/her and receive blessings",
+        "Worship: Step 6 - In schools, teachers are honored with gifts and respect",
+        "Worship: Step 7 - Recite the Guru Gita (verses on guru's importance)",
+        "Diet: Fasting type - Partial or Full Fast (optional)",
+        "Diet: Allowed - Fruits, milk, yogurt",
+        "Diet: Breaking fast - Light meals with rice, vegetables, lentils",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Gratitude and respect for knowledge, spiritual enlightenment, guru's blessings, clarity in life purpose, divine guidance"
+      ]
     },
     "hi": {
       "title": "गुरु पूर्णिमा का महत्व और पौराणिक कथा",
@@ -53,15 +63,31 @@
   },
   "shivratri": {
     "en": {
-      "title": "Shivratri / Maha Shivaratri",
-      "deity": "Lord Shiva",
-      "description": "Shivratri, the sacred night of Lord Shiva, is observed on the Chaturdashi of Krishna Paksha. Maha Shivaratri is the most auspicious, celebrating the union of Shiva and Shakti.",
-      "story": "On this grand night, Lord Shiva performed the cosmic dance of creation, preservation, and destruction (Tandava). It is also the day when Lord Shiva and Goddess Parvati got married, uniting spiritual consciousness with nature.",
+      "title": "Maha Shivaratri",
+      "description": "Lord Shiva's cosmic dance and marriage, spiritual awakening, meditation, liberation (Moksha), divine union",
+      "deity": "",
+      "story": "Maha Shivaratri is one of the most sacred and significant festivals in the Hindu calendar, celebrated on the darkest night of the lunar month. The festival is dedicated to Lord Shiva, one of the principal deities of Hinduism. 'Maha' means great, and 'Shivaratri' means the night of Shiva. According to Hindu mythology, Maha Shivaratri commemorates the night when Lord Shiva performed the 'Tandava Nritya' (cosmic dance of creation, preservation, and destruction). It is also believed to be the night when Lord Shiva married Goddess Parvati. The Lingayat tradition believes that on this night, Shiva performed the wedding ceremony with Parvati in Mount Kailash. The Shiva Purana narrates various legends associated with Maha Shivaratri. One popular legend tells of a hunter who accidentally performed Shiva worship by shaking bilva leaves onto a Shivalinga while hiding in a tree. His devotion was so pure that Lord Shiva appeared before him and granted him salvation (Moksha). This story teaches that sincere devotion transcends rituals and social status. Another legend mentions a cowherd named Suswara who kept vigil on Maha Shivaratri night and was granted enlightenment. Maha Shivaratri is also associated with the legend of Mohini (Vishnu's avatar) and Lord Shiva's union with Parvati, resulting in the birth of Lord Kartikeya. The festival emphasizes meditation, fasting, and devotion, believed to cleanse the body and mind and grant spiritual enlightenment.",
       "rules": [
-        "Observe a strict fast (either water-only or fruits) for 24 hours.",
-        "Perform Abhishekam of Shiva Linga with water, milk, honey, curd, and ghee.",
-        "Offer Bilva leaves (Belpatra), Datura flowers, and bhang to Lord Shiva.",
-        "Stay awake all night (Jagaran) chanting the sacred mantra 'Om Namah Shivaya'."
+        "Worship: Significance - Lord Shiva's cosmic dance and marriage, spiritual awakening, meditation, liberation (Moksha), divine union",
+        "Worship: Preparation - One day before, cleanse the house and prepare the altar",
+        "Worship: Step 1 - Wake at Brahma Muhurta (3-4 AM) and take a ritual bath",
+        "Worship: Step 2 - Apply sacred ash (Vibhuti) on the forehead and body",
+        "Worship: Step 3 - Create a Shivalinga altar (with sand, stone, or clay)",
+        "Worship: Step 4 - Place bilva leaves (sacred to Shiva), flowers, and incense nearby",
+        "Worship: Step 5 - Begin the night-long vigil with the 'Maha Shivaratri Puja'",
+        "Worship: Step 6 - First quarter of night (Pratham Jaagran): Chant 'Om Namah Shivaya' and read Shiva Purana",
+        "Worship: Step 7 - Second quarter (Dwitiya Jaagran): Perform meditation and yoga",
+        "Worship: Step 8 - Third quarter (Tritiya Jaagran): Sing devotional hymns (Bhajans) dedicated to Shiva",
+        "Worship: Step 9 - Fourth quarter (Chatirth Jaagran): Meditate on Lord Shiva's form",
+        "Worship: Step 10 - Offer items to the Shivalinga: Water, milk, yogurt, honey, sugar, flowers, and bilva leaves",
+        "Worship: Step 11 - As dawn approaches, perform final Aarti with lamps (Diya) and bells",
+        "Worship: Step 12 - Break the fast at sunrise (or noon) with sacred prasad",
+        "Diet: Fasting type - Nirjala Vrat (no food or water) - Most Preferred",
+        "Diet: Alternative fast - Fruit and milk fast (if nirjala not possible)",
+        "Diet: Allowed - Water, milk, yogurt, fruits, nuts, potatoes, and rock salt",
+        "Diet: Avoid - Grains, salt (regular), spices, meat, eggs, alcohol, onion, garlic",
+        "Diet: Breaking fast - Light foods like milk, fruits, or kheer (rice pudding)",
+        "Worship: Benefits - Purification of body and mind, mental peace, spiritual awakening, salvation, removal of negativity"
       ]
     },
     "hi": {
@@ -106,14 +132,25 @@
   "vasant-panchami": {
     "en": {
       "title": "Vasant Panchami",
-      "deity": "Goddess Saraswati",
-      "description": "Vasant Panchami marks the beginning of spring and is dedicated to Saraswati, the Goddess of wisdom, music, art, and learning.",
-      "story": "On this day, Lord Brahma created the universe. However, he found it completely silent and lifeless. To bring life and sound, Brahma sprinkled water from his kamandalu and created Saraswati, who played her Veena, filling the universe with music, speech, and intellect.",
+      "description": "Spring arrival, Goddess Saraswati worship, knowledge and education, beginning of learning, artistic pursuits",
+      "deity": "",
+      "story": "Vasant Panchami celebrates the arrival of spring (Vasant Ritu), one of the six seasons in the Hindu calendar. The word 'Vasant' means spring and 'Panchami' means the fifth day. This festival marks the end of winter and the beginning of spring with its flowers, mild weather, and agricultural prosperity. On this day, Goddess Saraswati—the deity of knowledge, wisdom, arts, music, and learning—is worshipped. According to Hindu mythology, on this day, the Pandava princess Draupad was humiliated in the assembly of the Kuru court. However, the festival is primarily associated with Saraswati Puja, when students and scholars seek blessings for intellectual growth. The festival is celebrated with the wearing of yellow clothes and flowers, as yellow symbolizes prosperity, happiness, and the vibrancy of spring. In Indian educational institutions, 'Saraswati Puja' is organized where new students are initiated into the world of learning by touching the feet of Saraswati's idol to the alphabet (A-ka-ra-di). This ceremony is called 'Vidyarambha'.",
       "rules": [
-        "Wear yellow-colored clothes, which represent spring and prosperity.",
-        "Perform Saraswati Puja in the morning, offering yellow flowers and sweets.",
-        "Place books, pens, and musical instruments near the deity for blessings.",
-        "Initiate young children into reading and writing (Akshar Abhyasam)."
+        "Worship: Significance - Spring arrival, Goddess Saraswati worship, knowledge and education, beginning of learning, artistic pursuits",
+        "Worship: Preparation - Wear yellow clothes and yellow flowers (marigold, tuberose)",
+        "Worship: Step 1 - Create an altar with Saraswati idol or photograph",
+        "Worship: Step 2 - Decorate with yellow and white flowers",
+        "Worship: Step 3 - Light lamps and burn incense",
+        "Worship: Step 4 - Offer yellow sweets (kheer, halwa, lapu made with semolina)",
+        "Worship: Step 5 - Place books and musical instruments at the altar for blessing",
+        "Worship: Step 6 - Chant Saraswati Gayatri Mantra: 'Om Saraswatyai Cha Vidmahe, Brahmaputryai Cha Dhimahi, Tanno Devi Prachodayat'",
+        "Worship: Step 7 - Perform Aarti and distribute blessed sweets (Prasad)",
+        "Worship: Step 8 - For students: 'Vidyarambha' ritual (initiation into learning)",
+        "Diet: Fasting type - Optional (many don't fast)",
+        "Diet: Traditional foods - Yellow sweets like khichdi (semolina pudding), mohan-bhog, rice pudding with jaggery",
+        "Diet: Colors of food - Yellow items - lentils, jaggery, ghee, milk",
+        "Diet: Avoid - Meat, alcohol, onion, garlic",
+        "Worship: Benefits - Knowledge and wisdom, academic success, artistic talent, intellectual growth, prosperity"
       ]
     },
     "hi": {
@@ -132,14 +169,23 @@
   "sakat-chauth": {
     "en": {
       "title": "Sakat Chauth",
-      "deity": "Lord Ganesha & Sakat Mata",
-      "description": "Also known as Sankashti Chaturthi of Magha, mothers observe this fast for the health, prosperity, and long life of their children.",
-      "story": "A poor potter used to bake clay pots, but they wouldn't harden. A priest suggested sacrificing a child on Sakat Chauth. A poor widow was forced to give her only son. She prayed to Ganesha. The next morning, not only was the boy alive, but all the pots were baked and hardened.",
+      "description": "Son's welfare, mother's devotion, family protection, breaking obstacles",
+      "deity": "Om Gam Ganapataye Namah (for Lord Ganesha) or Hanuman Chalisa recitation",
+      "story": "Sakat Chauth is primarily observed by mothers and women for the health, prosperity, and long life of their sons. The festival is rooted in the legend of Goddess Iravati and her devotion. According to Hindu mythology, on this day, Lord Hanuman was imprisoned in a basket (Sakat) by enemies, but he broke free through his strength and devotion. The vrat is also dedicated to Lord Ganesha and is observed mainly in North India, especially Uttar Pradesh and Madhya Pradesh. Mothers perform rituals early in the morning and pray for their children's well-being.",
       "rules": [
-        "Observe a strict fast without water (Nirjala) during the day.",
-        "Perform Ganesha and Sakat Mata Puja in the evening.",
-        "Offer Til-Kuta (crushed sesame seeds and jaggery) as the main Prasad.",
-        "Break the fast after offering Arghya (water) to the Moon God."
+        "Worship: Significance - Son's welfare, mother's devotion, family protection, breaking obstacles",
+        "Worship: Preparation - Wake up before sunrise, take a ritual bath with oil and water",
+        "Worship: Step 1 - Create a prayer altar with pictures of Hanuman or Ganesha",
+        "Worship: Step 2 - Light lamps (diyas) and burn incense (agarbatti)",
+        "Worship: Step 3 - Offer flowers, fruits (banana, jaggery), and sesame sweets",
+        "Worship: Step 4 - Chant 'Om Namah Shivaya' or 'Om Gam Ganapataye Namah' 108 times",
+        "Worship: Step 5 - Fast until evening (some consume fruits and milk)",
+        "Worship: Step 6 - Break fast after sunset with light, simple foods",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, potatoes, rock salt, peanuts",
+        "Diet: Avoid - Grains, salt, meat, onion, garlic, spices",
+        "Diet: Breaking fast - Light vegetables, khichdi, milk, fresh fruits",
+        "Worship: Benefits - Son's health, removal of obstacles, family protection, maternal blessings"
       ]
     },
     "hi": {
@@ -158,14 +204,28 @@
   "hanuman-jayanti": {
     "en": {
       "title": "Hanuman Jayanti",
-      "deity": "Lord Hanuman",
-      "description": "Marks the appearance day of Lord Hanuman, the supreme devotee of Lord Rama and the symbol of strength, devotion, and humility.",
-      "story": "Anjana, a celestial nymph cursed to be a monkey, prayed to Lord Shiva for a son. Meanwhile, King Dasharatha's kheer was carried by a bird and dropped into Anjana's hands due to the wind god Vayu. She consumed it and gave birth to Hanuman.",
+      "description": "Hanuman's birth, unwavering devotion, courage, loyalty, strength, overcoming obstacles, protection",
+      "deity": "",
+      "story": "Hanuman Jayanti celebrates the birth of Lord Hanuman, the greatest devotee of Lord Rama. Hanuman is worshipped as a symbol of courage, devotion, loyalty, and strength. According to Hindu mythology, Hanuman was born to Kesari (a wind deity) and Anjana Devi. At birth, he was blessed with strength equal to the wind (Vayu) itself, inherited from his father. The most famous legend associated with Hanuman is his unwavering devotion to Lord Rama. In the Ramayana, Hanuman plays a crucial role in Rama's rescue mission to save Sita from the demon king Ravana. He leapt across the ocean to reach Lanka (a feat symbolizing human potential), located Sita, fought Ravana's soldiers, and returned with victory. His devotion to Rama was so profound that he sacrificed personal comfort, endured pain, and risked his life for his master. Hanuman Jayanti celebrates this dedication, loyalty, and the power of true devotion. Hanuman is depicted as a celibate (Brahmachari) ascetic, emphasizing the power of self-discipline and celibacy. In Hindu tradition, Hanuman is worshipped as a protector and remover of obstacles. On Hanuman Jayanti, devotees chant the 'Hanuman Chalisa' (40 verses dedicated to Hanuman), which is believed to grant courage, protection, and victory over adversaries.",
       "rules": [
-        "Visit a Hanuman temple early in the morning.",
-        "Offer vermillion (Sindoor) mixed with jasmine oil to the deity.",
-        "Recite the Hanuman Chalisa, Bajrang Baan, or Sundarkand.",
-        "Distribute boondi laddu or bananas as prasadam."
+        "Worship: Significance - Hanuman's birth, unwavering devotion, courage, loyalty, strength, overcoming obstacles, protection",
+        "Worship: Early morning - Wake before sunrise and bathe",
+        "Worship: Step 1 - Wear saffron (orange) or red colored clothes (color associated with Hanuman)",
+        "Worship: Step 2 - Apply vermillion (sindoor) on the forehead",
+        "Worship: Step 3 - Visit a Hanuman temple or create an altar at home",
+        "Worship: Step 4 - Offer flowers, particularly red or orange flowers, fruits, and sweets to Hanuman's idol",
+        "Worship: Step 5 - Light lamps and burn incense",
+        "Worship: Step 6 - Chant the 'Hanuman Chalisa' (40 verses) - this is the most important ritual",
+        "Worship: Step 7 - Perform Aarti with devotion and rings bells loudly",
+        "Worship: Step 8 - Circumambulate the idol (Pradakshina)",
+        "Worship: Step 9 - Listen to stories of Hanuman's devotion and courage",
+        "Worship: Step 10 - Distribute sweets and Prasad",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes, sesame seeds",
+        "Diet: Breaking fast - Light vegetarian meal with rice, lentils, vegetables",
+        "Diet: Special offering - Sesame sweets (Til Laddus), Peanut Brittle",
+        "Diet: Avoid - Meat, onion, garlic, alcohol, grains (in strict fast)",
+        "Worship: Benefits - Courage and strength, protection from harm, removal of obstacles, success in endeavors, unwavering devotion, mental peace"
       ]
     },
     "hi": {
@@ -184,14 +244,24 @@
   "akshaya-tritiya": {
     "en": {
       "title": "Akshaya Tritiya",
-      "deity": "Lord Vishnu & Goddess Lakshmi",
-      "description": "Also known as Akha Teej, it is an extremely auspicious day. Anything started on this day (charity, buying gold, new business) is believed to never diminish (Akshaya).",
-      "story": "On this day, Lord Krishna gave the Akshaya Patra (a vessel that never runs out of food) to Draupadi. It is also the day when Lord Parashurama was born, Goddess Ganga descended to Earth, and Sage Vyasa started reciting the Mahabharata.",
+      "description": "Eternal prosperity, auspicious beginnings, charitable deeds, wealth and abundance, friendship and devotion",
+      "deity": "",
+      "story": "Akshaya Tritiya is considered one of the most auspicious days in the Hindu calendar. 'Akshaya' means eternal or inexhaustible, and 'Tritiya' means the third day. According to Hindu mythology, on this day, Lord Parshurama (the sixth avatar of Vishnu) received an axe from Lord Shiva, with which he fought for justice and eliminated evil kings. This day is also associated with the churning of the ocean (Samudra Manthan) by gods and demons to obtain Amrita (nectar of immortality). It is believed that on Akshaya Tritiya, the Yamuna River acquired its sacred and eternal nature. One popular legend narrates that on this day, Sudama (a poor Brahmin friend of Lord Krishna) visited Krishna's palace with a handful of rice puffed by his wife. Krishna was so touched by Sudama's friendship and simple gift that he blessed him with immense wealth and prosperity. The significance of Akshaya Tritiya lies in the belief that any charitable deed, investment, or auspicious activity undertaken on this day yields eternal benefits. Buying gold or starting new ventures on this day is considered especially auspicious. Businesses, shops, and offices open on this day with grand ceremonies. Many weddings are also held on this date.",
       "rules": [
-        "Perform Lakshmi-Narayan Puja in the morning.",
-        "Donate food, water pots, umbrellas, or clothes to the needy.",
-        "Buying gold or starting a new venture is highly auspicious.",
-        "Offer barley (Jau) or wheat grains to Lord Vishnu."
+        "Worship: Significance - Eternal prosperity, auspicious beginnings, charitable deeds, wealth and abundance, friendship and devotion",
+        "Worship: Early morning - Bathe and wear clean clothes",
+        "Worship: Step 1 - Create an altar with idols of Lord Krishna, Lord Parshurama, or Lakshmi (goddess of wealth)",
+        "Worship: Step 2 - Light lamps and burn incense",
+        "Worship: Step 3 - Offer flowers, fruits, sweets, and a plate of rice (symbolizing abundance)",
+        "Worship: Step 4 - Chant mantras for prosperity and abundance",
+        "Worship: Step 5 - Perform Aarti with devotion",
+        "Worship: Step 6 - Give charity to the poor and needy",
+        "Worship: Step 7 - Make investments or start new business ventures with prayers",
+        "Diet: Fasting type - No fasting; festive celebration",
+        "Diet: Preparation - Cook special dishes and sweets",
+        "Diet: Sharing - Distribute sweets and gifts to family and friends",
+        "Diet: Avoid - None; all foods are allowed",
+        "Worship: Benefits - Eternal prosperity, abundance, success in ventures, good health, removal of poverty, divine blessings, overcoming obstacles"
       ]
     },
     "hi": {
@@ -210,14 +280,26 @@
   "sita-navami": {
     "en": {
       "title": "Sita Navami",
-      "deity": "Goddess Sita",
-      "description": "Marks the appearance day of Goddess Sita, representing purity, sacrifice, and ultimate devotion.",
-      "story": "King Janaka of Mithila was plowing a field to perform a yajna. His plow hit a golden casket buried in the earth. Inside, he found a beautiful baby girl, whom he named Sita (meaning furrow of a plow) and adopted as his daughter.",
+      "description": "Goddess Sita's birth, devotion to husband, purity, virtue, sacrifice, feminine strength, loyalty",
+      "deity": "",
+      "story": "Sita Navami celebrates the birth of Goddess Sita, the divine consort of Lord Rama. Sita is worshipped as an ideal woman, symbolizing purity, virtue, devotion, and sacrifice. According to the Ramayana, Sita was born from the earth (hence the name Sita, derived from 'Seeta' meaning furrow). She was found by King Janaka while plowing the land. Sita's life story is marked by unwavering devotion to her husband Rama. When Rama was exiled for 14 years, she willingly accompanied him to the forests, enduring hardships alongside him. When she was kidnapped by Ravana, she maintained her purity and virtue despite being held captive. After her rescue and Rama's coronation, she was subjected to a test of fire (Agni Pariksha) to prove her chastity, which she passed successfully. However, when rumors spread about her character due to her abduction, Rama asked her to leave the palace to maintain the kingdom's reputation. Sita then retreated to the ashram of Valmiki (the sage who authored the Ramayana) and lived a life of quiet dignity. Sita is revered as an embodiment of sacrifice, loyalty, and feminine strength. On Sita Navami, devotees worship her and seek blessings for a virtuous and devoted life.",
       "rules": [
-        "Perform Sita-Rama Puja with flowers, incense, and sweets.",
-        "Donate yellow clothes or make up items (Suhaag samagri) to married women.",
-        "Observe a partial fast from sunrise to midday.",
-        "Recite the Ramayana or sing Sita-Rama Bhajans."
+        "Worship: Significance - Goddess Sita's birth, devotion to husband, purity, virtue, sacrifice, feminine strength, loyalty",
+        "Worship: Preparation - Prepare a clean and decorated altar",
+        "Worship: Step 1 - Bathe and wear new, clean clothes (preferably white or light-colored)",
+        "Worship: Step 2 - Create or use an idol of Goddess Sita with Lord Rama",
+        "Worship: Step 3 - Light lamps and burn incense",
+        "Worship: Step 4 - Offer flowers, fruits, and sweets to the goddess",
+        "Worship: Step 5 - Recite the Sita Navami vrat Katha (story)",
+        "Worship: Step 6 - Chant 'Om Sitayai Namah' (salutation to Goddess Sita)",
+        "Worship: Step 7 - Perform Aarti and ring bells",
+        "Worship: Step 8 - Distribute Prasad to family members",
+        "Diet: Fasting type - Partial or Full Fast (optional)",
+        "Diet: Allowed - Fruits, milk, yogurt, potatoes, nuts",
+        "Diet: Breaking fast - Light vegetarian meals with rice, lentils, vegetables",
+        "Diet: Sweets - Sesame sweets, jaggery-based preparations",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Virtuous and devoted married life, family harmony, strength and patience, divine blessings, overcoming adversities"
       ]
     },
     "hi": {
@@ -236,14 +318,24 @@
   "raksha-bandhan": {
     "en": {
       "title": "Raksha Bandhan",
-      "deity": "Lord Krishna / Lord Yama & Yamuna",
-      "description": "A festival celebrating the eternal bond of protection and love between brothers and sisters.",
-      "story": "When Lord Krishna cut his finger while handling sugarcane, Draupadi tore a piece of her saree and tied it around his wound. Touched by her gesture, Krishna promised to protect Draupadi whenever she needed it, which he fulfilled during the Cheer Haran.",
+      "description": "Sibling bond, protection, love, family unity, divine blessings for longevity and prosperity",
+      "deity": "",
+      "story": "Raksha Bandhan celebrates the sacred bond between siblings. The word 'Raksha' means protection and 'Bandhan' means bond or tie. On this auspicious day, sisters tie a sacred thread called 'Rakhi' on their brothers' wrists, praying for their long life, good health, and prosperity. In return, brothers pledge to protect and support their sisters throughout their lives. The festival has ancient roots in Hindu tradition and is mentioned in the Bhagavata Purana and various other ancient texts. One famous legend associated with Rakhi is from the Mahabharata, where Draupadi (wife of Arjuna) tore a piece of her sari and tied it on Arjuna's wrist, creating a sacred bond of protection. Another legend narrates the incident where Lord Indra's wife Indrani tied a protective thread on Indra's wrist before a battle with demons, which is why the festival is also celebrated to seek divine protection. In modern times, Rakhi has transcended traditional boundaries. Sisters tie Rakhi not only to biological brothers but also to male cousins, mentors, and even friends, extending the concept of sibling protection to a broader sense of mutual care and respect. The festival strengthens family bonds and reinforces the values of love, care, and protection within families.",
       "rules": [
-        "Prepare a puja thali with rakhi, roli, rice grains, sweets, and a lamp.",
-        "Tie the sacred thread (Rakhi) on the brother's right wrist.",
-        "Apply tilak on the brother's forehead and perform his aarti.",
-        "Brothers give gifts and take a pledge to protect their sisters."
+        "Worship: Significance - Sibling bond, protection, love, family unity, divine blessings for longevity and prosperity",
+        "Worship: Preparation - Sister prepares a Pooja thali with Rakhi, sweets, and rice",
+        "Worship: Step 1 - Sister applies vermillion (tilak) on brother's forehead",
+        "Worship: Step 2 - Sister ties the Rakhi on brother's right wrist",
+        "Worship: Step 3 - Sister performs Aarti for her brother's well-being",
+        "Worship: Step 4 - Brother receives the Rakhi and pledges to protect his sister",
+        "Worship: Step 5 - Exchange sweets and gifts",
+        "Worship: Step 6 - Brother gifts money or presents to his sister",
+        "Worship: Step 7 - Family members offer blessings and prayers",
+        "Diet: Fasting type - No fasting; festive celebration",
+        "Diet: Preparation - Prepare traditional sweets and savory dishes",
+        "Diet: Sharing - Exchange sweets with family and friends",
+        "Diet: Celebration - Family feasts and gatherings",
+        "Worship: Benefits - Strengthened sibling bonds, protection from harm, mutual love and respect, family unity, prosperity, divine blessings"
       ]
     },
     "hi": {
@@ -262,14 +354,22 @@
   "dhanteras": {
     "en": {
       "title": "Dhanteras",
-      "deity": "Lord Dhanvantari, Lakshmi & Kuber",
-      "description": "Marks the first day of Diwali celebrations. Worshipping the God of Medicine, Dhanvantari, for good health and Kuber for wealth.",
-      "story": "During Samudra Manthan, Lord Dhanvantari emerged from the ocean on this day carrying a pot of Amrita (nectar) and the scriptures of Ayurveda. Worshipping Him ensures good health and freedom from diseases.",
+      "description": "Wealth and prosperity, health and healing, Dhanvantari's emergence, Diwali's beginning, auspicious transactions",
+      "deity": "",
+      "story": "Dhanteras marks the beginning of the five-day Diwali festival. 'Dhan' means wealth and 'Teras' means the thirteenth day. On this auspicious day, buying new gold, silver, or utensils is considered especially lucky, as it is believed to invite prosperity into the home. According to Hindu mythology, Dhanteras commemorates the churning of the cosmic ocean (Samudra Manthan) by gods and demons. During this cosmic event, Dhanvantari (the physician of the gods and the source of Ayurveda) emerged from the ocean, holding the pot of nectar (Amrita). Therefore, Dhanteras is also associated with health and healing. On this day, devotees worship Lakshmi (the goddess of wealth) and Dhanvantari to seek blessings for prosperity and good health. It is a highly auspicious day for making investments, purchasing precious metals, or starting new ventures. Many shops and businesses light lamps and offer prayers on this day. Dhanteras is the day when the festive season truly begins, with homes being cleaned and decorated, lights being installed, and preparations being made for Diwali.",
       "rules": [
-        "Perform a puja for Lord Dhanvantari, Lord Kuber, and Goddess Lakshmi in the evening.",
-        "Buy new metal utensils, silver coins, or gold ornaments.",
-        "Light a Yamadeep (mustard oil lamp facing south) outside the house to ward off untimely death.",
-        "Donate clay lamps and sweets to neighbors."
+        "Worship: Significance - Wealth and prosperity, health and healing, Dhanvantari's emergence, Diwali's beginning, auspicious transactions",
+        "Worship: Step 1 - Clean and decorate the home",
+        "Worship: Step 2 - Light lamps (diyas) throughout the house",
+        "Worship: Step 3 - Create an altar with idols of Lakshmi and Dhanvantari",
+        "Worship: Step 4 - Offer flowers, fruits, and sweets",
+        "Worship: Step 5 - Perform prayers and Aarti for prosperity and health",
+        "Worship: Step 6 - Buy gold, silver, or new utensils (considered auspicious on this day)",
+        "Worship: Step 7 - Distribute sweets and gifts to family and friends",
+        "Diet: Fasting type - No fasting; festive eating",
+        "Diet: Celebration - Prepare special dishes and sweets",
+        "Diet: Sharing - Exchange sweets and gifts with family and friends",
+        "Worship: Benefits - Wealth and prosperity, good health and healing, success in business, divine blessings, auspicious beginnings"
       ]
     },
     "hi": {
@@ -288,14 +388,26 @@
   "karwa-chauth": {
     "en": {
       "title": "Karwa Chauth",
-      "deity": "Lord Shiva, Parvati, Ganesha & Karwa Mata",
-      "description": "A highly popular fast observed by married women for the long life and safety of their husbands.",
-      "story": "Long time ago, in the city of Indraprasthapur there was one Brahmin named Vedsharma. Vedsharma was happily married to Leelavati and had seven great sons and one deft daughter named Veeravati. Due to only sister of seven brothers she was pampered not only by her parents but also by her brothers.\n\nOnce she got matured, she was married to a suitable Brahmin boy. After marriage, when Veeravati was with her parents, she observed Karwa Chauth fasting for the long life of her husband along with her sisters-in-laws. During the fasting of Karwa Chauth Veeravati could not bear the hunger. Due to weakness she fainted and fell on the ground.\n\nAll brothers could not bear the miserable condition of their adorable sister. They knew that Veeravati, a Pativrata, would not take any food unless she sights the moon even if it costs her life. All brothers together made a plan to trick the sister to break her fast. One of the brothers climbed on the distant tree of Vat with sieve and lamp. When Veeravati gained the conscious, rest of the brothers told her that the moon has risen and brought her on the roof to sight the moon.\n\nVeeravati saw the lamp behind the sieve on a distant Vat tree and believed that the moon has risen behind the thicket of tree. To get over her hunger she immediately made offerings to the lamp and broke the fast.\n\nWhen Veeravati started having the meal she got all sorts of bad omen. In the first bite she found the hair, in the second bite she sneezed and in the third bite she got invitation from her in-laws. After reaching her husbands' home for the first time she found the dead body of her husband.\n\nOn seeing the dead body of her husband Veeravati started crying and blamed herself for committing some mistake during the fasting of Karwa Chauth. She started mourning inconsolably. On listening her mourning Goddess Indrani, the wife of God Indra, arrived to console Veeravati.\n\nVeeravati asked Indrani why she got such a fate on the day of Karwa Chauth and begged to make her husband alive. On seeing the remorse of Veeravati, Goddess Indrani told her that she broke the fast without giving Argha (offering) to the moon and due to that her husband met untimely death. Indrani advised Veeravati to observe Chauth fasting on each month throughout the year including the fasting of Karwa Chauth and assured that her husband would come back alive.\n\nAfter that Veeravati observed monthly fasting with complete trust and all rituals. Finally due to accumulating Punya of those fastings Veeravati got her husband back.",
+      "description": "Marital love and devotion, husband's longevity and good health, marital bond's sacredness, women's strength and dedication",
+      "deity": "",
+      "story": "Karwa Chauth is one of the most significant and emotionally important festivals for married women in North India. The vrat is observed to pray for the long life and good health of husbands. 'Karwa' refers to an earthen pot, and 'Chauth' means the fourth day. On this day, married women observe a strict fast from sunrise to moonrise, without consuming food or water. The fast is broken only after sighting the moon in the evening. According to the legend, Karwa Chauth commemorates the story of Veervati, a princess who observed this vrat with such dedication that she saved her husband from death. Another legend narrates the story of Queen Malti, who fasted on Karwa Chauth to ensure her husband's safety during a battle. The festival represents the depth of marital love and a wife's commitment to her husband's well-being. On Karwa Chauth, women dress in traditional attire (often red and gold), apply henna (mehendi) on their hands and feet, and wear bangles and jewelry. The festival is marked by women gathering together, sharing stories, singing folk songs, and playing traditional games while fasting. The day culminates in the moon-sighting ceremony, where husbands help their wives sight the moon through a sieve (chalni) and feed them the first morsel after the fast.",
       "rules": [
-        "Observe a strict Nirjala (waterless) fast from sunrise until moonrise.",
-        "Receive Sargi (pre-dawn meal) from the mother-in-law.",
-        "Listen to the Karwa Chauth Vrat Katha in a group in the afternoon.",
-        "Look at the Moon and then the husband through a sieve before breaking the fast."
+        "Worship: Significance - Marital love and devotion, husband's longevity and good health, marital bond's sacredness, women's strength and dedication",
+        "Worship: Early morning - Before sunrise, women eat a light meal (Sargi)",
+        "Worship: Step 1 - From sunrise, observe a strict fast without food or water",
+        "Worship: Step 2 - Dress in traditional attire with red and gold colors",
+        "Worship: Step 3 - Apply henna (mehendi) on hands and feet",
+        "Worship: Step 4 - Wear bangles, jewelry, and vermillion (sindoor)",
+        "Worship: Step 5 - Gather with other women and engage in traditional games and storytelling",
+        "Worship: Step 6 - Sing folk songs (Karwa Chauth Ke Geet) celebrating marital love",
+        "Worship: Step 7 - In the evening, perform Aarti of the moon",
+        "Worship: Step 8 - After sighting the moon, break the fast by eating sweets and fruits offered by the husband",
+        "Worship: Step 9 - Exchange gifts with the husband",
+        "Diet: Fasting type - Nirjala Vrat (Complete fasting without food or water from sunrise to moonrise)",
+        "Diet: Pre fast meal - Sargi: A light meal eaten before sunrise consisting of halwa, puri, and dried fruits",
+        "Diet: Breaking fast - After sighting the moon, eat sweets, fruits, and light meals",
+        "Diet: Avoid - All food and water during the day",
+        "Worship: Benefits - Husband's long life and good health, marital bliss and harmony, strengthened marital bonds, divine blessings, fulfillment of desires"
       ]
     },
     "hi": {
@@ -314,14 +426,25 @@
   "ahoi-ashtami": {
     "en": {
       "title": "Ahoi Ashtami",
-      "deity": "Ahoi Mata (Goddess Parvati)",
-      "description": "Mothers observe a fast on this day, praying for the wellbeing and long life of their children. It falls 4 days after Karwa Chauth.",
-      "story": "A woman accidentally killed a hedgehog's pup while digging clay. The hedgehog cursed her family. The woman's children died. An old woman suggested praying to Ahoi Mata (Goddess Parvati) on Ashtami. She observed the fast, and Ahoi Mata, pleased by her repentance, blessed her with her children back.",
+      "description": "Mother's love and sacrifice, children's health and prosperity, motherhood's sacredness, unconditional love, family welfare",
+      "deity": "",
+      "story": "Ahoi Ashtami is observed primarily by mothers and women for the health, prosperity, and long life of their children. 'Ahoi' is an exclamation of joy, and 'Ashtami' refers to the eighth day of the lunar month. According to Hindu mythology, Ahoi Ashtami commemorates the story of a mother's selfless love and sacrifice for her seven sons. A hunter once killed a mother fish along with her seven baby fish. The mother fish prayed to the goddess that in her next life, she be born as a mother to seven sons so that she could experience motherhood. However, the gods decreed that she would lose all her sons in her human life. Despite knowing this, the mother accepted her fate to experience motherhood. On Ahoi Ashtami, this mother's story is remembered and celebrated. The festival emphasizes a mother's unconditional love and willingness to sacrifice everything for her children. On this day, mothers observe a fast (often without food or water) and pray for the well-being of their children. The fast is broken after seeing the stars in the evening. Ahoi Ashtami is closely followed by Diwali, making it an important festival during the festive season.",
       "rules": [
-        "Observe a day-long fast from sunrise to star-sighting (or moonrise).",
-        "Draw an image of Ahoi Mata and her cubs on the wall (or use a poster).",
-        "Keep a water pot (Kalash) and a bowl of grains near the image.",
-        "Offer Arghya (water) to the stars in the evening before eating."
+        "Worship: Significance - Mother's love and sacrifice, children's health and prosperity, motherhood's sacredness, unconditional love, family welfare",
+        "Worship: Preparation - Create an image or idol of Ahoi (cow and calf) using clay or paint",
+        "Worship: Step 1 - Bathe and wear clean clothes in the morning",
+        "Worship: Step 2 - Create a prayer altar with the Ahoi image",
+        "Worship: Step 3 - Light lamps and burn incense",
+        "Worship: Step 4 - Offer flowers, fruits, and sweets to the Ahoi image",
+        "Worship: Step 5 - From sunrise, observe the fast (some consume fruits and milk, others observe nirjala fast)",
+        "Worship: Step 6 - Recite the Ahoi Ashtami Katha (the legend of the mother and her sons)",
+        "Worship: Step 7 - In the evening, after sighting the stars, perform Aarti",
+        "Worship: Step 8 - Break the fast with sweets and light meals",
+        "Diet: Fasting type - Partial or Full Fast (often nirjala from sunrise to star-sighting)",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes (in partial fast)",
+        "Diet: Breaking fast - After seeing stars, eat sweets, milk, and light meals",
+        "Diet: Avoid - Grains, salt, meat, onion, garlic",
+        "Worship: Benefits - Children's health and long life, family prosperity, mother's blessings, removal of obstacles, divine protection for children"
       ]
     },
     "hi": {
@@ -340,14 +463,26 @@
   "sheetala-ashtami": {
     "en": {
       "title": "Sheetala Ashtami",
-      "deity": "Goddess Sheetala",
-      "description": "Also known as Basoda, devotees worship Sheetala Mata to seek protection from heat-borne diseases like smallpox and measles.",
-      "story": "A woman once prepared fresh food on Sheetala Ashtami, violating the rule of eating stale food. Her house caught fire while the rest of the village (who ate stale food) was safe. Realizing her mistake, she prayed to Sheetala Mata, who extinguished the fire and blessed her family.",
+      "description": "Goddess Shitala worship, healing from diseases, protection from epidemics, family health, cool and calm energy",
+      "deity": "",
+      "story": "Sheetala Ashtami celebrates Goddess Shitala (also spelled Sheetala), the goddess of healing and protection from diseases, especially smallpox. The name 'Shitala' means 'cool' or 'calm.' According to Hindu mythology, Goddess Shitala has the power to cool the burning fever of diseases and cure epidemics. In the pre-vaccine era, this goddess was revered as the protector from smallpox, which was a deadly disease. The legend narrates that after the great war of Mahabharata, many soldiers were burnt and had wounds. Goddess Shitala appeared and cooled their wounds with her gentle touch, healing them completely. In North India, especially Uttar Pradesh, women observe this vrat for the good health of their family members, particularly children. On this day, a special tradition is to prepare and eat 'Khichdi' (a mixture of rice and lentils cooked in mild spices) and other cool foods that have been cooked the previous day. The idea is to avoid fresh cooking and hot foods, symbolizing the cool and calming energy of the goddess. Homes are cleaned and whitewashed to ward off diseases.",
       "rules": [
-        "No fresh food is cooked on the day of the puja. Only stale food prepared the previous night (Basiya) is eaten.",
-        "Worship Sheetala Mata in the morning, offering water, curd, and stale sweets.",
-        "Bathe with cold water to symbolize cooling and purification.",
-        "Apply a small amount of puja water (Sheetal Jal) on the eyes and forehead of children."
+        "Worship: Significance - Goddess Shitala worship, healing from diseases, protection from epidemics, family health, cool and calm energy",
+        "Worship: Step 1 - On the evening before Sheetala Ashtami, cook the day's food (Khichdi, vegetables, and sweets)",
+        "Worship: Step 2 - Wake up early on Ashtami and bathe with cool water",
+        "Worship: Step 3 - Wear clean clothes (preferably white or light-colored)",
+        "Worship: Step 4 - Create an altar with an idol or image of Goddess Shitala",
+        "Worship: Step 5 - Light lamps with cool water offerings",
+        "Worship: Step 6 - Offer flowers and the pre-cooked Khichdi as Prasad",
+        "Worship: Step 7 - Chant prayers to Goddess Shitala for protection from diseases",
+        "Worship: Step 8 - Share the Khichdi with family and the poor",
+        "Worship: Step 9 - Perform Aarti in the evening",
+        "Diet: Fasting type - Partial Fast",
+        "Diet: Special dish - Khichdi (cooked the previous day with rice, lentils, and mild spices)",
+        "Diet: Allowed - Pre-cooked foods, fruits, milk, yogurt",
+        "Diet: Emphasis - Cold or room-temperature foods",
+        "Diet: Avoid - Fresh cooking on this day, hot spices, meat, onion, garlic, salt",
+        "Worship: Benefits - Protection from diseases and epidemics, good health of family, particularly children, healing and recovery"
       ]
     },
     "hi": {
@@ -392,13 +527,24 @@
   "nag-panchami": {
     "en": {
       "title": "Nag Panchami",
-      "deity": "Nag Devta (Serpent Gods)",
-      "description": "Observed on Shravana Shukla Panchami, devotees worship serpent deities to seek protection for their family.",
-      "story": "A farmer accidentally killed baby snakes. The mother snake bit and killed the farmer's family, except his daughter who prayed to Nag Devta. Pleased by her devotion, the Nagini revived the family.",
+      "description": "Serpent worship, respect for all creatures, protection from dangers, Ananta deity, divine recognition in nature",
+      "deity": "",
+      "story": "Nag Panchami celebrates the serpent deity and is primarily dedicated to Ananta (the serpent on which Lord Vishnu rests) and other serpent deities. According to Hindu mythology, snakes are considered divine and are associated with various aspects of divinity. Lord Shiva wears a serpent (Vasuki) around his neck, and serpents are depicted in various religious contexts. The most famous serpent in Hindu mythology is Ananta Shesha, on whose coils Lord Vishnu sleeps. The Nag Loka (serpent world) is considered an important realm in Hindu cosmology. On Nag Panchami, devotees worship serpents and pray for protection from snake bites and other dangers. In many households, milk is offered to snakes as a sign of reverence and appeasement. The festival emphasizes respect for all creatures, including those often feared, and recognizes the divine presence in all beings. In agricultural communities, Nag Panchami is celebrated to protect crops from snakes and to ensure a good harvest.",
       "rules": [
-        "Worship Nag Devta by offering milk and sweets.",
-        "Avoid plowing or digging the earth on this day.",
-        "Draw snake figures on both sides of the house entrance."
+        "Worship: Significance - Serpent worship, respect for all creatures, protection from dangers, Ananta deity, divine recognition in nature",
+        "Worship: Early morning - Wake early and bathe",
+        "Worship: Step 1 - Create an image of a serpent using clay or draw it with paint",
+        "Worship: Step 2 - Light lamps and burn incense",
+        "Worship: Step 3 - Offer milk, flowers, fruits, and sweets to the serpent image",
+        "Worship: Step 4 - Chant prayers to Ananta and other serpent deities",
+        "Worship: Step 5 - If snakes are present in the area, carefully offer milk at their holes or dwelling places",
+        "Worship: Step 6 - Perform Aarti",
+        "Worship: Step 7 - Distribute sweets and Prasad to family members",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, potatoes",
+        "Diet: Breaking fast - Light meals with rice, lentils, vegetables",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Protection from snake bites and dangers, good health, prosperity in agriculture, divine grace, respect for all creatures"
       ]
     },
     "hi": {
@@ -440,13 +586,25 @@
   "anant-chaturdashi": {
     "en": {
       "title": "Anant Chaturdashi",
-      "deity": "Lord Ananta (Vishnu)",
-      "description": "Observed on Bhadrapada Shukla Chaturdashi, devotees tie a sacred thread with 14 knots for protection.",
-      "story": "Yudhisthira observed Anant Chaturdashi fast on Krishna's advice. A woman named Sushila observed it, bringing prosperity. Her husband Kaundinya broke the thread, leading to poverty, but later repented and restored their wealth.",
+      "description": "Ananta (infinity) worship, eternal connection with the divine, longevity, prosperity, spiritual growth",
+      "deity": "",
+      "story": "Anant Chaturdashi celebrates Ananta Deva, the infinite serpent on which Lord Vishnu rests in the cosmic ocean. 'Anant' means infinite, and 'Chaturdashi' means the fourteenth day. On this day, devotees worship Ananta (also spelled Ananta Shesha) and seek blessings for longevity, prosperity, and spiritual growth. The serpent Ananta is depicted as having countless hoods and is considered an incarnation of Shesha Naga, one of the primary serpent deities in Hindu mythology. The festival emphasizes the concept of infinity and eternity. On Anant Chaturdashi, devotees often tie a sacred thread or bracelet with 'Ananta' (a knot) on their wrists, symbolizing the infinite connection with the divine. The tradition involves fasting, prayers, and the wearing of this sacred symbol throughout the year for blessings and protection.",
       "rules": [
-        "Perform puja to Lord Vishnu in the form of Ananta.",
-        "Prepare a sacred thread (Anant Sutra) with 14 knots.",
-        "Tie the thread (men on the right arm, women on the left)."
+        "Worship: Significance - Ananta (infinity) worship, eternal connection with the divine, longevity, prosperity, spiritual growth",
+        "Worship: Preparation - Prepare flowers, sweets, and a sacred thread for the Ananta ritual",
+        "Worship: Step 1 - Wake early and bathe",
+        "Worship: Step 2 - Create an altar with a representation of Ananta (infinite serpent) or use an image",
+        "Worship: Step 3 - Light lamps and burn incense",
+        "Worship: Step 4 - Offer flowers, fruits, and sweets",
+        "Worship: Step 5 - Chant prayers to Ananta and recite 'Om Namah Shivaya' or 'Om Namo Narayanaya'",
+        "Worship: Step 6 - The main ritual involves tying the 'Ananta' knot: Take a white sacred thread and tie 14 knots in it, representing the 14 states of consciousness. Tie this around your wrist or keep it as a blessed symbol.",
+        "Worship: Step 7 - Perform Aarti",
+        "Worship: Step 8 - Distribute Prasad",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes",
+        "Diet: Breaking fast - Light meals with rice, lentils, vegetables",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Longevity and health, eternal connection with the divine, prosperity, spiritual growth, protection, fulfillment of desires"
       ]
     },
     "hi": {
@@ -464,13 +622,24 @@
   "rishi-panchami": {
     "en": {
       "title": "Rishi Panchami",
-      "deity": "Saptarishis (Seven Sages)",
-      "description": "Observed on Bhadrapada Shukla Panchami, it is a day of purification to seek forgiveness for any impurities.",
-      "story": "A Brahmin woman entered the kitchen during her monthly cycle and was born as a animal in her next birth. Her daughter observed the Rishi Panchami fast, liberating her parents' souls.",
+      "description": "Rishis' wisdom and contributions, transmission of Vedic knowledge, spiritual guidance, purification of sins, guru-disciple relationship",
+      "deity": "",
+      "story": "Rishi Panchami honors the seven great sages (Saptarishi) who are considered the mind-born sons of Brahma and the custodians of Vedic knowledge. These sages—Atri, Vasishtha, Pulastya, Pul aha, Kratu, Angirasa, and Marichi—are revered as the sources of all spiritual knowledge and the founders of yoga and various meditation practices. Rishi Panchami celebrates their contributions to human civilization and spiritual evolution. According to Hindu tradition, these seven sages are still present in the heavens, guiding humanity through their wisdom. The festival emphasizes the importance of guru-shishya (teacher-student) relationships and the transmission of knowledge from generation to generation. Women particularly observe this vrat to honor the Rishis and to seek blessings for wisdom, knowledge, and purification. The vrat is also observed to atone for any inadvertent sins committed during the monsoon season.",
       "rules": [
-        "Take a purifying bath.",
-        "Worship the Saptarishis (Seven Sages).",
-        "Do not eat food grown from plowed land; consume wild rice and fruits."
+        "Worship: Significance - Rishis' wisdom and contributions, transmission of Vedic knowledge, spiritual guidance, purification of sins, guru-disciple relationship",
+        "Worship: Step 1 - Wake early and take a ritual bath with turmeric",
+        "Worship: Step 2 - Create an altar with representations or names of the seven Rishis",
+        "Worship: Step 3 - Light lamps and burn incense",
+        "Worship: Step 4 - Offer flowers, fruits, and sweets",
+        "Worship: Step 5 - Recite the names of the seven Rishis: Atri, Vasishtha, Pulastya, Pulaha, Kratu, Angirasa, and Marichi",
+        "Worship: Step 6 - Perform prayers seeking their blessings for wisdom and knowledge",
+        "Worship: Step 7 - Perform Aarti",
+        "Worship: Step 8 - Distribute Prasad to family members",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes",
+        "Diet: Breaking fast - Light meals with rice, lentils, vegetables",
+        "Diet: Avoid - Meat, onion, garlic, salt, grains in strict fast",
+        "Worship: Benefits - Knowledge and wisdom, spiritual growth, purification of body and mind, removal of sins, divine guidance from the Rishis"
       ]
     },
     "hi": {
@@ -565,16 +734,28 @@
   },
   "devutthana-ekadashi": {
     "en": {
-      "title": "Devutthana (Prabodhini) Ekadashi Vrat",
-      "deity": "Lord Shaligram (Vishnu) & Goddess Tulsi",
-      "description": "Observed on Kartik Shukla Ekadashi. It marks the awakening of Lord Vishnu from his four-month cosmic sleep (Chaturmas) and the beginning of the Hindu wedding season with Tulsi Vivah.",
+      "title": "Tulsi Vivah / Devutthana Ekadashi",
+      "description": "Tulsi's marriage to Krishna, union of devotee with divine, sacredness of the Tulsi plant, beginning of wedding season, awakening of gods, auspiciousness",
+      "deity": "",
+      "story": "Tulsi Vivah celebrates the sacred marriage of Goddess Tulsi (the holy basil plant) to Lord Krishna. 'Vivah' means marriage. In Hindu tradition, Tulsi is considered a sacred plant and is worshipped as a goddess (Tulsi Mata or Vrindavani). According to mythology, Tulsi was born from the churning of the cosmic ocean and was first married to Sankhachuda, a demon. When Krishna killed Sankhachuda, Tulsi married Krishna. Tulsi Vivah is celebrated as the day of Krishna and Tulsi's marriage, marking the end of the monsoon season and the beginning of the auspicious wedding season. On this day, Tulsi plants in homes and temples are decorated with ornaments and flowers, and a marriage ceremony is performed. The festival signifies the union of the divine with the devotee (Tulsi representing the devotee and Krishna representing the divine). The day is considered highly auspicious, and after Tulsi Vivah, Hindu marriages and auspicious events are traditionally permitted during the winter season. Devutthana Ekadashi commemorates the awakening of the gods from their cosmic sleep, symbolizing the return of life and activity after the monsoon season's dormancy. The combination of Tulsi Vivah and Devutthana Ekadashi on the same day makes it doubly auspicious.",
       "rules": [
-        "Decorate the courtyard with sugarcane stalks, rangoli, and clay lamps.",
-        "Perform Tulsi Vivah (the ceremonial marriage of the Tulsi plant with Lord Shaligram/Krishna).",
-        "Offer seasonal fruits like sweet potato, water chestnut (singhara), and sugarcane to the deity.",
-        "Observe a fast and sing awakening songs ('Utho Dev, Baitho Dev') in the evening."
-      ],
-      "story": "Lord Vishnu sleeps on the serpent Shesha in the cosmic ocean during the four months of the monsoon (Chaturmas). During this period, all auspicious ceremonies like weddings are suspended. On Kartik Shukla Ekadashi, Lord Vishnu awakens from his sleep.\n\nAccording to legend, Goddess Tulsi was originally Vrinda, a chaste devotee of Vishnu. Due to a curse, she was transformed into the Tulsi plant. Lord Vishnu promised that he would never accept any offering without Tulsi leaves and would marry her in his stone form (Shaligram). Worshipping Shaligram and performing Tulsi Vivah on this day signifies the union of the soul with the divine, opening the gates of Vaikuntha and bringing marital bliss and prosperity."
+        "Worship: Significance - Tulsi's marriage to Krishna, union of devotee with divine, sacredness of the Tulsi plant, beginning of wedding season, awakening of gods, auspiciousness",
+        "Worship: Preparation - Decorate the Tulsi plant with flowers, colored cloths, and ornaments",
+        "Worship: Step 1 - Prepare the Tulsi plant as the bride",
+        "Worship: Step 2 - Place an idol or image of Krishna as the groom",
+        "Worship: Step 3 - Perform the wedding ceremony with rituals similar to a traditional Hindu wedding",
+        "Worship: Step 4 - Light lamps and burn incense",
+        "Worship: Step 5 - Offer flowers, sweets, and fruits",
+        "Worship: Step 6 - Perform Aarti with devotion and ring bells",
+        "Worship: Step 7 - Sing devotional songs celebrating Krishna and Tulsi's union",
+        "Worship: Step 8 - Distribute sweets and Prasad to family and friends",
+        "Diet: Fasting type - Partial or Full Fast (optional)",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes, root vegetables",
+        "Diet: Breaking fast - Light vegetarian meals with rice, lentils, vegetables",
+        "Diet: Special dish - Kheer (rice pudding) is traditionally prepared",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Sacred union with the divine, beginning of auspicious season for weddings, purification and healing from Tulsi's medicinal properties, divine blessings, prosperity"
+      ]
     },
     "hi": {
       "title": "देवोत्थान (प्रबोधिनी) एकादशी व्रत कथा",
@@ -1189,15 +1370,27 @@
   },
   "govardhan-puja": {
     "en": {
-      "title": "Govardhan Puja (Annakut)",
-      "deity": "Lord Krishna & Govardhan Hill",
-      "description": "Celebrates Lord Krishna lifting the Govardhan Hill to protect Vrindavan from Lord Indra's rains.",
+      "title": "Govardhan Puja",
+      "description": "Krishna's compassion and divine power, protection from natural calamities, importance of nature worship, abundance and nourishment, cow protection",
+      "deity": "",
+      "story": "Govardhan Puja celebrates the lifting of the Govardhan Mountain by Lord Krishna to protect the people and cattle of Gokul from torrential rain and flooding. According to the Bhagavata Purana, the people of Gokul were suffering from devastating rains sent by Indra (the king of gods), who was angered by Lord Krishna's advice that people should worship nature (the Govardhan Mountain and cows) instead of performing elaborate Vedic rituals to please gods. To save his people and cattle, the young Krishna effortlessly lifted the massive Govardhan Mountain with his little finger and held it up for seven days and nights, giving shelter to all the residents of Gokul. This divine act established Krishna's supreme power and his compassion for his devotees. Govardhan Puja is celebrated on the day after Diwali (Kartik Shukla Pratipada) and is also called Annakut, meaning 'mountain of food.' On this day, devotees create a small mountain-like structure using cow dung and decorate it with flowers, then worship it as an embodiment of Krishna. Devotees also prepare 56 or 108 different food items (called Chhapan Bhog) as an offering to Krishna, symbolizing complete nourishment and abundance. This festival emphasizes the importance of respecting nature, protecting cows (sacred animals), and recognizing divine power in all its forms.",
       "rules": [
-        "Create a symbolic Govardhan Hill from cow dung or clay and worship it.",
-        "Prepare 'Annakut' (56 food items) and offer it to Lord Krishna.",
-        "Circumambulate the symbolic hill."
-      ],
-      "story": "Vrindavan residents used to perform sacrifices for Lord Indra. Krishna suggested they worship Govardhan Hill instead. Furious, Indra sent torrential rains to flood the town. Krishna lifted the Govardhan Hill on his little finger for seven days, protecting the residents and humbling Indra's pride."
+        "Worship: Significance - Krishna's compassion and divine power, protection from natural calamities, importance of nature worship, abundance and nourishment, cow protection",
+        "Worship: Preparation - Prepare cow dung for the Govardhan structure",
+        "Worship: Step 1 - Create a small mountain-like structure using cow dung",
+        "Worship: Step 2 - Decorate the structure with flowers, flowers, and colored powders",
+        "Worship: Step 3 - Place an idol of Krishna holding the Govardhan Mountain in the center",
+        "Worship: Step 4 - Prepare various food items (at least 56 or 108 different dishes) as Chhapan Bhog",
+        "Worship: Step 5 - Perform Aarti and prayers to the Govardhan structure",
+        "Worship: Step 6 - Circumambulate the Govardhan (Parikrama) while chanting 'Jai Govardhan'",
+        "Worship: Step 7 - Distribute the Chhapan Bhog (blessed food) to all devotees",
+        "Worship: Step 8 - Protect and worship cows as sacred animals",
+        "Diet: Fasting type - No fasting; festive celebration",
+        "Diet: Chhapan bhog - Prepare 56 or 108 different food items including sweets, vegetables, grains, and fruits",
+        "Diet: Emphasis - Abundant and diverse food offerings",
+        "Diet: Sharing - Distribute blessed food (Prasad) to family, friends, and the poor",
+        "Worship: Benefits - Divine protection from natural calamities, abundance and prosperity, devotion to Krishna, respect for nature, cow protection, spiritual growth"
+      ]
     },
     "hi": {
       "title": "गोवर्धन पूजा (अन्नकूट)",
@@ -1209,6 +1402,718 @@
         "गोवर्धन जी की परिक्रमा करें और गायों की सेवा करें।"
       ],
       "story": "इंद्र के कोप से ब्रज को बचाने के लिए भगवान कृष्ण ने सात दिनों तक गोवर्धन पर्वत को अपनी कनिष्ठिका उंगली पर उठाए रखा था। ब्रजवासियों ने इसी पर्वत के नीचे शरण ली थी। इंद्र का मान-मर्दन होने पर उन्होंने क्षमा मांगी, जिसके बाद से गोवर्धन पूजा की परंपरा आरंभ हुई।"
+    }
+  },
+  "makar-sankranti": {
+    "en": {
+      "title": "Makar Sankranti",
+      "description": "Solar transition, Uttarayan (sun's northward journey), harvest festival, new beginnings, charity and donation",
+      "deity": "",
+      "story": "Makar Sankranti marks the sun's entry into Capricorn (Makar) and the beginning of the northward journey (Uttarayan). According to the Rigveda and Hindu astronomical texts, this is the most auspicious solar transition. Makar Sankranti is celebrated across India with different names and customs. In mythology, it is believed that on this day, Lord Surya (Sun God) visits the house of his son Shani (Saturn). The Mahabharata mentions that this is the day when the Pandavas began their exiled life, and it is also the day of Bhishma Pitamah's death. The festival emphasizes charity, ritual bathing, and the exchange of sesame and jaggery sweets, symbolizing the sweetness of relationships and life. It is also the day when farmers harvest their crops, making it a harvest festival celebrated as Pongal in Tamil Nadu, Lohri in Punjab, and Bhogi in Andhra Pradesh.",
+      "rules": [
+        "Worship: Significance - Solar transition, Uttarayan (sun's northward journey), harvest festival, new beginnings, charity and donation",
+        "Worship: Early morning - Wake at Brahma Muhurta and take a ritual bath (preferably in a sacred river)",
+        "Worship: Step 1 - If possible, bathe in the Ganges or other sacred rivers. If not, take a bath with sesame oil",
+        "Worship: Step 2 - Wear new clothes (preferably white or yellow) after the bath",
+        "Worship: Step 3 - Light a lamp and offer prayers to the Sun God (Surya Namaskar)",
+        "Worship: Step 4 - Prepare sesame seeds (til) and jaggery (gur) offerings",
+        "Worship: Step 5 - Offer these to the rising sun while chanting 'Om Surya Namah'",
+        "Worship: Step 6 - Donate sesame seeds, blankets, grains, and clothes to the poor",
+        "Worship: Step 7 - Exchange til-gur sweets with family and friends",
+        "Worship: Step 8 - Perform Aarti and sing devotional songs",
+        "Diet: Fasting type - No fasting; festive eating",
+        "Diet: Traditional foods - Til-gur laddus, khichdi with jaggery, rice-gur mixture, sesame brittle",
+        "Diet: Maharashtra - Chikali - sesame and jaggery brittle",
+        "Diet: Tamil nadu - Pongal rice with jaggery and milk",
+        "Diet: Punjab - Lohri - til, gur, and peanuts",
+        "Diet: Assam - Maagh Bihu - rice and sesame",
+        "Diet: Avoid - Onion and garlic are traditionally avoided",
+        "Worship: Benefits - Prosperity, good health, removal of sins, new opportunities, agricultural success"
+      ]
+    },
+    "hi": {
+      "title": "Makar Sankranti",
+      "description": "Solar transition, Uttarayan (sun's northward journey), harvest festival, new beginnings, charity and donation",
+      "deity": "",
+      "story": "Makar Sankranti marks the sun's entry into Capricorn (Makar) and the beginning of the northward journey (Uttarayan). According to the Rigveda and Hindu astronomical texts, this is the most auspicious solar transition. Makar Sankranti is celebrated across India with different names and customs. In mythology, it is believed that on this day, Lord Surya (Sun God) visits the house of his son Shani (Saturn). The Mahabharata mentions that this is the day when the Pandavas began their exiled life, and it is also the day of Bhishma Pitamah's death. The festival emphasizes charity, ritual bathing, and the exchange of sesame and jaggery sweets, symbolizing the sweetness of relationships and life. It is also the day when farmers harvest their crops, making it a harvest festival celebrated as Pongal in Tamil Nadu, Lohri in Punjab, and Bhogi in Andhra Pradesh.",
+      "rules": [
+        "Worship: Significance - Solar transition, Uttarayan (sun's northward journey), harvest festival, new beginnings, charity and donation",
+        "Worship: Early morning - Wake at Brahma Muhurta and take a ritual bath (preferably in a sacred river)",
+        "Worship: Step 1 - If possible, bathe in the Ganges or other sacred rivers. If not, take a bath with sesame oil",
+        "Worship: Step 2 - Wear new clothes (preferably white or yellow) after the bath",
+        "Worship: Step 3 - Light a lamp and offer prayers to the Sun God (Surya Namaskar)",
+        "Worship: Step 4 - Prepare sesame seeds (til) and jaggery (gur) offerings",
+        "Worship: Step 5 - Offer these to the rising sun while chanting 'Om Surya Namah'",
+        "Worship: Step 6 - Donate sesame seeds, blankets, grains, and clothes to the poor",
+        "Worship: Step 7 - Exchange til-gur sweets with family and friends",
+        "Worship: Step 8 - Perform Aarti and sing devotional songs",
+        "Diet: Fasting type - No fasting; festive eating",
+        "Diet: Traditional foods - Til-gur laddus, khichdi with jaggery, rice-gur mixture, sesame brittle",
+        "Diet: Maharashtra - Chikali - sesame and jaggery brittle",
+        "Diet: Tamil nadu - Pongal rice with jaggery and milk",
+        "Diet: Punjab - Lohri - til, gur, and peanuts",
+        "Diet: Assam - Maagh Bihu - rice and sesame",
+        "Diet: Avoid - Onion and garlic are traditionally avoided",
+        "Worship: Benefits - Prosperity, good health, removal of sins, new opportunities, agricultural success"
+      ]
+    }
+  },
+  "gudi-padwa-ugadi": {
+    "en": {
+      "title": "Gudi Padwa / Ugadi",
+      "description": "Hindu New Year, creation of universe by Brahma, new beginnings, victory of good over evil, prosperity, overcoming challenges",
+      "deity": "",
+      "story": "Gudi Padwa marks the Hindu New Year in Maharashtra and Karnataka. 'Gudi' means a decorated flag, and 'Padwa' means the first day. In Andhra Pradesh and Telangana, it is called 'Ugadi.' According to Hindu tradition, on this day, Brahma (the creator) created the universe and began establishing the cosmic order. The festival celebrates new beginnings, prosperity, and the victory of good over evil. One popular legend associated with Gudi Padwa is the victory of Lord Rama over the demon king Ravana. After his triumphant return from Lanka, Rama was welcomed with the hoisting of colorful flags (Gudi) in Ayodhya. In Maharashtra, families prepare a 'Gudi' by tying neem leaves, jaggery (gur), and flour (maida) tied with a bright silk cloth and a sugar candy (shankarpali), symbolizing the sweetness of life mixed with bitter experiences. The Gudi is hoisted outside the main entrance to the house, believed to invite Indra (the king of gods) and bring prosperity. The festival also involves the exchange of 'Neem and Jaggery' sweets, symbolizing that life is a mixture of bitter and sweet experiences. In the kitchen, new dishes are prepared, and in many households, 'Puran Poli' (a sweet flatbread with lentil filling) is a must.",
+      "rules": [
+        "Worship: Significance - Hindu New Year, creation of universe by Brahma, new beginnings, victory of good over evil, prosperity, overcoming challenges",
+        "Worship: Step 1 - On the early morning of Gudi Padwa, bathe and wear new clothes",
+        "Worship: Step 2 - Prepare a 'Gudi' with neem leaves, jaggery, and a decorated cloth",
+        "Worship: Step 3 - Hoist the Gudi outside the main door or window",
+        "Worship: Step 4 - Perform Aarti and pray for prosperity and good health",
+        "Worship: Step 5 - Exchange neem leaves (Nimbu Chali) with jaggery with family and neighbors",
+        "Worship: Step 6 - Prepare traditional sweets and savory dishes (Puran Poli, Shrikhand, Upma)",
+        "Worship: Step 7 - Visit family and friends, exchange greetings and gifts",
+        "Diet: Fasting type - No fasting; festive eating",
+        "Diet: Maharashtra - Puran Poli (sweet flatbread), Shrikhand (yogurt-based dessert), Upma (savory semolina)",
+        "Diet: Andhra_pradesh - Pesarattu (green gram crepes), Gunta (jaggery and coconut sweet)",
+        "Diet: Karnataka - Obbattu (sweet flatbread), Payasa (rice pudding)",
+        "Diet: Special items - Neem leaves with jaggery (symbolizing bitter-sweet nature of life)",
+        "Diet: Avoid - None; all foods are allowed on this festive day",
+        "Worship: Benefits - New beginnings, prosperity, good health, overcoming obstacles, family bonding, abundance"
+      ]
+    },
+    "hi": {
+      "title": "Gudi Padwa / Ugadi",
+      "description": "Hindu New Year, creation of universe by Brahma, new beginnings, victory of good over evil, prosperity, overcoming challenges",
+      "deity": "",
+      "story": "Gudi Padwa marks the Hindu New Year in Maharashtra and Karnataka. 'Gudi' means a decorated flag, and 'Padwa' means the first day. In Andhra Pradesh and Telangana, it is called 'Ugadi.' According to Hindu tradition, on this day, Brahma (the creator) created the universe and began establishing the cosmic order. The festival celebrates new beginnings, prosperity, and the victory of good over evil. One popular legend associated with Gudi Padwa is the victory of Lord Rama over the demon king Ravana. After his triumphant return from Lanka, Rama was welcomed with the hoisting of colorful flags (Gudi) in Ayodhya. In Maharashtra, families prepare a 'Gudi' by tying neem leaves, jaggery (gur), and flour (maida) tied with a bright silk cloth and a sugar candy (shankarpali), symbolizing the sweetness of life mixed with bitter experiences. The Gudi is hoisted outside the main entrance to the house, believed to invite Indra (the king of gods) and bring prosperity. The festival also involves the exchange of 'Neem and Jaggery' sweets, symbolizing that life is a mixture of bitter and sweet experiences. In the kitchen, new dishes are prepared, and in many households, 'Puran Poli' (a sweet flatbread with lentil filling) is a must.",
+      "rules": [
+        "Worship: Significance - Hindu New Year, creation of universe by Brahma, new beginnings, victory of good over evil, prosperity, overcoming challenges",
+        "Worship: Step 1 - On the early morning of Gudi Padwa, bathe and wear new clothes",
+        "Worship: Step 2 - Prepare a 'Gudi' with neem leaves, jaggery, and a decorated cloth",
+        "Worship: Step 3 - Hoist the Gudi outside the main door or window",
+        "Worship: Step 4 - Perform Aarti and pray for prosperity and good health",
+        "Worship: Step 5 - Exchange neem leaves (Nimbu Chali) with jaggery with family and neighbors",
+        "Worship: Step 6 - Prepare traditional sweets and savory dishes (Puran Poli, Shrikhand, Upma)",
+        "Worship: Step 7 - Visit family and friends, exchange greetings and gifts",
+        "Diet: Fasting type - No fasting; festive eating",
+        "Diet: Maharashtra - Puran Poli (sweet flatbread), Shrikhand (yogurt-based dessert), Upma (savory semolina)",
+        "Diet: Andhra_pradesh - Pesarattu (green gram crepes), Gunta (jaggery and coconut sweet)",
+        "Diet: Karnataka - Obbattu (sweet flatbread), Payasa (rice pudding)",
+        "Diet: Special items - Neem leaves with jaggery (symbolizing bitter-sweet nature of life)",
+        "Diet: Avoid - None; all foods are allowed on this festive day",
+        "Worship: Benefits - New beginnings, prosperity, good health, overcoming obstacles, family bonding, abundance"
+      ]
+    }
+  },
+  "ram-navami": {
+    "en": {
+      "title": "Ram Navami",
+      "description": "Lord Rama's birth, exemplary life, righteousness and dharma, victory of good over evil, ideal human values",
+      "deity": "",
+      "story": "Ram Navami celebrates the birth of Lord Rama, the seventh avatar (incarnation) of Vishnu. According to the Ramayana, one of the most important Hindu epics, Rama was born on the ninth day of Chaitra month to King Dasharatha and Queen Kaushalya in Ayodhya. His birth occurred to fulfill a divine purpose: to combat evil and restore dharma (righteousness) on Earth. Lord Rama is revered as an ideal human who embodied all virtues. He is known for his unwavering commitment to truth (Satya), righteousness (Dharma), and duty (Kartavya). The Ramayana, written by Sage Valmiki, narrates Rama's life story, including his righteous rule, his exile, the rescue of his wife Sita from the demon king Ravana, and his ultimate victory establishing a golden age of prosperity (Ram Rajya). Rama's life teaches that one must uphold dharma even at great personal cost. His principle 'Janani Janmabhumischa Swargadapi Gariyasi' (Mother and motherland are greater than heaven itself) exemplifies the ultimate dharma. On Ram Navami, devotees fast, visit temples, recite the Ramayana, perform Aarti, and celebrate his birth with joy and devotion. In North India, 'Ram Lila' performances enact the life story of Rama, attracting thousands of devotees.",
+      "rules": [
+        "Worship: Significance - Lord Rama's birth, exemplary life, righteousness and dharma, victory of good over evil, ideal human values",
+        "Worship: Preparation - Decorate homes and temples with flowers and colorful decorations",
+        "Worship: Step 1 - Wake up early and bathe before sunrise",
+        "Worship: Step 2 - Wear clean and preferably new clothes (yellow or white)",
+        "Worship: Step 3 - Visit the nearest Rama temple or create a prayer altar at home",
+        "Worship: Step 4 - Offer flowers, fruits, and sweets to Lord Rama's idol",
+        "Worship: Step 5 - Perform Aarti and listen to or read from the Ramayana",
+        "Worship: Step 6 - Chant 'Jai Shree Ram' or 'Jai Jai Ram' throughout the day",
+        "Worship: Step 7 - Participate in Ram Lila performances or watch them",
+        "Worship: Step 8 - Distribute sweets and Prasad to family, friends, and the poor",
+        "Worship: Step 9 - Evening: Another round of prayers and Aarti",
+        "Diet: Fasting type - Partial or Full Fast (as per devotee's wish)",
+        "Diet: Allowed in fast - Fruits, milk, yogurt, potatoes, nuts, rock salt",
+        "Diet: Breaking fast - Light vegetarian meals, rice, lentils, vegetables",
+        "Diet: Traditional sweets - Kheer (rice pudding), Halwa, Puri, Jaggery-based sweets",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Devotion to Lord Rama, understanding of dharma, spiritual growth, prosperity, protection from evil, family bonding"
+      ]
+    },
+    "hi": {
+      "title": "Ram Navami",
+      "description": "Lord Rama's birth, exemplary life, righteousness and dharma, victory of good over evil, ideal human values",
+      "deity": "",
+      "story": "Ram Navami celebrates the birth of Lord Rama, the seventh avatar (incarnation) of Vishnu. According to the Ramayana, one of the most important Hindu epics, Rama was born on the ninth day of Chaitra month to King Dasharatha and Queen Kaushalya in Ayodhya. His birth occurred to fulfill a divine purpose: to combat evil and restore dharma (righteousness) on Earth. Lord Rama is revered as an ideal human who embodied all virtues. He is known for his unwavering commitment to truth (Satya), righteousness (Dharma), and duty (Kartavya). The Ramayana, written by Sage Valmiki, narrates Rama's life story, including his righteous rule, his exile, the rescue of his wife Sita from the demon king Ravana, and his ultimate victory establishing a golden age of prosperity (Ram Rajya). Rama's life teaches that one must uphold dharma even at great personal cost. His principle 'Janani Janmabhumischa Swargadapi Gariyasi' (Mother and motherland are greater than heaven itself) exemplifies the ultimate dharma. On Ram Navami, devotees fast, visit temples, recite the Ramayana, perform Aarti, and celebrate his birth with joy and devotion. In North India, 'Ram Lila' performances enact the life story of Rama, attracting thousands of devotees.",
+      "rules": [
+        "Worship: Significance - Lord Rama's birth, exemplary life, righteousness and dharma, victory of good over evil, ideal human values",
+        "Worship: Preparation - Decorate homes and temples with flowers and colorful decorations",
+        "Worship: Step 1 - Wake up early and bathe before sunrise",
+        "Worship: Step 2 - Wear clean and preferably new clothes (yellow or white)",
+        "Worship: Step 3 - Visit the nearest Rama temple or create a prayer altar at home",
+        "Worship: Step 4 - Offer flowers, fruits, and sweets to Lord Rama's idol",
+        "Worship: Step 5 - Perform Aarti and listen to or read from the Ramayana",
+        "Worship: Step 6 - Chant 'Jai Shree Ram' or 'Jai Jai Ram' throughout the day",
+        "Worship: Step 7 - Participate in Ram Lila performances or watch them",
+        "Worship: Step 8 - Distribute sweets and Prasad to family, friends, and the poor",
+        "Worship: Step 9 - Evening: Another round of prayers and Aarti",
+        "Diet: Fasting type - Partial or Full Fast (as per devotee's wish)",
+        "Diet: Allowed in fast - Fruits, milk, yogurt, potatoes, nuts, rock salt",
+        "Diet: Breaking fast - Light vegetarian meals, rice, lentils, vegetables",
+        "Diet: Traditional sweets - Kheer (rice pudding), Halwa, Puri, Jaggery-based sweets",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Devotion to Lord Rama, understanding of dharma, spiritual growth, prosperity, protection from evil, family bonding"
+      ]
+    }
+  },
+  "vat-savitri-vrat": {
+    "en": {
+      "title": "Vat Savitri Vrat",
+      "description": "Marital harmony, husband's longevity and good health, women's devotion, marital bond's sacredness, overcoming death and destiny",
+      "deity": "",
+      "story": "Vat Savitri Vrat is one of the most sacred and ancient fasts observed by married women in India. The vrat is rooted in the legendary story of Savitri and Satyavan from the Mahabharata. Savitri was the beautiful daughter of King Ashwapati. Through her devotion and prayers, she chose Satyavan, a poor prince cursed by a sage to die within a year of marriage. After marrying Satyavan, Savitri spent her time in devotion and penance. When the year was about to end, Savitri observed a strict fast on Vat Savitri day. When Satyavan died on that fateful day, Savitri followed Yama (the god of death) with her wit, logic, and unwavering devotion. Through her clever arguments and profound love, she convinced Yama to restore her husband's life. Yama, impressed by her devotion, blessed her and granted Satyavan a long life. The story teaches the power of a woman's devotion, the strength of marital bonds, and the importance of wifely dedication. Vat Savitri Vrat emphasizes the sacred relationship between husband and wife. On this day, wives pray for the long life, good health, and prosperity of their husbands. The ancient Banyan tree (Vat Vriksha) is central to this vrat, symbolizing the eternal and life-sustaining nature of marriage.",
+      "rules": [
+        "Worship: Significance - Marital harmony, husband's longevity and good health, women's devotion, marital bond's sacredness, overcoming death and destiny",
+        "Worship: Preparation - One day before, prepare sweets and light meals",
+        "Worship: Step 1 - Wake early on the day of vrat and take a ritual bath",
+        "Worship: Step 2 - Wear new and clean clothes, preferably a new sari or traditional dress",
+        "Worship: Step 3 - Apply vermillion (sindoor) and other auspicious marks",
+        "Worship: Step 4 - Visit or locate an ancient Banyan tree (Vat Vriksha) in the morning",
+        "Worship: Step 5 - Perform Pradakshina (circumambulation) around the tree while chanting 'Om Namah Shivaya'",
+        "Worship: Step 6 - Tie a sacred thread or cloth around the Banyan tree as a mark of devotion",
+        "Worship: Step 7 - Offer flowers, fruits, sweets, and prayers to the tree",
+        "Worship: Step 8 - From sunrise to moonrise, maintain complete silence or chant prayers",
+        "Worship: Step 9 - Stay without food or water (Nirjala Vrat) throughout the day",
+        "Worship: Step 10 - In the evening, upon sighting the moon, break the fast with sweets and water",
+        "Worship: Step 11 - Offer prayers to the moon",
+        "Diet: Fasting type - Nirjala Vrat (No food or water) - Most Preferred",
+        "Diet: Alternative - If nirjala fasting is not possible, one may consume fruits and milk after moonrise",
+        "Diet: Breaking fast - After sighting the moon, consume milk, fruits, or light sweets",
+        "Diet: Avoid - All grains, salt, meat, onion, garlic, and spices during the fast",
+        "Worship: Benefits - Husband's long life and good health, marital harmony, family prosperity, overcoming obstacles in married life, divine blessings"
+      ]
+    },
+    "hi": {
+      "title": "Vat Savitri Vrat",
+      "description": "Marital harmony, husband's longevity and good health, women's devotion, marital bond's sacredness, overcoming death and destiny",
+      "deity": "",
+      "story": "Vat Savitri Vrat is one of the most sacred and ancient fasts observed by married women in India. The vrat is rooted in the legendary story of Savitri and Satyavan from the Mahabharata. Savitri was the beautiful daughter of King Ashwapati. Through her devotion and prayers, she chose Satyavan, a poor prince cursed by a sage to die within a year of marriage. After marrying Satyavan, Savitri spent her time in devotion and penance. When the year was about to end, Savitri observed a strict fast on Vat Savitri day. When Satyavan died on that fateful day, Savitri followed Yama (the god of death) with her wit, logic, and unwavering devotion. Through her clever arguments and profound love, she convinced Yama to restore her husband's life. Yama, impressed by her devotion, blessed her and granted Satyavan a long life. The story teaches the power of a woman's devotion, the strength of marital bonds, and the importance of wifely dedication. Vat Savitri Vrat emphasizes the sacred relationship between husband and wife. On this day, wives pray for the long life, good health, and prosperity of their husbands. The ancient Banyan tree (Vat Vriksha) is central to this vrat, symbolizing the eternal and life-sustaining nature of marriage.",
+      "rules": [
+        "Worship: Significance - Marital harmony, husband's longevity and good health, women's devotion, marital bond's sacredness, overcoming death and destiny",
+        "Worship: Preparation - One day before, prepare sweets and light meals",
+        "Worship: Step 1 - Wake early on the day of vrat and take a ritual bath",
+        "Worship: Step 2 - Wear new and clean clothes, preferably a new sari or traditional dress",
+        "Worship: Step 3 - Apply vermillion (sindoor) and other auspicious marks",
+        "Worship: Step 4 - Visit or locate an ancient Banyan tree (Vat Vriksha) in the morning",
+        "Worship: Step 5 - Perform Pradakshina (circumambulation) around the tree while chanting 'Om Namah Shivaya'",
+        "Worship: Step 6 - Tie a sacred thread or cloth around the Banyan tree as a mark of devotion",
+        "Worship: Step 7 - Offer flowers, fruits, sweets, and prayers to the tree",
+        "Worship: Step 8 - From sunrise to moonrise, maintain complete silence or chant prayers",
+        "Worship: Step 9 - Stay without food or water (Nirjala Vrat) throughout the day",
+        "Worship: Step 10 - In the evening, upon sighting the moon, break the fast with sweets and water",
+        "Worship: Step 11 - Offer prayers to the moon",
+        "Diet: Fasting type - Nirjala Vrat (No food or water) - Most Preferred",
+        "Diet: Alternative - If nirjala fasting is not possible, one may consume fruits and milk after moonrise",
+        "Diet: Breaking fast - After sighting the moon, consume milk, fruits, or light sweets",
+        "Diet: Avoid - All grains, salt, meat, onion, garlic, and spices during the fast",
+        "Worship: Benefits - Husband's long life and good health, marital harmony, family prosperity, overcoming obstacles in married life, divine blessings"
+      ]
+    }
+  },
+  "shani-jayanti": {
+    "en": {
+      "title": "Shani Jayanti",
+      "description": "Lord Shani's birth, justice and karma, hard work and discipline, overcoming challenges, karmic balance",
+      "deity": "",
+      "story": "Shani Jayanti celebrates the birth of Lord Shani (Saturn), one of the nine celestial bodies (Navagraha) in Hindu astrology. Shani is depicted as a dark-complexioned deity riding a chariot pulled by eagles or crows. He is the slowest-moving planet and represents hard work, discipline, and karmic justice. According to Hindu mythology, Shani is the son of Surya (Sun God) and Chhaya (shadow). Unlike other celestial deities, Shani is believed to be strict but just. He rewards those who work hard and punish those who act unethically. Shani is not feared for causing punishment but for promoting justice and accountability. Many devotees worship Shani on Shani Jayanti to seek protection from negative influences and to invoke his blessings for hard work and discipline. The day of Shani Jayanti falls on a Saturday, which is considered sacred to Shani. Devotees often offer black sesame seeds (til), black textiles, and iron items as offerings. Shani is believed to grant long life, stability, and prosperity to those who face his trials with patience and dedication.",
+      "rules": [
+        "Worship: Significance - Lord Shani's birth, justice and karma, hard work and discipline, overcoming challenges, karmic balance",
+        "Worship: Preparation - Prepare an altar with black and dark-colored decorations",
+        "Worship: Step 1 - Wake early on Saturday and bathe",
+        "Worship: Step 2 - Wear dark-colored clothes, preferably blue or black",
+        "Worship: Step 3 - Create or use an idol of Lord Shani",
+        "Worship: Step 4 - Light lamps with black sesame oil",
+        "Worship: Step 5 - Offer black sesame seeds (til), black flowers, and iron items",
+        "Worship: Step 6 - Chant the Shani Mantra: 'Om Shanaischaraya Namah' or 'Om Praam Preem Praum Sah Shanaischaraya Namah'",
+        "Worship: Step 7 - Perform Aarti with devotion and ring bells",
+        "Worship: Step 8 - Donate black sesame seeds, dark-colored clothes, and iron items to the poor",
+        "Worship: Step 9 - Recite the Shani Chalisa (40-verse hymn dedicated to Shani)",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, sesame sweets, potatoes",
+        "Diet: Breaking fast - Light vegetarian meals",
+        "Diet: Avoid - Meat, onion, garlic, alcohol, grains in strict fast",
+        "Worship: Benefits - Protection from karmic challenges, justice and fairness, success through hard work, long life, prosperity, overcoming obstacles"
+      ]
+    },
+    "hi": {
+      "title": "Shani Jayanti",
+      "description": "Lord Shani's birth, justice and karma, hard work and discipline, overcoming challenges, karmic balance",
+      "deity": "",
+      "story": "Shani Jayanti celebrates the birth of Lord Shani (Saturn), one of the nine celestial bodies (Navagraha) in Hindu astrology. Shani is depicted as a dark-complexioned deity riding a chariot pulled by eagles or crows. He is the slowest-moving planet and represents hard work, discipline, and karmic justice. According to Hindu mythology, Shani is the son of Surya (Sun God) and Chhaya (shadow). Unlike other celestial deities, Shani is believed to be strict but just. He rewards those who work hard and punish those who act unethically. Shani is not feared for causing punishment but for promoting justice and accountability. Many devotees worship Shani on Shani Jayanti to seek protection from negative influences and to invoke his blessings for hard work and discipline. The day of Shani Jayanti falls on a Saturday, which is considered sacred to Shani. Devotees often offer black sesame seeds (til), black textiles, and iron items as offerings. Shani is believed to grant long life, stability, and prosperity to those who face his trials with patience and dedication.",
+      "rules": [
+        "Worship: Significance - Lord Shani's birth, justice and karma, hard work and discipline, overcoming challenges, karmic balance",
+        "Worship: Preparation - Prepare an altar with black and dark-colored decorations",
+        "Worship: Step 1 - Wake early on Saturday and bathe",
+        "Worship: Step 2 - Wear dark-colored clothes, preferably blue or black",
+        "Worship: Step 3 - Create or use an idol of Lord Shani",
+        "Worship: Step 4 - Light lamps with black sesame oil",
+        "Worship: Step 5 - Offer black sesame seeds (til), black flowers, and iron items",
+        "Worship: Step 6 - Chant the Shani Mantra: 'Om Shanaischaraya Namah' or 'Om Praam Preem Praum Sah Shanaischaraya Namah'",
+        "Worship: Step 7 - Perform Aarti with devotion and ring bells",
+        "Worship: Step 8 - Donate black sesame seeds, dark-colored clothes, and iron items to the poor",
+        "Worship: Step 9 - Recite the Shani Chalisa (40-verse hymn dedicated to Shani)",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, sesame sweets, potatoes",
+        "Diet: Breaking fast - Light vegetarian meals",
+        "Diet: Avoid - Meat, onion, garlic, alcohol, grains in strict fast",
+        "Worship: Benefits - Protection from karmic challenges, justice and fairness, success through hard work, long life, prosperity, overcoming obstacles"
+      ]
+    }
+  },
+  "ganga-dussehra": {
+    "en": {
+      "title": "Ganga Dussehra",
+      "description": "River Ganga's descent, purification of sins, sacred waters, King Bhagiratha's devotion, liberation of souls",
+      "deity": "",
+      "story": "Ganga Dussehra celebrates the descent of the holy River Ganga from heaven to Earth. According to Hindu mythology, the river Ganga originated from the locks of Lord Shiva and was brought to Earth by King Bhagiratha through his severe penance and prayers. The story goes that the ancestors of King Bhagiratha had committed sins, and their souls could only be liberated (Moksha) by being touched by the waters of the Ganga. King Bhagiratha performed rigorous penance for thousands of years to convince Lord Brahma and Lord Shiva to release the Ganga from the heavens. Finally, Lord Shiva agreed and released the Ganga, but its force was so powerful that it could have destroyed the Earth. To control this, Lord Shiva held the river in his matted locks (Jata), and the river descended gradually, eventually flowing across India. This descent happened on the day of Ganga Dussehra (the tenth day). The River Ganga is considered sacred and is personified as Goddess Ganga in Hindu tradition. Taking a ritual bath in the Ganga on Ganga Dussehra is believed to wash away all sins accumulated over the past ten days. The festival emphasizes the importance of water as a life-sustaining and purifying element. Ganga Dussehra is celebrated with fervor along all the major ghats of the Ganges River, especially in Varanasi, Allahabad, and Rishikesh.",
+      "rules": [
+        "Worship: Significance - River Ganga's descent, purification of sins, sacred waters, King Bhagiratha's devotion, liberation of souls",
+        "Worship: Early morning - Wake before sunrise if near the Ganga; otherwise, prepare an altar at home",
+        "Worship: Step 1 - If near the Ganga: Bathe in the river early in the morning with devotion",
+        "Worship: Step 2 - If at home: Take a bath at home and create an altar with water symbolizing Ganga",
+        "Worship: Step 3 - Offer flowers, fruits, sweets, and sacred rice (akshata) to the Ganga idol or water",
+        "Worship: Step 4 - Light lamps and burn incense",
+        "Worship: Step 5 - Chant prayers to Goddess Ganga and recite the Ganga Chalisa",
+        "Worship: Step 6 - Perform Aarti to the water or to the river (if near)",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, light meals",
+        "Diet: Breaking fast - Light vegetarian food, rice, lentils",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Purification of sins, spiritual cleansing, salvation and liberation, removal of negativity, divine blessings"
+      ]
+    },
+    "hi": {
+      "title": "Ganga Dussehra",
+      "description": "River Ganga's descent, purification of sins, sacred waters, King Bhagiratha's devotion, liberation of souls",
+      "deity": "",
+      "story": "Ganga Dussehra celebrates the descent of the holy River Ganga from heaven to Earth. According to Hindu mythology, the river Ganga originated from the locks of Lord Shiva and was brought to Earth by King Bhagiratha through his severe penance and prayers. The story goes that the ancestors of King Bhagiratha had committed sins, and their souls could only be liberated (Moksha) by being touched by the waters of the Ganga. King Bhagiratha performed rigorous penance for thousands of years to convince Lord Brahma and Lord Shiva to release the Ganga from the heavens. Finally, Lord Shiva agreed and released the Ganga, but its force was so powerful that it could have destroyed the Earth. To control this, Lord Shiva held the river in his matted locks (Jata), and the river descended gradually, eventually flowing across India. This descent happened on the day of Ganga Dussehra (the tenth day). The River Ganga is considered sacred and is personified as Goddess Ganga in Hindu tradition. Taking a ritual bath in the Ganga on Ganga Dussehra is believed to wash away all sins accumulated over the past ten days. The festival emphasizes the importance of water as a life-sustaining and purifying element. Ganga Dussehra is celebrated with fervor along all the major ghats of the Ganges River, especially in Varanasi, Allahabad, and Rishikesh.",
+      "rules": [
+        "Worship: Significance - River Ganga's descent, purification of sins, sacred waters, King Bhagiratha's devotion, liberation of souls",
+        "Worship: Early morning - Wake before sunrise if near the Ganga; otherwise, prepare an altar at home",
+        "Worship: Step 1 - If near the Ganga: Bathe in the river early in the morning with devotion",
+        "Worship: Step 2 - If at home: Take a bath at home and create an altar with water symbolizing Ganga",
+        "Worship: Step 3 - Offer flowers, fruits, sweets, and sacred rice (akshata) to the Ganga idol or water",
+        "Worship: Step 4 - Light lamps and burn incense",
+        "Worship: Step 5 - Chant prayers to Goddess Ganga and recite the Ganga Chalisa",
+        "Worship: Step 6 - Perform Aarti to the water or to the river (if near)",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, light meals",
+        "Diet: Breaking fast - Light vegetarian food, rice, lentils",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Purification of sins, spiritual cleansing, salvation and liberation, removal of negativity, divine blessings"
+      ]
+    }
+  },
+  "vat-purnima-vrat": {
+    "en": {
+      "title": "Vat Purnima Vrat",
+      "description": "Banyan tree worship, longevity, family protection, divine trinity, prosperity",
+      "deity": "",
+      "story": "Vat Purnima Vrat is observed to honor the sacred Banyan tree and the trinity of gods (Brahma, Vishnu, and Shiva). Unlike Vat Savitri, which is primarily for married women, Vat Purnima is observed by all Hindus, especially married women and families. The ancient tradition associates the Banyan tree with the Trimurti (the three primary aspects of the divine: creation, preservation, and destruction). Brahma is represented in the roots, Vishnu in the trunk, and Shiva in the branches of the Banyan tree. Worshipping the Banyan tree on Vat Purnima is believed to grant long life, prosperity, and protection of the family. The day is also associated with the legend of Savitri and Satyavan, making it significant for married women seeking the well-being of their families.",
+      "rules": [
+        "Worship: Significance - Banyan tree worship, longevity, family protection, divine trinity, prosperity",
+        "Worship: Early morning - Wake before sunrise and bathe",
+        "Worship: Step 1 - Locate a Banyan tree and clean the area around it",
+        "Worship: Step 2 - Light lamps around the tree",
+        "Worship: Step 3 - Offer flowers, fruits, and sweets at the base of the tree",
+        "Worship: Step 4 - Circumambulate the tree 7 times while chanting prayers",
+        "Worship: Step 5 - Tie a sacred thread or cloth around the tree",
+        "Worship: Step 6 - Pour water mixed with milk at the roots",
+        "Worship: Step 7 - Perform Aarti",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, potatoes, nuts",
+        "Diet: Breaking fast - Light vegetarian meals with rice, lentils, vegetables",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Long life and health, family harmony, prosperity, protection of family members, divine blessings"
+      ]
+    },
+    "hi": {
+      "title": "Vat Purnima Vrat",
+      "description": "Banyan tree worship, longevity, family protection, divine trinity, prosperity",
+      "deity": "",
+      "story": "Vat Purnima Vrat is observed to honor the sacred Banyan tree and the trinity of gods (Brahma, Vishnu, and Shiva). Unlike Vat Savitri, which is primarily for married women, Vat Purnima is observed by all Hindus, especially married women and families. The ancient tradition associates the Banyan tree with the Trimurti (the three primary aspects of the divine: creation, preservation, and destruction). Brahma is represented in the roots, Vishnu in the trunk, and Shiva in the branches of the Banyan tree. Worshipping the Banyan tree on Vat Purnima is believed to grant long life, prosperity, and protection of the family. The day is also associated with the legend of Savitri and Satyavan, making it significant for married women seeking the well-being of their families.",
+      "rules": [
+        "Worship: Significance - Banyan tree worship, longevity, family protection, divine trinity, prosperity",
+        "Worship: Early morning - Wake before sunrise and bathe",
+        "Worship: Step 1 - Locate a Banyan tree and clean the area around it",
+        "Worship: Step 2 - Light lamps around the tree",
+        "Worship: Step 3 - Offer flowers, fruits, and sweets at the base of the tree",
+        "Worship: Step 4 - Circumambulate the tree 7 times while chanting prayers",
+        "Worship: Step 5 - Tie a sacred thread or cloth around the tree",
+        "Worship: Step 6 - Pour water mixed with milk at the roots",
+        "Worship: Step 7 - Perform Aarti",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, potatoes, nuts",
+        "Diet: Breaking fast - Light vegetarian meals with rice, lentils, vegetables",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Long life and health, family harmony, prosperity, protection of family members, divine blessings"
+      ]
+    }
+  },
+  "hariyali-teej": {
+    "en": {
+      "title": "Hariyali Teej",
+      "description": "Reunion of Shiva and Parvati, marital happiness, women's celebration, rainy season arrival, devotion and love",
+      "deity": "",
+      "story": "Hariyali Teej celebrates the arrival of the rainy season and is primarily observed by women, especially in North India. 'Hariyali' means greenery, referring to the lush vegetation that appears after the monsoon rains. 'Teej' means the third day. On this day, women celebrate the reunion of Lord Shiva and Goddess Parvati after Parvati's long penance and separation from Shiva. According to mythology, Goddess Parvati performed intense penance for thousands of years to win the heart of Lord Shiva. Finally, on Hariyali Teej, Shiva accepted her devotion and they were reunited. The festival celebrates marital happiness, the strength of love, and the power of a woman's devotion. Women wear vibrant colors, apply henna (mehendi) on their hands, wear traditional jewelry, and often go on swings (jhulas) in groups, singing folk songs (Teej Ke Geet) that celebrate love and the beauty of the monsoon season. This joyful celebration is accompanied by the breaking of swift (a traditional sweet) and the offering of prayers for good husbands and long married life.",
+      "rules": [
+        "Worship: Significance - Reunion of Shiva and Parvati, marital happiness, women's celebration, rainy season arrival, devotion and love",
+        "Worship: Preparation - Buy henna (mehendi) and prepare traditional clothes",
+        "Worship: Step 1 - Apply henna beautifully on hands and feet",
+        "Worship: Step 2 - Wear traditional clothes with bright colors (green, red, yellow)",
+        "Worship: Step 3 - Create an altar with idols of Shiva and Parvati",
+        "Worship: Step 4 - Light lamps and burn incense",
+        "Worship: Step 5 - Offer flowers, particularly marigolds, fruits, and sweets",
+        "Worship: Step 6 - Sing Teej folk songs (Teej Ke Geet) and celebrate with other women",
+        "Worship: Step 7 - Go on swings (Jhulas) and enjoy the festivities",
+        "Worship: Step 8 - Perform Aarti",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, potatoes, nuts",
+        "Diet: Breaking fast - After sunset, eat Swift (a traditional sweet made with jaggery and flour)",
+        "Worship: Benefits - Marital bliss, good husbands and family, women's joy and celebration, prosperity, strong bonds of love and friendship"
+      ]
+    },
+    "hi": {
+      "title": "Hariyali Teej",
+      "description": "Reunion of Shiva and Parvati, marital happiness, women's celebration, rainy season arrival, devotion and love",
+      "deity": "",
+      "story": "Hariyali Teej celebrates the arrival of the rainy season and is primarily observed by women, especially in North India. 'Hariyali' means greenery, referring to the lush vegetation that appears after the monsoon rains. 'Teej' means the third day. On this day, women celebrate the reunion of Lord Shiva and Goddess Parvati after Parvati's long penance and separation from Shiva. According to mythology, Goddess Parvati performed intense penance for thousands of years to win the heart of Lord Shiva. Finally, on Hariyali Teej, Shiva accepted her devotion and they were reunited. The festival celebrates marital happiness, the strength of love, and the power of a woman's devotion. Women wear vibrant colors, apply henna (mehendi) on their hands, wear traditional jewelry, and often go on swings (jhulas) in groups, singing folk songs (Teej Ke Geet) that celebrate love and the beauty of the monsoon season. This joyful celebration is accompanied by the breaking of swift (a traditional sweet) and the offering of prayers for good husbands and long married life.",
+      "rules": [
+        "Worship: Significance - Reunion of Shiva and Parvati, marital happiness, women's celebration, rainy season arrival, devotion and love",
+        "Worship: Preparation - Buy henna (mehendi) and prepare traditional clothes",
+        "Worship: Step 1 - Apply henna beautifully on hands and feet",
+        "Worship: Step 2 - Wear traditional clothes with bright colors (green, red, yellow)",
+        "Worship: Step 3 - Create an altar with idols of Shiva and Parvati",
+        "Worship: Step 4 - Light lamps and burn incense",
+        "Worship: Step 5 - Offer flowers, particularly marigolds, fruits, and sweets",
+        "Worship: Step 6 - Sing Teej folk songs (Teej Ke Geet) and celebrate with other women",
+        "Worship: Step 7 - Go on swings (Jhulas) and enjoy the festivities",
+        "Worship: Step 8 - Perform Aarti",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, potatoes, nuts",
+        "Diet: Breaking fast - After sunset, eat Swift (a traditional sweet made with jaggery and flour)",
+        "Worship: Benefits - Marital bliss, good husbands and family, women's joy and celebration, prosperity, strong bonds of love and friendship"
+      ]
+    }
+  },
+  "varalakshmi-vrat": {
+    "en": {
+      "title": "Varalakshmi Vrat",
+      "description": "Goddess Lakshmi's blessings, prosperity, abundance, wealth, family welfare, women's well-being",
+      "deity": "",
+      "story": "Varalakshmi Vrat is observed by women primarily in South India (especially Tamil Nadu, Karnataka, and Andhra Pradesh) to seek the blessings of Goddess Lakshmi, the deity of wealth, prosperity, and abundance. 'Vara' means boon or blessing, and 'Lakshmi' is the goddess of wealth. According to the Devi Bhagavata Purana, on this day, Goddess Lakshmi grants boons to her devotees who worship her with sincere prayers. The vrat is observed on Friday during the light half of the Shravan month. Women fast from early morning to evening, engage in prayers, and make offerings to the goddess. It is believed that Goddess Lakshmi blesses devotees with abundance, prosperity, health, and happiness in family life. On this day, women traditionally dress in new clothes, apply auspicious marks, and gather to perform the vrat together, creating a sense of community and shared devotion.",
+      "rules": [
+        "Worship: Significance - Goddess Lakshmi's blessings, prosperity, abundance, wealth, family welfare, women's well-being",
+        "Worship: Early morning - Wake early, bathe, and wear new clothes",
+        "Worship: Step 1 - Create an altar with Lakshmi idol or image",
+        "Worship: Step 2 - Light lamps with ghee (clarified butter)",
+        "Worship: Step 3 - Offer flowers, particularly jasmine, fruits, and sweets",
+        "Worship: Step 4 - Prepare and offer special dishes as Prasad",
+        "Worship: Step 5 - Chant Lakshmi Ashtakam (8-verse hymn) or Lakshmi Chalisa",
+        "Worship: Step 6 - Perform Aarti with devotion",
+        "Worship: Step 7 - Share the Prasad with family members and friends",
+        "Worship: Step 8 - Break the fast at sunset",
+        "Diet: Fasting type - Partial Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, light meals",
+        "Diet: Breaking fast - At sunset, eat light vegetarian food, rice, lentils, sweets",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Prosperity and wealth, family harmony, health and well-being, abundance, removal of poverty, divine grace"
+      ]
+    },
+    "hi": {
+      "title": "Varalakshmi Vrat",
+      "description": "Goddess Lakshmi's blessings, prosperity, abundance, wealth, family welfare, women's well-being",
+      "deity": "",
+      "story": "Varalakshmi Vrat is observed by women primarily in South India (especially Tamil Nadu, Karnataka, and Andhra Pradesh) to seek the blessings of Goddess Lakshmi, the deity of wealth, prosperity, and abundance. 'Vara' means boon or blessing, and 'Lakshmi' is the goddess of wealth. According to the Devi Bhagavata Purana, on this day, Goddess Lakshmi grants boons to her devotees who worship her with sincere prayers. The vrat is observed on Friday during the light half of the Shravan month. Women fast from early morning to evening, engage in prayers, and make offerings to the goddess. It is believed that Goddess Lakshmi blesses devotees with abundance, prosperity, health, and happiness in family life. On this day, women traditionally dress in new clothes, apply auspicious marks, and gather to perform the vrat together, creating a sense of community and shared devotion.",
+      "rules": [
+        "Worship: Significance - Goddess Lakshmi's blessings, prosperity, abundance, wealth, family welfare, women's well-being",
+        "Worship: Early morning - Wake early, bathe, and wear new clothes",
+        "Worship: Step 1 - Create an altar with Lakshmi idol or image",
+        "Worship: Step 2 - Light lamps with ghee (clarified butter)",
+        "Worship: Step 3 - Offer flowers, particularly jasmine, fruits, and sweets",
+        "Worship: Step 4 - Prepare and offer special dishes as Prasad",
+        "Worship: Step 5 - Chant Lakshmi Ashtakam (8-verse hymn) or Lakshmi Chalisa",
+        "Worship: Step 6 - Perform Aarti with devotion",
+        "Worship: Step 7 - Share the Prasad with family members and friends",
+        "Worship: Step 8 - Break the fast at sunset",
+        "Diet: Fasting type - Partial Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, light meals",
+        "Diet: Breaking fast - At sunset, eat light vegetarian food, rice, lentils, sweets",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Prosperity and wealth, family harmony, health and well-being, abundance, removal of poverty, divine grace"
+      ]
+    }
+  },
+  "kajari-teej": {
+    "en": {
+      "title": "Kajari Teej",
+      "description": "Shiva and Parvati worship, rainy season celebration, women's longing and reunion, devotion, love",
+      "deity": "",
+      "story": "Kajari Teej is observed primarily in North India (particularly Uttar Pradesh, Madhya Pradesh, and Rajasthan) during the monsoon season. 'Kajari' refers to the dark color of the rainy season clouds, and 'Teej' is the third day. The festival is dedicated to Lord Shiva and Goddess Parvati and celebrates the beauty of the rainy season. According to folklore, Kajari Teej marks the day when a young bride returns to her maternal home for a brief visit during the monsoons. The festival carries themes of longing, reunion, and the joy of rainy season festivities. Women observe this vrat by fasting and singing traditional folk songs (Kajari Ke Geet) that often depict the love between couples and the beauty of the monsoon. Unlike Hariyali Teej, which is a festive celebration with swings and henna, Kajari Teej has a more poignant and emotional undertone, with women expressing their devotion and longing through songs.",
+      "rules": [
+        "Worship: Significance - Shiva and Parvati worship, rainy season celebration, women's longing and reunion, devotion, love",
+        "Worship: Preparation - Wear traditional clothes and prepare offerings",
+        "Worship: Step 1 - Create an altar with idols of Shiva and Parvati",
+        "Worship: Step 2 - Light lamps and burn incense",
+        "Worship: Step 3 - Offer flowers, fruits, and sweets",
+        "Worship: Step 4 - Sing Kajari folk songs (Kajari Ke Geet)",
+        "Worship: Step 5 - Perform prayers and seek blessings for marital harmony",
+        "Worship: Step 6 - Perform Aarti",
+        "Worship: Step 7 - Break the fast at sunset",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, potatoes",
+        "Diet: Breaking fast - Light meals with rice, vegetables, lentils",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Marital happiness, reunion with beloved, emotional fulfillment, divine grace, celebration of nature"
+      ]
+    },
+    "hi": {
+      "title": "Kajari Teej",
+      "description": "Shiva and Parvati worship, rainy season celebration, women's longing and reunion, devotion, love",
+      "deity": "",
+      "story": "Kajari Teej is observed primarily in North India (particularly Uttar Pradesh, Madhya Pradesh, and Rajasthan) during the monsoon season. 'Kajari' refers to the dark color of the rainy season clouds, and 'Teej' is the third day. The festival is dedicated to Lord Shiva and Goddess Parvati and celebrates the beauty of the rainy season. According to folklore, Kajari Teej marks the day when a young bride returns to her maternal home for a brief visit during the monsoons. The festival carries themes of longing, reunion, and the joy of rainy season festivities. Women observe this vrat by fasting and singing traditional folk songs (Kajari Ke Geet) that often depict the love between couples and the beauty of the monsoon. Unlike Hariyali Teej, which is a festive celebration with swings and henna, Kajari Teej has a more poignant and emotional undertone, with women expressing their devotion and longing through songs.",
+      "rules": [
+        "Worship: Significance - Shiva and Parvati worship, rainy season celebration, women's longing and reunion, devotion, love",
+        "Worship: Preparation - Wear traditional clothes and prepare offerings",
+        "Worship: Step 1 - Create an altar with idols of Shiva and Parvati",
+        "Worship: Step 2 - Light lamps and burn incense",
+        "Worship: Step 3 - Offer flowers, fruits, and sweets",
+        "Worship: Step 4 - Sing Kajari folk songs (Kajari Ke Geet)",
+        "Worship: Step 5 - Perform prayers and seek blessings for marital harmony",
+        "Worship: Step 6 - Perform Aarti",
+        "Worship: Step 7 - Break the fast at sunset",
+        "Diet: Fasting type - Partial or Full Fast",
+        "Diet: Allowed - Fruits, milk, yogurt, potatoes",
+        "Diet: Breaking fast - Light meals with rice, vegetables, lentils",
+        "Diet: Avoid - Meat, onion, garlic, salt",
+        "Worship: Benefits - Marital happiness, reunion with beloved, emotional fulfillment, divine grace, celebration of nature"
+      ]
+    }
+  },
+  "krishna-janmashtami": {
+    "en": {
+      "title": "Krishna Janmashtami",
+      "description": "Lord Krishna's birth, divine play and love, Bhakti (devotion), wisdom of Bhagavad Gita, joy and celebration",
+      "deity": "",
+      "story": "Krishna Janmashtami celebrates the birth of Lord Krishna, the eighth avatar of Vishnu. Krishna is one of the most beloved and complex deities in Hindu tradition. According to the Bhagavata Purana and the Mahabharata, Krishna was born at midnight in the prison of Mathura to Devaki and Vasudeva. His birth was prophesied to end the tyranny of his uncle, King Kamsa, who had imprisoned his sister Devaki and her husband Vasudeva. To protect the infant Krishna, his father Vasudeva escaped the prison with the newborn and placed him in the care of Yashoda and Nanda in the cowherd settlement of Gokul. Krishna's life is replete with divine play (Lila), profound wisdom, and extraordinary feats. As a child, he is known for his playful and mischievous activities, including stealing butter (hence the name 'Makhan Chor'), flirting with the cowherd girls (Gopis), and playing the flute (Bansuri), which is said to enchant all who hear it. As a young man, he defeated numerous demons and protected his people. As an adult, he played a crucial role in the Mahabharata war and imparted the Bhagavad Gita to Arjuna, one of the most important philosophical texts in Hinduism. Krishna represents the ideal of Bhakti (devotion), the concept of divine love that transcends all barriers, and the understanding that the divine can be accessed through sincere and devoted love. On Krishna Janmashtami, devotees fast, keep vigil throughout the night, and celebrate his birth at midnight with music, dance, and feasting. The festival emphasizes the joy of divine birth and the celebration of life itself. In North India, the 'Dahi Handi' (butter-stealing contest) is a popular way to celebrate Krishna's playful nature, where young people form human pyramids to break a pot of butter, recreating Krishna's childhood pranks.",
+      "rules": [
+        "Worship: Significance - Lord Krishna's birth, divine play and love, Bhakti (devotion), wisdom of Bhagavad Gita, joy and celebration",
+        "Worship: Preparation - Prepare Krishna's cradle (Jula) with decorations and flowers",
+        "Worship: Step 1 - Fast from sunrise until midnight (some may eat fruits and milk)",
+        "Worship: Step 2 - Create an altar with Krishna idol, preferably as an infant (Laddu Gopal form)",
+        "Worship: Step 3 - Decorate with flowers, especially marigolds and jasmine",
+        "Worship: Step 4 - Light lamps (diyas) around the altar",
+        "Worship: Step 5 - Throughout the day and night, sing Krishna Bhajans (devotional songs) and Kirtans",
+        "Worship: Step 6 - Read or listen to stories from the Bhagavata Purana or other Krishna texts",
+        "Worship: Step 7 - Keep vigil throughout the night with meditation, chanting, and prayers",
+        "Worship: Step 8 - At midnight (the exact time of Krishna's birth), perform Aarti with great enthusiasm and bells",
+        "Worship: Step 9 - Rock Krishna's cradle (Jula) and sing lullabies",
+        "Worship: Step 10 - After the midnight Aarti, offer sweets (particularly kheer) and milk to the idol",
+        "Worship: Step 11 - Distribute Prasad (blessed food) to all present",
+        "Worship: Step 12 - Break the fast and partake in a festive meal",
+        "Diet: Fasting type - Partial or Full Fast until midnight",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes, rock salt",
+        "Diet: Breaking fast - At midnight, eat sweet milk (Kheer), sweets, fresh fruits, and light meals",
+        "Diet: Traditional sweets - Kheer, Rabri, Makhan Mishri (butter and sugar), milk-based sweets",
+        "Diet: Avoid - Grains, salt, meat, onion, garlic in strict fast",
+        "Worship: Benefits - Divine grace and blessing, devotion and love toward the divine, wisdom and knowledge, joy and celebration, removal of negative forces, spiritual awakening"
+      ]
+    },
+    "hi": {
+      "title": "Krishna Janmashtami",
+      "description": "Lord Krishna's birth, divine play and love, Bhakti (devotion), wisdom of Bhagavad Gita, joy and celebration",
+      "deity": "",
+      "story": "Krishna Janmashtami celebrates the birth of Lord Krishna, the eighth avatar of Vishnu. Krishna is one of the most beloved and complex deities in Hindu tradition. According to the Bhagavata Purana and the Mahabharata, Krishna was born at midnight in the prison of Mathura to Devaki and Vasudeva. His birth was prophesied to end the tyranny of his uncle, King Kamsa, who had imprisoned his sister Devaki and her husband Vasudeva. To protect the infant Krishna, his father Vasudeva escaped the prison with the newborn and placed him in the care of Yashoda and Nanda in the cowherd settlement of Gokul. Krishna's life is replete with divine play (Lila), profound wisdom, and extraordinary feats. As a child, he is known for his playful and mischievous activities, including stealing butter (hence the name 'Makhan Chor'), flirting with the cowherd girls (Gopis), and playing the flute (Bansuri), which is said to enchant all who hear it. As a young man, he defeated numerous demons and protected his people. As an adult, he played a crucial role in the Mahabharata war and imparted the Bhagavad Gita to Arjuna, one of the most important philosophical texts in Hinduism. Krishna represents the ideal of Bhakti (devotion), the concept of divine love that transcends all barriers, and the understanding that the divine can be accessed through sincere and devoted love. On Krishna Janmashtami, devotees fast, keep vigil throughout the night, and celebrate his birth at midnight with music, dance, and feasting. The festival emphasizes the joy of divine birth and the celebration of life itself. In North India, the 'Dahi Handi' (butter-stealing contest) is a popular way to celebrate Krishna's playful nature, where young people form human pyramids to break a pot of butter, recreating Krishna's childhood pranks.",
+      "rules": [
+        "Worship: Significance - Lord Krishna's birth, divine play and love, Bhakti (devotion), wisdom of Bhagavad Gita, joy and celebration",
+        "Worship: Preparation - Prepare Krishna's cradle (Jula) with decorations and flowers",
+        "Worship: Step 1 - Fast from sunrise until midnight (some may eat fruits and milk)",
+        "Worship: Step 2 - Create an altar with Krishna idol, preferably as an infant (Laddu Gopal form)",
+        "Worship: Step 3 - Decorate with flowers, especially marigolds and jasmine",
+        "Worship: Step 4 - Light lamps (diyas) around the altar",
+        "Worship: Step 5 - Throughout the day and night, sing Krishna Bhajans (devotional songs) and Kirtans",
+        "Worship: Step 6 - Read or listen to stories from the Bhagavata Purana or other Krishna texts",
+        "Worship: Step 7 - Keep vigil throughout the night with meditation, chanting, and prayers",
+        "Worship: Step 8 - At midnight (the exact time of Krishna's birth), perform Aarti with great enthusiasm and bells",
+        "Worship: Step 9 - Rock Krishna's cradle (Jula) and sing lullabies",
+        "Worship: Step 10 - After the midnight Aarti, offer sweets (particularly kheer) and milk to the idol",
+        "Worship: Step 11 - Distribute Prasad (blessed food) to all present",
+        "Worship: Step 12 - Break the fast and partake in a festive meal",
+        "Diet: Fasting type - Partial or Full Fast until midnight",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes, rock salt",
+        "Diet: Breaking fast - At midnight, eat sweet milk (Kheer), sweets, fresh fruits, and light meals",
+        "Diet: Traditional sweets - Kheer, Rabri, Makhan Mishri (butter and sugar), milk-based sweets",
+        "Diet: Avoid - Grains, salt, meat, onion, garlic in strict fast",
+        "Worship: Benefits - Divine grace and blessing, devotion and love toward the divine, wisdom and knowledge, joy and celebration, removal of negative forces, spiritual awakening"
+      ]
+    }
+  },
+  "sharad-navratri-begins-9-day-festival": {
+    "en": {
+      "title": "Sharad Navratri Begins (9-day festival)",
+      "description": "Goddess Durga's victory over evil, triumph of good over evil, feminine power and strength, spiritual awakening, dharma's victory",
+      "deity": "",
+      "story": "Sharad Navratri, also known as Dussehra, is the most important festival in the Hindu calendar. It celebrates the victory of Goddess Durga (or Devi) over the buffalo demon Mahishasura, symbolizing the triumph of good over evil, light over darkness, and righteousness over unrighteousness. The festival spans nine days and nine nights, each dedicated to a different form of the Goddess (Navdurga). The nine forms are: 1. Shailputri (daughter of the mountains), 2. Brahmacharini (the meditating goddess), 3. Chandraghanta (the gentle goddess with a crescent moon), 4. Koosmanda (the cosmic egg creator), 5. Skandamata (the mother of the war god Skanda), 6. Katyayani (the fierce warrior goddess), 7. Kalaratri (the dark destructive force), 8. Mahagauri (the white, pure goddess), and 9. Siddhidatri (the giver of perfection). On the tenth day (Vijayadashami or Dussehra), the victory of the Goddess is celebrated along with Lord Rama's victory over the demon king Ravana. The festival emphasizes the eternal struggle between good and evil and the ultimate triumph of dharma (righteousness). During these nine days, devotees fast, perform pujas, and celebrate with music, dance, and community gatherings.",
+      "rules": [
+        "Worship: Significance - Goddess Durga's victory over evil, triumph of good over evil, feminine power and strength, spiritual awakening, dharma's victory",
+        "Diet: Fasting type - Many devotees observe fruit-only or no-grain fasts",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes, root vegetables, dairy products",
+        "Diet: Breaking fast - On the 10th day, break the fast with festive meals",
+        "Diet: Avoid - Grains, meat, onion, garlic, alcohol",
+        "Worship: Benefits - Spiritual awakening, victory over obstacles, strength and courage, divine feminine power, celebration of life, community bonding"
+      ]
+    },
+    "hi": {
+      "title": "Sharad Navratri Begins (9-day festival)",
+      "description": "Goddess Durga's victory over evil, triumph of good over evil, feminine power and strength, spiritual awakening, dharma's victory",
+      "deity": "",
+      "story": "Sharad Navratri, also known as Dussehra, is the most important festival in the Hindu calendar. It celebrates the victory of Goddess Durga (or Devi) over the buffalo demon Mahishasura, symbolizing the triumph of good over evil, light over darkness, and righteousness over unrighteousness. The festival spans nine days and nine nights, each dedicated to a different form of the Goddess (Navdurga). The nine forms are: 1. Shailputri (daughter of the mountains), 2. Brahmacharini (the meditating goddess), 3. Chandraghanta (the gentle goddess with a crescent moon), 4. Koosmanda (the cosmic egg creator), 5. Skandamata (the mother of the war god Skanda), 6. Katyayani (the fierce warrior goddess), 7. Kalaratri (the dark destructive force), 8. Mahagauri (the white, pure goddess), and 9. Siddhidatri (the giver of perfection). On the tenth day (Vijayadashami or Dussehra), the victory of the Goddess is celebrated along with Lord Rama's victory over the demon king Ravana. The festival emphasizes the eternal struggle between good and evil and the ultimate triumph of dharma (righteousness). During these nine days, devotees fast, perform pujas, and celebrate with music, dance, and community gatherings.",
+      "rules": [
+        "Worship: Significance - Goddess Durga's victory over evil, triumph of good over evil, feminine power and strength, spiritual awakening, dharma's victory",
+        "Diet: Fasting type - Many devotees observe fruit-only or no-grain fasts",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes, root vegetables, dairy products",
+        "Diet: Breaking fast - On the 10th day, break the fast with festive meals",
+        "Diet: Avoid - Grains, meat, onion, garlic, alcohol",
+        "Worship: Benefits - Spiritual awakening, victory over obstacles, strength and courage, divine feminine power, celebration of life, community bonding"
+      ]
+    }
+  },
+  "diwali": {
+    "en": {
+      "title": "Diwali (Lakshmi Puja)",
+      "description": "Victory of light over darkness, good over evil, Rama's return, Lakshmi worship, prosperity, new beginnings, removal of negativity",
+      "deity": "",
+      "story": "Diwali, the Festival of Lights, is celebrated on the darkest night (new moon) of the Hindu lunar calendar and is one of the most significant and joyous festivals in Hinduism. According to the Ramayana, Diwali marks the return of Lord Rama from his 14-year exile and his victory over the demon king Ravana. After Rama's coronation in Ayodhya, the entire city was illuminated with oil lamps (diyas) to welcome him back. This light, symbolizing the victory of good over evil and light over darkness, is what Diwali celebrates. The festival also commemorates the story of Lord Krishna's victory over the demon Kansa and his subsequent rescue of 16,000 women held captive. Diwali is not only a Hindu festival but is celebrated by Buddhists, Jains, and Sikhs as well, each with their own legends and significances. On Diwali, homes are cleaned and whitewashed, oil lamps are lit, and rangoli (colorful patterns) are drawn on the ground. The festival emphasizes new beginnings, the removal of negativity, and the welcoming of prosperity. The worship of Lakshmi (the goddess of wealth, fortune, and prosperity) is central to Diwali celebrations. Devotees light lamps to invite Lakshmi into their homes, believing that she will bless them with abundance and protection. The distribution of sweets, the bursting of firecrackers, and family gatherings characterize the celebration. Diwali is also associated with the start of the new year in many Hindu communities.",
+      "rules": [
+        "Worship: Significance - Victory of light over darkness, good over evil, Rama's return, Lakshmi worship, prosperity, new beginnings, removal of negativity",
+        "Worship: Preparation days before - Clean and whitewash homes, decorate with flowers and lights",
+        "Worship: Diwali day early morning - Bathe and wear new clothes, preferably new or freshly washed traditional attire",
+        "Worship: Step 1 - Clean and decorate the prayer altar",
+        "Worship: Step 2 - Create or place Lakshmi idol or image",
+        "Worship: Step 3 - Light oil lamps (diyas) throughout the house and especially in front of the altar",
+        "Worship: Step 4 - Offer flowers, sweets, fruits, and coins to Lakshmi",
+        "Worship: Step 5 - Perform Lakshmi Aarti with devotion and ring bells",
+        "Worship: Step 6 - Chant the Lakshmi Mantra: 'Om Shreem Mahalakshmiyei Namah'",
+        "Worship: Step 7 - Distribute sweets to family members and friends",
+        "Worship: Step 8 - After Aarti, with family blessings, burst firecrackers (eco-friendly alternatives recommended)",
+        "Worship: Step 9 - Family feast with traditional sweets and delicacies",
+        "Diet: Fasting type - No fasting; festive celebration",
+        "Diet: Preparation - Prepare traditional sweets and savory dishes",
+        "Diet: Special sweets - Gulab Jamun, Kheer, Burfi, Halwa, Rasgulla, Barfi",
+        "Diet: Sharing - Exchange sweets and gifts with family, friends, and the poor",
+        "Diet: Celebration - Festive meals and family gatherings",
+        "Worship: Benefits - Prosperity and wealth, good fortune, removal of darkness and negativity, family bonding, spiritual growth, divine blessings, new opportunities"
+      ]
+    },
+    "hi": {
+      "title": "Diwali (Lakshmi Puja)",
+      "description": "Victory of light over darkness, good over evil, Rama's return, Lakshmi worship, prosperity, new beginnings, removal of negativity",
+      "deity": "",
+      "story": "Diwali, the Festival of Lights, is celebrated on the darkest night (new moon) of the Hindu lunar calendar and is one of the most significant and joyous festivals in Hinduism. According to the Ramayana, Diwali marks the return of Lord Rama from his 14-year exile and his victory over the demon king Ravana. After Rama's coronation in Ayodhya, the entire city was illuminated with oil lamps (diyas) to welcome him back. This light, symbolizing the victory of good over evil and light over darkness, is what Diwali celebrates. The festival also commemorates the story of Lord Krishna's victory over the demon Kansa and his subsequent rescue of 16,000 women held captive. Diwali is not only a Hindu festival but is celebrated by Buddhists, Jains, and Sikhs as well, each with their own legends and significances. On Diwali, homes are cleaned and whitewashed, oil lamps are lit, and rangoli (colorful patterns) are drawn on the ground. The festival emphasizes new beginnings, the removal of negativity, and the welcoming of prosperity. The worship of Lakshmi (the goddess of wealth, fortune, and prosperity) is central to Diwali celebrations. Devotees light lamps to invite Lakshmi into their homes, believing that she will bless them with abundance and protection. The distribution of sweets, the bursting of firecrackers, and family gatherings characterize the celebration. Diwali is also associated with the start of the new year in many Hindu communities.",
+      "rules": [
+        "Worship: Significance - Victory of light over darkness, good over evil, Rama's return, Lakshmi worship, prosperity, new beginnings, removal of negativity",
+        "Worship: Preparation days before - Clean and whitewash homes, decorate with flowers and lights",
+        "Worship: Diwali day early morning - Bathe and wear new clothes, preferably new or freshly washed traditional attire",
+        "Worship: Step 1 - Clean and decorate the prayer altar",
+        "Worship: Step 2 - Create or place Lakshmi idol or image",
+        "Worship: Step 3 - Light oil lamps (diyas) throughout the house and especially in front of the altar",
+        "Worship: Step 4 - Offer flowers, sweets, fruits, and coins to Lakshmi",
+        "Worship: Step 5 - Perform Lakshmi Aarti with devotion and ring bells",
+        "Worship: Step 6 - Chant the Lakshmi Mantra: 'Om Shreem Mahalakshmiyei Namah'",
+        "Worship: Step 7 - Distribute sweets to family members and friends",
+        "Worship: Step 8 - After Aarti, with family blessings, burst firecrackers (eco-friendly alternatives recommended)",
+        "Worship: Step 9 - Family feast with traditional sweets and delicacies",
+        "Diet: Fasting type - No fasting; festive celebration",
+        "Diet: Preparation - Prepare traditional sweets and savory dishes",
+        "Diet: Special sweets - Gulab Jamun, Kheer, Burfi, Halwa, Rasgulla, Barfi",
+        "Diet: Sharing - Exchange sweets and gifts with family, friends, and the poor",
+        "Diet: Celebration - Festive meals and family gatherings",
+        "Worship: Benefits - Prosperity and wealth, good fortune, removal of darkness and negativity, family bonding, spiritual growth, divine blessings, new opportunities"
+      ]
+    }
+  },
+  "chhath-puja": {
+    "en": {
+      "title": "Chhath Puja",
+      "description": "Sun God worship, life-giving energy, family bonds, female divinity, gratitude to nature, purification and health",
+      "deity": "",
+      "story": "Chhath Puja is a sacred ancient Hindu festival primarily celebrated in Bihar, Uttar Pradesh, and Jharkhand. The festival lasts four days and is dedicated to the Sun God (Surya Narayana) and his wife Usha (the dawn). 'Chhath' means the sixth day, referring to the sixth day of the bright fortnight of Kartik month. According to Hindu mythology, Chhath commemorates the story of Priyavrata, an ancient king who received a boon from the Sun God that his son Medha, born to him by Surya, would become a great sage. Priyavrata observed the Chhath vrat to honor the Sun God and received his blessings. The festival is believed to be one of the oldest traditions and is mentioned in ancient texts. Chhath is unique because it honors both the Sun God (the giver of life and energy) and the Moon, recognizing the divine presence in celestial bodies. The vrat is observed with extreme dedication and is considered very rigorous, involving a four-day fast with minimal food and water intake. The festival emphasizes family bonds, as it is often observed collectively by families, with the eldest woman (usually the mother-in-law) leading the rituals. The festival includes ritual bathing, fasting, singing devotional songs, and offering prayers to the Sun and Moon.",
+      "rules": [
+        "Worship: Significance - Sun God worship, life-giving energy, family bonds, female divinity, gratitude to nature, purification and health",
+        "Diet: Day1 - Rice and lentils with minimal spices",
+        "Diet: Day2 - Full fast from sunrise to sunset; broken with rice pudding and jaggery",
+        "Diet: Day3 - Full fast until sunset",
+        "Diet: Day4 - Breaking fast with fruits and milk",
+        "Diet: Throughout - No salt, onion, garlic, or meat; minimal water intake in strict observance",
+        "Worship: Benefits - Sun God's blessings, longevity and health, prosperity, family harmony, purification of body and mind, relief from ailments"
+      ]
+    },
+    "hi": {
+      "title": "Chhath Puja",
+      "description": "Sun God worship, life-giving energy, family bonds, female divinity, gratitude to nature, purification and health",
+      "deity": "",
+      "story": "Chhath Puja is a sacred ancient Hindu festival primarily celebrated in Bihar, Uttar Pradesh, and Jharkhand. The festival lasts four days and is dedicated to the Sun God (Surya Narayana) and his wife Usha (the dawn). 'Chhath' means the sixth day, referring to the sixth day of the bright fortnight of Kartik month. According to Hindu mythology, Chhath commemorates the story of Priyavrata, an ancient king who received a boon from the Sun God that his son Medha, born to him by Surya, would become a great sage. Priyavrata observed the Chhath vrat to honor the Sun God and received his blessings. The festival is believed to be one of the oldest traditions and is mentioned in ancient texts. Chhath is unique because it honors both the Sun God (the giver of life and energy) and the Moon, recognizing the divine presence in celestial bodies. The vrat is observed with extreme dedication and is considered very rigorous, involving a four-day fast with minimal food and water intake. The festival emphasizes family bonds, as it is often observed collectively by families, with the eldest woman (usually the mother-in-law) leading the rituals. The festival includes ritual bathing, fasting, singing devotional songs, and offering prayers to the Sun and Moon.",
+      "rules": [
+        "Worship: Significance - Sun God worship, life-giving energy, family bonds, female divinity, gratitude to nature, purification and health",
+        "Diet: Day1 - Rice and lentils with minimal spices",
+        "Diet: Day2 - Full fast from sunrise to sunset; broken with rice pudding and jaggery",
+        "Diet: Day3 - Full fast until sunset",
+        "Diet: Day4 - Breaking fast with fruits and milk",
+        "Diet: Throughout - No salt, onion, garlic, or meat; minimal water intake in strict observance",
+        "Worship: Benefits - Sun God's blessings, longevity and health, prosperity, family harmony, purification of body and mind, relief from ailments"
+      ]
+    }
+  },
+  "gita-jayanti": {
+    "en": {
+      "title": "Gita Jayanti",
+      "description": "Krishna's divine teachings, wisdom and knowledge, Dharma (duty) and righteousness, path to enlightenment, spiritual awakening, removal of doubt and confusion",
+      "deity": "",
+      "story": "Gita Jayanti celebrates the day when Lord Krishna revealed the sacred Bhagavad Gita to Arjuna on the battlefield of Kurukshetra. The Bhagavad Gita is one of the most profound and influential philosophical texts in Hinduism, consisting of 700 verses spread across 18 chapters. According to the Mahabharata, at the beginning of the great war, Arjuna was overwhelmed by doubt and moral confusion. He questioned the righteousness of fighting his own relatives and teachers. In response, Lord Krishna, who was serving as Arjuna's charioteer, imparted the divine wisdom of the Bhagavad Gita. Through the Gita, Krishna explained the concepts of Dharma (duty), Karma (action), Bhakti (devotion), and the path to self-realization and enlightenment. The Gita teaches that one must perform one's duty without attachment to the results, maintain equanimity in the face of success and failure, and recognize the eternal nature of the soul. The text has been interpreted in countless ways and has influenced philosophers, spiritual leaders, and thinkers worldwide. Gita Jayanti is celebrated by reading, chanting, and meditating on the Gita's teachings. Many devotees organize Gita recitation sessions (Gita Paath) and spiritual discussions to commemorate this day. The festival emphasizes the importance of spiritual wisdom and the pursuit of enlightenment.",
+      "rules": [
+        "Worship: Significance - Krishna's divine teachings, wisdom and knowledge, Dharma (duty) and righteousness, path to enlightenment, spiritual awakening, removal of doubt and confusion",
+        "Worship: Preparation - Bring a copy of the Bhagavad Gita to your prayer altar",
+        "Worship: Step 1 - Create an altar with the Gita or idols of Krishna and Arjuna",
+        "Worship: Step 2 - Light lamps and burn incense",
+        "Worship: Step 3 - Offer flowers, fruits, and sweets",
+        "Worship: Step 4 - Open the Gita and read or chant verses",
+        "Worship: Step 5 - Meditate on Krishna's teachings, especially the concept of Dharma",
+        "Worship: Step 6 - Perform Aarti",
+        "Worship: Step 7 - Participate in or organize Gita recitation groups (Gita Paath)",
+        "Worship: Step 8 - Engage in spiritual discussions and learning",
+        "Diet: Fasting type - Partial or Full Fast (optional)",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes",
+        "Diet: Breaking fast - Light vegetarian meals",
+        "Diet: Emphasis - Preparation of sattvic (pure and wholesome) foods",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Spiritual wisdom and knowledge, clarity in life's purpose, understanding of Dharma and duty, mental peace and equanimity, liberation from ignorance and confusion, divine grace"
+      ]
+    },
+    "hi": {
+      "title": "Gita Jayanti",
+      "description": "Krishna's divine teachings, wisdom and knowledge, Dharma (duty) and righteousness, path to enlightenment, spiritual awakening, removal of doubt and confusion",
+      "deity": "",
+      "story": "Gita Jayanti celebrates the day when Lord Krishna revealed the sacred Bhagavad Gita to Arjuna on the battlefield of Kurukshetra. The Bhagavad Gita is one of the most profound and influential philosophical texts in Hinduism, consisting of 700 verses spread across 18 chapters. According to the Mahabharata, at the beginning of the great war, Arjuna was overwhelmed by doubt and moral confusion. He questioned the righteousness of fighting his own relatives and teachers. In response, Lord Krishna, who was serving as Arjuna's charioteer, imparted the divine wisdom of the Bhagavad Gita. Through the Gita, Krishna explained the concepts of Dharma (duty), Karma (action), Bhakti (devotion), and the path to self-realization and enlightenment. The Gita teaches that one must perform one's duty without attachment to the results, maintain equanimity in the face of success and failure, and recognize the eternal nature of the soul. The text has been interpreted in countless ways and has influenced philosophers, spiritual leaders, and thinkers worldwide. Gita Jayanti is celebrated by reading, chanting, and meditating on the Gita's teachings. Many devotees organize Gita recitation sessions (Gita Paath) and spiritual discussions to commemorate this day. The festival emphasizes the importance of spiritual wisdom and the pursuit of enlightenment.",
+      "rules": [
+        "Worship: Significance - Krishna's divine teachings, wisdom and knowledge, Dharma (duty) and righteousness, path to enlightenment, spiritual awakening, removal of doubt and confusion",
+        "Worship: Preparation - Bring a copy of the Bhagavad Gita to your prayer altar",
+        "Worship: Step 1 - Create an altar with the Gita or idols of Krishna and Arjuna",
+        "Worship: Step 2 - Light lamps and burn incense",
+        "Worship: Step 3 - Offer flowers, fruits, and sweets",
+        "Worship: Step 4 - Open the Gita and read or chant verses",
+        "Worship: Step 5 - Meditate on Krishna's teachings, especially the concept of Dharma",
+        "Worship: Step 6 - Perform Aarti",
+        "Worship: Step 7 - Participate in or organize Gita recitation groups (Gita Paath)",
+        "Worship: Step 8 - Engage in spiritual discussions and learning",
+        "Diet: Fasting type - Partial or Full Fast (optional)",
+        "Diet: Allowed - Fruits, milk, yogurt, nuts, potatoes",
+        "Diet: Breaking fast - Light vegetarian meals",
+        "Diet: Emphasis - Preparation of sattvic (pure and wholesome) foods",
+        "Diet: Avoid - Meat, onion, garlic, alcohol",
+        "Worship: Benefits - Spiritual wisdom and knowledge, clarity in life's purpose, understanding of Dharma and duty, mental peace and equanimity, liberation from ignorance and confusion, divine grace"
+      ]
     }
   }
 }
