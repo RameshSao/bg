@@ -5202,5 +5202,13 @@
   "We value your input!": "आपकी प्रतिक्रिया हमारे लिए बहुमूल्य है!",
   "Your suggestions help us improve Panchang algorithms and app features.": "आपके सुझाव हमें पंचांग एल्गोरिदम और ऐप सुविधाओं को बेहतर बनाने में मदद करते हैं।",
   "Device & Technical Diagnostics": "उपकरण एवं तकनीकी जानकारी",
-  "Thanks for your feedback! Opening email app...": "आपकी प्रतिक्रिया के लिए धन्यवाद! ईमेल ऐप खोला जा रहा है..."
+  "Thanks for your feedback! Opening email app...": "आपकी प्रतिक्रिया के लिए धन्यवाद! ईमेल ऐप खोला जा रहा है...",
+  "Feature Request": "सुविधा का सुझाव",
+  "Bug Report": "समस्या की रिपोर्ट",
+  "Suggest a Feature": "सुविधा का सुझाव दें",
+  "Report a Bug": "त्रुटि की रिपोर्ट करें",
+  "Have an idea to make the app better? Share your feature request!": "ऐप को और बेहतर बनाने के लिए कोई विचार है? अपना सुझाव साझा करें!",
+  "Found a calculation error or crash? Report it so we can fix it immediately.": "कोई त्रुटि या गणना संबंधी समस्या मिली? तुरंत सुधार के लिए रिपोर्ट करें।",
+  "Describe the feature you would like to see...": "जिस सुविधा को आप ऐप में देखना चाहते हैं उसका वर्णन करें...",
+  "Describe what happened or which calculation was incorrect...": "क्या समस्या आई या कौन सी पंचांग गणना गलत थी, उसका वर्णन करें..."
 }
