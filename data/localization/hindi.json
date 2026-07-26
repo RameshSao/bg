@@ -5210,5 +5210,8 @@
   "Have an idea to make the app better? Share your feature request!": "ऐप को और बेहतर बनाने के लिए कोई विचार है? अपना सुझाव साझा करें!",
   "Found a calculation error or crash? Report it so we can fix it immediately.": "कोई त्रुटि या गणना संबंधी समस्या मिली? तुरंत सुधार के लिए रिपोर्ट करें।",
   "Describe the feature you would like to see...": "जिस सुविधा को आप ऐप में देखना चाहते हैं उसका वर्णन करें...",
-  "Describe what happened or which calculation was incorrect...": "क्या समस्या आई या कौन सी पंचांग गणना गलत थी, उसका वर्णन करें..."
+  "Describe what happened or which calculation was incorrect...": "क्या समस्या आई या कौन सी पंचांग गणना गलत थी, उसका वर्णन करें...",
+  "Access Restricted": "पहुंच प्रतिबंधित",
+  "Access to the app has been restricted for this device due to terms violation.": "शर्तों के उल्लंघन के कारण इस डिवाइस के लिए ऐप की पहुंच को प्रतिबंधित कर दिया गया है।",
+  "Submission disabled for this device.": "इस डिवाइस के लिए सबमिशन अक्षम कर दिया गया है।"
 }
