@@ -5133,5 +5133,14 @@
   "Hessonite (Gomed)": "गोमेद",
   "Cat's Eye (Lahsuniya)": "लहसुनिया",
   "Charcoal": "गहरा स्लेटी",
-  "D1 Rashi Chart": "D1 राशि चक्र"
+  "D1 Rashi Chart": "D1 राशि चक्र",
+  "Accurate Panchang Needs Your Exact Location": "सटीक पंचांग के लिए आपके स्थान की आवश्यकता है",
+  "Panchang is pure astronomical science. Powered by our own optimized engine with Swiss Ephemeris-grade precision, we calculate the cosmos exactly where you stand for research-grade accuracy.": "पंचांग विशुद्ध खगोलीय विज्ञान है। हमारे अपने अनुकूलित इंजन और स्विस एफिमेरिस-ग्रेड शुद्धता द्वारा, हम ठीक उसी स्थान के लिए खगोलीय स्थिति की गणना करते हैं जहाँ आप खड़े हैं।",
+  "Printed calendars and most other apps calculate timings for a single, fixed city. This means your Tithi and Muhurta can be off by 10 to 15 minutes.": "मुद्रित (छापे गए) पंचांग और अन्य ऐप्स केवल एक निश्चित शहर के लिए समय की गणना करते हैं। इसका अर्थ है कि आपकी तिथि और मुहूर्त का समय १० से १५ मिनट तक भिन्न हो सकता है।",
+  "100% On-Device & Private": "100% फोन पर गणना एवं निजी (Private)",
+  "Location data is processed strictly on your phone. Zero tracking, server upload, or data sharing.": "स्थान का डेटा केवल आपके फोन में प्रोसेस होता है। 0% सर्वर अपलोड या डेटा शेयरिंग।",
+  "Eliminates 10-15 Min Drift": "१०-१५ मिनट का अंतर समाप्त",
+  "Calculates precise Sunrise, Tithi & Muhurta for your exact GPS coordinates instead of a distant default city.": "दूर के शहर के बजाय आपके सटीक GPS निर्देशांकों पर आधारित सूर्योदय, तिथि एवं मुहूर्त गणना।",
+  "Swiss Ephemeris Grade Precision": "स्विस एफिमेरिस-ग्रेड खगोलीय शुद्धता",
+  "Powered by our own optimized astronomical engine computed 100% locally with zero internet dependency.": "हमारे अपने अनुकूलित खगोलीय इंजन द्वारा बिना इंटरनेट के फोन में 100% स्थानीय गणना।"
 }
