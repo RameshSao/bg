@@ -5197,5 +5197,10 @@
   "Select Kundali Chart Style (North, South, or East Indian)": "कुंडली चक्र शैली चुनें (उत्तर, दक्षिण या पूर्वी भारतीय)",
   "Start with Windows": "विंडोज के साथ प्रारंभ करें",
   "Launch main app window on Windows boot": "विंडोज बूट पर मुख्य ऐप विंडो खोलें",
-  "Disabled (Desktop Widgets auto-start independently)": "निष्क्रिय (डेस्कटॉप विजेट स्वतंत्र रूप से शुरू होते हैं)"
+  "Disabled (Desktop Widgets auto-start independently)": "निष्क्रिय (डेस्कटॉप विजेट स्वतंत्र रूप से शुरू होते हैं)",
+  "Send via Email": "ईमेल द्वारा भेजें",
+  "We value your input!": "आपकी प्रतिक्रिया हमारे लिए बहुमूल्य है!",
+  "Your suggestions help us improve Panchang algorithms and app features.": "आपके सुझाव हमें पंचांग एल्गोरिदम और ऐप सुविधाओं को बेहतर बनाने में मदद करते हैं।",
+  "Device & Technical Diagnostics": "उपकरण एवं तकनीकी जानकारी",
+  "Thanks for your feedback! Opening email app...": "आपकी प्रतिक्रिया के लिए धन्यवाद! ईमेल ऐप खोला जा रहा है..."
 }
