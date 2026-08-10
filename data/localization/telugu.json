@@ -6431,5 +6431,10 @@
   "System Diagnostics": "System Diagnostics",
   "Push Notifications": "Push Notifications",
   "Exact Alarms (Muhurta)": "Exact Alarms (Muhurta)",
-  "Windows Startup Autostart": "Windows Startup Autostart"
+  "Windows Startup Autostart": "Windows Startup Autostart",
+  "Aarti": "Aarti",
+  "Chalisa": "Chalisa",
+  "Annular": "Annular",
+  "Partial": "Partial",
+  "Local Time": "Local Time"
 }
