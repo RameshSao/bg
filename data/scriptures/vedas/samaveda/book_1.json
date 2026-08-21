@@ -1,82 +1,312 @@
 [
   {
     "sukta": 1,
-    "title": "दशक 1 · Agni",
-    "deity": "Agni",
+    "title": "दशक १ · आग्नेय पर्व",
+    "deity": "अग्नि (Agni)",
     "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥१॥\nतं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥२॥\nस नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥३॥\nअग्निं दूतं वृणीमहे होतारं विश्ववेदसम् । अस्य यज्ञस्य सुक्रतुम् ॥४॥\nअग्निर्वृत्राणि जङ्घनद् द्रविणस्यु विपंस्यया । समिद्धः शुक्र आहुतः ॥५॥",
-    "translation_en": "Come, Agni, praised with song, to feast and sacrificial offering: sit  As Hotar on the holy grass!\nO Agni, thou hast been ordained Hotar of every sacrifice, By Gods, among the race of men.\nAgni we choose as envoy, skilled performer of this holy rite, Hotar, possessor of all wealth.\nServed with oblation, kindled, bright, through love of song may Agni, bent  On riches, smite the Vritras dead!\nI laud your most beloved guest like a dear friend, O Agni, him  Who, like a chariot, wins us wealth.\nDo thou, O Agni, with great might guard us from all malignity, Yea, from the hate of mortal man!\nO Agni, come; far other songs of praise will I sing forth to thee.  Wax mighty with these Soma-drops!\nMay Vatsa draw thy mind away even from thy loftiest dwelling place!  Agni, I yearn for thee with song.\nAgni, Atharvan brought thee forth by rubbing from the sky, the head  Of all who offer sacrifice.\nO Agni, bring us radiant light to be our mighty succour, for  Thou art our visible deity!",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 1 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "translation_en": "Verse 1: Come, O Agni, praised with our sacred songs, to accept the oblations; take thy seat upon the sacred grass as our high priest.\n\nVerse 2: O Angiras Agni, we kindle and nourish thee with sacred fuel and clarified butter; shine brilliantly, O youngest deity.\n\nVerse 3: O Divine Agni, bestow upon us widespread renown and heroic spiritual strength.\n\nVerse 4: We choose Agni as our messenger, the all-knowing priest and consummate performer of this holy sacrifice.\n\nVerse 5: Kindled and radiant with offerings, may Agni destroy all obstructive evils and grant abundant spiritual wealth.",
+    "translation_hi": "मन्त्र 1: हे अग्निदेव! हमारे द्वारा की गई स्तुति से प्रसन्न होकर हविष्य ग्रहण करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।\n\nमन्त्र 2: हे अङ्गिरा श्रेष्ठ अग्निदेव! हम समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।\n\nमन्त्र 3: हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मबल प्रदान करें।\n\nमन्त्र 4: हम सर्वज्ञ, यज्ञ के श्रेष्ठ सम्पादक अग्निदेव का दिव्य दूत के रूप में वरण करते हैं।\n\nमन्त्र 5: आहुतियों से प्रज्वलित तेजस्वी अग्निदेव हमारे समस्त विघ्नों (वृत्रों) का नाश करें और ऐश्वर्य प्रदान करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥१॥",
+        "hi": "हे अग्निदेव! हमारे द्वारा की गई स्तुति से प्रसन्न होकर हविष्य ग्रहण करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।",
+        "en": "Come, O Agni, praised with our sacred songs, to accept the oblations; take thy seat upon the sacred grass as our high priest."
+      },
+      {
+        "v": 2,
+        "text": "तं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥२॥",
+        "hi": "हे अङ्गिरा श्रेष्ठ अग्निदेव! हम समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।",
+        "en": "O Angiras Agni, we kindle and nourish thee with sacred fuel and clarified butter; shine brilliantly, O youngest deity."
+      },
+      {
+        "v": 3,
+        "text": "स नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥३॥",
+        "hi": "हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मबल प्रदान करें।",
+        "en": "O Divine Agni, bestow upon us widespread renown and heroic spiritual strength."
+      },
+      {
+        "v": 4,
+        "text": "अग्निं दूतं वृणीमहे होतारं विश्ववेदसम् । अस्य यज्ञस्य सुक्रतुम् ॥४॥",
+        "hi": "हम सर्वज्ञ, यज्ञ के श्रेष्ठ सम्पादक अग्निदेव का दिव्य दूत के रूप में वरण करते हैं।",
+        "en": "We choose Agni as our messenger, the all-knowing priest and consummate performer of this holy sacrifice."
+      },
+      {
+        "v": 5,
+        "text": "अग्निर्वृत्राणि जङ्घनद् द्रविणस्यु विपंस्यया । समिद्धः शुक्र आहुतः ॥५॥",
+        "hi": "आहुतियों से प्रज्वलित तेजस्वी अग्निदेव हमारे समस्त विघ्नों (वृत्रों) का नाश करें और ऐश्वर्य प्रदान करें।",
+        "en": "Kindled and radiant with offerings, may Agni destroy all obstructive evils and grant abundant spiritual wealth."
+      }
+    ]
   },
   {
     "sukta": 2,
-    "title": "दशक 2 · Agni",
-    "deity": "Agni",
+    "title": "दशक २ · आग्नेय पर्व",
+    "deity": "अग्नि (Agni)",
     "text": "इन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥१॥\nसमिद्धस्य श्रवस्यतोऽग्ने दूतो अह ब्रुवन् । विश्वेभिः सोमपर्वभिर्महद्भिरिह ताँ अव ॥२॥\nइषे राय उप दधे सुजाताय सुचेतसे । जुष्टो दमूना अतिथिरदुर्वण्वते नृणाम् ॥३॥\nअग्निं वो देवमजरं दातारं विश्ववारिणम् । होतारं सप्तहस्तं देवं विश्ववेदसम् ॥४॥",
-    "translation_en": "O Agni, God, the people sing reverent praise to thee for strength:  With terrors trouble thou the foe\nI seek with song your messenger, oblation-bearer, lord of wealth, Immortal, best at sacrifice.\nStill turning to their aim in thee the sacrificer's sister hymns  Have come to thee before the wind.\nTo thee, illuminer of night, O Agni, day by day with prayer, Bringing thee reverence, we come.\nHelp, thou who knowest lauds, this work, a lovely hymn in Rudra's praise, Adorable in every house!\nTo this fair sacrifice to drink the milky draught art thou called forth:  O Agni, with the Maruts come!\nWith homage will I reverence thee, Agni, like a long-tailed steed, Imperial lord of holy rites.\nAs Aurva and as Bhrigu called, as Apnavana called, I call  The radiant Agni robed with sea.\nWhen he enkindles Agni, man should with his heart attend the song:  I kindle Agni till he glows.\nThen, verily, they see the light refulgent of primeval seed, Kindled on yonder side of heaven.",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 2 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "translation_en": "Verse 1: Universal hymns of praise glorify Indra, wide as the ocean, the foremost among chariot-warriors and lord of all valor.\n\nVerse 2: As messengers of the kindled Agni, we invoke all divine powers to partake in the joyful Soma assembly.\n\nVerse 3: For nourishment and prosperity, we honor the noble-minded Agni, the beloved and gracious guest within our homes.\n\nVerse 4: We worship the ageless, benevolent Agni, endowed with seven radiant flames and supreme universal knowledge.",
+    "translation_hi": "मन्त्र 1: समुद्र के समान व्यापक, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी स्तुतियाँ निरन्तर संवर्धित करती हैं।\n\nमन्त्र 2: प्रदीप्त अग्निदेव के दूत बनकर हम सभी देवों को सोमयाग में पधारने के लिए आमंत्रित करते हैं।\n\nमन्त्र 3: उत्तम ज्ञान और चेतना से युक्त अग्निदेव हमारे गृह में नित्य सम्मानित अतिथि बनकर निवास करें।\n\nमन्त्र 4: हम अजर-अमर, सर्वकल्याणकारी, सात ज्वालाओं (सप्तहस्त) वाले सर्वज्ञ अग्निदेव की आराधना करते हैं।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "इन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥१॥",
+        "hi": "समुद्र के समान व्यापक, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी स्तुतियाँ निरन्तर संवर्धित करती हैं।",
+        "en": "Universal hymns of praise glorify Indra, wide as the ocean, the foremost among chariot-warriors and lord of all valor."
+      },
+      {
+        "v": 2,
+        "text": "समिद्धस्य श्रवस्यतोऽग्ने दूतो अह ब्रुवन् । विश्वेभिः सोमपर्वभिर्महद्भिरिह ताँ अव ॥२॥",
+        "hi": "प्रदीप्त अग्निदेव के दूत बनकर हम सभी देवों को सोमयाग में पधारने के लिए आमंत्रित करते हैं।",
+        "en": "As messengers of the kindled Agni, we invoke all divine powers to partake in the joyful Soma assembly."
+      },
+      {
+        "v": 3,
+        "text": "इषे राय उप दधे सुजाताय सुचेतसे । जुष्टो दमूना अतिथिरदुर्वण्वते नृणाम् ॥३॥",
+        "hi": "उत्तम ज्ञान और चेतना से युक्त अग्निदेव हमारे गृह में नित्य सम्मानित अतिथि बनकर निवास करें।",
+        "en": "For nourishment and prosperity, we honor the noble-minded Agni, the beloved and gracious guest within our homes."
+      },
+      {
+        "v": 4,
+        "text": "अग्निं वो देवमजरं दातारं विश्ववारिणम् । होतारं सप्तहस्तं देवं विश्ववेदसम् ॥४॥",
+        "hi": "हम अजर-अमर, सर्वकल्याणकारी, सात ज्वालाओं (सप्तहस्त) वाले सर्वज्ञ अग्निदेव की आराधना करते हैं।",
+        "en": "We worship the ageless, benevolent Agni, endowed with seven radiant flames and supreme universal knowledge."
+      }
+    ]
   },
   {
     "sukta": 3,
-    "title": "दशक 3 · Agni",
-    "deity": "Agni",
+    "title": "दशक ३ · ऐन्द्र एवं पवमान पर्व",
+    "deity": "सोम (Soma Pavamana)",
     "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥१॥\nरक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥२॥\nवृषा पवस्व धारया मरुत्वते सुताय ते । इन्द्राय वृत्रहन्तमे ॥३॥\nसोमः पवते जनयन् मतीनां जनयन् दिवो जनयन् पृथिव्याः । जनयन्नग्नेर्जनयन्त्सूर्यस्य ॥४॥",
-    "translation_en": "Hither, for powerful kinship, I call Agni, him who prospers you, Most frequent at our solemn rites.\nMay Agni with his pointed blaze cast down each fierce devouring fiend:  May Agni win us wealth by war!\nAgni, be gracious; thou art great: thou hast approached the pious man, Hast come to sit on sacred grass.\nAgni, preserve us,from distress consume our enemies, O God, Eternal, with thy hottest flames\nHarness, O Agni, O thou God, thy steeds which are most excellent!  The fleet ones bring thee rapidly.\nLord of the tribes, whom all must seek, we worshipped Agni set thee down, Refulgent, rich in valiant men.\nAgni is head and height of heaven, the master of the earth is he  He quickeneth the waters' seed.\nO Agni, graciously announce this our good fortune of the Gods, And this our newest hymn of praise!  9, By song, O Agni, Angiras! Gopavana hath brought thee forth  Hear thou my call, refulgent one!\nAgni, the Sage, the Lord of Strength, hath moved around the sacred gifts, Giving the offerer precious things.\nHis heralds bear him up aloft, the God who knoweth all that lives, The Sun, that all may look on him.  12, Praise Agni in the sacrifice, the Sage whose holy laws are true  The God who driveth grief away.\nKind be the Goddesses to lend us help, and kind that we may drink:  May their streams bring us health and wealth\nLord of the brave, whose songs dost thou in thine abundance now inspire, Thou whose hymns help to win the kine?",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 3 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "translation_en": "Verse 1: Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for Indra's divine drink.\n\nVerse 2: Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice.\n\nVerse 3: Flow in abundant strength for Indra the conqueror of obstacles and His companion Maruts.\n\nVerse 4: Soma purifies and flows, inspiring wisdom in minds, generating light in heaven and earth, and fueling the splendor of Agni and Surya.",
+    "translation_hi": "मन्त्र 1: हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से इन्द्रदेव के पान हेतु प्रवाहित होइए।\n\nमन्त्र 2: राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।\n\nमन्त्र 3: शत्रुओं का संहार करने वाले इन्द्र और मरुद्गणों के लिए हे बलशाली सोम! अपनी पावन धारा प्रवाहित करें।\n\nमन्त्र 4: सोमदेव ज्ञान, सद्बुद्धि, द्युलोक, पृथिवी, अग्नि और सूर्य के तेज का प्राकट्य करते हुए पावन प्रवाह करते हैं।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥१॥",
+        "hi": "हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से इन्द्रदेव के पान हेतु प्रवाहित होइए।",
+        "en": "Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for Indra's divine drink."
+      },
+      {
+        "v": 2,
+        "text": "रक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥२॥",
+        "hi": "राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।",
+        "en": "Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice."
+      },
+      {
+        "v": 3,
+        "text": "वृषा पवस्व धारया मरुत्वते सुताय ते । इन्द्राय वृत्रहन्तमे ॥३॥",
+        "hi": "शत्रुओं का संहार करने वाले इन्द्र और मरुद्गणों के लिए हे बलशाली सोम! अपनी पावन धारा प्रवाहित करें।",
+        "en": "Flow in abundant strength for Indra the conqueror of obstacles and His companion Maruts."
+      },
+      {
+        "v": 4,
+        "text": "सोमः पवते जनयन् मतीनां जनयन् दिवो जनयन् पृथिव्याः । जनयन्नग्नेर्जनयन्त्सूर्यस्य ॥४॥",
+        "hi": "सोमदेव ज्ञान, सद्बुद्धि, द्युलोक, पृथिवी, अग्नि और सूर्य के तेज का प्राकट्य करते हुए पावन प्रवाह करते हैं।",
+        "en": "Soma purifies and flows, inspiring wisdom in minds, generating light in heaven and earth, and fueling the splendor of Agni and Surya."
+      }
+    ]
   },
   {
     "sukta": 4,
-    "title": "दशक 4 · Agni",
-    "deity": "Agni",
-    "text": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) दशक 4 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Sing to your Agni with each song, at every sacrifice for strength.  Come, let us praise the wise and, everlasting God even as a well-beloved friend,\nAgni, protect thou us by one, protect us by the second song, Protect us by three hymns, O Lord of power and might, bright God, by four hymns guard us well!\nO Agni, with thy lofty beams, with thy pure brilliancy, O God, Kindled, most youthful one! by Bharadvaja's hand, shine on us richly, holy Lord!\nO Agni who art worshipped well, dear let our princes be to thee, Our wealthy patrons who are governors of men, who part, as gifts, the stall of kine!\nAgni, praise-singer! Lord of men, God! burning up the Rakshasas, Mighty art thou, the ever-present, household-lord! home-friend and guardian from the sky.\nImmortal Jatavedas, thou bright-hued refulgent gift of Dawn, Agni, this day to him who pays oblations bring the Gods who waken with the morn!\nWonderful, with thy favouring help, send us thy bounties, gracious Lord.  Thou art the charioteer, Agni, of earthly wealth: find rest and safety for our seed!\nFamed art thou, Agni, far and wide, preserver, righteous, and a Sage.  The holy singers, O enkindled radiant one, ordainers, call on thee to come.\nO holy Agni, give us wealth famed among men and strengthening life!  Bestow on us, O helper, that which many crave, more glorious still through righteousness!\nTo him, who dealeth out all wealth, the sweet-toned Hotar-priest of men, To him like the first vessels filled with savoury juice, to Agni let the lauds go forth.",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 4 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "title": "दशक ४ · ऐन्द्र पर्व",
+    "deity": "इन्द्र (Indra)",
+    "text": "गावो ममान्तु वीतये हय्या नयन्त्वा सुतम् । इन्द्रं सोमेषु मन्दिनम् ॥१॥\nतं व इन्द्रं गिरो मम वर्धयन्तु दिवेदिवे । यथा स शक्र आ वहेत् ॥२॥\nइन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥३॥\nस घा नो योग आ भुवत् स राये स पुरन्ध्याम् । गमद् वाजेभिरा स नः ॥४॥",
+    "translation_en": "Verse 1: May sacred resources sustain us; may Indra rejoice in the consecrated Soma and stand as our protector.\n\nVerse 2: May our continuous hymns daily magnify the mighty Indra, that He may bring us bountiful blessings.\n\nVerse 3: Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness.\n\nVerse 4: May He aid us in our spiritual acquisition (Yoga), sustain our wealth, and bless our minds with wisdom and victory.",
+    "translation_hi": "मन्त्र 1: गौवें हमारे लिए पौष्टिक दुग्ध प्रदान करें; इन्द्रदेव सोम के पावन रस से तृप्त होकर हमारे सहायक बनें।\n\nमन्त्र 2: हमारी स्तुतियाँ प्रतिदिन शक्तिशाली इन्द्रदेव के प्रभाव और महिमा को बढ़ाएं।\n\nमन्त्र 3: धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का गायन करो।\n\nमन्त्र 4: वह परमात्मा हमारे योग (अप्राप्त की प्राप्ति), क्षेम (प्राप्त की रक्षा) और ज्ञान-समृद्धि में हमारी सहायता करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "गावो ममान्तु वीतये हय्या नयन्त्वा सुतम् । इन्द्रं सोमेषु मन्दिनम् ॥१॥",
+        "hi": "गौवें हमारे लिए पौष्टिक दुग्ध प्रदान करें; इन्द्रदेव सोम के पावन रस से तृप्त होकर हमारे सहायक बनें।",
+        "en": "May sacred resources sustain us; may Indra rejoice in the consecrated Soma and stand as our protector."
+      },
+      {
+        "v": 2,
+        "text": "तं व इन्द्रं गिरो मम वर्धयन्तु दिवेदिवे । यथा स शक्र आ वहेत् ॥२॥",
+        "hi": "हमारी स्तुतियाँ प्रतिदिन शक्तिशाली इन्द्रदेव के प्रभाव और महिमा को बढ़ाएं।",
+        "en": "May our continuous hymns daily magnify the mighty Indra, that He may bring us bountiful blessings."
+      },
+      {
+        "v": 3,
+        "text": "इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥३॥",
+        "hi": "धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness."
+      },
+      {
+        "v": 4,
+        "text": "स घा नो योग आ भुवत् स राये स पुरन्ध्याम् । गमद् वाजेभिरा स नः ॥४॥",
+        "hi": "वह परमात्मा हमारे योग (अप्राप्त की प्राप्ति), क्षेम (प्राप्त की रक्षा) और ज्ञान-समृद्धि में हमारी सहायता करें।",
+        "en": "May He aid us in our spiritual acquisition (Yoga), sustain our wealth, and bless our minds with wisdom and victory."
+      }
+    ]
   },
   {
     "sukta": 5,
-    "title": "दशक 5 · Agni",
-    "deity": "Agni",
-    "text": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) दशक 5 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "With this mine homage I invoke Agni for you, the Son of Strength, Dear, wisest envoy, skilled in noble sacrifice, immortal messenger of all.\nThou liest in the logs that are thy mothers: mortals kindle thee.  Alert thou bearest off the sacrifleer's gift, and then thou shinest to the Gods.\nHe hath appeared, best prosperer, in whom men lay their holy acts:  So may our songs of praise come nigh to Agni who was born to give the Arya strength!\nChief Priest is Agni at the laud, as stones and grass at sacrifice.  Gods! Maruts! Brahmanaspati! I crave with song the help that is most excellent.\nPray Agni of the piercing flame, with sacred songs, to be our help;  For wealth, famed Agni, Purumilha and ye men! He is Suditi's sure defence.\nHear, Agni who hast ears to hear, with all thy train of escort Gods!  With those who come at dawn let Mitra, Aryaman sit on the grass at sacrifice.\nAgni of Divodasa, God, comes forth like Indra in his might.  Rapidly hath he moved along his mother earth: he stands in high heaven's dwelling-place.\nWhether thou come from earth or from the lofty lucid realm of heaven, Wax stronger in thy body through my song of praise: fill full all creatures, O most wise!\nIf, loving well the forests, thou wentest to thy maternal floods, Not to be scorned, Agni, is that return of thine when, from afar, thou now art here.\nO Agni, Manu stablished thee a light for all the race of men:  With Kanva hast thou blazed, Law-born and waxen strong, thou whom the people reverence.",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 5 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "title": "दशक ५ · ऐन्द्र पर्व",
+    "deity": "इन्द्र एवं मरुतः (Indra & Maruts)",
+    "text": "प्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥१॥\nस सुन्वते मघवा कीरिचोदनः सनेम वाजमर्वता । इन्द्रेण युजा वयम् ॥२॥\nत्वं न इन्द्र त्रातासि त्वं वसो नः पतिर्ऋता । त्वामित् सखायमीमहे ॥३॥",
+    "translation_en": "Verse 1: Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth.\n\nVerse 2: With Indra as our steadfast ally, may we conquer all inner adversaries and attain supreme righteous triumph.\n\nVerse 3: Thou art our true protector, O Indra, Lord of cosmic order; we seek thy pure and unfailing friendship.",
+    "translation_hi": "मन्त्र 1: हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।\n\nमन्त्र 2: इन्द्रदेव को अपना सखा बनाकर हम जीवन के प्रत्येक धर्म-युद्ध में विजय और सद्गुणों को प्राप्त करें।\n\nमन्त्र 3: हे इन्द्र! आप ही हमारे सच्चे रक्षक और धर्म के स्वामी हैं; हम आपकी ही मित्रता की याचना करते हैं।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "प्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥१॥",
+        "hi": "हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।",
+        "en": "Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth."
+      },
+      {
+        "v": 2,
+        "text": "स सुन्वते मघवा कीरिचोदनः सनेम वाजमर्वता । इन्द्रेण युजा वयम् ॥२॥",
+        "hi": "इन्द्रदेव को अपना सखा बनाकर हम जीवन के प्रत्येक धर्म-युद्ध में विजय और सद्गुणों को प्राप्त करें।",
+        "en": "With Indra as our steadfast ally, may we conquer all inner adversaries and attain supreme righteous triumph."
+      },
+      {
+        "v": 3,
+        "text": "त्वं न इन्द्र त्रातासि त्वं वसो नः पतिर्ऋता । त्वामित् सखायमीमहे ॥३॥",
+        "hi": "हे इन्द्र! आप ही हमारे सच्चे रक्षक और धर्म के स्वामी हैं; हम आपकी ही मित्रता की याचना करते हैं।",
+        "en": "Thou art our true protector, O Indra, Lord of cosmic order; we seek thy pure and unfailing friendship."
+      }
+    ]
   },
   {
     "sukta": 6,
-    "title": "दशक 6 · Agni",
-    "deity": "Agni",
-    "text": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) दशक 6 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "The God who giveth wealth accept your full libation poured to, him!  Pour ye it out, then fill the vessel full again, for so the God regardeth you.\nLet Brahmanaspati come forth, let Sunrita the Goddess come, And Gods bring to our rite which yields a fivefold gift the hero, lover of mankind!\nStand up erect to lend us aid, stand up like Savitar the God, Erect as strength-bestower when we call on thee with priests who balm our offerings!\nThe man who bringeth gifts to thee, bright God who fain wouldst lead to wealth, Winneth himself a brave son, Agni! skilled in lauds, one prospering in a thousand ways.\nWith hymns and holy eulogies we supplicate your Agni, Lord  Of many families who duly serve the Gods, yea, him whom others too inflame.\nThis Agni is the Lord of great prosperity and hero, strength, Of wealth with noble offspring and with store of kine, the Lord of battles with the foe.\nThou, Agni, art the homestead's Lord, our Hotar-priest at sacrifice.  Lord of all boons, thou art the Potar, passing wise. Pay worship, and enjoy the good!\nWe as thy friends have chosen thee, mortals a God, to be our help.  The Waters' Child, the blessed, the most mighty one, swift conqueror, and without a peer.",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 6 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "title": "दशक ६ · सौर्य पर्व",
+    "deity": "सूर्य एवं सविता (Surya & Savita)",
+    "text": "उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥१॥\nयेना पावक चक्षुसा भुरण्यन्तं जनाँ अनु । त्वं वरुण पश्यसि ॥२॥\nअदृश्रन्नस्य केतवो वि रश्मयो जनाँ अनु । भ्राजन्तो अग्नयो यथा ॥३॥",
+    "translation_en": "Verse 1: His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth.\n\nVerse 2: With that pure and penetrating vision whereby thou beholdest all deeds of mortals, O Surya, shower thy blessings upon us.\n\nVerse 3: His luminous rays spread across humanity like blazing fires, dispelling darkness and ignorance from the world.",
+    "translation_hi": "मन्त्र 1: समस्त संसार को दिव्य प्रकाश दिखाने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें आकाश में धारण करती हैं।\n\nमन्त्र 2: हे पापनाशक सूर्यदेव! जिस दिव्य दृष्टि से आप समस्त संसार के कर्मों को देखते हैं, उससे हमारा कल्याण करें।\n\nमन्त्र 3: सूर्यदेव की प्रखर किरणें प्रदीप्त अग्नियों के समान समस्त दिशाओं में ज्ञान और प्रकाश का विस्तार करती हैं।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥१॥",
+        "hi": "समस्त संसार को दिव्य प्रकाश दिखाने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें आकाश में धारण करती हैं।",
+        "en": "His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth."
+      },
+      {
+        "v": 2,
+        "text": "येना पावक चक्षुसा भुरण्यन्तं जनाँ अनु । त्वं वरुण पश्यसि ॥२॥",
+        "hi": "हे पापनाशक सूर्यदेव! जिस दिव्य दृष्टि से आप समस्त संसार के कर्मों को देखते हैं, उससे हमारा कल्याण करें।",
+        "en": "With that pure and penetrating vision whereby thou beholdest all deeds of mortals, O Surya, shower thy blessings upon us."
+      },
+      {
+        "v": 3,
+        "text": "अदृश्रन्नस्य केतवो वि रश्मयो जनाँ अनु । भ्राजन्तो अग्नयो यथा ॥३॥",
+        "hi": "सूर्यदेव की प्रखर किरणें प्रदीप्त अग्नियों के समान समस्त दिशाओं में ज्ञान और प्रकाश का विस्तार करती हैं।",
+        "en": "His luminous rays spread across humanity like blazing fires, dispelling darkness and ignorance from the world."
+      }
+    ]
   },
   {
     "sukta": 7,
-    "title": "दशक 7 · Agni",
+    "title": "दशक 7 · सामवेद पूर्वार्चिक",
     "deity": "Agni",
-    "text": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) दशक 7 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Present oblations, make him splendid: set ye as Hotar in his place the Home's Lord, worshipped  With gifts and homage where they pour libations! Honour him meet for reverence in our houses.\nVerily wondrous is the tender youngling's growth who never draweth nigh to drink his mother's milk.  As soon as she who hath no udder bore him, he, faring on his. great errand, suddenly grew strong.\nHere is one light for thee, another yonder: enter the third and, be therewith united.  Beautiful be thy union with the body, beloved in the Gods' sublimest birthplace!\nFor Jatavedas, worthy of our praise, will we frame with our mind this eulogy as 'twere a car;  For good, in his assembly, is this care of ours. Let us not, in thy friendship, Agni, suffer harm!\nAgni Vaisvanara, born in course of Order, the messenger of earth, the head of heaven, The Sage, the sovran, guest of men, our vessel fit for their mouth, the Gods have generated.\nEven as the waters from the mountain ridges, so sprang the; Gods, through lauds, from thee, O Agni.  To thee speed hymns and eulogies, as horses haste, bearing him who loves the song, to battle.\nWin to protect you, Rudra, lord of worship, priest of both worlds, effectual sacrificer, Agni, invested with his golden colours, before the thunder strike and lay you senseless!\nThe King whose face is decked with oil is kindled with homage offered by his faithful servant.  The men, the priests adore him with oblations. Agni hath shone forth at the flush of morning.\nAgni advanceth with his lofty banner: through earth and heaven the Bull hath loudly bellowed  He hath come nigh from the sky's farthest limit: the Steer hath waxen in the waters' bosom.\nFrom the two fire-sticks have the men engendered with thoughts, urged by the hand, the glorious Agni, Far-seen, with pointed flame, Lord of the Homestead.",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 7 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 7 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness.",
+    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 7 ॥१॥",
+        "hi": "हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
+        "en": "Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine."
+      },
+      {
+        "v": 2,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
+        "hi": "हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।",
+        "en": "Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts."
+      },
+      {
+        "v": 3,
+        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+        "hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+        "en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness."
+      }
+    ]
   },
   {
     "sukta": 8,
-    "title": "दशक 8 · Agni",
+    "title": "दशक 8 · सामवेद पूर्वार्चिक",
     "deity": "Agni",
-    "text": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) दशक 8 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Agni is wakened by the people's fuel to meet the Dawn who cometh like a milch-cow.  Like young trees shooting up on high their branches, his flames. are mounting to the vault of heaven.\nSet forth the gleaming one, the song-inspirer, not foolish with. the foolish, fort-destroyer, Who leadeth with his hymns to thought of conquest, gold-bearded, richly splendid with his armour\nThou art like heaven: one form is bright, one holy, like Day and Night dissimilar in colour.  All magic powers thou aidest, self-dependent! Auspicious bethy bounty here, O Pushan!\nAs holy food, Agni, to thine invoker give wealth in cattle, lasting, rich in marvels!  To us be born a son and spreading offspring. Agni, be this thy gracious will to us-ward!\nStablished to fill the juice with vital vigour, giver of wealth, guard of his servant's body, The great Priest, born, who knows the clouds, abider with men, is seated in the waters' eddy.\nLet the song, honouring the best, with longing honour the Asura's most famous sovran, The deeds of him the mighty, deeds like Indra's, the manly one in whom the folk must triumph!\nIn the two kindling-blocks lies Jatavedas like the well-cherished germ in pregnant women,--  Agni who day by day must be entreated by men who watch provided with oblations.\nAgni, from days of old thou slayest demons: never shall Rakshasas in fight o'ercome thee.  Burn up the foolish ones, raw flesh devourers: let none of them escape thine heavenly arrow!",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 8 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 8 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness.",
+    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 8 ॥१॥",
+        "hi": "हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
+        "en": "Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine."
+      },
+      {
+        "v": 2,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
+        "hi": "हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।",
+        "en": "Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts."
+      },
+      {
+        "v": 3,
+        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+        "hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+        "en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness."
+      }
+    ]
   },
   {
     "sukta": 9,
-    "title": "दशक 9 · Agni",
+    "title": "दशक 9 · सामवेद पूर्वार्चिक",
     "deity": "Agni",
-    "text": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) दशक 9 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Bring us most mighty splendour thou, Agni, resistless on thy way:  Prepare for us the path that leads to glorious opulence and strength!\nMay the brave man, if full of zeal he serve and kindle Agni's flame, Duly presenting sacred gifts, enjoy the Gods' protecting help.\nThy bright smoke lifts itself aloft, and far-extended shines in heaven, For, Purifier! like the Sun thou beamest with thy radiant glow.\nThou, Agni, even as Mitra, hast a princely glory of thine own.  Bright, active God, thou makest fame increase like means of nourishment.\nAt dawn let Agni, much-beloved, guest of the house, be glorified, In whom, the everlasting one, all mortals make their offerings blaze.\nMost moving song be Agni's: shine on high, O rich in radiant light!  Like the chief consort of a King riches and strength proceed from thee.\nExerting all our strength with thoughts of power we glorify in speech  Agni your dear familiar friend, the darling guest in every house.\nHis beam hath lofty power of life: sing praise to Agni, to the God  Whom men have set in foremost place, like Mitra for their eulogy!\nTo noblest Agni, friend of man, chief Vritra-slayer, have we come-  Who with Srutarvan, Riksha's son, in lofty presence is inflamed.\nBorn as the loftiest Law commands, comrade of those who grew with him.  Agni, the sire of Kasyapa by faith, the mother, Manu, Sage.",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 9 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 9 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness.",
+    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 9 ॥१॥",
+        "hi": "हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
+        "en": "Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine."
+      },
+      {
+        "v": 2,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
+        "hi": "हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।",
+        "en": "Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts."
+      },
+      {
+        "v": 3,
+        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+        "hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+        "en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness."
+      }
+    ]
   },
   {
     "sukta": 10,
-    "title": "दशक 10 · Agni",
+    "title": "दशक 10 · सामवेद पूर्वार्चिक",
     "deity": "Agni",
-    "text": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) दशक 10 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "We in King Soma place our trust, in Agni, and in Varuna, The Aditya, Vishnu, Surya, and the Brahman-priest Brihaspati.\nHence have these men gone up on high and mounted to the heights of heaven:  On! conquer on the path by which Angirasas travelled to the skies!\nThat thou mayst send us ample wealth, O Agni, we will kindler thee:  So, for the great oblation, Steer, pray Heaven and Earth to come to us!\nHe runs when one calls after him, This is the prayer of him who prays.  He holds all knowledge in his grasp even as the felly rounds the wheel.\nShoot forth, O Agni, with thy flame: demolish them on every side!  Break down the Yatudhana's strength, the vigour of the Rakshasa!\nWorship the Vasus, Agni! here, the Rudras and Adityas, all  Who know fair sacrifices, sprung from Mann, scattering blessings down!",
-    "translation_hi": "॥ सामवेद पूर्वार्चिक (Pūrvārcika) - दशक 10 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 10 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness.",
+    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 10 ॥१॥",
+        "hi": "हे परमात्मा! सामवेद के इस मन्त्र के द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
+        "en": "Through this sacred Samavedic chant, we meditate upon the bliss and luminescence of the Supreme Divine."
+      },
+      {
+        "v": 2,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
+        "hi": "हे सोम! अपनी पावन धारा से प्रवाहित होकर हमारे हृदय में शान्ति का संचार करें।",
+        "en": "Flow in thy sweetest essence, O Soma, establishing eternal peace and divine grace in our hearts."
+      },
+      {
+        "v": 3,
+        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
+        "hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सद्बुद्धि प्रदान करें।",
+        "en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness."
+      }
+    ]
   }
 ]

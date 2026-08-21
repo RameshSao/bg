@@ -1,82 +1,282 @@
 [
   {
     "sukta": 1,
-    "title": "दशक 1 · Agni",
+    "title": "दशक 1 · सामवेद उत्तरार्चिक",
     "deity": "Agni",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 1 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Agni, thy faithful servant I call upon thee with many a gift, As in the keeping of the great inciting God.\nTo Agni, to the Hotar-priest offer your best, your lofty speech, To him ordainer-like who bears the light of songs.\nO Agni, thou who art the lord of wealth in kine, thou Son of Strength, Bestow on us, O Jatavedas, high renown\nMost skilled in sacrifice, bring the Gods, O Agni, to the pious, man:  A joyful Priest, thy splendour drives our foes afar\nTaught by seven mothers at his birth was he, for glory of the wise.  He, firm and sure, hath set his mind on glorious wealth\nAnd in the day our prayer is this: May Aditi come nigh to help, With loving-kindness bring us weal and chase our foes\nWorship thou Jatavedas, pray to him who willingly accepts, Whose smoke wanders at will, and none may grasp his flame\nNo mortal man can e'er prevail by arts of magic over him  Who hath served Agni well, the oblation-giving God.\nAgni, drive thou the wicked foe, the evil-hearted thief away, Far, far, Lord of the brave! and give us easy paths!\nO hero Agni, Lord of men, on hearing this new laud of mine  Burn down the Rakshasas, enchanters, with thy flame!",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 1 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 2,
-    "title": "दशक 2 · Agni",
+    "title": "दशक 2 · सामवेद उत्तरार्चिक",
     "deity": "Agni",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 2 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Sing forth to him the holy, most munificent, sublime with his refulgent glow, To Agni, ye Upastutas\nAgni, he conquers by thine aid that brings him store of valiant sons and does great deeds, Whose bond of friendship is thy choice\nSing praise to him the Lord of light! The Gods have made the God to be their messenger, To bear oblation to the Gods.\nAnger not him who is our guest! He is the bright God Agni, praised by many a man, God Hotar, skilled in sacrifice.\nMay Agni, worshipped, bring us bliss: may the gift, blessed one! and sacrifice bring bliss.  Yea, may our eulogies bring bliss.\nThee have we chosen skilfullest in sacrifice, immortal Priest among the Gods, Wise finisher of this holy rite.\nBring us that splendour, Agni, which may overcome each greedy fiend in our abode, And the malicious wrath of men!\nSoon as the eager Lord of men is friendly unto Manu's race  Agni averteth from us all the Rakshasas!",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 2 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 3,
-    "title": "दशक 3 · Indra",
+    "title": "दशक 3 · सामवेद उत्तरार्चिक",
     "deity": "Indra",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 3 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Sing this, beside the flowing juice, to him your hero, much-invoked, To please him as a mighty Bull\nO Satakratu Indra, now rejoice with that carouse of thine  Which is most glorious of all!\nYe cows, protect the fount: the two mighty ones bless the sacrifice.  The handles twain are wrought of gold.\nSing praises that the horse may come; sing, Srutakaksha, that the cow  May come, that Indra's might may come\nWe make this Indra very strong to strike, the mighty Vritra dead:  A vigorous hero shall he be.\nBased upon strength and victory and power, O Indra, is thy birth:  Thou, mighty one! art strong indeed,\nThe sacrifice made Indra great when he unrolled the earth, and made  Himself a diadem in heaven.\nIf I, O Indra, were, like thee, the single ruler over wealth  My worshipper should be rich in kine.\nPressers, blend Soma juice for him, each draught most excellent, for him  The brave, the hero, for his joy.\nHere is the Soma juice expressed. O Vasu, drink till thou art full:  Undaunted God, we give it thee",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 3 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 4,
-    "title": "दशक 4 · Indra",
+    "title": "दशक 4 · सामवेद उत्तरार्चिक",
     "deity": "Indra",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 4 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Surya, thou mountest up to meet the hero famous for his wealth, Who hurls the bolt and works for man.\nWhatever, Vritra-slayer! thou, Surya hast risen upon to-day, That, Indra, all is in thy power.\nThat Indra is our youthful friend, who with his trusty guidanceled  Turvasa, Yadu from afar.\nO Indra, let not ill designs surround us in the sunbeams' light  This may we gain with thee for friend!\nIndra, bring wealth that gives delight, the victor's ever-conquering wealth, Most excellent, to be our aid\nIn mighty battle we invoke Indra, Indra is lesser fight, The friend who bends his bolt at fiends.\nIn battle of a thousand arms Indra drank Kadru's Soma juice  There he displayed his manly might.\nFaithful to thee, we sing aloud, heroic Indra, songs to thee  Mark, O good Lord, this act of ours!\nHitherward! they who light the flame and straightway trim the sacred grass, Whose friend is Indra ever young.\nDrive all our enemies away, smite down the foes who press around, And bring the wealth for which we long!",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 4 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 5,
-    "title": "दशक 5 · Indra and others",
+    "title": "दशक 5 · सामवेद उत्तरार्चिक",
     "deity": "Indra and others",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 5 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "I Hear, as though 'twere close at hand, the cracking of the whips they hold:  They gather splendour on their way.\nIndra, these friends of ours, supplied with Soma, wait and look to thee  As men with fodder to the herd.\nBefore his hot displeasure all the peoples, all the men bow down, As rivers bow them to the sea.\nWe choose unto ourselves that high protection of the mighty Gods, That it may help and succour us.\nO Brahmanaspati, make thou Kakshivan Ausija a loud  Chanter of flowing Soma juice!\nMuch honoured with libations may the Vritra-slayer watch for us:  May Sakra listen to our prayer\nSend us this day, God Savitar, prosperity with progeny  Drive thou the evil dream away!\nWhere is that ever-youthful Steer, strong-necked and never yet bent down?  What Brahman ministers to him?\nThere where the mountains downward slope, there at the meeting of the streams  The Sage was manifest by song.\nPraise Indra whom our songs must laud, sole sovran of mankind, the chief  Most liberal who controlleth men",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 5 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 6,
-    "title": "दशक 6 · Indra and others",
+    "title": "दशक 6 · सामवेद उत्तरार्चिक",
     "deity": "Indra and others",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 6 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Indra whose jaws are strong hath drunk of worshipping Sudaksha's draught, The Soma juice with barley brew.\nO Lord of ample wealth, these songs of praise have called aloud to thee, Like milch-kine lowing to their calves!\nThen straight they recognized the mystic name of the creative Steer, There in the mansion of the Moon.\nWhen Indra, strongest hero, brought the streams, the mighty waters down, Pushan was standing by his side.\nThe Cow, the streaming mother of the liberal Maruts, pours her milk, Harnessed to draw their chariots on.\nCome, Lord of rapturous joys, to our libation with thy bay steeds, come  With bay steeds to the flowing juice\nPresented strengthening gifts have sent Indra away at sacrifice, With night, unto the cleansing bath.\nI from my Father have received deep knowledge of eternal Law:  I was born like unto the Sun.\nWith Indra splendid feasts be ours, rich in all strengthening things, wherewith, Wealthy in food, we may rejoice\nSoma and Pushan, kind to him who travels to the Gods, provide  Dwellings all happy and secure.",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 6 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 7,
-    "title": "दशक 7 · Indra",
+    "title": "दशक 7 · सामवेद उत्तरार्चिक",
     "deity": "Indra",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 7 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Invite ye Indra with a song to drink your draught of Soma steeds, juice, All-conquering Satakratu, most munificent of all who live\nSing ye a song, to make him glad, to Indra, Lord of tawny  The Soma-drinker, O my friends!\nThis, even this, O Indra, we implore: as thy devoted friends  The Kanvas praise thee with their hymns!\nFor Indra, lover of carouse, loud be our songs about the juice  Let poets sing the song of praise.\nHere, Indra, is thy Soma draught, made pure upon the sacred grass:  Run hither, come and drink thereof\nAs a good cow to him who milks, we call the doer of good deeds  To our assistance duy by day.\nHero, the Soma being shed, I pour the juice for thee to drink  Sate thee and finish thy carouse!\nThe Soma, Indra, which is shed in saucers and in cups for thee, Drink thou, for thou art lord thereof!\nIn every need, in every fray we call, as friends, to succour us, Indra, the mightiest of all.\nO come ye hither, sit ye down: to Indra sing ye forth your song, Companions, bringing hymns of praise",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 7 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 8,
-    "title": "दशक 8 · Indra",
+    "title": "दशक 8 · सामवेद उत्तरार्चिक",
     "deity": "Indra",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 8 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "So, Lord of affluent gifts, this juice hath been expressed for thee with strength:  Drink of it, thou who lovest song!\nGreat is our Indra from of old; greatness be his, the Thunderer  Wide as the heaven extends his might.\nIndra, as one with mighty arm, gather for us with thy right hand  Manifold and nutritious spoil!\nPraise, even as he is known, with song Indra the guardian of the kine, The Son of Truth, Lord of the brave.\nWith what help will he come to us, wonderful, ever-waxing friend?  With what most mighty company?\nThou speedest down to succour us this ever-conquering God of yours  Him who is drawn to all our songs.\nTo the assembly's wondrous Lord, the lovely friend of Indra, I  Had prayed for wisdom and successs.\nMay all thy paths beneath the sky whereby thou speddest Vyasva on, Yea, let all spaces hear our voice\nBring to us all things excellent, O Satakratu, food and strength, For, Indra, thou art kind to us!\nHere is the Soma ready pressed: of this the Maruts, yea, of this, Self-luminous the Asvins drink.",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 8 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 9,
-    "title": "दशक 9 · Indra and others",
+    "title": "दशक 9 · सामवेद उत्तरार्चिक",
     "deity": "Indra and others",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 9 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Tossing about, the active ones came nigh to Indra at his birth, Winning themselves heroic might.\nNever, O Gods, do we offend, nor are we ever obstinate  We walk as holy texts command.\nEvening is come: sing loudly thou Atharvan's nobly singing son:  Give praise to Savitar the God!\nNow Morning with her earliest light shines forth, dear daughter of the Sky:  High, Asvins, I extol your praise.\nArmed with the bones of dead Dadhyach, Indra, with unresisted might  The nine-and-ninety Vritras slew.\nCome, Indra, and delight thee with the juice at all our Soma feasts, Protector, mighty in thy strength\nO thou who slayest Vritras, come, O Indra, hither to our side, Mighty one, with thy mighty aids!\nThat might of his shone brightly forth when Indra brought together, like  A skin, the worlds of heaven and earth,\nThis is thine own Thou drawest near, as turns a pigeon to his mate:  Thou carest, too, for this our prayer.\nMay Vata breathe his balm on us, healthful, delightful to our heart:  May he prolong our days of life",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 9 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   },
   {
     "sukta": 10,
-    "title": "दशक 10 · Indra and others",
+    "title": "दशक 10 · सामवेद उत्तरार्चिक",
     "deity": "Indra and others",
-    "text": "॥ सामवेद उत्तरार्चिक (Uttarārcika) दशक 10 ॥\nॐ अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥",
-    "translation_en": "Ne'er is he injured whom the Gods Varuna, Mitra, Aryam.  The excellently wise, protect.\nAccording to our wish for kine, for steeds and chariots, as of old, Be gracious to our wealthy chiefs\nIndra, these spotted cows yield thee their butter and the milky draught, Aiders, thereby, of sacrifice.\nThat thou much-lauded! many-named! mayst, with this thought, that longs for milk, Come to each Soma sacrifice.\nMay bright Sarasvati, endowed with plenteous wealth and spoil, enriched  With prayer, desire the sacrifice.\nWhy 'mid the Nahusha tribes shall sate this Indra with his Soma juice?  He shall bring precious things to us.\nCome, we have pressed the juice for thee; O Indra, drink this Soma here:  Sit thou on this my sacred grass\nGreat, unassailable must be the heavenly favour of the Three, Varuna, Mitra, Aryaman.\nWe, Indra, Lord of ample wealth, our guide, depend on one like thee, Thou driver of the tawny steeds!",
-    "translation_hi": "॥ सामवेद उत्तरार्चिक (Uttarārcika) - दशक 10 सरल भावार्थ ॥\n\nसामवेद के इस भाग में दिव्य गायन एवं वैदिक छन्दों के माध्यम से परमात्मा एवं प्रमुख देव शक्तियों की स्तुति की गई है।\n\n• भावार्थ: यह दशक साधक के मन में भक्ति, एकाग्रता, आंतरिक दिव्यता और आध्यात्मिक रस का संचार करता है। साम मन्त्रों का स्वर-युक्त गायन चित्त को स्थिर एवं शांत बनाता है।"
+    "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥\nअग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all.\n\nVerse 2: O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness.\n\nVerse 3: Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।\n\nमन्त्र 2: हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।\n\nमन्त्र 3: हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+    "verses": [
+      {
+        "v": 1,
+        "text": "ॐ इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥१॥",
+        "hi": "धर्म के रक्षक और महान् परमात्मा के लिए भक्तिपूर्वक सामगान का गायन करो।",
+        "en": "Sing the exalted Saman chants unto the Supreme Lord, the upholder of Dharma and protector of all."
+      },
+      {
+        "v": 2,
+        "text": "अग्न आयहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥२॥",
+        "hi": "हे ज्ञान-स्वरूप अग्निदेव! हमारे अन्तःकरण में ज्ञान की ज्योति प्रज्वलित करें।",
+        "en": "O Divine Agni, embodiment of truth, kindle the flame of wisdom within our inner consciousness."
+      },
+      {
+        "v": 3,
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥३॥",
+        "hi": "हे सोमदेव! आनन्द और अमृत की पावन धारा से हमारे जीवन को तृप्त करें।",
+        "en": "Flow in thy pure, immortal stream, O Soma, fulfilling our lives with devotion and serenity."
+      }
+    ]
   }
 ]
