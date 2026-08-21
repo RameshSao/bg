@@ -1,311 +1,281 @@
 [
   {
     "sukta": 1,
-    "title": "दशक १ · आग्नेय पर्व",
+    "title": "दशक 1 · अग्नि",
     "deity": "अग्नि (Agni)",
-    "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥१॥\nतं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥२॥\nस नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥३॥\nअग्निं दूतं वृणीमहे होतारं विश्ववेदसम् । अस्य यज्ञस्य सुक्रतुम् ॥४॥\nअग्निर्वृत्राणि जङ्घनद् द्रविणस्यु विपंस्यया । समिद्धः शुक्र आहुतः ॥५॥",
-    "translation_en": "Verse 1: Come, O Agni, praised with our sacred songs, to accept the oblations; take thy seat upon the sacred grass as our high priest.\n\nVerse 2: O Angiras Agni, we kindle and nourish thee with sacred fuel and clarified butter; shine brilliantly, O youngest deity.\n\nVerse 3: O Divine Agni, bestow upon us widespread renown and heroic spiritual strength.\n\nVerse 4: We choose Agni as our messenger, the all-knowing priest and consummate performer of this holy sacrifice.\n\nVerse 5: Kindled and radiant with offerings, may Agni destroy all obstructive evils and grant abundant spiritual wealth.",
-    "translation_hi": "मन्त्र 1: हे अग्निदेव! हमारी स्तुति सुनकर हविष्य ग्रहण करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।\n\nमन्त्र 2: हे अङ्गिरा श्रेष्ठ अग्निदेव! हम समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।\n\nमन्त्र 3: हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मबल प्रदान करें।\n\nमन्त्र 4: हम सर्वज्ञ, यज्ञ के श्रेष्ठ सम्पादक अग्निदेव का दिव्य दूत के रूप में वरण करते हैं।\n\nमन्त्र 5: आहुतियों से प्रज्वलित तेजस्वी अग्निदेव हमारे समस्त विघ्नों (वृत्रों) का नाश करें और ऐश्वर्य प्रदान करें।",
+    "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥ ॥१॥\nतं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥ ॥२॥\nस नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥ ॥३॥",
+    "translation_en": "Verse 1: Come, O Agni, praised with our sacred songs, to accept the oblations; take thy seat upon the sacred grass as our high priest.\n\nVerse 2: O Angiras Agni, we kindle and nourish thee with sacred fuel and clarified butter; shine brilliantly, O youngest deity.\n\nVerse 3: O Divine Agni, bestow upon us widespread renown and heroic spiritual strength.",
+    "translation_hi": "मन्त्र 1: हे अग्निदेव! हमारे द्वारा की गई स्तुति से प्रसन्न होकर हविष्य स्वीकार करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।\n\nमन्त्र 2: हे अङ्गिरा श्रेष्ठ अग्निदेव! हम पवित्र समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।\n\nमन्त्र 3: हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मिक पराक्रम प्रदान करें।",
     "verses": [
       {
         "verse": 1,
-        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥१॥",
-        "translation_hi": "हे अग्निदेव! हमारी स्तुति सुनकर हविष्य ग्रहण करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।",
+        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥ ॥१॥",
+        "translation_hi": "हे अग्निदेव! हमारे द्वारा की गई स्तुति से प्रसन्न होकर हविष्य स्वीकार करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।",
         "translation_en": "Come, O Agni, praised with our sacred songs, to accept the oblations; take thy seat upon the sacred grass as our high priest."
       },
       {
         "verse": 2,
-        "text": "तं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥२॥",
-        "translation_hi": "हे अङ्गिरा श्रेष्ठ अग्निदेव! हम समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।",
+        "text": "तं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥ ॥२॥",
+        "translation_hi": "हे अङ्गिरा श्रेष्ठ अग्निदेव! हम पवित्र समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।",
         "translation_en": "O Angiras Agni, we kindle and nourish thee with sacred fuel and clarified butter; shine brilliantly, O youngest deity."
       },
       {
         "verse": 3,
-        "text": "स नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥३॥",
-        "translation_hi": "हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मबल प्रदान करें।",
+        "text": "स नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥ ॥३॥",
+        "translation_hi": "हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मिक पराक्रम प्रदान करें।",
         "translation_en": "O Divine Agni, bestow upon us widespread renown and heroic spiritual strength."
-      },
-      {
-        "verse": 4,
-        "text": "अग्निं दूतं वृणीमहे होतारं विश्ववेदसम् । अस्य यज्ञस्य सुक्रतुम् ॥४॥",
-        "translation_hi": "हम सर्वज्ञ, यज्ञ के श्रेष्ठ सम्पादक अग्निदेव का दिव्य दूत के रूप में वरण करते हैं।",
-        "translation_en": "We choose Agni as our messenger, the all-knowing priest and consummate performer of this holy sacrifice."
-      },
-      {
-        "verse": 5,
-        "text": "अग्निर्वृत्राणि जङ्घनद् द्रविणस्यु विपंस्यया । समिद्धः शुक्र आहुतः ॥५॥",
-        "translation_hi": "आहुतियों से प्रज्वलित तेजस्वी अग्निदेव हमारे समस्त विघ्नों (वृत्रों) का नाश करें और ऐश्वर्य प्रदान करें।",
-        "translation_en": "Kindled and radiant with offerings, may Agni destroy all obstructive evils and grant abundant spiritual wealth."
       }
     ]
   },
   {
     "sukta": 2,
-    "title": "दशक २ · आग्नेय पर्व",
+    "title": "दशक 2 · अग्नि",
     "deity": "अग्नि (Agni)",
-    "text": "इन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥१॥\nसमिद्धस्य श्रवस्यतोऽग्ने दूतो अह ब्रुवन् । विश्वेभिः सोमपर्वभिर्महद्भिरिह ताँ अव ॥२॥\nइषे राय उप दधे सुजाताय सुचेतसे । जुष्टो दमूना अतिथिरदुर्वण्वते नृणाम् ॥३॥\nअग्निं वो देवमजरं दातारं विश्ववारिणम् । होतारं सप्तहस्तं देवं विश्ववेदसम् ॥४॥",
-    "translation_en": "Verse 1: Universal hymns of praise glorify Indra, wide as the ocean, the foremost among chariot-warriors and lord of all valor.\n\nVerse 2: As messengers of the kindled Agni, we invoke all divine powers to partake in the joyful Soma assembly.\n\nVerse 3: For nourishment and prosperity, we honor the noble-minded Agni, the beloved and gracious guest within our homes.\n\nVerse 4: We worship the ageless, benevolent Agni, endowed with seven radiant flames and supreme universal knowledge.",
-    "translation_hi": "मन्त्र 1: समुद्र के समान व्यापक, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी स्तुतियाँ निरन्तर संवर्धित करती हैं।\n\nमन्त्र 2: प्रदीप्त अग्निदेव के दूत बनकर हम सभी देवों को सोमयाग में पधारने के लिए आमंत्रित करते हैं।\n\nमन्त्र 3: उत्तम ज्ञान और चेतना से युक्त अग्निदेव हमारे गृह में नित्य सम्मानित अतिथि बनकर निवास करें।\n\nमन्त्र 4: हम अजर-अमर, सर्वकल्याणकारी, सात ज्वालाओं (सप्तहस्त) वाले सर्वज्ञ अग्निदेव की आराधना करते हैं।",
+    "text": "इन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥ ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥ ॥२॥\nरक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥ ॥३॥",
+    "translation_en": "Verse 1: Universal hymns of praise glorify Indra, wide as the ocean, the foremost among chariot-warriors and lord of all valor.\n\nVerse 2: Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for the divine drink.\n\nVerse 3: Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice.",
+    "translation_hi": "मन्त्र 1: समुद्र के समान असीम, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी साम-स्तुतियाँ संवर्धित करती हैं।\n\nमन्त्र 2: हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से परमात्मा के निमित्त प्रवाहित होइए।\n\nमन्त्र 3: राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।",
     "verses": [
       {
         "verse": 1,
-        "text": "इन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥१॥",
-        "translation_hi": "समुद्र के समान व्यापक, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी स्तुतियाँ निरन्तर संवर्धित करती हैं।",
+        "text": "इन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥ ॥१॥",
+        "translation_hi": "समुद्र के समान असीम, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी साम-स्तुतियाँ संवर्धित करती हैं।",
         "translation_en": "Universal hymns of praise glorify Indra, wide as the ocean, the foremost among chariot-warriors and lord of all valor."
       },
       {
         "verse": 2,
-        "text": "समिद्धस्य श्रवस्यतोऽग्ने दूतो अह ब्रुवन् । विश्वेभिः सोमपर्वभिर्महद्भिरिह ताँ अव ॥२॥",
-        "translation_hi": "प्रदीप्त अग्निदेव के दूत बनकर हम सभी देवों को सोमयाग में पधारने के लिए आमंत्रित करते हैं।",
-        "translation_en": "As messengers of the kindled Agni, we invoke all divine powers to partake in the joyful Soma assembly."
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥ ॥२॥",
+        "translation_hi": "हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से परमात्मा के निमित्त प्रवाहित होइए।",
+        "translation_en": "Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for the divine drink."
       },
       {
         "verse": 3,
-        "text": "इषे राय उप दधे सुजाताय सुचेतसे । जुष्टो दमूना अतिथिरदुर्वण्वते नृणाम् ॥३॥",
-        "translation_hi": "उत्तम ज्ञान और चेतना से युक्त अग्निदेव हमारे गृह में नित्य सम्मानित अतिथि बनकर निवास करें।",
-        "translation_en": "For nourishment and prosperity, we honor the noble-minded Agni, the beloved and gracious guest within our homes."
-      },
-      {
-        "verse": 4,
-        "text": "अग्निं वो देवमजरं दातारं विश्ववारिणम् । होतारं सप्तहस्तं देवं विश्ववेदसम् ॥४॥",
-        "translation_hi": "हम अजर-अमर, सर्वकल्याणकारी, सात ज्वालाओं (सप्तहस्त) वाले सर्वज्ञ अग्निदेव की आराधना करते हैं।",
-        "translation_en": "We worship the ageless, benevolent Agni, endowed with seven radiant flames and supreme universal knowledge."
+        "text": "रक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥ ॥३॥",
+        "translation_hi": "राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।",
+        "translation_en": "Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice."
       }
     ]
   },
   {
     "sukta": 3,
-    "title": "दशक ३ · ऐन्द्र एवं पवमान पर्व",
-    "deity": "सोम (Soma Pavamana)",
-    "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥१॥\nरक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥२॥\nवृषा पवस्व धारया मरुत्वते सुताय ते । इन्द्राय वृत्रहन्तमे ॥३॥\nसोमः पवते जनयन् मतीनां जनयन् दिवो जनयन् पृथिव्याः । जनयन्नग्नेर्जनयन्त्सूर्यस्य ॥४॥",
-    "translation_en": "Verse 1: Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for Indra's divine drink.\n\nVerse 2: Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice.\n\nVerse 3: Flow in abundant strength for Indra the conqueror of obstacles and His companion Maruts.\n\nVerse 4: Soma purifies and flows, inspiring wisdom in minds, generating light in heaven and earth, and fueling the splendor of Agni and Surya.",
-    "translation_hi": "मन्त्र 1: हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से इन्द्रदेव के पान हेतु प्रवाहित होइए।\n\nमन्त्र 2: राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।\n\nमन्त्र 3: शत्रुओं का संहार करने वाले इन्द्र और मरुद्गणों के लिए हे बलशाली सोम! अपनी पावन धारा प्रवाहित करें।\n\nमन्त्र 4: सोमदेव ज्ञान, सद्बुद्धि, द्युलोक, पृथिवी, अग्नि और सूर्य के तेज का प्राकट्य करते हुए पावन प्रवाह करते हैं।",
+    "title": "दशक 3 · पवमान",
+    "deity": "पवमान सोम (Soma)",
+    "text": "उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥ ॥१॥\nइन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥ ॥२॥\nप्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥ ॥३॥",
+    "translation_en": "Verse 1: His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth.\n\nVerse 2: Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness.\n\nVerse 3: Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth.",
+    "translation_hi": "मन्त्र 1: समस्त संसार को सत्य ज्ञान का दर्शन कराने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें धारण करती हैं।\n\nमन्त्र 2: धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का भक्तिपूर्वक गायन करो।\n\nमन्त्र 3: हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।",
     "verses": [
       {
         "verse": 1,
-        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥१॥",
-        "translation_hi": "हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से इन्द्रदेव के पान हेतु प्रवाहित होइए।",
-        "translation_en": "Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for Indra's divine drink."
+        "text": "उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥ ॥१॥",
+        "translation_hi": "समस्त संसार को सत्य ज्ञान का दर्शन कराने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें धारण करती हैं।",
+        "translation_en": "His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth."
       },
       {
         "verse": 2,
-        "text": "रक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥२॥",
-        "translation_hi": "राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।",
-        "translation_en": "Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice."
+        "text": "इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥ ॥२॥",
+        "translation_hi": "धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का भक्तिपूर्वक गायन करो।",
+        "translation_en": "Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness."
       },
       {
         "verse": 3,
-        "text": "वृषा पवस्व धारया मरुत्वते सुताय ते । इन्द्राय वृत्रहन्तमे ॥३॥",
-        "translation_hi": "शत्रुओं का संहार करने वाले इन्द्र और मरुद्गणों के लिए हे बलशाली सोम! अपनी पावन धारा प्रवाहित करें।",
-        "translation_en": "Flow in abundant strength for Indra the conqueror of obstacles and His companion Maruts."
-      },
-      {
-        "verse": 4,
-        "text": "सोमः पवते जनयन् मतीनां जनयन् दिवो जनयन् पृथिव्याः । जनयन्नग्नेर्जनयन्त्सूर्यस्य ॥४॥",
-        "translation_hi": "सोमदेव ज्ञान, सद्बुद्धि, द्युलोक, पृथिवी, अग्नि और सूर्य के तेज का प्राकट्य करते हुए पावन प्रवाह करते हैं।",
-        "translation_en": "Soma purifies and flows, inspiring wisdom in minds, generating light in heaven and earth, and fueling the splendor of Agni and Surya."
+        "text": "प्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥ ॥३॥",
+        "translation_hi": "हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।",
+        "translation_en": "Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth."
       }
     ]
   },
   {
     "sukta": 4,
-    "title": "दशक ४ · ऐन्द्र पर्व",
+    "title": "दशक 4 · इन्द्र",
     "deity": "इन्द्र (Indra)",
-    "text": "गावो ममान्तु वीतये हय्या नयन्त्वा सुतम् । इन्द्रं सोमेषु मन्दिनम् ॥१॥\nतं व इन्द्रं गिरो मम वर्धयन्तु दिवेदिवे । यथा स शक्र आ वहेत् ॥२॥\nइन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥३॥\nस घा नो योग आ भुवत् स राये स पुरन्ध्याम् । गमद् वाजेभिरा स नः ॥४॥",
-    "translation_en": "Verse 1: May sacred resources sustain us; may Indra rejoice in the consecrated Soma and stand as our protector.\n\nVerse 2: May our continuous hymns daily magnify the mighty Indra, that He may bring us bountiful blessings.\n\nVerse 3: Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness.\n\nVerse 4: May He aid us in our spiritual acquisition (Yoga), sustain our wealth, and bless our minds with wisdom and victory.",
-    "translation_hi": "मन्त्र 1: गौवें हमारे लिए पौष्टिक दुग्ध प्रदान करें; इन्द्रदेव सोम के पावन रस से तृप्त होकर हमारे सहायक बनें।\n\nमन्त्र 2: हमारी स्तुतियाँ प्रतिदिन शक्तिशाली इन्द्रदेव के प्रभाव और महिमा को बढ़ाएं।\n\nमन्त्र 3: धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का गायन करो।\n\nमन्त्र 4: वह परमात्मा हमारे योग (अप्राप्त की प्राप्ति), क्षेम (प्राप्त की रक्षा) और ज्ञान-समृद्धि में हमारी सहायता करें।",
+    "text": "विश्वे देवाः शृणुतेमं हवं मे ये अन्तरिक्षे य उप द्यवि ष्ठ । ॥१॥\nमित्रावरुणा तपुषा न उभा वृष्टीव पाथः । पाहि नो दम्येभ्यः ॥ ॥२॥\nत्वं हि नः पिता वसो त्वं माता शतक्रतो बभूविथ । अथा ते सुम्नमीमहे ॥ ॥३॥",
+    "translation_en": "Verse 1: May all universal deities inhabiting the celestial realms hear this our invocation with grace.\n\nVerse 2: May Mitra and Varuna, like refreshing rain, protect our homes and households with divine security.\n\nVerse 3: Thou verily art our Father, O Lord of hundred powers, thou art our Mother; therefore do we seek thy divine benevolence.",
+    "translation_hi": "मन्त्र 1: अन्तरिक्ष और द्युलोक में स्थित समस्त देवशक्तियाँ हमारे इस पावन प्रार्थना-आह्वान को सुनें।\n\nमन्त्र 2: मित्र और वरुण देव अपनी पावन वृष्टि और रक्षा-शक्तियों से हमारे कुल और समाज की रक्षा करें।\n\nमन्त्र 3: हे सर्वसमर्थ प्रभु! आप ही हमारे पिता और माता हैं; हम आपके ही परम कल्याणकारी अनुग्रह की याचना करते हैं।",
     "verses": [
       {
         "verse": 1,
-        "text": "गावो ममान्तु वीतये हय्या नयन्त्वा सुतम् । इन्द्रं सोमेषु मन्दिनम् ॥१॥",
+        "text": "विश्वे देवाः शृणुतेमं हवं मे ये अन्तरिक्षे य उप द्यवि ष्ठ । ॥१॥",
+        "translation_hi": "अन्तरिक्ष और द्युलोक में स्थित समस्त देवशक्तियाँ हमारे इस पावन प्रार्थना-आह्वान को सुनें।",
+        "translation_en": "May all universal deities inhabiting the celestial realms hear this our invocation with grace."
+      },
+      {
+        "verse": 2,
+        "text": "मित्रावरुणा तपुषा न उभा वृष्टीव पाथः । पाहि नो दम्येभ्यः ॥ ॥२॥",
+        "translation_hi": "मित्र और वरुण देव अपनी पावन वृष्टि और रक्षा-शक्तियों से हमारे कुल और समाज की रक्षा करें।",
+        "translation_en": "May Mitra and Varuna, like refreshing rain, protect our homes and households with divine security."
+      },
+      {
+        "verse": 3,
+        "text": "त्वं हि नः पिता वसो त्वं माता शतक्रतो बभूविथ । अथा ते सुम्नमीमहे ॥ ॥३॥",
+        "translation_hi": "हे सर्वसमर्थ प्रभु! आप ही हमारे पिता और माता हैं; हम आपके ही परम कल्याणकारी अनुग्रह की याचना करते हैं।",
+        "translation_en": "Thou verily art our Father, O Lord of hundred powers, thou art our Mother; therefore do we seek thy divine benevolence."
+      }
+    ]
+  },
+  {
+    "sukta": 5,
+    "title": "दशक 5 · इन्द्र",
+    "deity": "इन्द्र एवं मरुतः (Indra & Maruts)",
+    "text": "उच्चा ते जातमन्धसो दिवि सद्भूम्या ददे । उग्रं शर्म महि श्रवः ॥ ॥१॥\nएष देवो अमर्त्यः पर्णवीरिव दीयति । अभी नो वाजसातये ॥ ॥२॥\nअग्ने रक्षा णो अंहसः प्रति स्म देव रीषतः । तपिष्ठैरजरो दह ॥ ॥३॥",
+    "translation_en": "Verse 1: High-born in heaven and established upon earth, may this sacred Soma bestow upon us supreme spiritual shelter and boundless renown.\n\nVerse 2: This immortal divine Soma moves with swift celestial power, bringing strength and auspicious victory unto our lives.\n\nVerse 3: O Agni, protect us from distress and sin; with thy hottest flames, O ageless one, consume all negativity.",
+    "translation_hi": "मन्त्र 1: द्युलोक में उत्पन्न, पृथिवी पर धारण किए गए दिव्य सोम रस से हमें उत्तम आत्मिक शरण और महान् यश प्राप्त हो।\n\nमन्त्र 2: यह अमर देव सोम दिव्य वेग से गतिमान होकर हमारे जीवन में शक्ति और विजय का संचार करता है।\n\nमन्त्र 3: हे अग्निदेव! समस्त पापों और संकटों से हमारी रक्षा करें तथा अपने प्रखर तेज से अज्ञान का नाश करें।",
+    "verses": [
+      {
+        "verse": 1,
+        "text": "उच्चा ते जातमन्धसो दिवि सद्भूम्या ददे । उग्रं शर्म महि श्रवः ॥ ॥१॥",
+        "translation_hi": "द्युलोक में उत्पन्न, पृथिवी पर धारण किए गए दिव्य सोम रस से हमें उत्तम आत्मिक शरण और महान् यश प्राप्त हो।",
+        "translation_en": "High-born in heaven and established upon earth, may this sacred Soma bestow upon us supreme spiritual shelter and boundless renown."
+      },
+      {
+        "verse": 2,
+        "text": "एष देवो अमर्त्यः पर्णवीरिव दीयति । अभी नो वाजसातये ॥ ॥२॥",
+        "translation_hi": "यह अमर देव सोम दिव्य वेग से गतिमान होकर हमारे जीवन में शक्ति और विजय का संचार करता है।",
+        "translation_en": "This immortal divine Soma moves with swift celestial power, bringing strength and auspicious victory unto our lives."
+      },
+      {
+        "verse": 3,
+        "text": "अग्ने रक्षा णो अंहसः प्रति स्म देव रीषतः । तपिष्ठैरजरो दह ॥ ॥३॥",
+        "translation_hi": "हे अग्निदेव! समस्त पापों और संकटों से हमारी रक्षा करें तथा अपने प्रखर तेज से अज्ञान का नाश करें।",
+        "translation_en": "O Agni, protect us from distress and sin; with thy hottest flames, O ageless one, consume all negativity."
+      }
+    ]
+  },
+  {
+    "sukta": 6,
+    "title": "दशक 6 · सूर्य",
+    "deity": "सूर्य एवं सविता (Surya & Savita)",
+    "text": "स नः पावक दीदिहि द्युमदस्मे सुवीर्यम् । भवा मन्दिन्यदा वयं नमो भरन्तः ॥ ॥१॥\nगावो ममान्तु वीतये हय्या नयन्त्वा सुतम् । इन्द्रं सोमेषु मन्दिनम् ॥ ॥२॥\nस घा नो योग आ भुवत् स राये स पुरन्ध्याम् । गमद् वाजेभिरा स नः ॥ ॥३॥",
+    "translation_en": "Verse 1: O purifying Agni, shine brightly within us with spiritual splendor and heroic virtue as we bring our reverent homage.\n\nVerse 2: May sacred resources sustain us; may Indra rejoice in the consecrated Soma and stand as our protector.\n\nVerse 3: May He aid us in our spiritual acquisition (Yoga), sustain our wealth, and bless our minds with wisdom and victory.",
+    "translation_hi": "मन्त्र 1: हे पावनकारी अग्निदेव! हमारे भीतर आत्मिक तेज और दिव्य पराक्रम को प्रदीप्त करें।\n\nमन्त्र 2: गौवें हमारे लिए पौष्टिक दुग्ध प्रदान करें; इन्द्रदेव सोम के पावन रस से तृप्त होकर हमारे सहायक बनें।\n\nमन्त्र 3: वह परमात्मा हमारे योग (अप्राप्त की प्राप्ति), क्षेम (प्राप्त की रक्षा) और ज्ञान-समृद्धि में हमारी सहायता करें।",
+    "verses": [
+      {
+        "verse": 1,
+        "text": "स नः पावक दीदिहि द्युमदस्मे सुवीर्यम् । भवा मन्दिन्यदा वयं नमो भरन्तः ॥ ॥१॥",
+        "translation_hi": "हे पावनकारी अग्निदेव! हमारे भीतर आत्मिक तेज और दिव्य पराक्रम को प्रदीप्त करें।",
+        "translation_en": "O purifying Agni, shine brightly within us with spiritual splendor and heroic virtue as we bring our reverent homage."
+      },
+      {
+        "verse": 2,
+        "text": "गावो ममान्तु वीतये हय्या नयन्त्वा सुतम् । इन्द्रं सोमेषु मन्दिनम् ॥ ॥२॥",
         "translation_hi": "गौवें हमारे लिए पौष्टिक दुग्ध प्रदान करें; इन्द्रदेव सोम के पावन रस से तृप्त होकर हमारे सहायक बनें।",
         "translation_en": "May sacred resources sustain us; may Indra rejoice in the consecrated Soma and stand as our protector."
       },
       {
-        "verse": 2,
-        "text": "तं व इन्द्रं गिरो मम वर्धयन्तु दिवेदिवे । यथा स शक्र आ वहेत् ॥२॥",
-        "translation_hi": "हमारी स्तुतियाँ प्रतिदिन शक्तिशाली इन्द्रदेव के प्रभाव और महिमा को बढ़ाएं।",
-        "translation_en": "May our continuous hymns daily magnify the mighty Indra, that He may bring us bountiful blessings."
-      },
-      {
         "verse": 3,
-        "text": "इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥३॥",
-        "translation_hi": "धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का गायन करो।",
-        "translation_en": "Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness."
-      },
-      {
-        "verse": 4,
-        "text": "स घा नो योग आ भुवत् स राये स पुरन्ध्याम् । गमद् वाजेभिरा स नः ॥४॥",
+        "text": "स घा नो योग आ भुवत् स राये स पुरन्ध्याम् । गमद् वाजेभिरा स नः ॥ ॥३॥",
         "translation_hi": "वह परमात्मा हमारे योग (अप्राप्त की प्राप्ति), क्षेम (प्राप्त की रक्षा) और ज्ञान-समृद्धि में हमारी सहायता करें।",
         "translation_en": "May He aid us in our spiritual acquisition (Yoga), sustain our wealth, and bless our minds with wisdom and victory."
       }
     ]
   },
   {
-    "sukta": 5,
-    "title": "दशक ५ · ऐन्द्र पर्व",
-    "deity": "इन्द्र एवं मरुतः (Indra & Maruts)",
-    "text": "प्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥१॥\nस सुन्वते मघवा कीरिचोदनः सनेम वाजमर्वता । इन्द्रेण युजा वयम् ॥२॥\nत्वं न इन्द्र त्रातासि त्वं वसो नः पतिर्ऋता । त्वामित् सखायमीमहे ॥३॥",
-    "translation_en": "Verse 1: Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth.\n\nVerse 2: With Indra as our steadfast ally, may we conquer all inner adversaries and attain supreme righteous triumph.\n\nVerse 3: Thou art our true protector, O Indra, Lord of cosmic order; we seek thy pure and unfailing friendship.",
-    "translation_hi": "मन्त्र 1: हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।\n\nमन्त्र 2: इन्द्रदेव को अपना सखा बनाकर हम जीवन के प्रत्येक धर्म-युद्ध में विजय और सद्गुणों को प्राप्त करें।\n\nमन्त्र 3: हे इन्द्र! आप ही हमारे सच्चे रक्षक और धर्म के स्वामी हैं; हम आपकी ही मित्रता की याचना करते हैं।",
+    "sukta": 7,
+    "title": "दशक 7 · वैश्वानर",
+    "deity": "वैश्वानर अग्नि (Vaishvanara Agni)",
+    "text": "त्वं न इन्द्र त्रातासि त्वं वसो नः पतिर्ऋता । त्वामित् सखायमीमहे ॥ ॥१॥\nयेना पावक चक्षुसा भुरण्यन्तं जनाँ अनु । त्वं वरुण पश्यसि ॥ ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥ ॥३॥",
+    "translation_en": "Verse 1: Thou art our true protector, O Indra, Lord of cosmic order; we seek thy pure and unfailing friendship.\n\nVerse 2: With that pure and penetrating vision whereby thou beholdest all deeds of mortals, O Surya, shower thy blessings upon us.\n\nVerse 3: Come, O Agni, praised with our sacred songs, to accept the oblations; take thy seat upon the sacred grass as our high priest.",
+    "translation_hi": "मन्त्र 1: हे इन्द्र! आप ही हमारे सच्चे रक्षक और धर्म के स्वामी हैं; हम आपकी ही मित्रता की याचना करते हैं।\n\nमन्त्र 2: हे पापनाशक सूर्यदेव! जिस दिव्य दृष्टि से आप समस्त संसार के कर्मों को देखते हैं, उससे हमारा कल्याण करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे द्वारा की गई स्तुति से प्रसन्न होकर हविष्य स्वीकार करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।",
     "verses": [
       {
         "verse": 1,
-        "text": "प्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥१॥",
-        "translation_hi": "हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।",
-        "translation_en": "Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth."
-      },
-      {
-        "verse": 2,
-        "text": "स सुन्वते मघवा कीरिचोदनः सनेम वाजमर्वता । इन्द्रेण युजा वयम् ॥२॥",
-        "translation_hi": "इन्द्रदेव को अपना सखा बनाकर हम जीवन के प्रत्येक धर्म-युद्ध में विजय और सद्गुणों को प्राप्त करें।",
-        "translation_en": "With Indra as our steadfast ally, may we conquer all inner adversaries and attain supreme righteous triumph."
-      },
-      {
-        "verse": 3,
-        "text": "त्वं न इन्द्र त्रातासि त्वं वसो नः पतिर्ऋता । त्वामित् सखायमीमहे ॥३॥",
+        "text": "त्वं न इन्द्र त्रातासि त्वं वसो नः पतिर्ऋता । त्वामित् सखायमीमहे ॥ ॥१॥",
         "translation_hi": "हे इन्द्र! आप ही हमारे सच्चे रक्षक और धर्म के स्वामी हैं; हम आपकी ही मित्रता की याचना करते हैं।",
         "translation_en": "Thou art our true protector, O Indra, Lord of cosmic order; we seek thy pure and unfailing friendship."
-      }
-    ]
-  },
-  {
-    "sukta": 6,
-    "title": "दशक ६ · सौर्य पर्व",
-    "deity": "सूर्य एवं सविता (Surya & Savita)",
-    "text": "उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥१॥\nयेना पावक चक्षुसा भुरण्यन्तं जनाँ अनु । त्वं वरुण पश्यसि ॥२॥\nअदृश्रन्नस्य केतवो वि रश्मयो जनाँ अनु । भ्राजन्तो अग्नयो यथा ॥३॥",
-    "translation_en": "Verse 1: His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth.\n\nVerse 2: With that pure and penetrating vision whereby thou beholdest all deeds of mortals, O Surya, shower thy blessings upon us.\n\nVerse 3: His luminous rays spread across humanity like blazing fires, dispelling darkness and ignorance from the world.",
-    "translation_hi": "मन्त्र 1: समस्त संसार को दिव्य प्रकाश दिखाने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें आकाश में धारण करती हैं।\n\nमन्त्र 2: हे पापनाशक सूर्यदेव! जिस दिव्य दृष्टि से आप समस्त संसार के कर्मों को देखते हैं, उससे हमारा कल्याण करें।\n\nमन्त्र 3: सूर्यदेव की प्रखर किरणें प्रदीप्त अग्नियों के समान समस्त दिशाओं में ज्ञान और प्रकाश का विस्तार करती हैं।",
-    "verses": [
-      {
-        "verse": 1,
-        "text": "उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥१॥",
-        "translation_hi": "समस्त संसार को दिव्य प्रकाश दिखाने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें आकाश में धारण करती हैं।",
-        "translation_en": "His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth."
       },
       {
         "verse": 2,
-        "text": "येना पावक चक्षुसा भुरण्यन्तं जनाँ अनु । त्वं वरुण पश्यसि ॥२॥",
+        "text": "येना पावक चक्षुसा भुरण्यन्तं जनाँ अनु । त्वं वरुण पश्यसि ॥ ॥२॥",
         "translation_hi": "हे पापनाशक सूर्यदेव! जिस दिव्य दृष्टि से आप समस्त संसार के कर्मों को देखते हैं, उससे हमारा कल्याण करें।",
         "translation_en": "With that pure and penetrating vision whereby thou beholdest all deeds of mortals, O Surya, shower thy blessings upon us."
       },
       {
         "verse": 3,
-        "text": "अदृश्रन्नस्य केतवो वि रश्मयो जनाँ अनु । भ्राजन्तो अग्नयो यथा ॥३॥",
-        "translation_hi": "सूर्यदेव की प्रखर किरणें प्रदीप्त अग्नियों के समान समस्त दिशाओं में ज्ञान और प्रकाश का विस्तार करती हैं।",
-        "translation_en": "His luminous rays spread across humanity like blazing fires, dispelling darkness and ignorance from the world."
-      }
-    ]
-  },
-  {
-    "sukta": 7,
-    "title": "दशक 7 · सामवेद पूर्वार्चिक",
-    "deity": "Agni",
-    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 7 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength.",
-    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
-    "verses": [
-      {
-        "verse": 1,
-        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 7 ॥१॥",
-        "translation_hi": "हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
-        "translation_en": "Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine."
-      },
-      {
-        "verse": 2,
-        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
-        "translation_hi": "हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।",
-        "translation_en": "Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts."
-      },
-      {
-        "verse": 3,
-        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-        "translation_hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
-        "translation_en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength."
+        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥ ॥३॥",
+        "translation_hi": "हे अग्निदेव! हमारे द्वारा की गई स्तुति से प्रसन्न होकर हविष्य स्वीकार करने पधारें और यज्ञीय कुश-आसन पर विराजमान हों।",
+        "translation_en": "Come, O Agni, praised with our sacred songs, to accept the oblations; take thy seat upon the sacred grass as our high priest."
       }
     ]
   },
   {
     "sukta": 8,
-    "title": "दशक 8 · सामवेद पूर्वार्चिक",
-    "deity": "Agni",
-    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 8 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength.",
-    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
+    "title": "दशक 8 · इन्द्र",
+    "deity": "इन्द्र (Indra)",
+    "text": "तं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥ ॥१॥\nस नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥ ॥२॥\nइन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥ ॥३॥",
+    "translation_en": "Verse 1: O Angiras Agni, we kindle and nourish thee with sacred fuel and clarified butter; shine brilliantly, O youngest deity.\n\nVerse 2: O Divine Agni, bestow upon us widespread renown and heroic spiritual strength.\n\nVerse 3: Universal hymns of praise glorify Indra, wide as the ocean, the foremost among chariot-warriors and lord of all valor.",
+    "translation_hi": "मन्त्र 1: हे अङ्गिरा श्रेष्ठ अग्निदेव! हम पवित्र समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।\n\nमन्त्र 2: हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मिक पराक्रम प्रदान करें।\n\nमन्त्र 3: समुद्र के समान असीम, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी साम-स्तुतियाँ संवर्धित करती हैं।",
     "verses": [
       {
         "verse": 1,
-        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 8 ॥१॥",
-        "translation_hi": "हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
-        "translation_en": "Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine."
+        "text": "तं त्वा समिद्भिरङ्गिरो घृतेन वर्धयामसि । बृहच्छोचा यविष्ठ्य ॥ ॥१॥",
+        "translation_hi": "हे अङ्गिरा श्रेष्ठ अग्निदेव! हम पवित्र समिधाओं और घृत की आहुति से आपको प्रदीप्त करते हैं।",
+        "translation_en": "O Angiras Agni, we kindle and nourish thee with sacred fuel and clarified butter; shine brilliantly, O youngest deity."
       },
       {
         "verse": 2,
-        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
-        "translation_hi": "हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।",
-        "translation_en": "Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts."
+        "text": "स नः पृथु श्रवाय्यमच्छा देव विवाससि । बृहदग्ने सुवीर्यम् ॥ ॥२॥",
+        "translation_hi": "हे देव! आप हमें विशाल यश और उत्कृष्ट आत्मिक पराक्रम प्रदान करें।",
+        "translation_en": "O Divine Agni, bestow upon us widespread renown and heroic spiritual strength."
       },
       {
         "verse": 3,
-        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-        "translation_hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
-        "translation_en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength."
+        "text": "इन्द्रं विश्वा अवीवृधन्त्समुद्रव्यचसं गिरः । रथीतमं रथीनां वाजानां सत्पतिं पतिम् ॥ ॥३॥",
+        "translation_hi": "समुद्र के समान असीम, महारथियों में श्रेष्ठ इन्द्रदेव की महिमा को हमारी साम-स्तुतियाँ संवर्धित करती हैं।",
+        "translation_en": "Universal hymns of praise glorify Indra, wide as the ocean, the foremost among chariot-warriors and lord of all valor."
       }
     ]
   },
   {
     "sukta": 9,
-    "title": "दशक 9 · सामवेद पूर्वार्चिक",
-    "deity": "Agni",
-    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 9 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength.",
-    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
+    "title": "दशक 9 · इन्द्र",
+    "deity": "इन्द्र एवं अग्नि (Indra & Agni)",
+    "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥ ॥१॥\nरक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥ ॥२॥\nउदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥ ॥३॥",
+    "translation_en": "Verse 1: Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for the divine drink.\n\nVerse 2: Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice.\n\nVerse 3: His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth.",
+    "translation_hi": "मन्त्र 1: हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से परमात्मा के निमित्त प्रवाहित होइए।\n\nमन्त्र 2: राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।\n\nमन्त्र 3: समस्त संसार को सत्य ज्ञान का दर्शन कराने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें धारण करती हैं।",
     "verses": [
       {
         "verse": 1,
-        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 9 ॥१॥",
-        "translation_hi": "हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
-        "translation_en": "Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine."
+        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥ ॥१॥",
+        "translation_hi": "हे सोमदेव! अपनी अतिशय मधुर और आनन्दमयी धारा से परमात्मा के निमित्त प्रवाहित होइए।",
+        "translation_en": "Flow forth, O Soma, in thy sweetest and most exhilarating stream, prepared for the divine drink."
       },
       {
         "verse": 2,
-        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
-        "translation_hi": "हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।",
-        "translation_en": "Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts."
+        "text": "रक्षिहा विश्वचर्षणिर्भि रक्षसां विश्वभोजसम् । तमु त्वा सत्य सोम राजा सुयज्ञे वर्धयामसि ॥ ॥२॥",
+        "translation_hi": "राक्षसी प्रवृत्तियों का विनाश करने वाले, सर्वपोषक सोमराज को हम यज्ञ में स्तुतियों से संवर्धित करते हैं।",
+        "translation_en": "Slayer of malevolent forces, all-nourishing King Soma, we exalt thee in our auspicious sacrifice."
       },
       {
         "verse": 3,
-        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-        "translation_hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
-        "translation_en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength."
+        "text": "उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यम् ॥ ॥३॥",
+        "translation_hi": "समस्त संसार को सत्य ज्ञान का दर्शन कराने के लिए सूर्यदेव की ज्ञानमयी किरणें उन्हें धारण करती हैं।",
+        "translation_en": "His radiant heralds bear aloft the Sun, the divine seer of all creation, that all may behold the light of Truth."
       }
     ]
   },
   {
     "sukta": 10,
-    "title": "दशक 10 · सामवेद पूर्वार्चिक",
-    "deity": "Agni",
-    "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 10 ॥१॥\nस्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥\nअग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-    "translation_en": "Verse 1: Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine.\n\nVerse 2: Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts.\n\nVerse 3: Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength.",
-    "translation_hi": "मन्त्र 1: हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।\n\nमन्त्र 2: हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।\n\nमन्त्र 3: हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
+    "title": "दशक 10 · मित्रावरुणौ",
+    "deity": "मित्रावरुणौ (Mitra-Varuna)",
+    "text": "इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥ ॥१॥\nप्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥ ॥२॥\nविश्वे देवाः शृणुतेमं हवं मे ये अन्तरिक्षे य उप द्यवि ष्ठ । ॥३॥",
+    "translation_en": "Verse 1: Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness.\n\nVerse 2: Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth.\n\nVerse 3: May all universal deities inhabiting the celestial realms hear this our invocation with grace.",
+    "translation_hi": "मन्त्र 1: धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का भक्तिपूर्वक गायन करो।\n\nमन्त्र 2: हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।\n\nमन्त्र 3: अन्तरिक्ष और द्युलोक में स्थित समस्त देवशक्तियाँ हमारे इस पावन प्रार्थना-आह्वान को सुनें।",
     "verses": [
       {
         "verse": 1,
-        "text": "ॐ सामवेदाय नमः । ऋचां प्राची महिम मन्त्रः साम 10 ॥१॥",
-        "translation_hi": "हे परमात्मा! सामवेद के इस पावन मन्त्र द्वारा हम आपके आनन्दमय स्वरूप का ध्यान करते हैं।",
-        "translation_en": "Through this sacred Samavedic chant, we meditate upon the bliss, truth, and luminescence of the Supreme Divine."
+        "text": "इन्द्राय साम गायत विप्राय बृहते बृहत् । धर्मकृते सुचेतसे ॥ ॥१॥",
+        "translation_hi": "धर्म के रक्षक, विप्र और महान् इन्द्रदेव के लिए दिव्य सामगान का भक्तिपूर्वक गायन करो।",
+        "translation_en": "Sing the exalted Saman chants unto Indra, the upholder of Dharma and the wise protector of righteousness."
       },
       {
         "verse": 2,
-        "text": "स्वादिष्ठया मदिष्ठया पवस्व सोम धारया । इन्द्राय पातवे सुतः ॥२॥",
-        "translation_hi": "हे सोम! अपनी मधुर और पवित्र धारा से प्रवाहित होकर हमारे अन्तःकरण में शान्ति का संचार करें।",
-        "translation_en": "Flow in thy sweetest essence, O Soma, establishing eternal peace, health, and divine grace in our hearts."
+        "text": "प्र व इन्द्राय बृहते मरुतो गात सुष्टुतिम् । यन्महित्वमस्य रोदसी ॥ ॥२॥",
+        "translation_hi": "हे साम गायको! महान् इन्द्र और मरुद्गणों के लिए श्रेष्ठ सामगान करो, जिनकी महिमा से द्युलोक और पृथिवी आलोकित हैं।",
+        "translation_en": "Sing splendid hymns unto the supreme Indra and the Maruts, whose grandeur illuminates heaven and earth."
       },
       {
         "verse": 3,
-        "text": "अग्न आ याहि वीतये गृणानो हव्यदातये । नि होता सत्सि बर्हिषि ॥३॥",
-        "translation_hi": "हे अग्निदेव! हमारे इस पावन यज्ञ में पधारकर हमें सत्य और सद्बुद्धि का वरदान दीजिए।",
-        "translation_en": "Come, O Divine Agni, unto our sacred offering and illuminate our intellect with righteousness and strength."
+        "text": "विश्वे देवाः शृणुतेमं हवं मे ये अन्तरिक्षे य उप द्यवि ष्ठ । ॥३॥",
+        "translation_hi": "अन्तरिक्ष और द्युलोक में स्थित समस्त देवशक्तियाँ हमारे इस पावन प्रार्थना-आह्वान को सुनें।",
+        "translation_en": "May all universal deities inhabiting the celestial realms hear this our invocation with grace."
       }
     ]
   }
