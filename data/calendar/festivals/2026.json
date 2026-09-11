@@ -29,7 +29,7 @@
   "2026-03-21": [
     "Eid-ul-Fitr"
   ],
-  "2026-03-27": [
+  "2026-03-26": [
     "Ram Navami"
   ],
   "2026-03-31": [
@@ -70,22 +70,23 @@
   "2026-06-14": [
     "Raja Parba"
   ],
-  "2026-06-17": [
-    "Ratha Yatra"
-  ],
   "2026-06-26": [
     "Muharram"
+  ],
+  "2026-07-16": [
+    "Jagannath Rath Yatra"
+  ],
+  "2026-07-29": [
+    "Guru Purnima"
   ],
   "2026-08-17": [
     "Nag Panchami"
   ],
-  "2026-08-20": [
-    "Nuakhai"
-  ],
   "2026-08-25": [
-    "Onam"
+    "First Onam (Uthradam)"
   ],
   "2026-08-26": [
+    "Thiruvonam (Onam)",
     "Milad-un-Nabi"
   ],
   "2026-08-28": [
@@ -99,6 +100,10 @@
       "name": "Ganesh Chaturthi",
       "force_static": true
     }
+  ],
+  "2026-09-15": [
+    "Nuakhai",
+    "Rishi Panchami"
   ],
   "2026-09-17": [
     "Vishwakarma Jayanti"
