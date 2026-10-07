@@ -1,12 +1,27 @@
 [
   {
-    "date": "2026-09-11",
-    "name": "Pola Festival",
-    "description": "Bull-worshipping harvest festival"
+    "date": "2026-01-03",
+    "name": "Cherchera Festival",
+    "description": "Traditional Chhattisgarhi harvest festival celebrating paddy donation on Paush Purnima"
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-08-12",
     "name": "Hareli Festival",
-    "description": "Agriculture festival celebrating greenery"
+    "description": "First agriculture festival of Chhattisgarh celebrating greenery and cattle equipment"
+  },
+  {
+    "date": "2026-09-11",
+    "name": "Pola Festival",
+    "description": "Bull-worshipping harvest festival celebrated in Chhattisgarh"
+  },
+  {
+    "date": "2026-09-14",
+    "name": "Teeja Vrat (Hartalika Teej)",
+    "description": "Nirjala fast observed by married women in Chhattisgarh worshipping Shiva and Gouri"
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Gaura Gauri Puja",
+    "description": "Traditional Chhattisgarhi Diwali worship of Shiva (Gaura) and Parvati (Gauri)"
   }
 ]

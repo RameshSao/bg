@@ -1,7 +1,22 @@
 [
   {
+    "date": "2026-01-14",
+    "name": "Sankranti (Bhogi, Makara, Kanuma)",
+    "description": "4-day harvest festival celebrated with Bhogi bonfires and Kanuma cattle worship"
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Ugadi (Telugu New Year)",
+    "description": "Deccan Telugu solar-lunar new year celebrated with Ugadi Pachadi"
+  },
+  {
     "date": "2026-05-12",
     "name": "Hanuman Jayanthi",
-    "description": "Telugu Hanuman Jayanthi"
+    "description": "41-day Hanuman Deeksha conclusion celebrated on Vaishakha Krishna Dashami"
+  },
+  {
+    "date": "2026-08-28",
+    "name": "Varalakshmi Vratam",
+    "description": "Auspicious puja for Goddess Lakshmi observed on the Friday before Shravana Purnima"
   }
 ]

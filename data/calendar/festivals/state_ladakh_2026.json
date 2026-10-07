@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "date": "2026-06-24",
+    "name": "Hemis Tsechu Festival",
+    "description": "Sacred masked dance performance at Hemis Monastery honoring Guru Padmasambhava"
+  },
+  {
+    "date": "2026-07-08",
+    "name": "Ladakh Festival",
+    "description": "Cultural carnival featuring traditional music, archery, and masked dances in Leh"
+  },
+  {
+    "date": "2026-12-10",
+    "name": "Losar Festival (Ladakh)",
+    "description": "Ladakhi Buddhist New Year celebrated with butter lamps and Ibex dances"
+  }
+]

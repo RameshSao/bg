@@ -1,7 +1,27 @@
 [
   {
     "date": "2026-02-25",
-    "name": "Lathmar Holi (Barsana)",
-    "description": "Traditional color festival using sticks"
+    "name": "Lathmar Holi (Barsana & Nandgaon)",
+    "description": "Unique traditional Holi celebration of Braj region in Barsana and Nandgaon"
+  },
+  {
+    "date": "2026-06-24",
+    "name": "Ganga Dussehra",
+    "description": "Celebration of River Ganga's descent to Earth with holy dips at Varanasi and Prayagraj"
+  },
+  {
+    "date": "2026-09-04",
+    "name": "Krishna Janmashtami (Mathura)",
+    "description": "Grand birth celebration of Lord Krishna in Mathura and Vrindavan"
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Ayodhya Deepotsav",
+    "description": "Illumination of Saryu river ghats with millions of earthen lamps in Ayodhya"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Dev Deepawali (Varanasi)",
+    "description": "Festival of Gods celebrated on Kartik Purnima along the 84 ghats of Varanasi"
   }
 ]

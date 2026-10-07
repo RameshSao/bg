@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "date": "2026-01-14",
+    "name": "Thai Pongal",
+    "description": "Tamil harvest festival celebrating the Sun God"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Puthandu (Tamil New Year)",
+    "description": "Tamil solar new year celebrated across Puducherry"
+  },
+  {
+    "date": "2026-08-16",
+    "name": "De Jure Transfer Day",
+    "description": "Official Puducherry liberation and union territory foundation day"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Karthigai Deepam",
+    "description": "Festival of oil lamps honoring Lord Murugan and Shiva"
+  }
+]

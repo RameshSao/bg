@@ -1,7 +1,27 @@
 [
   {
     "date": "2026-04-14",
-    "name": "Hanuman Jayanti",
-    "description": "Maha Vishuba Sankranti / Odia Hanuman Jayanti"
+    "name": "Pana Sankranti (Maha Vishuba)",
+    "description": "Odia New Year celebrated with sweet Pana preparation"
+  },
+  {
+    "date": "2026-06-14",
+    "name": "Raja Parba Begins",
+    "description": "3-day festival worshipping Mother Earth and womanhood"
+  },
+  {
+    "date": "2026-07-16",
+    "name": "Jagannath Rath Yatra",
+    "description": "Grand Chariot Procession of Lord Jagannath, Balabhadra and Subhadra in Puri"
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Nuakhai",
+    "description": "Western Odisha agricultural harvest festival celebrating first eaten grain"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Bali Jatra Begins",
+    "description": "Cuttack maritime heritage festival and Boita Bandana on Kartik Purnima"
   }
 ]

@@ -1,12 +1,27 @@
 [
   {
+    "date": "2026-01-14",
+    "name": "Uttarayan (International Kite Festival)",
+    "description": "Grand kite flying festival celebrating Makara Sankranti across Gujarat"
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Tarnetar Fair",
+    "description": "Folk music, dance, and traditional sports fair at Tarnetar temple"
+  },
+  {
     "date": "2026-10-11",
     "name": "Navratri Garba Festival Begins",
-    "description": "World-famous nine nights of Garba and Dandiya Raas dancing in Gujarat"
+    "description": "World's longest dance festival with traditional Garba and Dandiya Raas"
   },
   {
     "date": "2026-10-20",
-    "name": "Navratri Garba Festival Ends (Dussehra)",
-    "description": "Culmination of Garba and celebration of Durga's victory over Mahishasura"
+    "name": "Dussehra & Garba Samapan",
+    "description": "Victory of Good over Evil and culmination of Navratri celebrations"
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Bestu Varas (Gujarati New Year)",
+    "description": "Gujarati New Year celebrated on Kartik Shukla Pratipada following Diwali"
   }
 ]

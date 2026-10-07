@@ -2,16 +2,26 @@
   {
     "date": "2026-03-22",
     "name": "Gangaur Festival",
-    "description": "Grand festival worshipping Lord Shiva and Goddess Parvati with colorful processions"
+    "description": "Traditional Rajasthani festival worshipping Goddess Gauri for marital bliss"
   },
   {
     "date": "2026-08-15",
-    "name": "Hariyali Teej",
-    "description": "Swings, songs, and green attire celebrating the arrival of monsoons"
+    "name": "Hariyali Teej Procession",
+    "description": "Grand Teej royal procession with traditional swings and music in Jaipur"
   },
   {
     "date": "2026-08-31",
-    "name": "Kajari Teej",
-    "description": "Traditional Kajali Teej procession in Bundi"
+    "name": "Kajari Teej Mela",
+    "description": "Celebration of Kajari Teej with traditional fairs in Bundi and Kota"
+  },
+  {
+    "date": "2026-11-18",
+    "name": "Pushkar Fair Begins (Pushkar Mela)",
+    "description": "World-famous livestock fair and cultural festival near Pushkar lake"
+  },
+  {
+    "date": "2026-11-24",
+    "name": "Pushkar Sacred Bath (Kartik Purnima)",
+    "description": "Holy bath at Pushkar Sarovar and Maha Aarti on Kartik Purnima"
   }
 ]

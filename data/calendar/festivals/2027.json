@@ -1,20 +1,105 @@
 {
   "2027-01-14": [
-    "Makar Sankranti"
+    "Lohri"
+  ],
+  "2027-01-15": [
+    "Makar Sankranti",
+    "Pongal"
+  ],
+  "2027-02-11": [
+    "Vasant Panchami"
   ],
   "2027-03-06": [
     "Maha Shivratri"
   ],
+  "2027-03-22": [
+    "Holika Dahan"
+  ],
   "2027-03-23": [
     "Holi"
+  ],
+  "2027-04-07": [
+    "Gudi Padwa",
+    "Ugadi",
+    "Chaitra Navratri Begins"
+  ],
+  "2027-04-14": [
+    "Baisakhi",
+    "Vishu",
+    "Pohela Boishakh"
   ],
   "2027-04-15": [
     "Ram Navami"
   ],
-  "2027-08-25": [
+  "2027-04-20": [
+    "Hanuman Jayanti"
+  ],
+  "2027-05-09": [
+    "Akshaya Tritiya"
+  ],
+  "2027-05-20": [
+    "Buddha Purnima"
+  ],
+  "2027-06-13": [
+    "Ganga Dussehra"
+  ],
+  "2027-07-05": [
+    "Jagannath Rath Yatra"
+  ],
+  "2027-07-18": [
+    "Guru Purnima"
+  ],
+  "2027-08-06": [
+    "Nag Panchami"
+  ],
+  "2027-08-17": [
+    "Raksha Bandhan"
+  ],
+  "2027-08-24": [
     "Janmashtami"
+  ],
+  "2027-09-04": [
+    "Ganesh Chaturthi"
+  ],
+  "2027-09-14": [
+    "Anant Chaturdashi"
+  ],
+  "2027-09-30": [
+    "Sharad Navratri Begins"
+  ],
+  "2027-10-07": [
+    "Durga Ashtami"
+  ],
+  "2027-10-09": [
+    "Maha Navami",
+    "Dussehra"
+  ],
+  "2027-10-14": [
+    "Sharad Purnima"
+  ],
+  "2027-10-18": [
+    "Karwa Chauth"
+  ],
+  "2027-10-27": [
+    "Dhanteras",
+    "Narak Chaturdashi"
   ],
   "2027-10-29": [
     "Diwali"
+  ],
+  "2027-10-30": [
+    "Govardhan Puja"
+  ],
+  "2027-10-31": [
+    "Bhai Dooj"
+  ],
+  "2027-11-04": [
+    "Chhath Puja"
+  ],
+  "2027-11-14": [
+    "Dev Deepawali"
+  ],
+  "2027-12-09": [
+    "Gita Jayanti"
   ]
 }
