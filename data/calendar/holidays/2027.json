@@ -1,0 +1,152 @@
+[
+  {
+    "name": "New Year's Day",
+    "date": "2027-01-01",
+    "type": "National",
+    "description": ""
+  },
+  {
+    "name": "Republic Day",
+    "date": "2027-01-26",
+    "type": "Gazetted",
+    "description": "National Holiday"
+  },
+  {
+    "name": "Maha Shivratri",
+    "date": "2027-03-06",
+    "type": "Restricted",
+    "description": ""
+  },
+  {
+    "name": "Holi",
+    "date": "2027-03-23",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Good Friday",
+    "date": "2027-03-26",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Easter Sunday",
+    "date": "2027-03-28",
+    "type": "Restricted",
+    "description": ""
+  },
+  {
+    "name": "Bank Closing",
+    "date": "2027-04-01",
+    "type": "Bank",
+    "description": "Bank Holiday"
+  },
+  {
+    "name": "Id-ul-Fitr",
+    "date": "2027-03-10",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Ambedkar Jayanti",
+    "date": "2027-04-14",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Ram Navami",
+    "date": "2027-04-15",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Mahavir Jayanti",
+    "date": "2027-04-19",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Buddha Purnima",
+    "date": "2027-05-20",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Bakrid / Id-ul-Zuha",
+    "date": "2027-05-17",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Muharram",
+    "date": "2027-06-16",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2027-08-15",
+    "type": "Gazetted",
+    "description": "National Holiday"
+  },
+  {
+    "name": "Id-e-Milad",
+    "date": "2027-08-15",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
+    "name": "Janmashtami",
+    "date": "2027-08-25",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Mahatma Gandhi Jayanti",
+    "date": "2027-10-02",
+    "type": "Gazetted",
+    "description": "National Holiday"
+  },
+  {
+    "name": "Dussehra",
+    "date": "2027-10-09",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Diwali",
+    "date": "2027-10-29",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Govardhan Puja",
+    "date": "2027-10-30",
+    "type": "Restricted",
+    "description": ""
+  },
+  {
+    "name": "Bhai Dooj",
+    "date": "2027-10-31",
+    "type": "Restricted",
+    "description": ""
+  },
+  {
+    "name": "Chhath Puja",
+    "date": "2027-11-04",
+    "type": "Restricted",
+    "description": ""
+  },
+  {
+    "name": "Guru Nanak Jayanti",
+    "date": "2027-11-13",
+    "type": "Gazetted",
+    "description": ""
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2027-12-25",
+    "type": "Gazetted",
+    "description": ""
+  }
+]
