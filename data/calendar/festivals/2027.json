@@ -12,6 +12,9 @@
   "2027-03-06": [
     "Maha Shivratri"
   ],
+  "2027-03-21": [
+    "Holika Dahan"
+  ],
   "2027-03-22": [
     "Holi"
   ],
@@ -67,6 +70,9 @@
   "2027-09-30": [
     "Sharad Navratri Begins"
   ],
+  "2027-10-07": [
+    "Durga Ashtami"
+  ],
   "2027-10-08": [
     "Maha Navami"
   ],
@@ -80,7 +86,9 @@
     "Karwa Chauth"
   ],
   "2027-10-27": [
-    "Dhanteras",
+    "Dhanteras"
+  ],
+  "2027-10-28": [
     "Narak Chaturdashi"
   ],
   "2027-10-29": [
@@ -95,19 +103,16 @@
   "2027-11-04": [
     "Chhath Puja"
   ],
-  "2027-11-14": [
+  "2027-11-11": [
+    "Tulsi Vivah"
+  ],
+  "2027-11-13": [
     "Dev Deepawali"
+  ],
+  "2027-11-14": [
+    "Guru Nanak Jayanti"
   ],
   "2027-12-09": [
     "Gita Jayanti"
-  ],
-  "2027-03-21": [
-    "Holika Dahan"
-  ],
-  "2027-10-07": [
-    "Durga Ashtami"
-  ],
-  "2027-11-11": [
-    "Tulsi Vivah"
   ]
 }

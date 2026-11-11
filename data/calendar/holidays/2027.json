@@ -18,8 +18,14 @@
     "description": ""
   },
   {
+    "name": "Id-ul-Fitr",
+    "date": "2027-03-10",
+    "type": "Gazetted",
+    "description": "Tentative Date"
+  },
+  {
     "name": "Holi",
-    "date": "2027-03-23",
+    "date": "2027-03-22",
     "type": "Gazetted",
     "description": ""
   },
@@ -42,12 +48,6 @@
     "description": "Bank Holiday"
   },
   {
-    "name": "Id-ul-Fitr",
-    "date": "2027-03-10",
-    "type": "Gazetted",
-    "description": "Tentative Date"
-  },
-  {
     "name": "Ambedkar Jayanti",
     "date": "2027-04-14",
     "type": "Gazetted",
@@ -66,16 +66,16 @@
     "description": ""
   },
   {
-    "name": "Buddha Purnima",
-    "date": "2027-05-20",
-    "type": "Gazetted",
-    "description": ""
-  },
-  {
     "name": "Bakrid / Id-ul-Zuha",
     "date": "2027-05-17",
     "type": "Gazetted",
     "description": "Tentative Date"
+  },
+  {
+    "name": "Buddha Purnima",
+    "date": "2027-05-20",
+    "type": "Gazetted",
+    "description": ""
   },
   {
     "name": "Muharram",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Guru Nanak Jayanti",
-    "date": "2027-11-13",
+    "date": "2027-11-14",
     "type": "Gazetted",
     "description": ""
   },
