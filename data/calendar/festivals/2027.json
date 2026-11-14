@@ -6,6 +6,14 @@
     "Makar Sankranti",
     "Pongal"
   ],
+  "2027-02-06": [
+    {
+      "name": "Mauni Amavasya",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027 (Magha Amavasya); not computed by engine"
+    }
+  ],
   "2027-02-11": [
     "Vasant Panchami"
   ],
@@ -25,11 +33,16 @@
   ],
   "2027-04-14": [
     "Baisakhi",
-    "Vishu",
-    "Pohela Boishakh"
+    "Vishu"
   ],
   "2027-04-15": [
-    "Ram Navami"
+    "Ram Navami",
+    {
+      "name": "Pohela Boishakh",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027 for West Bengal (Mesha Sankranti 15:28 IST -> next day); engine 04-14"
+    }
   ],
   "2027-04-19": [
     "Mahavir Jayanti"
@@ -39,6 +52,14 @@
   ],
   "2027-05-09": [
     "Akshaya Tritiya"
+  ],
+  "2027-05-18": [
+    {
+      "name": "Narasimha Jayanti",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027; engine 05-19"
+    }
   ],
   "2027-05-20": [
     "Buddha Purnima"
@@ -64,8 +85,40 @@
   "2027-09-04": [
     "Ganesh Chaturthi"
   ],
+  "2027-09-06": [
+    {
+      "name": "Balarama Jayanti",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027 (Bhadrapada Shukla Shashthi); engine 08-23"
+    }
+  ],
+  "2027-09-12": [
+    {
+      "name": "Onam",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027 (Thiruvonam in Chingam); not computed by engine"
+    }
+  ],
   "2027-09-14": [
     "Anant Chaturdashi"
+  ],
+  "2027-09-16": [
+    {
+      "name": "Pitru Paksha Begins",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027; engine 09-15"
+    }
+  ],
+  "2027-09-29": [
+    {
+      "name": "Sarva Pitru Amavasya (Mahalaya)",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027 (Aparahna Amavasya); engine 09-30"
+    }
   ],
   "2027-09-30": [
     "Sharad Navratri Begins"
@@ -111,6 +164,14 @@
   ],
   "2027-11-14": [
     "Guru Nanak Jayanti"
+  ],
+  "2027-11-20": [
+    {
+      "name": "Kalabhairav Jayanti",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2027 (Pradosh-vyapini Ashtami); engine 11-21"
+    }
   ],
   "2027-12-09": [
     "Gita Jayanti"

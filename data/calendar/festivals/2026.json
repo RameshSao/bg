@@ -10,6 +10,14 @@
     "Pongal",
     "Magh Bihu"
   ],
+  "2026-01-18": [
+    {
+      "name": "Mauni Amavasya",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2026 (Magha Amavasya); not computed by engine"
+    }
+  ],
   "2026-01-23": [
     "Vasant Panchami"
   ],
@@ -18,6 +26,9 @@
   ],
   "2026-02-17": [
     "Losar"
+  ],
+  "2026-03-03": [
+    "Holika Dahan"
   ],
   "2026-03-04": [
     "Holi"
@@ -99,11 +110,27 @@
   "2026-09-15": [
     "Nuakhai"
   ],
+  "2026-09-16": [
+    {
+      "name": "Balarama Jayanti",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2026 (Bhadrapada Shukla Shashthi); engine emits none"
+    }
+  ],
   "2026-09-17": [
     "Vishwakarma Jayanti"
   ],
   "2026-09-25": [
     "Anant Chaturdashi"
+  ],
+  "2026-09-27": [
+    {
+      "name": "Pitru Paksha Begins",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2026 (Purnima Shraddha / Pratipada rule); engine 09-26"
+    }
   ],
   "2026-10-11": [
     "Sharad Navratri Begins"
@@ -112,23 +139,47 @@
     "Kati Bihu"
   ],
   "2026-10-19": [
-    "Durga Ashtami"
+    {
+      "name": "Durga Ashtami",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2026 (Ashtami-Navami same day); engine 10-18"
+    },
+    {
+      "name": "Maha Navami",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2026; engine and old static 10-20"
+    }
   ],
   "2026-10-20": [
-    "Maha Navami",
     "Dussehra"
   ],
   "2026-10-25": [
     "Sharad Purnima"
   ],
+  "2026-10-29": [
+    "Karwa Chauth"
+  ],
+  "2026-11-05": [
+    {
+      "name": "Govatsa Dwadashi",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2026 (Pradosh-vyapini Dwadashi); engine 11-06"
+    }
+  ],
   "2026-11-06": [
     "Dhanteras"
   ],
-  "2026-11-07": [
-    "Narak Chaturdashi"
-  ],
   "2026-11-08": [
-    "Diwali"
+    "Diwali",
+    {
+      "name": "Narak Chaturdashi",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Drik Panchang 2026 (Chaturdashi at Arunodaya; Kali Chaudas is 11-07); engine 11-07"
+    }
   ],
   "2026-11-10": [
     "Govardhan Puja"
@@ -154,14 +205,5 @@
   ],
   "2026-12-25": [
     "Christmas"
-  ],
-  "2026-10-29": [
-    "Karwa Chauth"
-  ],
-  "2026-03-03": [
-    "Holika Dahan"
-  ],
-  "2026-06-24": [
-    "Ganga Dussehra"
   ]
 }

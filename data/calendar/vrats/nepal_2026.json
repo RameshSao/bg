@@ -25,6 +25,15 @@
     "description": "Fasting and worship of the Saptarishi observed on Shukla Panchami of Bhadrapada."
   },
   {
+    "date": "2026-10-18",
+    "name": "Maha Astami (Dashain)",
+    "description": "Eighth day of Dashain with Kalratri worship and weapon consecration.",
+    "force_static": true,
+    "country": "Nepal",
+    "category": "authority",
+    "basis": "Nepal Panchanga Nirnayak Bikas Samiti 2083 BS: Kartik 1 = 18 Oct 2026 (engine Ashtami-at-sunrise gives 19 Oct)"
+  },
+  {
     "date": "2026-11-08",
     "name": "Laxmi Puja",
     "description": "Worship of Goddess Laxmi during Tihar festival."
