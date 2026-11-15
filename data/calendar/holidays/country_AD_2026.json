@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Any nou",
+    "country": "AD"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Reis",
+    "country": "AD"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "AD"
+  },
+  {
+    "date": "2026-03-14",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Dia de la Constitució",
+    "country": "AD"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Divendres Sant",
+    "country": "AD"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Dilluns de Pasqua",
+    "country": "AD"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Festa del Treball",
+    "country": "AD"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Dilluns de Pentecosta",
+    "country": "AD"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Assumpció",
+    "country": "AD"
+  },
+  {
+    "date": "2026-09-08",
+    "name": "National Holiday",
+    "type": "Public Holiday",
+    "description": "Mare de Déu de Meritxell",
+    "country": "AD"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Tots Sants",
+    "country": "AD"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Immaculada Concepció",
+    "country": "AD"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Nadal",
+    "country": "AD"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Sant Esteve",
+    "country": "AD"
+  }
+]

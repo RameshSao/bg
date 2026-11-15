@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nieuwjaarsdag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-01-25",
+    "name": "Betico Croes Day",
+    "type": "Public Holiday",
+    "description": "Dag van Betico Croes",
+    "country": "AW"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnival Monday",
+    "type": "Public Holiday",
+    "description": "Carnaval Maandag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-03-18",
+    "name": "National Anthem and Flag Day",
+    "type": "Public Holiday",
+    "description": "Dag van het Volkslied en de Vlag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Goede Vrijdag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Eerste Paasdag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Tweede Paasedag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-04-27",
+    "name": "King's Day",
+    "type": "Public Holiday",
+    "description": "Koningsdag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dag van de Arbeid",
+    "country": "AW"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Hemelvaartsdag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Eerste Kerstdag",
+    "country": "AW"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Tweede Kerstdag",
+    "country": "AW"
+  }
+]

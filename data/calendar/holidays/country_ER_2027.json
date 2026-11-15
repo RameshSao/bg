@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Amet ሓዲሽ ዓመት",
+    "country": "ER"
+  },
+  {
+    "date": "2027-01-07",
+    "name": "Orthodox Christmas",
+    "type": "Public Holiday",
+    "description": "Lidet ልደት",
+    "country": "ER"
+  },
+  {
+    "date": "2027-01-19",
+    "name": "Orthodox Epiphany",
+    "type": "Public Holiday",
+    "description": "Timket ጥምቀት",
+    "country": "ER"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Women's Day",
+    "type": "Public Holiday",
+    "description": "Maelti Anesti መዓልቲ ኣነስቲ",
+    "country": "ER"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Arbi Siklet ዓርቢ ስቅለት",
+    "country": "ER"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Fasika ፋሲካ",
+    "country": "ER"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Eritrea",
+    "country": "ER"
+  },
+  {
+    "date": "2027-05-24",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Maelti Natsinet መዓልቲ ናጽነት",
+    "country": "ER"
+  },
+  {
+    "date": "2027-06-20",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "Maelti Siwuat መዓልቲ ስውኣት",
+    "country": "ER"
+  },
+  {
+    "date": "2027-09-01",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "Bahti Meskerem ባሕቲ መስከረም",
+    "country": "ER"
+  }
+]

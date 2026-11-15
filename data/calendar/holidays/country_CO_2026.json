@@ -1,0 +1,135 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "CO"
+  },
+  {
+    "date": "2026-01-12",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Día de los Reyes Magos",
+    "country": "CO"
+  },
+  {
+    "date": "2026-03-23",
+    "name": "Saint Joseph's Day",
+    "type": "Public Holiday",
+    "description": "Día de San José",
+    "country": "CO"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Jueves Santo",
+    "country": "CO"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "CO"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Primero de Mayo",
+    "country": "CO"
+  },
+  {
+    "date": "2026-05-18",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Ascensión del señor",
+    "country": "CO"
+  },
+  {
+    "date": "2026-06-08",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Public holiday in Colombia",
+    "country": "CO"
+  },
+  {
+    "date": "2026-06-15",
+    "name": "Sacred Heart",
+    "type": "Public Holiday",
+    "description": "Sagrado Corazón",
+    "country": "CO"
+  },
+  {
+    "date": "2026-06-29",
+    "name": "Saint Peter and Saint Paul",
+    "type": "Public Holiday",
+    "description": "San Pedro y San Pablo",
+    "country": "CO"
+  },
+  {
+    "date": "2026-07-13",
+    "name": "Our Lady of Chiquinquirá Day",
+    "type": "Public Holiday",
+    "description": "Día de la Virgen de Chiquinquirá",
+    "country": "CO"
+  },
+  {
+    "date": "2026-07-20",
+    "name": "Declaration of Independence",
+    "type": "Public Holiday",
+    "description": "Declaracion de la Independencia de Colombia",
+    "country": "CO"
+  },
+  {
+    "date": "2026-08-07",
+    "name": "Battle of Boyacá",
+    "type": "Public Holiday",
+    "description": "Batalla de Boyacá",
+    "country": "CO"
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Assumption of Mary",
+    "type": "Public Holiday",
+    "description": "La Asunción",
+    "country": "CO"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Columbus Day",
+    "type": "Public Holiday",
+    "description": "Día de la Raza",
+    "country": "CO"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "All Saints’ Day",
+    "type": "Public Holiday",
+    "description": "Dia de los Santos",
+    "country": "CO"
+  },
+  {
+    "date": "2026-11-16",
+    "name": "Independence of Cartagena",
+    "type": "Public Holiday",
+    "description": "Independencia de Cartagena",
+    "country": "CO"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "La Inmaculada Concepción",
+    "country": "CO"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "CO"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Christmas Day (Orthodox)",
+    "type": "Public Holiday",
+    "description": "Craciun pe stil Vechi (Orthodox Christmas)",
+    "country": "MD"
+  },
+  {
+    "date": "2026-01-08",
+    "name": "Christmas Day (Orthodox)",
+    "type": "Public Holiday",
+    "description": "Craciun pe stil Vechi (Orthodox Christmas)",
+    "country": "MD"
+  },
+  {
+    "date": "2026-02-23",
+    "name": "Day of Veterans of the Armed Forces and Law Enforcement Agencies",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Orthodox Easter",
+    "country": "MD"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day (Moldova)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-05-09",
+    "name": "Victory and Commemoration Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-05-22",
+    "name": "Bălţi Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-08-27",
+    "name": "Independence Day (Moldova)",
+    "type": "Public Holiday",
+    "description": "Independence Day",
+    "country": "MD"
+  },
+  {
+    "date": "2026-08-31",
+    "name": "Memorial Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-08-31",
+    "name": "Limba Noastra (National Language Day)",
+    "type": "Public Holiday",
+    "description": "Limba Noastra",
+    "country": "MD"
+  },
+  {
+    "date": "2026-09-03",
+    "name": "Day of the Moldovan National Army",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-10-14",
+    "name": "Capital's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-11-21",
+    "name": "South Capital's Day Cahul",
+    "type": "Public Holiday",
+    "description": "Public holiday in Moldova",
+    "country": "MD"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Craciun pe stil Nou (Western Christmas)",
+    "country": "MD"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-01-20",
+    "name": "Armed Forces Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-03-05",
+    "name": "Leylatoul Qadr (Roughly Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-03-09",
+    "name": "Korité (Roughly Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Workers' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Tabaski (Roughly Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-05-25",
+    "name": "Africa Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-06-14",
+    "name": "Ashura (Roughly Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-08-14",
+    "name": "Mawloud (Roughly Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-08-21",
+    "name": "Baptism of the Prophet (Roughly Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-09-22",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mali",
+    "country": "ML"
+  }
+]

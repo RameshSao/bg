@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "SPLA Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-07-09",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-07-30",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Sudan",
+    "country": "SS"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Second Day of Christmas",
+    "country": "SS"
+  }
+]

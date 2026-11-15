@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Workers' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  },
+  {
+    "date": "2027-06-12",
+    "name": "Democracy Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  },
+  {
+    "date": "2027-10-01",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nigeria",
+    "country": "NG"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Pitcairn Islands",
+    "country": "PN"
+  },
+  {
+    "date": "2027-01-23",
+    "name": "Bounty Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Pitcairn Islands",
+    "country": "PN"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Pitcairn Islands",
+    "country": "PN"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Pitcairn Islands",
+    "country": "PN"
+  },
+  {
+    "date": "2027-05-10",
+    "name": "King's Official Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Pitcairn Islands",
+    "country": "PN"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Pitcairn Islands",
+    "country": "PN"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "PN"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-02-06",
+    "name": "Waitangi Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-08-10",
+    "name": "Father's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-09-03",
+    "name": "Tokehega Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tokelau",
+    "country": "TK"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "TK"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Нова година",
+    "country": "BG"
+  },
+  {
+    "date": "2026-01-02",
+    "name": "Currency change day",
+    "type": "Public Holiday",
+    "description": "Ден на валутната смяна",
+    "country": "BG"
+  },
+  {
+    "date": "2026-03-03",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "Ден на oсвобождението на България от Oсманско робство",
+    "country": "BG"
+  },
+  {
+    "date": "2026-04-10",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Разпети петък",
+    "country": "BG"
+  },
+  {
+    "date": "2026-04-11",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Велика събота",
+    "country": "BG"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Великден",
+    "country": "BG"
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Велики понеделник",
+    "country": "BG"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Ден на труда и на международната работническа солидарност",
+    "country": "BG"
+  },
+  {
+    "date": "2026-05-06",
+    "name": "Saint George's Day",
+    "type": "Public Holiday",
+    "description": "Гергьовден, ден на храбростта и Българската армия",
+    "country": "BG"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Saints Cyril and Methodius Day",
+    "type": "Public Holiday",
+    "description": "Ден на Българската просвета и култура и на славянската писменост",
+    "country": "BG"
+  },
+  {
+    "date": "2026-09-07",
+    "name": "Unification Day",
+    "type": "Public Holiday",
+    "description": "Ден на съединението",
+    "country": "BG"
+  },
+  {
+    "date": "2026-09-22",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Ден на независимостта на България",
+    "country": "BG"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Бъдни вечер",
+    "country": "BG"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Рождество Христово",
+    "country": "BG"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Second day of Christmas",
+    "type": "Public Holiday",
+    "description": "Рождество Христово",
+    "country": "BG"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Новы год",
+    "country": "BY"
+  },
+  {
+    "date": "2026-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Новы год",
+    "country": "BY"
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Christmas Day (Orthodox)",
+    "type": "Public Holiday",
+    "description": "Каляды праваслаўныя",
+    "country": "BY"
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "Мiжнародны жаночы дзень",
+    "country": "BY"
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Commemoration Day",
+    "type": "Public Holiday",
+    "description": "Радунiца",
+    "country": "BY"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Дзень працы",
+    "country": "BY"
+  },
+  {
+    "date": "2026-05-09",
+    "name": "Victory Day",
+    "type": "Public Holiday",
+    "description": "Дзень Перамогi",
+    "country": "BY"
+  },
+  {
+    "date": "2026-07-03",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Дзень Незалежнасцi",
+    "country": "BY"
+  },
+  {
+    "date": "2026-11-07",
+    "name": "October Revolution Day",
+    "type": "Public Holiday",
+    "description": "Дзень Кастрычніцкай рэвалюцыі",
+    "country": "BY"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Catholic Christmas Day",
+    "type": "Public Holiday",
+    "description": "Каляды каталiцкiя",
+    "country": "BY"
+  }
+]

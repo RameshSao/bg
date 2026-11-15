@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Naujieji metai",
+    "country": "LT"
+  },
+  {
+    "date": "2027-02-16",
+    "name": "The Day of Restoration of the State of Lithuania",
+    "type": "Public Holiday",
+    "description": "Lietuvos valstybės atkūrimo diena",
+    "country": "LT"
+  },
+  {
+    "date": "2027-03-11",
+    "name": "Day of Restoration of Independence of Lithuania",
+    "type": "Public Holiday",
+    "description": "Lietuvos nepriklausomybės atkūrimo diena",
+    "country": "LT"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Velykos",
+    "country": "LT"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Antroji Velykų diena",
+    "country": "LT"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "International Working Day",
+    "type": "Public Holiday",
+    "description": "Tarptautinė darbo diena",
+    "country": "LT"
+  },
+  {
+    "date": "2027-06-24",
+    "name": "St. John's Day",
+    "type": "Public Holiday",
+    "description": "Joninės, Rasos",
+    "country": "LT"
+  },
+  {
+    "date": "2027-07-06",
+    "name": "Statehood Day",
+    "type": "Public Holiday",
+    "description": "Valstybės diena",
+    "country": "LT"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Žolinė",
+    "country": "LT"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Visų šventųjų diena",
+    "country": "LT"
+  },
+  {
+    "date": "2027-11-02",
+    "name": "All Souls' Day",
+    "type": "Public Holiday",
+    "description": "Vėlinės",
+    "country": "LT"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Šv. Kūčios",
+    "country": "LT"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Šv. Kalėdos",
+    "country": "LT"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Šv. Kalėdos",
+    "country": "LT"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nova Godina",
+    "country": "RS"
+  },
+  {
+    "date": "2026-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nova Godina",
+    "country": "RS"
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Božić",
+    "country": "RS"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Statehood Day",
+    "type": "Public Holiday",
+    "description": "Dan državnosti Srbije",
+    "country": "RS"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Statehood Day",
+    "type": "Public Holiday",
+    "description": "Dan državnosti Srbije",
+    "country": "RS"
+  },
+  {
+    "date": "2026-04-10",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Veliki petak",
+    "country": "RS"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Vaskrs (Uskrs)",
+    "country": "RS"
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Vaskrsni (Uskrsni) ponedeljak",
+    "country": "RS"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Praznik rada",
+    "country": "RS"
+  },
+  {
+    "date": "2026-05-02",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Praznik rada",
+    "country": "RS"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Armistice Day",
+    "type": "Public Holiday",
+    "description": "Dan primirja",
+    "country": "RS"
+  }
+]

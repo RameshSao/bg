@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Chinese New Year",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-02-18",
+    "name": "Chinese New Year",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-03-21",
+    "name": "Hari Raya Puasa",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Hari Raya Haji",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Vesak Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-08-10",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-11-09",
+    "name": "Deepavali",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Singapore",
+    "country": "SG"
+  }
+]

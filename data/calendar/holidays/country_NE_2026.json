@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niger",
+    "country": "NE"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niger",
+    "country": "NE"
+  },
+  {
+    "date": "2026-04-24",
+    "name": "Concord Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niger",
+    "country": "NE"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niger",
+    "country": "NE"
+  },
+  {
+    "date": "2026-08-03",
+    "name": "Nigerien Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niger",
+    "country": "NE"
+  },
+  {
+    "date": "2026-12-18",
+    "name": "Nigerien Republic Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niger",
+    "country": "NE"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niger",
+    "country": "NE"
+  }
+]

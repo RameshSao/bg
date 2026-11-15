@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Sir Seretse Khama Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-07-19",
+    "name": "Presidents' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-09-30",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-10-01",
+    "name": "Botswana Day holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Botswana",
+    "country": "BW"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "BW"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nieuwjaar",
+    "country": "BE"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pasen",
+    "country": "BE"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Paasmaandag",
+    "country": "BE"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dag van de arbeid",
+    "country": "BE"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Onze Lieve Heer hemel",
+    "country": "BE"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Pinkstermaandag",
+    "country": "BE"
+  },
+  {
+    "date": "2026-07-21",
+    "name": "Belgian National Day",
+    "type": "Public Holiday",
+    "description": "Nationale feestdag",
+    "country": "BE"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Onze Lieve Vrouw hemelvaart",
+    "country": "BE"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Allerheiligen",
+    "country": "BE"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Armistice Day",
+    "type": "Public Holiday",
+    "description": "Wapenstilstand",
+    "country": "BE"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Kerstdag",
+    "country": "BE"
+  }
+]

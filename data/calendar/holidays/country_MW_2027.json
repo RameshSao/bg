@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-01-15",
+    "name": "John Chilembwe Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-03-03",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-05-14",
+    "name": "President Kamuzu Banda's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-07-06",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-10-15",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Malawi",
+    "country": "MW"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "MW"
+  }
+]

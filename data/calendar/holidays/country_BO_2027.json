@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "BO"
+  },
+  {
+    "date": "2027-02-02",
+    "name": "Feast of the Virgin of Candelaria",
+    "type": "Public Holiday",
+    "description": "Fiesta de la Virgen de Candelaria",
+    "country": "BO"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Feriado por Carnaval",
+    "country": "BO"
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Feriado por Carnaval",
+    "country": "BO"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "BO"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dia del trabajo",
+    "country": "BO"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bolivia",
+    "country": "BO"
+  },
+  {
+    "date": "2027-06-21",
+    "name": "Andean New Year",
+    "type": "Public Holiday",
+    "description": "Año Nuevo Andino",
+    "country": "BO"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Agrarian Reform Day",
+    "type": "Public Holiday",
+    "description": "Día de la Revolución Agraria",
+    "country": "BO"
+  },
+  {
+    "date": "2027-08-06",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dia de la Patria",
+    "country": "BO"
+  },
+  {
+    "date": "2027-11-02",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Todos Santos",
+    "country": "BO"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "BO"
+  }
+]

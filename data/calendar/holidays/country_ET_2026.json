@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-01-07",
+    "name": "Christmas Day (Orthodox)",
+    "type": "Public Holiday",
+    "description": "ልደተ-ለእግዚእነ/ ገና",
+    "country": "ET"
+  },
+  {
+    "date": "2026-01-19",
+    "name": "Epiphany (Orthodox)",
+    "type": "Public Holiday",
+    "description": "ጥምቀት",
+    "country": "ET"
+  },
+  {
+    "date": "2026-03-02",
+    "name": "Adwa Victory Day",
+    "type": "Public Holiday",
+    "description": "የዓድዋ ድል በዓል",
+    "country": "ET"
+  },
+  {
+    "date": "2026-04-10",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "ስቅለት",
+    "country": "ET"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "ብርሃነ-ትንሣኤ/ፋሲካ",
+    "country": "ET"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "ዓለም አቀፍ የሠራተኞች ቀን",
+    "country": "ET"
+  },
+  {
+    "date": "2026-05-05",
+    "name": "Ethiopian Patriots' Victory Day",
+    "type": "Public Holiday",
+    "description": "የአርበኞች ቀን",
+    "country": "ET"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Downfall of the Derg",
+    "type": "Public Holiday",
+    "description": "ደርግ የወደቀበት ቀን",
+    "country": "ET"
+  },
+  {
+    "date": "2026-09-11",
+    "name": "Enkutatash",
+    "type": "Public Holiday",
+    "description": "እንቁጣጣሽ/የዘመን መለወጫ/አዲስ አመት",
+    "country": "ET"
+  },
+  {
+    "date": "2026-09-27",
+    "name": "Meskel (Orthodox)",
+    "type": "Public Holiday",
+    "description": "መስቀል",
+    "country": "ET"
+  }
+]

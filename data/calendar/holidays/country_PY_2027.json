@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Paraguay",
+    "country": "PY"
+  },
+  {
+    "date": "2027-03-01",
+    "name": "Heroes' day",
+    "type": "Public Holiday",
+    "description": "Dia de los héroes",
+    "country": "PY"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Jueves Santo",
+    "country": "PY"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "PY"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día de los Trabajadores",
+    "country": "PY"
+  },
+  {
+    "date": "2027-05-14",
+    "name": "Paraguayan Independence",
+    "type": "Public Holiday",
+    "description": "Independencia",
+    "country": "PY"
+  },
+  {
+    "date": "2027-05-15",
+    "name": "Paraguayan Independence",
+    "type": "Public Holiday",
+    "description": "Independencia",
+    "country": "PY"
+  },
+  {
+    "date": "2027-06-12",
+    "name": "Chaco Armistice",
+    "type": "Public Holiday",
+    "description": "Dia de la Paz del Chaco",
+    "country": "PY"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Founding of Asunción",
+    "type": "Public Holiday",
+    "description": "Fundación de Asunción",
+    "country": "PY"
+  },
+  {
+    "date": "2027-09-29",
+    "name": "Boqueron Battle Victory Day",
+    "type": "Public Holiday",
+    "description": "Victoria de Boquerón",
+    "country": "PY"
+  },
+  {
+    "date": "2027-12-08",
+    "name": "Virgin of Caacupe",
+    "type": "Public Holiday",
+    "description": "Virgen de Caacupé",
+    "country": "PY"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Día de Navidad",
+    "country": "PY"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-02-01",
+    "name": "National Heroes' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-04-07",
+    "name": "Tutsi Genocide Memorial Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-07-04",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-08-06",
+    "name": "Umuganura Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Rwanda",
+    "country": "RW"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "RW"
+  }
+]

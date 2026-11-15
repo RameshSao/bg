@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nýggjársdagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Skírhósdagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Langifríggjadagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Páskadagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "2. Páskadagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-04-25",
+    "name": "National Flag Day",
+    "type": "Public Holiday",
+    "description": "Flaggdagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "General Prayer Day",
+    "type": "Public Holiday",
+    "description": "Dýri biðidagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Kristi himmalsferðar dagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Hvítasunnudagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "2. Hvítasunnudagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-06-05",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Grundlógardagur Danmarkar",
+    "country": "FO"
+  },
+  {
+    "date": "2026-07-28",
+    "name": "Saint Olav's Eve",
+    "type": "Public Holiday",
+    "description": "Ólavsøkuaftan",
+    "country": "FO"
+  },
+  {
+    "date": "2026-07-29",
+    "name": "Saint Olav's Day",
+    "type": "Public Holiday",
+    "description": "Ólavsøkudagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Jólaaftanskvøld",
+    "country": "FO"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Jóladagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "2. Jóladagur",
+    "country": "FO"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Nýggjársaftan",
+    "country": "FO"
+  }
+]

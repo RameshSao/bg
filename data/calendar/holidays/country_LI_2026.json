@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Neujahr",
+    "country": "LI"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Heilige Drei Könige",
+    "country": "LI"
+  },
+  {
+    "date": "2026-02-02",
+    "name": "Candlemas",
+    "type": "Public Holiday",
+    "description": "Mariä Lichtmess",
+    "country": "LI"
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Saint Joseph's Day",
+    "type": "Public Holiday",
+    "description": "Josefstag",
+    "country": "LI"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Ostermontag",
+    "country": "LI"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Tag der Arbeit",
+    "country": "LI"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Auffahrt",
+    "country": "LI"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Pfingstsonntag",
+    "country": "LI"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Pfingstmontag",
+    "country": "LI"
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Fronleichnam",
+    "country": "LI"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "National Holiday",
+    "type": "Public Holiday",
+    "description": "Staatsfeiertag",
+    "country": "LI"
+  },
+  {
+    "date": "2026-09-08",
+    "name": "Nativity of Our Lady",
+    "type": "Public Holiday",
+    "description": "Maria Geburt",
+    "country": "LI"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "Allerheiligen",
+    "country": "LI"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Mariä Empfängnis",
+    "country": "LI"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Weihnachten",
+    "country": "LI"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Stephanstag",
+    "country": "LI"
+  }
+]

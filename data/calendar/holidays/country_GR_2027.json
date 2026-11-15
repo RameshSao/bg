@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Πρωτοχρονιά",
+    "country": "GR"
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Θεοφάνεια",
+    "country": "GR"
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Clean Monday",
+    "type": "Public Holiday",
+    "description": "Καθαρά Δευτέρα",
+    "country": "GR"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Annunciation",
+    "type": "Public Holiday",
+    "description": "Ευαγγελισμός της Θεοτόκου",
+    "country": "GR"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Εικοστή Πέμπτη Μαρτίου",
+    "country": "GR"
+  },
+  {
+    "date": "2027-04-30",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Μεγάλη Παρασκευή",
+    "country": "GR"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Εργατική Πρωτομαγιά",
+    "country": "GR"
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Κυριακή του Πάσχα",
+    "country": "GR"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Δευτέρα του Πάσχα",
+    "country": "GR"
+  },
+  {
+    "date": "2027-06-20",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Πεντηκοστή",
+    "country": "GR"
+  },
+  {
+    "date": "2027-06-21",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Δευτέρα Πεντηκοστής",
+    "country": "GR"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Κοίμηση της Θεοτόκου",
+    "country": "GR"
+  },
+  {
+    "date": "2027-10-28",
+    "name": "Ochi Day",
+    "type": "Public Holiday",
+    "description": "Το Όχι",
+    "country": "GR"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Χριστούγεννα",
+    "country": "GR"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Σύναξις Υπεραγίας Θεοτόκου Μαρίας",
+    "country": "GR"
+  }
+]

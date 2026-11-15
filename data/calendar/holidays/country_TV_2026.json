@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Tausaga Fou",
+    "country": "TV"
+  },
+  {
+    "date": "2026-03-09",
+    "name": "Commonwealth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2026-05-11",
+    "name": "Gospel Day",
+    "type": "Public Holiday",
+    "description": "Te Aso o te Tala Lei",
+    "country": "TV"
+  },
+  {
+    "date": "2026-05-11",
+    "name": "King's Official Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2026-08-03",
+    "name": "National Children's Day",
+    "type": "Public Holiday",
+    "description": "Aso Tamaliki",
+    "country": "TV"
+  },
+  {
+    "date": "2026-10-01",
+    "name": "Tuvalu Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2026-10-02",
+    "name": "Tuvalu Day Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Kilisimasi",
+    "country": "TV"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "TV"
+  }
+]

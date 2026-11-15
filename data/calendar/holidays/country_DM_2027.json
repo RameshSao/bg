@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnival Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Carnival Tuesday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-11-03",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-11-04",
+    "name": "Community Service Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominica",
+    "country": "DM"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "DM"
+  }
+]

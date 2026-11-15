@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "PE"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Jueves Santo",
+    "country": "PE"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "PE"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Domingo Santo",
+    "country": "PE"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajo",
+    "country": "PE"
+  },
+  {
+    "date": "2027-06-07",
+    "name": "Battle of Arica and Flag Day",
+    "type": "Public Holiday",
+    "description": "Batalla de Arica y Día de la Bandera",
+    "country": "PE"
+  },
+  {
+    "date": "2027-06-29",
+    "name": "Saint Peter and Saint Paul",
+    "type": "Public Holiday",
+    "description": "Día de San Pedro y San Pablo",
+    "country": "PE"
+  },
+  {
+    "date": "2027-07-23",
+    "name": "Air Force Day",
+    "type": "Public Holiday",
+    "description": "Día de la Fuerza Aérea",
+    "country": "PE"
+  },
+  {
+    "date": "2027-07-28",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Fiestas Patrias",
+    "country": "PE"
+  },
+  {
+    "date": "2027-07-29",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Fiestas Patrias",
+    "country": "PE"
+  },
+  {
+    "date": "2027-08-06",
+    "name": "Battle of Junin",
+    "type": "Public Holiday",
+    "description": "Batalla de Junin",
+    "country": "PE"
+  },
+  {
+    "date": "2027-08-30",
+    "name": "Santa Rosa de Lima",
+    "type": "Public Holiday",
+    "description": "Public holiday in Peru",
+    "country": "PE"
+  },
+  {
+    "date": "2027-10-08",
+    "name": "Battle of Angamos",
+    "type": "Public Holiday",
+    "description": "Combate de Angamos",
+    "country": "PE"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "Día de Todos los Santos",
+    "country": "PE"
+  },
+  {
+    "date": "2027-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Inmaculada Concepción",
+    "country": "PE"
+  },
+  {
+    "date": "2027-12-09",
+    "name": "Battle of Ayacucho",
+    "type": "Public Holiday",
+    "description": "Batalla de Ayacucho",
+    "country": "PE"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "PE"
+  }
+]

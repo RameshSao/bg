@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Jour de l'an",
+    "country": "HT"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "Ancestry Day",
+    "type": "Public Holiday",
+    "description": "Jour des Aieux",
+    "country": "HT"
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Le Jour des Rois",
+    "country": "HT"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "HT"
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "HT"
+  },
+  {
+    "date": "2027-02-10",
+    "name": "Ash Wednesday",
+    "type": "Public Holiday",
+    "description": "Mercredi Des Cendres",
+    "country": "HT"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Jeudi saint",
+    "country": "HT"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Vendredi saint",
+    "country": "HT"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pâques",
+    "country": "HT"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour and Agriculture Day",
+    "type": "Public Holiday",
+    "description": "Fête du Travail / Fête des Travailleurs",
+    "country": "HT"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Ascension",
+    "country": "HT"
+  },
+  {
+    "date": "2027-05-18",
+    "name": "Flag and Universities Day",
+    "type": "Public Holiday",
+    "description": "Jour du Drapeau et de l'Université",
+    "country": "HT"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Fête-Dieu",
+    "country": "HT"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption of Mary",
+    "type": "Public Holiday",
+    "description": "L'Assomption de Marie",
+    "country": "HT"
+  },
+  {
+    "date": "2027-10-17",
+    "name": "Dessalines Day",
+    "type": "Public Holiday",
+    "description": "Anniversaire de la mort de Dessalines",
+    "country": "HT"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "La Toussaint",
+    "country": "HT"
+  },
+  {
+    "date": "2027-11-02",
+    "name": "All Souls' Day",
+    "type": "Public Holiday",
+    "description": "Jour des Morts",
+    "country": "HT"
+  },
+  {
+    "date": "2027-11-18",
+    "name": "Battle of Vertières Day",
+    "type": "Public Holiday",
+    "description": "Vertières",
+    "country": "HT"
+  },
+  {
+    "date": "2027-12-05",
+    "name": "Discovery Day",
+    "type": "Public Holiday",
+    "description": "Découverte d'Haïti",
+    "country": "HT"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Noël",
+    "country": "HT"
+  }
+]

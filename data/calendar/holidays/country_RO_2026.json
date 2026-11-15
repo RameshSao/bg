@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Anul Nou",
+    "country": "RO"
+  },
+  {
+    "date": "2026-01-02",
+    "name": "Day after New Year's Day",
+    "type": "Public Holiday",
+    "description": "Anul Nou",
+    "country": "RO"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Bobotează",
+    "country": "RO"
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Saint John the Baptist",
+    "type": "Public Holiday",
+    "description": "Sfântul Ion",
+    "country": "RO"
+  },
+  {
+    "date": "2026-01-24",
+    "name": "Union Day/Small Union",
+    "type": "Public Holiday",
+    "description": "Unirea Principatelor Române/Mica Unire",
+    "country": "RO"
+  },
+  {
+    "date": "2026-04-10",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Vinerea mare",
+    "country": "RO"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Paștele",
+    "country": "RO"
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Paștele",
+    "country": "RO"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Ziua Muncii",
+    "country": "RO"
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Rusaliile",
+    "country": "RO"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Children's Day",
+    "type": "Public Holiday",
+    "description": "Ziua Copilului",
+    "country": "RO"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Rusaliile",
+    "country": "RO"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Dormition of the Theotokos",
+    "type": "Public Holiday",
+    "description": "Adormirea Maicii Domnului/Sfânta Maria Mare",
+    "country": "RO"
+  },
+  {
+    "date": "2026-11-30",
+    "name": "St. Andrew's Day",
+    "type": "Public Holiday",
+    "description": "Sfântul Andrei",
+    "country": "RO"
+  },
+  {
+    "date": "2026-12-01",
+    "name": "National Day/Great Union",
+    "type": "Public Holiday",
+    "description": "Ziua Națională/Marea Unire",
+    "country": "RO"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Crăciunul",
+    "country": "RO"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Crăciunul",
+    "country": "RO"
+  }
+]

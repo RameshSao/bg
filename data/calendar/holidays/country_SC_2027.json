@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "New Year Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Easter Saturday",
+    "country": "SC"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "The Fete Dieu",
+    "country": "SC"
+  },
+  {
+    "date": "2027-06-18",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "National Day",
+    "country": "SC"
+  },
+  {
+    "date": "2027-06-29",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Assumption of Mary",
+    "country": "SC"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-12-08",
+    "name": "The Feast of the Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Seychelles",
+    "country": "SC"
+  }
+]

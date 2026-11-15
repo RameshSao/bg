@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Mwaka mpya",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-01-12",
+    "name": "Zanzibar Revolution Day",
+    "type": "Public Holiday",
+    "description": "Sikukuu ya Mapinduzi ya Zanzibar",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Ijumaa Kuu",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Jumatatu ya Pasaka",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-04-07",
+    "name": "Karume Day",
+    "type": "Public Holiday",
+    "description": "Siku ya Karume",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-04-26",
+    "name": "Union Day",
+    "type": "Public Holiday",
+    "description": "Sikukuu ya Muungano",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Sikukuu ya Wafanyakazi",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-07-07",
+    "name": "Saba Saba Day",
+    "type": "Public Holiday",
+    "description": "Saba Saba",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-08-08",
+    "name": "Nane Nane Day",
+    "type": "Public Holiday",
+    "description": "Nane Nane",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-10-14",
+    "name": "Nyerere Day",
+    "type": "Public Holiday",
+    "description": "Siku ya Nyerere",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-12-09",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Siku ya Uhuru",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Krismasi",
+    "country": "TZ"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Siku ya kufungua Zawadi",
+    "country": "TZ"
+  }
+]

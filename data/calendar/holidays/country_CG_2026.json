@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Jour de l'An",
+    "country": "CG"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Dimanche de Pâques",
+    "country": "CG"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pâques",
+    "country": "CG"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Fête du Travail",
+    "country": "CG"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Ascension",
+    "country": "CG"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pentecôte",
+    "country": "CG"
+  },
+  {
+    "date": "2026-06-10",
+    "name": "Reconciliation Day",
+    "type": "Public Holiday",
+    "description": "Fête de la Réconciliation",
+    "country": "CG"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Fête Nationale",
+    "country": "CG"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Toussaint",
+    "country": "CG"
+  },
+  {
+    "date": "2026-11-28",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "Jour de la République",
+    "country": "CG"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Noël",
+    "country": "CG"
+  }
+]

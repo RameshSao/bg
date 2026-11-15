@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "元旦新年",
+    "country": "HK"
+  },
+  {
+    "date": "2027-02-06",
+    "name": "Lunar New Year",
+    "type": "Public Holiday",
+    "description": "農曆年初一",
+    "country": "HK"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Second day of Lunar New Year",
+    "type": "Public Holiday",
+    "description": "農曆年初二",
+    "country": "HK"
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Third day of Lunar New Year",
+    "type": "Public Holiday",
+    "description": "農曆年初三",
+    "country": "HK"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "耶穌受難節",
+    "country": "HK"
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "耶穌受難節翌日",
+    "country": "HK"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "復活節星期一",
+    "country": "HK"
+  },
+  {
+    "date": "2027-04-05",
+    "name": "Ching Ming Festival",
+    "type": "Public Holiday",
+    "description": "清明節",
+    "country": "HK"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "勞動節",
+    "country": "HK"
+  },
+  {
+    "date": "2027-05-13",
+    "name": "Buddha's Birthday",
+    "type": "Public Holiday",
+    "description": "佛誕",
+    "country": "HK"
+  },
+  {
+    "date": "2027-06-09",
+    "name": "Dragon Boat Festival",
+    "type": "Public Holiday",
+    "description": "端午節",
+    "country": "HK"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Hong Kong Special Administrative Region Establishment Day",
+    "type": "Public Holiday",
+    "description": "香港特別行政區成立紀念日",
+    "country": "HK"
+  },
+  {
+    "date": "2027-09-16",
+    "name": "Day following the Mid-Autumn Festival",
+    "type": "Public Holiday",
+    "description": "中秋節翌日",
+    "country": "HK"
+  },
+  {
+    "date": "2027-10-01",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "中華人民共和國國慶日",
+    "country": "HK"
+  },
+  {
+    "date": "2027-10-08",
+    "name": "Chung Yeung Festival",
+    "type": "Public Holiday",
+    "description": "重陽節",
+    "country": "HK"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "聖誕節",
+    "country": "HK"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "聖誕節翌日",
+    "country": "HK"
+  }
+]

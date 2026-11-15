@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Viti i Ri",
+    "country": "AL"
+  },
+  {
+    "date": "2027-01-04",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Viti i Ri",
+    "country": "AL"
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Summer Day",
+    "type": "Public Holiday",
+    "description": "Dita e Verës",
+    "country": "AL"
+  },
+  {
+    "date": "2027-03-22",
+    "name": "Nowruz",
+    "type": "Public Holiday",
+    "description": "Dita e Sulltan Nevruzit",
+    "country": "AL"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pashkët Katolike",
+    "country": "AL"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "E hëna e Pashkëve Katolike",
+    "country": "AL"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Dita Ndërkombëtare e Punonjësve",
+    "country": "AL"
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pashkët Ortodokse",
+    "country": "AL"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "E hëna e Pashkëve Ortodokse",
+    "country": "AL"
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Mother Teresa Day",
+    "type": "Public Holiday",
+    "description": "Dita e Nënë Terezës",
+    "country": "AL"
+  },
+  {
+    "date": "2027-11-29",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dita e Pavarësisë",
+    "country": "AL"
+  },
+  {
+    "date": "2027-11-29",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "Dita e Çlirimit",
+    "country": "AL"
+  },
+  {
+    "date": "2027-12-08",
+    "name": "Youth Day",
+    "type": "Public Holiday",
+    "description": "Dita Kombëtare e Rinisë",
+    "country": "AL"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Krishtlindjet",
+    "country": "AL"
+  }
+]

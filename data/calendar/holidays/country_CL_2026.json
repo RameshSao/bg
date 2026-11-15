@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "CL"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "CL"
+  },
+  {
+    "date": "2026-04-04",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Sábado Santo",
+    "country": "CL"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajo",
+    "country": "CL"
+  },
+  {
+    "date": "2026-05-21",
+    "name": "Navy Day",
+    "type": "Public Holiday",
+    "description": "Día de las Glorias Navales",
+    "country": "CL"
+  },
+  {
+    "date": "2026-06-21",
+    "name": "National Day of Indigenous Peoples",
+    "type": "Public Holiday",
+    "description": "Día Nacional de los Pueblos Indígenas",
+    "country": "CL"
+  },
+  {
+    "date": "2026-06-29",
+    "name": "Saint Peter and Saint Paul",
+    "type": "Public Holiday",
+    "description": "San Pedro y San Pablo",
+    "country": "CL"
+  },
+  {
+    "date": "2026-07-16",
+    "name": "Our Lady of Mount Carmel",
+    "type": "Public Holiday",
+    "description": "Virgen del Carmen",
+    "country": "CL"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption of Mary",
+    "type": "Public Holiday",
+    "description": "Asunción de la Virgen",
+    "country": "CL"
+  },
+  {
+    "date": "2026-09-18",
+    "name": "National holiday",
+    "type": "Public Holiday",
+    "description": "Fiestas Patrias",
+    "country": "CL"
+  },
+  {
+    "date": "2026-09-19",
+    "name": "Army Day",
+    "type": "Public Holiday",
+    "description": "Día de las Glorias del Ejército",
+    "country": "CL"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Columbus Day",
+    "type": "Public Holiday",
+    "description": "Día del Descubrimiento de Dos Mundos",
+    "country": "CL"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Reformation Day",
+    "type": "Public Holiday",
+    "description": "Día Nacional de las Iglesias Evangélicas y Protestantes",
+    "country": "CL"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "Día de Todos los Santos",
+    "country": "CL"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Inmaculada Concepción",
+    "country": "CL"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad / Natividad del Señor",
+    "country": "CL"
+  }
+]

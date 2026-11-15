@@ -1,0 +1,124 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-ENG",
+      "GB-NIR",
+      "GB-SCT",
+      "GB-WLS"
+    ]
+  },
+  {
+    "date": "2027-01-02",
+    "name": "2 January",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "date": "2027-03-17",
+    "name": "Saint Patrick's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-ENG",
+      "GB-WLS",
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Early May Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Spring Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2027-07-12",
+    "name": "Battle of the Boyne",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Summer Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "date": "2027-08-30",
+    "name": "Summer Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-ENG",
+      "GB-WLS",
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2027-11-30",
+    "name": "Saint Andrew's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2027-12-28",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "GB"
+  }
+]

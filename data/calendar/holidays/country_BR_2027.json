@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Confraternização Universal",
+    "country": "BR"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Sexta-feira Santa",
+    "country": "BR"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Domingo de Páscoa",
+    "country": "BR"
+  },
+  {
+    "date": "2027-04-21",
+    "name": "Tiradentes",
+    "type": "Public Holiday",
+    "description": "Dia de Tiradentes",
+    "country": "BR"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dia do Trabalhador",
+    "country": "BR"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Public holiday in Brazil",
+    "country": "BR"
+  },
+  {
+    "date": "2027-09-07",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dia da Independência",
+    "country": "BR"
+  },
+  {
+    "date": "2027-10-12",
+    "name": "Our Lady of Aparecida",
+    "type": "Public Holiday",
+    "description": "Nossa Senhora Aparecida",
+    "country": "BR"
+  },
+  {
+    "date": "2027-11-02",
+    "name": "All Souls' Day",
+    "type": "Public Holiday",
+    "description": "Dia de Finados",
+    "country": "BR"
+  },
+  {
+    "date": "2027-11-15",
+    "name": "Republic Proclamation Day",
+    "type": "Public Holiday",
+    "description": "Proclamação da República",
+    "country": "BR"
+  },
+  {
+    "date": "2027-11-20",
+    "name": "Black Awareness Day",
+    "type": "Public Holiday",
+    "description": "Dia da Consciência Negra",
+    "country": "BR"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Natal",
+    "country": "BR"
+  }
+]

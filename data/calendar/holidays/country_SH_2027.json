@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Saint Helena, Ascension and Tristan da Cunha",
+    "country": "SH"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Saint Helena, Ascension and Tristan da Cunha",
+    "country": "SH"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Saint Helena, Ascension and Tristan da Cunha",
+    "country": "SH"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Saint Helena, Ascension and Tristan da Cunha",
+    "country": "SH"
+  },
+  {
+    "date": "2027-05-21",
+    "name": "Saint Helena Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Saint Helena, Ascension and Tristan da Cunha",
+    "country": "SH"
+  },
+  {
+    "date": "2027-11-19",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Saint Helena, Ascension and Tristan da Cunha",
+    "country": "SH"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Saint Helena, Ascension and Tristan da Cunha",
+    "country": "SH"
+  },
+  {
+    "date": "2027-12-28",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "SH"
+  }
+]

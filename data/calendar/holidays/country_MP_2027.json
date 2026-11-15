@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-01-18",
+    "name": "Martin Luther King Jr. Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Presidents' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-03-24",
+    "name": "Commonwealth Covenant Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Memorial Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-06-18",
+    "name": "Juneteenth",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-07-05",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Labor Day",
+    "country": "MP"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Commonwealth Cultural Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-11-04",
+    "name": "Citizenship Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Veterans Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-11-25",
+    "name": "Thanksgiving",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-12-08",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Northern Mariana Islands",
+    "country": "MP"
+  }
+]

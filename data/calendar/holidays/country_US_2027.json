@@ -1,0 +1,161 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  },
+  {
+    "date": "2027-01-18",
+    "name": "Martin Luther King, Jr. Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Presidents Day",
+    "type": "Public Holiday",
+    "description": "Washington's Birthday",
+    "country": "US"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US",
+    "regions": [
+      "US-CT",
+      "US-DE",
+      "US-HI",
+      "US-IN",
+      "US-KY",
+      "US-LA",
+      "US-NC",
+      "US-ND",
+      "US-NJ",
+      "US-TN"
+    ]
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Memorial Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  },
+  {
+    "date": "2027-06-18",
+    "name": "Juneteenth National Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  },
+  {
+    "date": "2027-07-05",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Labor Day",
+    "country": "US"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Columbus Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US",
+    "regions": [
+      "US-AL",
+      "US-AZ",
+      "US-CO",
+      "US-CT",
+      "US-GA",
+      "US-ID",
+      "US-IL",
+      "US-IN",
+      "US-IA",
+      "US-KS",
+      "US-KY",
+      "US-LA",
+      "US-ME",
+      "US-MD",
+      "US-MA",
+      "US-MS",
+      "US-MO",
+      "US-MT",
+      "US-NE",
+      "US-NH",
+      "US-NJ",
+      "US-NM",
+      "US-NY",
+      "US-NC",
+      "US-OH",
+      "US-OK",
+      "US-PA",
+      "US-RI",
+      "US-SC",
+      "US-TN",
+      "US-UT",
+      "US-VA",
+      "US-WV"
+    ]
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Indigenous Peoples' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US",
+    "regions": [
+      "US-AK",
+      "US-AL",
+      "US-CA",
+      "US-HI",
+      "US-IA",
+      "US-LA",
+      "US-ME",
+      "US-MI",
+      "US-MN",
+      "US-NC",
+      "US-NE",
+      "US-NM",
+      "US-OK",
+      "US-OR",
+      "US-SD",
+      "US-TX",
+      "US-VA",
+      "US-VT",
+      "US-WI"
+    ]
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Veterans Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  },
+  {
+    "date": "2027-11-25",
+    "name": "Thanksgiving Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States",
+    "country": "US"
+  }
+]

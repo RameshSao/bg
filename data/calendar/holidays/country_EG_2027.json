@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2027-01-07",
+    "name": "Christmas Day (Orthodox)",
+    "type": "Public Holiday",
+    "description": "عيد الميلاد المجيد",
+    "country": "EG"
+  },
+  {
+    "date": "2027-01-25",
+    "name": "Revolution Day 2011 / National Police Day",
+    "type": "Public Holiday",
+    "description": "عيد الثورة 25 يناير",
+    "country": "EG"
+  },
+  {
+    "date": "2027-04-25",
+    "name": "Sinai Liberation Day",
+    "type": "Public Holiday",
+    "description": "عيد تحرير سيناء",
+    "country": "EG"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "عيد العمال",
+    "country": "EG"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Sham El-Nessim",
+    "country": "EG"
+  },
+  {
+    "date": "2027-06-10",
+    "name": "Islamic New Year",
+    "type": "Public Holiday",
+    "description": "Public holiday in Egypt",
+    "country": "EG"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "June 30 Revolution",
+    "type": "Public Holiday",
+    "description": "ثورة 30 يونيو",
+    "country": "EG"
+  },
+  {
+    "date": "2027-07-23",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "عيد ثورة 23 يوليو",
+    "country": "EG"
+  },
+  {
+    "date": "2027-08-14",
+    "name": "Prophet Muhammad's Birthday (Tentative Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Egypt",
+    "country": "EG"
+  },
+  {
+    "date": "2027-10-06",
+    "name": "Armed Forces Day",
+    "type": "Public Holiday",
+    "description": "عيد القوات المسلحة",
+    "country": "EG"
+  }
+]

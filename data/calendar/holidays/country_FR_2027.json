@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Jour de l'an",
+    "country": "FR"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pâques",
+    "country": "FR"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Fête du Travail",
+    "country": "FR"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Ascension",
+    "country": "FR"
+  },
+  {
+    "date": "2027-05-08",
+    "name": "Victory in Europe Day",
+    "type": "Public Holiday",
+    "description": "Victoire 1945",
+    "country": "FR"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pentecôte",
+    "country": "FR"
+  },
+  {
+    "date": "2027-07-14",
+    "name": "Bastille Day",
+    "type": "Public Holiday",
+    "description": "Fête nationale",
+    "country": "FR"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Assomption",
+    "country": "FR"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Toussaint",
+    "country": "FR"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Armistice Day",
+    "type": "Public Holiday",
+    "description": "Armistice 1918",
+    "country": "FR"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Noël",
+    "country": "FR"
+  }
+]

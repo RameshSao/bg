@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-02-21",
+    "name": "Robert Mugabe National Youth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Easter Saturday",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-04-18",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Worker's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-05-25",
+    "name": "Africa Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-08-09",
+    "name": "Heroes' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-08-10",
+    "name": "Defence Forces Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-12-22",
+    "name": "Unity Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Zimbabwe",
+    "country": "ZW"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "ZW"
+  }
+]

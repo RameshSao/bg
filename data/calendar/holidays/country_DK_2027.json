@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nytårsdag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Skærtorsdag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Langfredag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Påskedag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "2. Påskedag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Kristi Himmelfartsdag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Pinsedag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "2. Pinsedag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Juledag / 1. juledag",
+    "country": "DK"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "2. juledag",
+    "country": "DK"
+  }
+]

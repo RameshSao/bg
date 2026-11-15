@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2026-03-31",
+    "name": "Culture Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2026-05-11",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2026-10-23",
+    "name": "United Nations Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2026-11-03",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Veterans Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2026-11-23",
+    "name": "Presidents Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  }
+]

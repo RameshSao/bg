@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ras l' âm",
+    "country": "MA"
+  },
+  {
+    "date": "2026-01-11",
+    "name": "Proclamation of Independence",
+    "type": "Public Holiday",
+    "description": "Takdim watikat al-istiqlal",
+    "country": "MA"
+  },
+  {
+    "date": "2026-01-14",
+    "name": "Amazigh New Year",
+    "type": "Public Holiday",
+    "description": "Id Yennayer",
+    "country": "MA"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Eid Ash-Shughl",
+    "country": "MA"
+  },
+  {
+    "date": "2026-07-30",
+    "name": "Enthronement",
+    "type": "Public Holiday",
+    "description": "Eid Al-Ârch",
+    "country": "MA"
+  },
+  {
+    "date": "2026-08-14",
+    "name": "Zikra Oued Ed-Dahab",
+    "type": "Public Holiday",
+    "description": "Oued Ed-Dahab Day",
+    "country": "MA"
+  },
+  {
+    "date": "2026-08-20",
+    "name": "Revolution of the King and the People",
+    "type": "Public Holiday",
+    "description": "Thawrat al malik wa shâab",
+    "country": "MA"
+  },
+  {
+    "date": "2026-08-21",
+    "name": "Youth Day",
+    "type": "Public Holiday",
+    "description": "Eid Al Chabab",
+    "country": "MA"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "Unity Day",
+    "type": "Public Holiday",
+    "description": "Aid Al Wahda",
+    "country": "MA"
+  },
+  {
+    "date": "2026-11-06",
+    "name": "Green March",
+    "type": "Public Holiday",
+    "description": "Eid Al Massira Al Khadra",
+    "country": "MA"
+  },
+  {
+    "date": "2026-11-18",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Eid Al Istiqulal",
+    "country": "MA"
+  }
+]

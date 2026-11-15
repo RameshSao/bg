@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Første nyttårsdag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Skjærtorsdag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Langfredag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Første påskedag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Andre påskedag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Første mai",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Kristi himmelfartsdag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Første pinsedag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Syttende mai",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Andre pinsedag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Første juledag",
+    "country": "SJ"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Second day of Christmas",
+    "type": "Public Holiday",
+    "description": "Andre juledag",
+    "country": "SJ"
+  }
+]

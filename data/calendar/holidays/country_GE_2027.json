@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "ახალი წელი",
+    "country": "GE"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "ახალი წელი",
+    "country": "GE"
+  },
+  {
+    "date": "2027-01-07",
+    "name": "Christmas Day (Orthodox)",
+    "type": "Public Holiday",
+    "description": "ქრისტეშობა",
+    "country": "GE"
+  },
+  {
+    "date": "2027-01-19",
+    "name": "Epiphany (Orthodox)",
+    "type": "Public Holiday",
+    "description": "ნათლისღება",
+    "country": "GE"
+  },
+  {
+    "date": "2027-03-03",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "დედის დღე",
+    "country": "GE"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "ქალთა საერთაშორისო დღე",
+    "country": "GE"
+  },
+  {
+    "date": "2027-04-09",
+    "name": "National Unity Day",
+    "type": "Public Holiday",
+    "description": "ეროვნული ერთიანობის დღე",
+    "country": "GE"
+  },
+  {
+    "date": "2027-04-30",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "ძველი პარასკევი",
+    "country": "GE"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "დიდი შაბათი",
+    "country": "GE"
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "აღდგომის კვირა",
+    "country": "GE"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "აღდგომის ორშაბათი",
+    "country": "GE"
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Day of Victory over Fascism",
+    "type": "Public Holiday",
+    "description": "ფაშიზმზე გამარჯვების დღე",
+    "country": "GE"
+  },
+  {
+    "date": "2027-05-12",
+    "name": "Saint Andrew the First-Called Day",
+    "type": "Public Holiday",
+    "description": "წმინდა მოციქულის ანდრია პირველწოდებულის საქართველოში შემოსვლის დღე",
+    "country": "GE"
+  },
+  {
+    "date": "2027-05-26",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "დამოუკიდებლობის დღე",
+    "country": "GE"
+  },
+  {
+    "date": "2027-08-28",
+    "name": "Saint Mary's Day",
+    "type": "Public Holiday",
+    "description": "მარიამობა",
+    "country": "GE"
+  },
+  {
+    "date": "2027-10-14",
+    "name": "Day of Svetitskhoveli Cathedra",
+    "type": "Public Holiday",
+    "description": "სვეტიცხოვლობა",
+    "country": "GE"
+  },
+  {
+    "date": "2027-11-23",
+    "name": "Saint George's Day",
+    "type": "Public Holiday",
+    "description": "გიორგობა",
+    "country": "GE"
+  }
+]

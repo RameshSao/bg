@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Jour de l'An",
+    "country": "GF"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pâques",
+    "country": "GF"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Fête du Travail",
+    "country": "GF"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Ascension",
+    "country": "GF"
+  },
+  {
+    "date": "2027-05-08",
+    "name": "Victory Day",
+    "type": "Public Holiday",
+    "description": "Fête de la Victoire 1945",
+    "country": "GF"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pentecôte",
+    "country": "GF"
+  },
+  {
+    "date": "2027-06-10",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Abolition de l'Esclavage",
+    "country": "GF"
+  },
+  {
+    "date": "2027-07-14",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Fête Nationale",
+    "country": "GF"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Assomption",
+    "country": "GF"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Toussaint",
+    "country": "GF"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Armistice Day",
+    "type": "Public Holiday",
+    "description": "Armistice de 1918",
+    "country": "GF"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Noël",
+    "country": "GF"
+  }
+]
