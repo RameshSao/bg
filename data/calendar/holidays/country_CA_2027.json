@@ -1,0 +1,310 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Louis Riel Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-MB"
+    ]
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Islander Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-PE"
+    ]
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Heritage Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NS"
+    ]
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Family Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-AB",
+      "CA-BC",
+      "CA-NB",
+      "CA-ON",
+      "CA-SK"
+    ]
+  },
+  {
+    "date": "2027-03-17",
+    "name": "Saint Patrick's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NL"
+    ]
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-AB",
+      "CA-PE"
+    ]
+  },
+  {
+    "date": "2027-04-23",
+    "name": "Saint George's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NL"
+    ]
+  },
+  {
+    "date": "2027-05-24",
+    "name": "National Patriots' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-QC"
+    ]
+  },
+  {
+    "date": "2027-05-24",
+    "name": "Victoria Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-06-21",
+    "name": "National Aboriginal Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NT"
+    ]
+  },
+  {
+    "date": "2027-06-24",
+    "name": "Discovery Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NL"
+    ]
+  },
+  {
+    "date": "2027-06-24",
+    "name": "National Holiday",
+    "type": "Public Holiday",
+    "description": "Fête nationale du Québec",
+    "country": "CA",
+    "regions": [
+      "CA-QC"
+    ]
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Canada Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-07-12",
+    "name": "Orangemen's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NL"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Civic Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-MB",
+      "CA-NL",
+      "CA-NT",
+      "CA-NU",
+      "CA-ON"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "British Columbia Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-BC"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Heritage Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-AB",
+      "CA-YT"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "New Brunswick Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NB"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Natal Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NS"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Saskatchewan Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-SK"
+    ]
+  },
+  {
+    "date": "2027-08-16",
+    "name": "Gold Cup Parade Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-PE"
+    ]
+  },
+  {
+    "date": "2027-08-16",
+    "name": "Discovery Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-YT"
+    ]
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-09-30",
+    "name": "National Day for Truth and Reconciliation",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Thanksgiving",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Armistice Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-NL"
+    ]
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Remembrance Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA",
+    "regions": [
+      "CA-AB",
+      "CA-BC",
+      "CA-NB",
+      "CA-NT",
+      "CA-NS",
+      "CA-NU",
+      "CA-PE",
+      "CA-SK",
+      "CA-YT"
+    ]
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Canada",
+    "country": "CA"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "CA",
+    "regions": [
+      "CA-AB",
+      "CA-NB",
+      "CA-NS",
+      "CA-ON",
+      "CA-PE"
+    ]
+  }
+]

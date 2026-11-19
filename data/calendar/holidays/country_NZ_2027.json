@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-01-04",
+    "name": "Day after New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Waitangi Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-04-26",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-06-07",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-06-25",
+    "name": "Matariki",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-10-25",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  },
+  {
+    "date": "2027-12-28",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in New Zealand",
+    "country": "NZ"
+  }
+]

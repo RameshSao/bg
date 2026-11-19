@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2027-03-31",
+    "name": "Culture Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2027-05-10",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2027-10-25",
+    "name": "United Nations Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2027-11-03",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Veterans Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2027-11-23",
+    "name": "Presidents Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Micronesia",
+    "country": "FM"
+  }
+]

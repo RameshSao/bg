@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Commonwealth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-05-31",
+    "name": "JAGS McCartney Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-05-31",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-08-30",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-09-24",
+    "name": "National Youth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "National Heritage Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Turks and Caicos Islands",
+    "country": "TC"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "TC"
+  }
+]

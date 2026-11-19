@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ամանոր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ամանոր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-01-05",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Սուրբ Ծնունդ",
+    "country": "AM"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Սուրբ Ծնունդ",
+    "country": "AM"
+  },
+  {
+    "date": "2026-01-28",
+    "name": "Army Day",
+    "type": "Public Holiday",
+    "description": "Բանակի օր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-03-08",
+    "name": "Women's Day",
+    "type": "Public Holiday",
+    "description": "Կանանց տոն",
+    "country": "AM"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Ամանոր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-04-24",
+    "name": "Armenian Genocide Remembrance Day",
+    "type": "Public Holiday",
+    "description": "Եղեռնի զոհերի հիշատակի օր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Աշխատանքի օր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-05-09",
+    "name": "Victory and Peace Day",
+    "type": "Public Holiday",
+    "description": "Հաղթանակի և Խաղաղության տոն",
+    "country": "AM"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "Հանրապետության օր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-07-05",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Սահմանադրության օր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-09-21",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Անկախության օր",
+    "country": "AM"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Ամանոր",
+    "country": "AM"
+  }
+]

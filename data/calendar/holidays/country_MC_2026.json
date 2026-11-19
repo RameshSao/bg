@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Le jour de l’An",
+    "country": "MC"
+  },
+  {
+    "date": "2026-01-27",
+    "name": "Saint Devota's Day",
+    "type": "Public Holiday",
+    "description": "La Sainte Dévote",
+    "country": "MC"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Monaco",
+    "country": "MC"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Le 1er mai",
+    "country": "MC"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "L’Ascension",
+    "country": "MC"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Le lundi de Pentecôte",
+    "country": "MC"
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "La Fête Dieu",
+    "country": "MC"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "L'Assomption de Marie",
+    "country": "MC"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "La Toussaint",
+    "country": "MC"
+  },
+  {
+    "date": "2026-11-19",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "La Fête du Prince",
+    "country": "MC"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "The Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "L’Immaculée Conception",
+    "country": "MC"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Noël",
+    "country": "MC"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026-02-21",
+    "name": "International Mother Language Day",
+    "type": "Public Holiday",
+    "description": "শহিদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
+    "country": "BD"
+  },
+  {
+    "date": "2026-03-26",
+    "name": "Independence and National Day",
+    "type": "Public Holiday",
+    "description": "স্বাধীনতা ও জাতীয় দিবস",
+    "country": "BD"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "Bengali New Year",
+    "type": "Public Holiday",
+    "description": "নববর্ষ",
+    "country": "BD"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "মে দিবস",
+    "country": "BD"
+  },
+  {
+    "date": "2026-08-05",
+    "name": "July Mass Uprising Day",
+    "type": "Public Holiday",
+    "description": "জুলাই গণঅভ্যুত্থান দিবস",
+    "country": "BD"
+  },
+  {
+    "date": "2026-12-16",
+    "name": "Victory Day",
+    "type": "Public Holiday",
+    "description": "বিজয় দিবস",
+    "country": "BD"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "বড়দিন",
+    "country": "BD"
+  }
+]

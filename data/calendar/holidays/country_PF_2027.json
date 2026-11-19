@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Jour de l'An",
+    "country": "PF"
+  },
+  {
+    "date": "2027-03-05",
+    "name": "Missionary Day",
+    "type": "Public Holiday",
+    "description": "Arrivée de l'Evangile",
+    "country": "PF"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Vendredi Saint",
+    "country": "PF"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pâques",
+    "country": "PF"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pâques",
+    "country": "PF"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Fête du Travail",
+    "country": "PF"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Ascension",
+    "country": "PF"
+  },
+  {
+    "date": "2027-05-08",
+    "name": "Victory Day",
+    "type": "Public Holiday",
+    "description": "Fête de la Victoire",
+    "country": "PF"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Pentecôte",
+    "country": "PF"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Lundi de Pentecôte",
+    "country": "PF"
+  },
+  {
+    "date": "2027-07-14",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in French Polynesia",
+    "country": "PF"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Assomption",
+    "country": "PF"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Toussaint",
+    "country": "PF"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Armistice Day",
+    "type": "Public Holiday",
+    "description": "Armistice",
+    "country": "PF"
+  },
+  {
+    "date": "2027-11-20",
+    "name": "Matari'i",
+    "type": "Public Holiday",
+    "description": "Public holiday in French Polynesia",
+    "country": "PF"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Noël",
+    "country": "PF"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Neujahr",
+    "country": "AT"
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Heilige Drei Könige",
+    "country": "AT"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Ostersonntag",
+    "country": "AT"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Ostermontag",
+    "country": "AT"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "National Holiday",
+    "type": "Public Holiday",
+    "description": "Staatsfeiertag",
+    "country": "AT"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Christi Himmelfahrt",
+    "country": "AT"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Pfingstsonntag",
+    "country": "AT"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Pfingstmontag",
+    "country": "AT"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Fronleichnam",
+    "country": "AT"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Maria Himmelfahrt",
+    "country": "AT"
+  },
+  {
+    "date": "2027-10-26",
+    "name": "National Holiday",
+    "type": "Public Holiday",
+    "description": "Nationalfeiertag",
+    "country": "AT"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Allerheiligen",
+    "country": "AT"
+  },
+  {
+    "date": "2027-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Mariä Empfängnis",
+    "country": "AT"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Weihnachten",
+    "country": "AT"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Stefanitag",
+    "country": "AT"
+  }
+]

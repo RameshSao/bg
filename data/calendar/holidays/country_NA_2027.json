@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-03-21",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Workers' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-05-04",
+    "name": "Cassinga Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-05-25",
+    "name": "Africa Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-05-28",
+    "name": "Genocide Remembrance Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-08-26",
+    "name": "Heroes' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-12-10",
+    "name": "Human Rights Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Namibia",
+    "country": "NA"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Day of Goodwill",
+    "type": "Public Holiday",
+    "description": "St. Stephen's Day",
+    "country": "NA"
+  }
+]

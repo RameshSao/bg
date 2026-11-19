@@ -1,0 +1,277 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2027-01-26",
+    "name": "Australia Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2027-03-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Canberra Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT"
+    ]
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Adelaide Cup Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-SA"
+    ]
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Eight Hours Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-TAS"
+    ]
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Easter Eve",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-NT",
+      "AU-QLD",
+      "AU-SA",
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-NT",
+      "AU-QLD",
+      "AU-SA",
+      "AU-VIC",
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2027-04-25",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-SA",
+      "AU-TAS",
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2027-04-26",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NSW",
+      "AU-ACT",
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2027-04-26",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NT",
+      "AU-QLD"
+    ]
+  },
+  {
+    "date": "2027-05-03",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NT"
+    ]
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-QLD"
+    ]
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Reconciliation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT"
+    ]
+  },
+  {
+    "date": "2027-06-07",
+    "name": "Western Australia Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2027-06-14",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-NT",
+      "AU-SA",
+      "AU-TAS",
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Picnic Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NT"
+    ]
+  },
+  {
+    "date": "2027-09-24",
+    "name": "Friday before AFL Grand Final (Tentative Date)",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2027-09-27",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2027-10-04",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-SA"
+    ]
+  },
+  {
+    "date": "2027-10-04",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-QLD"
+    ]
+  },
+  {
+    "date": "2027-11-02",
+    "name": "Melbourne Cup",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2027-12-28",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "AU"
+  }
+]

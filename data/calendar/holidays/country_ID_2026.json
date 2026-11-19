@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Tahun Baru Masehi",
+    "country": "ID"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Wafat Isa Almasih",
+    "country": "ID"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Paskah",
+    "country": "ID"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Hari Buruh Internasional",
+    "country": "ID"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Kenaikan Isa Almasih",
+    "country": "ID"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Pancasila Day",
+    "type": "Public Holiday",
+    "description": "Hari Lahir Pancasila",
+    "country": "ID"
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Hari Ulang Tahun Kemerdekaan Republik Indonesia",
+    "country": "ID"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Hari Raya Natal",
+    "country": "ID"
+  }
+]

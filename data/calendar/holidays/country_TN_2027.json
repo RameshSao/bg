@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "رأس السنة الميلادية",
+    "country": "TN"
+  },
+  {
+    "date": "2027-03-20",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "عيد الاستقلال",
+    "country": "TN"
+  },
+  {
+    "date": "2027-04-09",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "عيد الشهداء",
+    "country": "TN"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "عيد الشغل",
+    "country": "TN"
+  },
+  {
+    "date": "2027-07-25",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "عيد الجمهورية",
+    "country": "TN"
+  },
+  {
+    "date": "2027-08-13",
+    "name": "Women's Day",
+    "type": "Public Holiday",
+    "description": "عيد المرأة",
+    "country": "TN"
+  },
+  {
+    "date": "2027-10-15",
+    "name": "Evacuation Day",
+    "type": "Public Holiday",
+    "description": "عيد الجلاء",
+    "country": "TN"
+  },
+  {
+    "date": "2027-12-17",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "عيد الثورة",
+    "country": "TN"
+  }
+]

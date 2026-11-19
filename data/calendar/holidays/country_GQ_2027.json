@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-06-05",
+    "name": "President's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-08-03",
+    "name": "Freedom Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-10-12",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Equatorial Guinea",
+    "country": "GQ"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Djibouti",
+    "country": "DJ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Djibouti",
+    "country": "DJ"
+  },
+  {
+    "date": "2027-06-27",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Djibouti",
+    "country": "DJ"
+  }
+]

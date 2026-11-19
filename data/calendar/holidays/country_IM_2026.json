@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Early May Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Spring Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-06-12",
+    "name": "Senior Race Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-07-06",
+    "name": "Tynwald Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-08-31",
+    "name": "Late Summer Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Isle of Man",
+    "country": "IM"
+  },
+  {
+    "date": "2026-12-28",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "St. Stephen's Day",
+    "country": "IM"
+  }
+]

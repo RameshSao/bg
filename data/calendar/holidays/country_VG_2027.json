@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Lavity Stoutt's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-06-11",
+    "name": "Sovereign's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Virgin Islands Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Emancipation Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-08-03",
+    "name": "Emancipation Tuesday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-08-04",
+    "name": "Emancipation Wednesday",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-10-18",
+    "name": "Heroes and Foreparents Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-11-22",
+    "name": "The 1949 Great March and Restoration Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in British Virgin Islands",
+    "country": "VG"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "VG"
+  }
+]

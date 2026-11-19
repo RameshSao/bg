@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nova Godina",
+    "country": "BA"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nova Godina",
+    "country": "BA"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "May Day / International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Praznik rada",
+    "country": "BA"
+  },
+  {
+    "date": "2027-05-02",
+    "name": "May Day / International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Praznik rada",
+    "country": "BA"
+  }
+]

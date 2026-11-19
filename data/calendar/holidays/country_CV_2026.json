@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ano Novo",
+    "country": "CV"
+  },
+  {
+    "date": "2026-01-13",
+    "name": "Democracy Day",
+    "type": "Public Holiday",
+    "description": "Dia da Democracia",
+    "country": "CV"
+  },
+  {
+    "date": "2026-01-20",
+    "name": "Heroes' Day",
+    "type": "Public Holiday",
+    "description": "Dia da Heróis Nacional",
+    "country": "CV"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dia do Trabalhador",
+    "country": "CV"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Youth Day",
+    "type": "Public Holiday",
+    "description": "Dia Mundial da Criança",
+    "country": "CV"
+  },
+  {
+    "date": "2026-07-05",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dia da Independência Nacional",
+    "country": "CV"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Dia da Assunção",
+    "country": "CV"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Dia de Todos os Santos",
+    "country": "CV"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Natal",
+    "country": "CV"
+  }
+]

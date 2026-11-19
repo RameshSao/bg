@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "AR"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "AR"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "AR"
+  },
+  {
+    "date": "2026-03-24",
+    "name": "Day of Remembrance for Truth and Justice",
+    "type": "Public Holiday",
+    "description": "Día Nacional de la Memoria por la Verdad y la Justicia",
+    "country": "AR"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Day of the Veterans and Fallen of the Malvinas War",
+    "type": "Public Holiday",
+    "description": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+    "country": "AR"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "AR"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajador",
+    "country": "AR"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "May Revolution",
+    "type": "Public Holiday",
+    "description": "Día de la Revolución de Mayo",
+    "country": "AR"
+  },
+  {
+    "date": "2026-06-15",
+    "name": "Anniversary of the Passing of General Martín Miguel de Güemes",
+    "type": "Public Holiday",
+    "description": "Paso a la Inmortalidad del General Martín Miguel de Güemes",
+    "country": "AR"
+  },
+  {
+    "date": "2026-06-20",
+    "name": "General Manuel Belgrano Memorial Day",
+    "type": "Public Holiday",
+    "description": "Paso a la Inmortalidad del General Manuel Belgrano",
+    "country": "AR"
+  },
+  {
+    "date": "2026-07-09",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia",
+    "country": "AR"
+  },
+  {
+    "date": "2026-08-17",
+    "name": "General José de San Martín Memorial Day",
+    "type": "Public Holiday",
+    "description": "Paso a la Inmortalidad del General José de San Martín",
+    "country": "AR"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Day of Respect for Cultural Diversity",
+    "type": "Public Holiday",
+    "description": "Día del Respeto a la Diversidad Cultural",
+    "country": "AR"
+  },
+  {
+    "date": "2026-11-23",
+    "name": "National Sovereignty Day",
+    "type": "Public Holiday",
+    "description": "Día de la Soberanía Nacional",
+    "country": "AR"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Immaculate Conception Day",
+    "type": "Public Holiday",
+    "description": "Día de la Inmaculada Concepción de María",
+    "country": "AR"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "AR"
+  }
+]

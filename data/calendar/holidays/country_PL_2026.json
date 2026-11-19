@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nowy Rok",
+    "country": "PL"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Święto Trzech Króli",
+    "country": "PL"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Wielkanoc",
+    "country": "PL"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Drugi Dzień Wielkanocy",
+    "country": "PL"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Święto Pracy",
+    "country": "PL"
+  },
+  {
+    "date": "2026-05-03",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Święto Konstytucji 3 Maja",
+    "country": "PL"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Zielone Świątki",
+    "country": "PL"
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Boże Ciało",
+    "country": "PL"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Wniebowzięcie Najświętszej Maryi Panny",
+    "country": "PL"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Wszystkich Świętych",
+    "country": "PL"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Narodowe Święto Niepodległości",
+    "country": "PL"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Wigilia Bożego Narodzenia",
+    "country": "PL"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Boże Narodzenie",
+    "country": "PL"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Drugi Dzień Bożego Narodzenia",
+    "country": "PL"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-03-12",
+    "name": "Renovation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-04-17",
+    "name": "Women's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-05-06",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gabon",
+    "country": "GA"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Božić",
+    "country": "GA"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "ES"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Día de Reyes / Epifanía del Señor",
+    "country": "ES"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "ES"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Fiesta del trabajo",
+    "country": "ES"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption",
+    "type": "Public Holiday",
+    "description": "Asunción",
+    "country": "ES"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "National Day of Spain",
+    "type": "Public Holiday",
+    "description": "Fiesta Nacional de España",
+    "country": "ES"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "Día de todos los Santos",
+    "country": "ES"
+  },
+  {
+    "date": "2026-12-06",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Día de la Constitución",
+    "country": "ES"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Inmaculada Concepción",
+    "country": "ES"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "ES"
+  }
+]

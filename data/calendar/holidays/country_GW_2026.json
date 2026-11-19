@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-01-20",
+    "name": "National Heroes' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "International Workers' Day",
+    "country": "GW"
+  },
+  {
+    "date": "2026-09-24",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "All Souls' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea-Bissau",
+    "country": "GW"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Evey",
+    "type": "Public Holiday",
+    "description": "New Year's Eve",
+    "country": "GW"
+  }
+]

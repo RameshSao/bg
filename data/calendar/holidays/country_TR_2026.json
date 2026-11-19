@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Yılbaşı",
+    "country": "TR"
+  },
+  {
+    "date": "2026-03-20",
+    "name": "Eid al-Fitr First Day",
+    "type": "Public Holiday",
+    "description": "Ramazan Bayramı 1. Gün",
+    "country": "TR"
+  },
+  {
+    "date": "2026-03-21",
+    "name": "Eid al-Fitr Second Day",
+    "type": "Public Holiday",
+    "description": "Ramazan Bayramı 2. Gün",
+    "country": "TR"
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Eid al-Fitr Third Day",
+    "type": "Public Holiday",
+    "description": "Ramazan Bayramı 3. Gün",
+    "country": "TR"
+  },
+  {
+    "date": "2026-04-23",
+    "name": "National Independence & Children's Day",
+    "type": "Public Holiday",
+    "description": "Ulusal Egemenlik ve Çocuk Bayramı",
+    "country": "TR"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "İşçi Bayramı",
+    "country": "TR"
+  },
+  {
+    "date": "2026-05-19",
+    "name": "Atatürk Commemoration & Youth Day",
+    "type": "Public Holiday",
+    "description": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+    "country": "TR"
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Eid al-Adha First Day",
+    "type": "Public Holiday",
+    "description": "Kurban Bayramı 1. Gün",
+    "country": "TR"
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Eid al-Adha Second Day",
+    "type": "Public Holiday",
+    "description": "Kurban Bayramı 2. Gün",
+    "country": "TR"
+  },
+  {
+    "date": "2026-05-29",
+    "name": "Eid al-Adha Third Day",
+    "type": "Public Holiday",
+    "description": "Kurban Bayramı 3. Gün",
+    "country": "TR"
+  },
+  {
+    "date": "2026-05-30",
+    "name": "Eid al-Adha Fourth Day",
+    "type": "Public Holiday",
+    "description": "Kurban Bayramı 4. Gün",
+    "country": "TR"
+  },
+  {
+    "date": "2026-07-15",
+    "name": "Democracy and National Unity Day",
+    "type": "Public Holiday",
+    "description": "Demokrasi ve Millî Birlik Günü",
+    "country": "TR"
+  },
+  {
+    "date": "2026-08-30",
+    "name": "Victory Day",
+    "type": "Public Holiday",
+    "description": "Zafer Bayramı",
+    "country": "TR"
+  },
+  {
+    "date": "2026-10-29",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "Cumhuriyet Bayramı",
+    "country": "TR"
+  }
+]

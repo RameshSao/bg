@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Sudan",
+    "country": "SD"
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Coptic Christmas",
+    "type": "Public Holiday",
+    "description": "Public holiday in Sudan",
+    "country": "SD"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Coptic Easter Sunday",
+    "country": "SD"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Sudan",
+    "country": "SD"
+  }
+]

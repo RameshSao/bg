@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "CR"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Jueves Santo",
+    "country": "CR"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "CR"
+  },
+  {
+    "date": "2027-04-11",
+    "name": "Juan Santamaría Day",
+    "type": "Public Holiday",
+    "description": "Día de Juan Santamaría",
+    "country": "CR"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día Internacional del Trabajo",
+    "country": "CR"
+  },
+  {
+    "date": "2027-07-25",
+    "name": "Annexation of the Party of Nicoya to Costa Rica",
+    "type": "Public Holiday",
+    "description": "Anexión del Partido de Nicoya a Costa Rica",
+    "country": "CR"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Feast of Our Lady of the Angels",
+    "type": "Public Holiday",
+    "description": "Fiesta de Nuestra Señora de los Ángeles",
+    "country": "CR"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "Día de la Madre",
+    "country": "CR"
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia",
+    "country": "CR"
+  },
+  {
+    "date": "2027-12-01",
+    "name": "Army Abolition Day",
+    "type": "Public Holiday",
+    "description": "Día de la Abolición del Ejército",
+    "country": "CR"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "CR"
+  }
+]

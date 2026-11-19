@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-08-07",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-11-15",
+    "name": "National Peace Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ivory Coast",
+    "country": "CI"
+  }
+]

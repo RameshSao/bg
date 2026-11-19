@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea",
+    "country": "GN"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea",
+    "country": "GN"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea",
+    "country": "GN"
+  },
+  {
+    "date": "2027-05-25",
+    "name": "Africa Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea",
+    "country": "GN"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea",
+    "country": "GN"
+  },
+  {
+    "date": "2027-10-02",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea",
+    "country": "GN"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guinea",
+    "country": "GN"
+  }
+]

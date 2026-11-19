@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Πρωτοχρονιά",
+    "country": "CY"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Θεοφάνεια",
+    "country": "CY"
+  },
+  {
+    "date": "2026-02-23",
+    "name": "Green Monday",
+    "type": "Public Holiday",
+    "description": "Καθαρή Δευτέρα",
+    "country": "CY"
+  },
+  {
+    "date": "2026-03-25",
+    "name": "Greek Independence Day",
+    "type": "Public Holiday",
+    "description": "Επέτειος Ελληνικής Ανεξαρτησίας",
+    "country": "CY"
+  },
+  {
+    "date": "2026-04-01",
+    "name": "Cyprus National Day",
+    "type": "Public Holiday",
+    "description": "Κυπριακή Εθνική Επέτειος",
+    "country": "CY"
+  },
+  {
+    "date": "2026-04-10",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Μεγάλη Παρασκευή",
+    "country": "CY"
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Δευτέρα της Διακαινησίμου",
+    "country": "CY"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Πρωτομαγιά",
+    "country": "CY"
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Αγίου Πνεύματος",
+    "country": "CY"
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Δευτέρα Πεντηκοστής",
+    "country": "CY"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption of the Virgin Mary",
+    "type": "Public Holiday",
+    "description": "Η Κοίμησις της Θεοτόκου",
+    "country": "CY"
+  },
+  {
+    "date": "2026-10-01",
+    "name": "Cyprus Independence Day",
+    "type": "Public Holiday",
+    "description": "Επέτειος Κυπριακής Ανεξαρτησίας",
+    "country": "CY"
+  },
+  {
+    "date": "2026-10-28",
+    "name": "Ohi Day",
+    "type": "Public Holiday",
+    "description": "Το Όχι",
+    "country": "CY"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Παραμονή Χριστουγέννων",
+    "country": "CY"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Χριστούγεννα",
+    "country": "CY"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Δεύτερη μέρα των Χριστουγέννων",
+    "country": "CY"
+  }
+]

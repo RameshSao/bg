@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Жаңа жыл",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Жаңа жыл",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "Халықаралық әйелдер күні",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-03-21",
+    "name": "Nauryz Meyramy",
+    "type": "Public Holiday",
+    "description": "Наурыз мейрамы",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Nauryz Meyramy",
+    "type": "Public Holiday",
+    "description": "Наурыз мейрамы",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-03-23",
+    "name": "Nauryz Meyramy",
+    "type": "Public Holiday",
+    "description": "Наурыз мейрамы",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Kazakhstan People's Unity Day",
+    "type": "Public Holiday",
+    "description": "Қазақстан халқының",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-05-07",
+    "name": "Defender of the Fatherland Day",
+    "type": "Public Holiday",
+    "description": "Отан Қорғаушы күні",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-05-09",
+    "name": "Great Patriotic War Against Fascism Victory Day",
+    "type": "Public Holiday",
+    "description": "Жеңіс күні",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-07-06",
+    "name": "Capital City Day",
+    "type": "Public Holiday",
+    "description": "Астана күні",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-08-30",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Конституция күні",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-10-25",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "Республика күні",
+    "country": "KZ"
+  },
+  {
+    "date": "2026-12-16",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Тәуелсіздік күні",
+    "country": "KZ"
+  }
+]

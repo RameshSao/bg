@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "Triumph of the Revolution",
+    "type": "Public Holiday",
+    "description": "Triunfo de la Revolución",
+    "country": "CU"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "Victory of Fidel Castro",
+    "type": "Public Holiday",
+    "description": "Día de Victoria de las Fuerzas Armadas",
+    "country": "CU"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cuba",
+    "country": "CU"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día de los trabajadores",
+    "country": "CU"
+  },
+  {
+    "date": "2027-07-25",
+    "name": "Day before the Commemoration of the Assault of the Moncada garrison",
+    "type": "Public Holiday",
+    "description": "Conmemoración del asalto a Moncada",
+    "country": "CU"
+  },
+  {
+    "date": "2027-07-26",
+    "name": "Commemoration of the Assault of the Moncada garrison",
+    "type": "Public Holiday",
+    "description": "Día de la Rebeldía Nacional",
+    "country": "CU"
+  },
+  {
+    "date": "2027-07-27",
+    "name": "Day after the Commemoration of the Assault of the Moncada garrison",
+    "type": "Public Holiday",
+    "description": "Conmemoración del asalto a Moncada",
+    "country": "CU"
+  },
+  {
+    "date": "2027-10-10",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia",
+    "country": "CU"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "CU"
+  }
+]

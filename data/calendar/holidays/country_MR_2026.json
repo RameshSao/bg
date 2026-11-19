@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mauritania",
+    "country": "MR"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mauritania",
+    "country": "MR"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Africa Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mauritania",
+    "country": "MR"
+  },
+  {
+    "date": "2026-11-28",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Mauritania",
+    "country": "MR"
+  }
+]

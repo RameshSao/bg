@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Dia de Ano Novo",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-02-03",
+    "name": "Heroes's Day",
+    "type": "Public Holiday",
+    "description": "Dia do Heroi Nacional",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-04-07",
+    "name": "Women's Day",
+    "type": "Public Holiday",
+    "description": "Dia da Mulher",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Worker's Day",
+    "type": "Public Holiday",
+    "description": "Dia do Trabalhador",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-06-25",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dia da Independência",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-09-07",
+    "name": "Victory Day",
+    "type": "Public Holiday",
+    "description": "Dia da Victória",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-09-25",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "Dia da Revolução",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-10-04",
+    "name": "Day of Peace and Reconciliation",
+    "type": "Public Holiday",
+    "description": "Dia da Paz e da Reconcialição",
+    "country": "MZ"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Natal",
+    "country": "MZ"
+  }
+]

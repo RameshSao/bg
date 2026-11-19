@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Bagong Taon",
+    "country": "PH"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Chinese New Year",
+    "type": "Public Holiday",
+    "description": "Public holiday in Philippines",
+    "country": "PH"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Huwebes Santo",
+    "country": "PH"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Biyernes Santo",
+    "country": "PH"
+  },
+  {
+    "date": "2026-04-04",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Sabado de Gloria",
+    "country": "PH"
+  },
+  {
+    "date": "2026-04-09",
+    "name": "Day of Valor",
+    "type": "Public Holiday",
+    "description": "Araw ng Kagitingan",
+    "country": "PH"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Araw ng Paggawa",
+    "country": "PH"
+  },
+  {
+    "date": "2026-06-12",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Araw ng Kalayaan",
+    "country": "PH"
+  },
+  {
+    "date": "2026-08-21",
+    "name": "Ninoy Aquino Day",
+    "type": "Public Holiday",
+    "description": "Araw ng Kamatayan ni Senador Benigno Simeon \"Ninoy\" Aquino Jr.",
+    "country": "PH"
+  },
+  {
+    "date": "2026-08-31",
+    "name": "National Heroes Day",
+    "type": "Public Holiday",
+    "description": "Araw ng mga Bayani",
+    "country": "PH"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "All Saints' Day Eve",
+    "type": "Public Holiday",
+    "description": "Public holiday in Philippines",
+    "country": "PH"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Araw ng mga Santo",
+    "country": "PH"
+  },
+  {
+    "date": "2026-11-30",
+    "name": "Bonifacio Day",
+    "type": "Public Holiday",
+    "description": "Araw ni Gat Andres Bonifacio",
+    "country": "PH"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Feast of the Immaculate Conception of Mary",
+    "type": "Public Holiday",
+    "description": "Kapistahan ng Immaculada Concepcion",
+    "country": "PH"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Public holiday in Philippines",
+    "country": "PH"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Araw ng Pasko",
+    "country": "PH"
+  },
+  {
+    "date": "2026-12-30",
+    "name": "Rizal Day",
+    "type": "Public Holiday",
+    "description": "Araw ng Kamatayan ni Dr. Jose Rizal",
+    "country": "PH"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "Last Day of The Year",
+    "type": "Public Holiday",
+    "description": "Huling Araw ng Taon",
+    "country": "PH"
+  }
+]

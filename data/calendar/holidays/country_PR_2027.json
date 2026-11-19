@@ -1,0 +1,149 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Día de Año Nuevo",
+    "country": "PR"
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Three Kings Day / Epiphany",
+    "type": "Public Holiday",
+    "description": "Día de Reyes",
+    "country": "PR"
+  },
+  {
+    "date": "2027-01-11",
+    "name": "Birthday of Eugenio María de Hostos",
+    "type": "Public Holiday",
+    "description": "Natalicio de Eugenio María de Hostos",
+    "country": "PR"
+  },
+  {
+    "date": "2027-01-18",
+    "name": "Martin Luther King, Jr. Day",
+    "type": "Public Holiday",
+    "description": "Natalicio de Martin Luther King, Jr.",
+    "country": "PR"
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Presidents' Day",
+    "type": "Public Holiday",
+    "description": "Día de los Presidentes",
+    "country": "PR"
+  },
+  {
+    "date": "2027-02-18",
+    "name": "Birthday of Luis Muñoz Marín",
+    "type": "Public Holiday",
+    "description": "Natalicio de Luis Muñoz Marín",
+    "country": "PR"
+  },
+  {
+    "date": "2027-03-22",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Día de la Abolición de Esclavitud",
+    "country": "PR"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "PR"
+  },
+  {
+    "date": "2027-04-19",
+    "name": "Birthday of José de Diego",
+    "type": "Public Holiday",
+    "description": "Natalicio de José de Diego",
+    "country": "PR"
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Memorial Day",
+    "type": "Public Holiday",
+    "description": "Recordación de los Muertos de la Guerra",
+    "country": "PR"
+  },
+  {
+    "date": "2027-07-05",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia de los Estados Unidos",
+    "country": "PR"
+  },
+  {
+    "date": "2027-07-19",
+    "name": "Birthday of Don Luis Muñoz Rivera",
+    "type": "Public Holiday",
+    "description": "Natalicio de Don Luis Muñoz Rivera",
+    "country": "PR"
+  },
+  {
+    "date": "2027-07-25",
+    "name": "Puerto Rico Constitution Day",
+    "type": "Public Holiday",
+    "description": "Constitución de Puerto Rico",
+    "country": "PR"
+  },
+  {
+    "date": "2027-07-27",
+    "name": "Birthday of Dr. José Celso Barbosa",
+    "type": "Public Holiday",
+    "description": "Natalicio de Dr. José Celso Barbosa",
+    "country": "PR"
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajo",
+    "country": "PR"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Columbus Day",
+    "type": "Public Holiday",
+    "description": "Día de la Raza / Descubrimiento de América",
+    "country": "PR"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Veterans Day",
+    "type": "Public Holiday",
+    "description": "Día del Veterano / Día del Armisticio",
+    "country": "PR"
+  },
+  {
+    "date": "2027-11-19",
+    "name": "Discovery of Puerto Rico",
+    "type": "Public Holiday",
+    "description": "Día del Descubrimiento de Puerto Rico",
+    "country": "PR"
+  },
+  {
+    "date": "2027-11-25",
+    "name": "Thanksgiving Day",
+    "type": "Public Holiday",
+    "description": "Día de Acción de Gracias",
+    "country": "PR"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Noche Buena",
+    "country": "PR"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "PR"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Новий Рік",
+    "country": "UA"
+  },
+  {
+    "date": "2026-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "Міжнародний жіночий день",
+    "country": "UA"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Великдень",
+    "country": "UA"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "День праці",
+    "country": "UA"
+  },
+  {
+    "date": "2026-05-08",
+    "name": "Victory day over Nazism in World War II",
+    "type": "Public Holiday",
+    "description": "День перемоги над нацизмом у Другій світовій війні",
+    "country": "UA"
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Трійця",
+    "country": "UA"
+  },
+  {
+    "date": "2026-06-28",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "День Конституції",
+    "country": "UA"
+  },
+  {
+    "date": "2026-07-15",
+    "name": "Statehood Day",
+    "type": "Public Holiday",
+    "description": "День Української Державності",
+    "country": "UA"
+  },
+  {
+    "date": "2026-08-24",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "День Незалежності",
+    "country": "UA"
+  },
+  {
+    "date": "2026-10-01",
+    "name": "Defender of Ukraine Day",
+    "type": "Public Holiday",
+    "description": "День захисників і захисниць України",
+    "country": "UA"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Різдво Христове",
+    "country": "UA"
+  }
+]

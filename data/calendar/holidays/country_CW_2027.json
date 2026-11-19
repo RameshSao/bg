@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nieuwjaarsdag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnival Monday",
+    "type": "Public Holiday",
+    "description": "Carnaval Maandag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Goede Vrijdag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pasen",
+    "country": "CW"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Pasenmaandag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-04-27",
+    "name": "King's Day",
+    "type": "Public Holiday",
+    "description": "Koningsdag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Curaçao",
+    "country": "CW"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Hemelvaartsdag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Pinksteren",
+    "country": "CW"
+  },
+  {
+    "date": "2027-07-02",
+    "name": "Curaçao National Flag and Anthem Day",
+    "type": "Public Holiday",
+    "description": "Curaçao Nationale Vlag en Volkslied Dag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-10-10",
+    "name": "Curaçao Day",
+    "type": "Public Holiday",
+    "description": "Dag van Curaçao",
+    "country": "CW"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Kerstmis",
+    "country": "CW"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Tweede kerstdag",
+    "country": "CW"
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Oudejaarsavond",
+    "country": "CW"
+  }
+]

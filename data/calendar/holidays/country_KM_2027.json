@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Comoros",
+    "country": "KM"
+  },
+  {
+    "date": "2027-03-18",
+    "name": "Cheikh Al Maarouf Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Comoros",
+    "country": "KM"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Comoros",
+    "country": "KM"
+  },
+  {
+    "date": "2027-07-06",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Comoros",
+    "country": "KM"
+  },
+  {
+    "date": "2027-11-12",
+    "name": "Maore Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Comoros",
+    "country": "KM"
+  }
+]

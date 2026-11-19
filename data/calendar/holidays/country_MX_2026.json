@@ -1,0 +1,51 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "MX"
+  },
+  {
+    "date": "2026-02-02",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Día de la Constitución",
+    "country": "MX"
+  },
+  {
+    "date": "2026-03-16",
+    "name": "Benito Juárez's birthday",
+    "type": "Public Holiday",
+    "description": "Natalicio de Benito Juárez",
+    "country": "MX"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajo",
+    "country": "MX"
+  },
+  {
+    "date": "2026-09-16",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia",
+    "country": "MX"
+  },
+  {
+    "date": "2026-11-16",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "Día de la Revolución",
+    "country": "MX"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "MX"
+  }
+]

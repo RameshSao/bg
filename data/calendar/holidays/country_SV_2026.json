@@ -1,0 +1,184 @@
+[
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajo",
+    "country": "SV"
+  },
+  {
+    "date": "2026-05-03",
+    "name": "The Day of the Cross",
+    "type": "Public Holiday",
+    "description": "Día de la Cru",
+    "country": "SV"
+  },
+  {
+    "date": "2026-05-07",
+    "name": "Soldiers' Day",
+    "type": "Public Holiday",
+    "description": "Día del Soldado",
+    "country": "SV"
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "Día de las Madres",
+    "country": "SV"
+  },
+  {
+    "date": "2026-05-10",
+    "name": "Father's Day",
+    "type": "Public Holiday",
+    "description": "Día del Padre",
+    "country": "SV"
+  },
+  {
+    "date": "2026-08-01",
+    "name": "August Festivals",
+    "type": "Public Holiday",
+    "description": "Fiestas de agosto",
+    "country": "SV"
+  },
+  {
+    "date": "2026-08-02",
+    "name": "August Festivals",
+    "type": "Public Holiday",
+    "description": "Fiestas de agosto",
+    "country": "SV"
+  },
+  {
+    "date": "2026-08-03",
+    "name": "August Festivals",
+    "type": "Public Holiday",
+    "description": "Fiestas de agosto",
+    "country": "SV"
+  },
+  {
+    "date": "2026-08-04",
+    "name": "August Festivals",
+    "type": "Public Holiday",
+    "description": "Fiestas de agosto",
+    "country": "SV"
+  },
+  {
+    "date": "2026-08-05",
+    "name": "August Festivals",
+    "type": "Public Holiday",
+    "description": "Fiestas de agosto",
+    "country": "SV"
+  },
+  {
+    "date": "2026-08-06",
+    "name": "August Festivals",
+    "type": "Public Holiday",
+    "description": "Fiestas de agosto",
+    "country": "SV"
+  },
+  {
+    "date": "2026-08-07",
+    "name": "August Festivals",
+    "type": "Public Holiday",
+    "description": "Fiestas de agosto",
+    "country": "SV"
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia",
+    "country": "SV"
+  },
+  {
+    "date": "2026-10-01",
+    "name": "Children's Day",
+    "type": "Public Holiday",
+    "description": "Día del niño",
+    "country": "SV"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Ethnic Pride Day",
+    "type": "Public Holiday",
+    "description": "Día de la raza",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Day of the Dead",
+    "type": "Public Holiday",
+    "description": "El día de los difuntos",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-07",
+    "name": "National Pupusa Festival",
+    "type": "Public Holiday",
+    "description": "Festival Nacional De La Pupusa",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-08",
+    "name": "National Pupusa Festival",
+    "type": "Public Holiday",
+    "description": "Festival Nacional De La Pupusa",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-09",
+    "name": "National Pupusa Festival",
+    "type": "Public Holiday",
+    "description": "Festival Nacional De La Pupusa",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-10",
+    "name": "National Pupusa Festival",
+    "type": "Public Holiday",
+    "description": "Festival Nacional De La Pupusa",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "National Pupusa Festival",
+    "type": "Public Holiday",
+    "description": "Festival Nacional De La Pupusa",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-12",
+    "name": "National Pupusa Festival",
+    "type": "Public Holiday",
+    "description": "Festival Nacional De La Pupusa",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-13",
+    "name": "National Pupusa Festival",
+    "type": "Public Holiday",
+    "description": "Festival Nacional De La Pupusa",
+    "country": "SV"
+  },
+  {
+    "date": "2026-11-21",
+    "name": "Day of the Queen of Peace",
+    "type": "Public Holiday",
+    "description": "Dia de la Reina de la Paz",
+    "country": "SV"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Noche Buena",
+    "country": "SV"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Fin de año",
+    "country": "SV"
+  }
+]

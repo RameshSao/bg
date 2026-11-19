@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-01-26",
+    "name": "Australia Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-03-06",
+    "name": "Norfolk Island Foundation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-06-08",
+    "name": "Bounty Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-06-08",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Norfolk Island Agricultural Show",
+    "type": "Public Holiday",
+    "description": "KNorfolk Island Agricultural Show",
+    "country": "NF"
+  },
+  {
+    "date": "2026-11-25",
+    "name": "Thanksgiving Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Norfolk Island",
+    "country": "NF"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "NF"
+  }
+]

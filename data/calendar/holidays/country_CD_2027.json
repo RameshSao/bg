@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-01-04",
+    "name": "Martyrs Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-01-16",
+    "name": "Laurent-Désiré Kabila Assassination",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-01-17",
+    "name": "Patrice Lumumba Assassination",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-04-06",
+    "name": "Kimbangu's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-06-30",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-08-01",
+    "name": "Parents' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Congolese Genocide Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in DR Congo",
+    "country": "CD"
+  }
+]

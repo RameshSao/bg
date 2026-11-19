@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ano Novo",
+    "country": "PT"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Sexta-feira Santa",
+    "country": "PT"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Domingo de Páscoa",
+    "country": "PT"
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Freedom Day",
+    "type": "Public Holiday",
+    "description": "Dia da Liberdade",
+    "country": "PT"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dia do Trabalhador",
+    "country": "PT"
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Corpo de Deus",
+    "country": "PT"
+  },
+  {
+    "date": "2026-06-10",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+    "country": "PT"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Assunção de Nossa Senhora",
+    "country": "PT"
+  },
+  {
+    "date": "2026-10-05",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "Implantação da República",
+    "country": "PT"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints Day",
+    "type": "Public Holiday",
+    "description": "Dia de Todos-os-Santos",
+    "country": "PT"
+  },
+  {
+    "date": "2026-12-01",
+    "name": "Restoration of Independence",
+    "type": "Public Holiday",
+    "description": "Restauração da Independência",
+    "country": "PT"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Immaculate Conception",
+    "type": "Public Holiday",
+    "description": "Imaculada Conceição",
+    "country": "PT"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Natal",
+    "country": "PT"
+  }
+]
