@@ -7,7 +7,9 @@
   ],
   "2026-01-14": [
     "Makar Sankranti",
-    "Pongal",
+    "Pongal"
+  ],
+  "2026-01-15": [
     "Magh Bihu"
   ],
   "2026-01-18": [
@@ -24,8 +26,13 @@
   "2026-02-15": [
     "Maha Shivratri"
   ],
-  "2026-02-17": [
-    "Losar"
+  "2026-02-18": [
+    {
+      "name": "Losar",
+      "force_static": true,
+      "category": "jyotish",
+      "basis": "Sikkim government holiday list 2026 (Tibetan calendar); not computed by engine"
+    }
   ],
   "2026-03-03": [
     "Holika Dahan"
@@ -135,7 +142,7 @@
   "2026-10-11": [
     "Sharad Navratri Begins"
   ],
-  "2026-10-15": [
+  "2026-10-18": [
     "Kati Bihu"
   ],
   "2026-10-19": [
