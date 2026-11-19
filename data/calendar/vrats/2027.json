@@ -61,7 +61,7 @@
       "name": "Krishna Janmashtami",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 (Smarta, Nishita Ashtami); engine 08-24"
+      "basis": "Panchang nirnaya 2027 (Smarta, Nishita Ashtami); engine 08-24"
     },
     {
       "date": "2027-09-03",
@@ -77,7 +77,7 @@
       "name": "Rishi Panchami",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 (Madhyahna Panchami); engine 09-05"
+      "basis": "Panchang nirnaya 2027 (Madhyahna Panchami); engine 09-05"
     },
     {
       "date": "2027-09-30",
