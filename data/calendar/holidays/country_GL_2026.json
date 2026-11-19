@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ukiortaaq",
+    "country": "GL"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Sisamanngortoq illernartoq",
+    "country": "GL"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Tallimanngorneq tannaartoq",
+    "country": "GL"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Poorskip ullua",
+    "country": "GL"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Poorskip-aappaa",
+    "country": "GL"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "General Prayer Day",
+    "type": "Public Holiday",
+    "description": "Tussiarfik",
+    "country": "GL"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Qilaliarfik",
+    "country": "GL"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Piinsi",
+    "country": "GL"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Piinsip-aappaa",
+    "country": "GL"
+  },
+  {
+    "date": "2026-06-21",
+    "name": "Ullortuneq",
+    "type": "Public Holiday",
+    "description": "Public holiday in Greenland",
+    "country": "GL"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Juullip ullua",
+    "country": "GL"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Juullip-aappaa",
+    "country": "GL"
+  }
+]

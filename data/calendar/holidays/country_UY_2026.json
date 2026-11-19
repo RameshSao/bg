@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "UY"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Children's Day",
+    "type": "Public Holiday",
+    "description": "Día de los Niños",
+    "country": "UY"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "UY"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "UY"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Semana de Turismo",
+    "country": "UY"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Semana de Turismo",
+    "country": "UY"
+  },
+  {
+    "date": "2026-04-19",
+    "name": "Landing of the 33 Patriots Day",
+    "type": "Public Holiday",
+    "description": "Desembarco de los 33 Orientales",
+    "country": "UY"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Día de los Trabajadores",
+    "country": "UY"
+  },
+  {
+    "date": "2026-05-18",
+    "name": "Battle of Las Piedras",
+    "type": "Public Holiday",
+    "description": "Batalla de las Piedras",
+    "country": "UY"
+  },
+  {
+    "date": "2026-06-19",
+    "name": "Birthday of José Gervasio Artigas and Never Again Day",
+    "type": "Public Holiday",
+    "description": "Natalicio de Artigas y Día del Nunca Más",
+    "country": "UY"
+  },
+  {
+    "date": "2026-07-18",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Jura de la Constitución",
+    "country": "UY"
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia",
+    "country": "UY"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Day of the race",
+    "type": "Public Holiday",
+    "description": "Día de la Raza",
+    "country": "UY"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Deceased ones day",
+    "type": "Public Holiday",
+    "description": "Día de los Difuntos",
+    "country": "UY"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Día de la Familia",
+    "country": "UY"
+  }
+]

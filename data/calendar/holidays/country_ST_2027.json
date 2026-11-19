@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ano Novo",
+    "country": "ST"
+  },
+  {
+    "date": "2027-02-03",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "Dia dos Mártires",
+    "country": "ST"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dia do trabalhador",
+    "country": "ST"
+  },
+  {
+    "date": "2027-07-12",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dia da Independência",
+    "country": "ST"
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Armed Forces Day",
+    "type": "Public Holiday",
+    "description": "Dia das Forças Armadas",
+    "country": "ST"
+  },
+  {
+    "date": "2027-09-30",
+    "name": "Agricultural Reform Day",
+    "type": "Public Holiday",
+    "description": "Dia da Reforma Agrária",
+    "country": "ST"
+  },
+  {
+    "date": "2027-12-21",
+    "name": "São Tomé Day",
+    "type": "Public Holiday",
+    "description": "Dia de São Tomé",
+    "country": "ST"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Natal",
+    "country": "ST"
+  }
+]

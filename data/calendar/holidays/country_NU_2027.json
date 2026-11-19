@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "Takai Commission Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-06-07",
+    "name": "King's Official Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-10-19",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-10-25",
+    "name": "Peniamina Gospel Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Niue",
+    "country": "NU"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "NU"
+  }
+]

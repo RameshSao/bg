@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-03-22",
+    "name": "Human Rights Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Family Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-04-27",
+    "name": "Freedom Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Workers' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-06-16",
+    "name": "Youth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-08-09",
+    "name": "National Women's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-09-24",
+    "name": "Heritage Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-12-16",
+    "name": "Day of Reconciliation",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in South Africa",
+    "country": "ZA"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Day of Goodwill",
+    "type": "Public Holiday",
+    "description": "St. Stephen's Day",
+    "country": "ZA"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Holy Thursday",
+    "country": "HN"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-04-04",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-04-14",
+    "name": "America's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-10-03",
+    "name": "Francisco Morazán's Day/Soldier's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Columbus Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-10-21",
+    "name": "Army Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Honduras",
+    "country": "HN"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "HN"
+  }
+]

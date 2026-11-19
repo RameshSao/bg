@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Neujahr",
+    "country": "DE"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Karfreitag",
+    "country": "DE"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Ostermontag",
+    "country": "DE"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Tag der Arbeit",
+    "country": "DE"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Christi Himmelfahrt",
+    "country": "DE"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Pfingstmontag",
+    "country": "DE"
+  },
+  {
+    "date": "2026-10-03",
+    "name": "German Unity Day",
+    "type": "Public Holiday",
+    "description": "Tag der Deutschen Einheit",
+    "country": "DE"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Erster Weihnachtstag",
+    "country": "DE"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Zweiter Weihnachtstag",
+    "country": "DE"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "uusaasta",
+    "country": "EE"
+  },
+  {
+    "date": "2026-02-24",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "iseseisvuspäev",
+    "country": "EE"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "suur reede",
+    "country": "EE"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "ülestõusmispühade 1. püha",
+    "country": "EE"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Spring Day",
+    "type": "Public Holiday",
+    "description": "kevadpüha",
+    "country": "EE"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "nelipühade 1. püha",
+    "country": "EE"
+  },
+  {
+    "date": "2026-06-23",
+    "name": "Victory Day",
+    "type": "Public Holiday",
+    "description": "võidupüha and jaanilaupäev",
+    "country": "EE"
+  },
+  {
+    "date": "2026-06-24",
+    "name": "Midsummer Day",
+    "type": "Public Holiday",
+    "description": "jaanipäev",
+    "country": "EE"
+  },
+  {
+    "date": "2026-08-20",
+    "name": "Day of Restoration of Independence",
+    "type": "Public Holiday",
+    "description": "taasiseseisvumispäev",
+    "country": "EE"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "jõululaupäev",
+    "country": "EE"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "esimene jõulupüha",
+    "country": "EE"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "teine jõulupüha",
+    "country": "EE"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Día de Año Nuevo",
+    "country": "VE"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "VE"
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "VE"
+  },
+  {
+    "date": "2027-04-19",
+    "name": "Beginning of the Independence Movement",
+    "type": "Public Holiday",
+    "description": "Proclamación de la Independencia",
+    "country": "VE"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajador",
+    "country": "VE"
+  },
+  {
+    "date": "2027-06-24",
+    "name": "Anniversary of the Battle of Carabobo",
+    "type": "Public Holiday",
+    "description": "Aniversario de la Batalla de Carabobo",
+    "country": "VE"
+  },
+  {
+    "date": "2027-07-05",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Cinco de julio",
+    "country": "VE"
+  },
+  {
+    "date": "2027-07-24",
+    "name": "Simón Bolívar's Birthday",
+    "type": "Public Holiday",
+    "description": "Natalicio del Libertador Simón Bolívar",
+    "country": "VE"
+  },
+  {
+    "date": "2027-10-12",
+    "name": "Day of Indigenous Resistance",
+    "type": "Public Holiday",
+    "description": "Día de la Resistencia Indígena",
+    "country": "VE"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Nochebuena",
+    "country": "VE"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "VE"
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Nochevieja",
+    "country": "VE"
+  }
+]

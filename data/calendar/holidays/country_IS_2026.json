@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nýársdagur",
+    "country": "IS"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Skírdagur",
+    "country": "IS"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Föstudagurinn langi",
+    "country": "IS"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Páskadagur",
+    "country": "IS"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Annar í páskum",
+    "country": "IS"
+  },
+  {
+    "date": "2026-04-23",
+    "name": "First Day of Summer",
+    "type": "Public Holiday",
+    "description": "Sumardagurinn fyrsti",
+    "country": "IS"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Verkalýðsdagurinn",
+    "country": "IS"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Uppstigningardagur",
+    "country": "IS"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Hvítasunnudagur",
+    "country": "IS"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Annar í hvítasunnu",
+    "country": "IS"
+  },
+  {
+    "date": "2026-06-17",
+    "name": "Icelandic National Day",
+    "type": "Public Holiday",
+    "description": "Þjóðhátíðardagurinn",
+    "country": "IS"
+  },
+  {
+    "date": "2026-08-03",
+    "name": "Commerce Day",
+    "type": "Public Holiday",
+    "description": "Frídagur verslunarmanna",
+    "country": "IS"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Aðfangadagur",
+    "country": "IS"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Jóladagur",
+    "country": "IS"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Annar í jólum",
+    "country": "IS"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Gamlársdagur",
+    "country": "IS"
+  }
+]

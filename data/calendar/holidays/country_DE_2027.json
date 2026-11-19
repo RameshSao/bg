@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Neujahr",
+    "country": "DE"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Karfreitag",
+    "country": "DE"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Ostermontag",
+    "country": "DE"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Tag der Arbeit",
+    "country": "DE"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Christi Himmelfahrt",
+    "country": "DE"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Pfingstmontag",
+    "country": "DE"
+  },
+  {
+    "date": "2027-10-03",
+    "name": "German Unity Day",
+    "type": "Public Holiday",
+    "description": "Tag der Deutschen Einheit",
+    "country": "DE"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Erster Weihnachtstag",
+    "country": "DE"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Zweiter Weihnachtstag",
+    "country": "DE"
+  }
+]

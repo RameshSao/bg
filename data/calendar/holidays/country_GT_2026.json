@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-04-02",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-04-04",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-06-30",
+    "name": "Army Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-09-15",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-10-20",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  },
+  {
+    "date": "2026-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Public holiday in Guatemala",
+    "country": "GT"
+  }
+]

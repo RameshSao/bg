@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Neijoerschdag",
+    "country": "LU"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Ouschterméindeg",
+    "country": "LU"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dag vun der Aarbecht",
+    "country": "LU"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Christi Himmelfaart",
+    "country": "LU"
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Europe Day",
+    "type": "Public Holiday",
+    "description": "Europadag",
+    "country": "LU"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Péngschtméindeg",
+    "country": "LU"
+  },
+  {
+    "date": "2027-06-23",
+    "name": "Sovereign's birthday",
+    "type": "Public Holiday",
+    "description": "Groussherzogsgebuertsdag",
+    "country": "LU"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Léiffrawëschdag",
+    "country": "LU"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Allerhellgen",
+    "country": "LU"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Chrëschtdag",
+    "country": "LU"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Stiefesdag",
+    "country": "LU"
+  }
+]

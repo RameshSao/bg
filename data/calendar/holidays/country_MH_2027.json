@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-03-01",
+    "name": "Remembrance Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-07-02",
+    "name": "Fishermen's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-09-03",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Labor Day",
+    "country": "MH"
+  },
+  {
+    "date": "2027-09-24",
+    "name": "Manit Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-11-17",
+    "name": "Presidents' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-12-03",
+    "name": "Gospel Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Public holiday in Marshall Islands",
+    "country": "MH"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-01-07",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-03-06",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-09-21",
+    "name": "Founders Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-12-03",
+    "name": "Farmers' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Ghana",
+    "country": "GH"
+  }
+]

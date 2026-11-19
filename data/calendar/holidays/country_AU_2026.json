@@ -1,0 +1,277 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2026-01-26",
+    "name": "Australia Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2026-03-02",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "name": "Canberra Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "name": "Adelaide Cup Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-SA"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "name": "Eight Hours Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-TAS"
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2026-04-04",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Easter Eve",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-NT",
+      "AU-QLD",
+      "AU-SA",
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-NT",
+      "AU-QLD",
+      "AU-SA",
+      "AU-VIC",
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-SA",
+      "AU-TAS",
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2026-04-27",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NSW",
+      "AU-ACT",
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NT",
+      "AU-QLD"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NT"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-QLD"
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Reconciliation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT"
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Western Australia Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-NT",
+      "AU-SA",
+      "AU-TAS",
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "name": "Picnic Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-NT"
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "name": "Friday before AFL Grand Final",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-WA"
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-ACT",
+      "AU-NSW",
+      "AU-SA"
+    ]
+  },
+  {
+    "date": "2026-10-05",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-QLD"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "name": "Melbourne Cup",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU",
+    "regions": [
+      "AU-VIC"
+    ]
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Australia",
+    "country": "AU"
+  },
+  {
+    "date": "2026-12-28",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "AU"
+  }
+]

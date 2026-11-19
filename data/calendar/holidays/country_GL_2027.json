@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Ukiortaaq",
+    "country": "GL"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Sisamanngortoq illernartoq",
+    "country": "GL"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Tallimanngorneq tannaartoq",
+    "country": "GL"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Poorskip ullua",
+    "country": "GL"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Poorskip-aappaa",
+    "country": "GL"
+  },
+  {
+    "date": "2027-04-23",
+    "name": "General Prayer Day",
+    "type": "Public Holiday",
+    "description": "Tussiarfik",
+    "country": "GL"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Qilaliarfik",
+    "country": "GL"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Piinsi",
+    "country": "GL"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Piinsip-aappaa",
+    "country": "GL"
+  },
+  {
+    "date": "2027-06-21",
+    "name": "Ullortuneq",
+    "type": "Public Holiday",
+    "description": "Public holiday in Greenland",
+    "country": "GL"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Juullip ullua",
+    "country": "GL"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Juullip-aappaa",
+    "country": "GL"
+  }
+]

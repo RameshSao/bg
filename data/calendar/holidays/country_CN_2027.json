@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "元旦",
+    "country": "CN"
+  },
+  {
+    "date": "2027-02-06",
+    "name": "Chinese New Year (Spring Festival)",
+    "type": "Public Holiday",
+    "description": "春节",
+    "country": "CN"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "劳动节",
+    "country": "CN"
+  },
+  {
+    "date": "2027-06-09",
+    "name": "Dragon Boat Festival",
+    "type": "Public Holiday",
+    "description": "端午节",
+    "country": "CN"
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Mid-Autumn Festival",
+    "type": "Public Holiday",
+    "description": "中秋节",
+    "country": "CN"
+  },
+  {
+    "date": "2027-10-01",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "国庆节",
+    "country": "CN"
+  }
+]

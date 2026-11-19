@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "EC"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "EC"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "EC"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "EC"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajo",
+    "country": "EC"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "The Battle of Pichincha",
+    "type": "Public Holiday",
+    "description": "Batalla de Pichincha",
+    "country": "EC"
+  },
+  {
+    "date": "2026-08-10",
+    "name": "Declaration of Independence of Quito",
+    "type": "Public Holiday",
+    "description": "Primer Grito de Independencia",
+    "country": "EC"
+  },
+  {
+    "date": "2026-10-09",
+    "name": "Independence of Guayaquil",
+    "type": "Public Holiday",
+    "description": "Independencia de Guayaquil",
+    "country": "EC"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "All Souls' Day",
+    "type": "Public Holiday",
+    "description": "Día de los Difuntos, Día de Muertos",
+    "country": "EC"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Independence of Cuenca",
+    "type": "Public Holiday",
+    "description": "Independencia de Cuenca",
+    "country": "EC"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Día de Navidad",
+    "country": "EC"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-ENG",
+      "GB-NIR",
+      "GB-SCT",
+      "GB-WLS"
+    ]
+  },
+  {
+    "date": "2026-01-02",
+    "name": "2 January",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "name": "Saint Patrick's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-ENG",
+      "GB-WLS",
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Early May Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Spring Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2026-06-15",
+    "name": "World Cup Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "name": "Battle of the Boyne",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "name": "Summer Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "name": "Summer Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-ENG",
+      "GB-WLS",
+      "GB-NIR"
+    ]
+  },
+  {
+    "date": "2026-11-30",
+    "name": "Saint Andrew's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB",
+    "regions": [
+      "GB-SCT"
+    ]
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United Kingdom",
+    "country": "GB"
+  },
+  {
+    "date": "2026-12-28",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "GB"
+  }
+]

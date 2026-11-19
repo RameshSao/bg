@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-06-11",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-07-07",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "National Day of Thanksgiving",
+    "type": "Public Holiday",
+    "description": "Public holiday in Solomon Islands",
+    "country": "SB"
+  }
+]

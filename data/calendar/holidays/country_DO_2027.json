@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Día de Año Nuevo",
+    "country": "DO"
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Day of Kings",
+    "type": "Public Holiday",
+    "description": "Día de Reyes",
+    "country": "DO"
+  },
+  {
+    "date": "2027-01-21",
+    "name": "Our Lady of Altagracia",
+    "type": "Public Holiday",
+    "description": "Día de Nuestra Señora de la Altagracia",
+    "country": "DO"
+  },
+  {
+    "date": "2027-01-26",
+    "name": "Duarte's Birthday",
+    "type": "Public Holiday",
+    "description": "Día del Natalicio de Juan Pablo Duarte",
+    "country": "DO"
+  },
+  {
+    "date": "2027-02-27",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Día de la Independencia de la República Dominicana",
+    "country": "DO"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominican Republic",
+    "country": "DO"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajador",
+    "country": "DO"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "Public Holiday",
+    "description": "Public holiday in Dominican Republic",
+    "country": "DO"
+  },
+  {
+    "date": "2027-05-28",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "Día de las Madres",
+    "country": "DO"
+  },
+  {
+    "date": "2027-08-16",
+    "name": "Restoration Day",
+    "type": "Public Holiday",
+    "description": "Día de la Restauración Dominicana",
+    "country": "DO"
+  },
+  {
+    "date": "2027-09-24",
+    "name": "Our Lady of Mercy",
+    "type": "Public Holiday",
+    "description": "Nuestra Senora de las Mercedes",
+    "country": "DO"
+  },
+  {
+    "date": "2027-11-06",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Día de la Constitución",
+    "country": "DO"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "DO"
+  }
+]

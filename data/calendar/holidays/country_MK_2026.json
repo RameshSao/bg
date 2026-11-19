@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Нова Година, Nova Godina",
+    "country": "MK"
+  },
+  {
+    "date": "2026-01-07",
+    "name": "Christmas Day (Orthodox)",
+    "type": "Public Holiday",
+    "description": "Прв ден Божик, Prv den Božik",
+    "country": "MK"
+  },
+  {
+    "date": "2026-04-10",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Велики Петок, Veliki Petok",
+    "country": "MK"
+  },
+  {
+    "date": "2026-04-12",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Прв ден Велигден, Prv den Veligden",
+    "country": "MK"
+  },
+  {
+    "date": "2026-04-13",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Втор ден Велигден, Vtor den Veligden",
+    "country": "MK"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Ден на трудот, Den na trudot",
+    "country": "MK"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Saints Cyril and Methodius Day",
+    "type": "Public Holiday",
+    "description": "Св. Кирил и Методиј, Ден на сèсловенските просветители",
+    "country": "MK"
+  },
+  {
+    "date": "2026-08-02",
+    "name": "Day of the Republic",
+    "type": "Public Holiday",
+    "description": "Ден на Републиката, Den na Republikata",
+    "country": "MK"
+  },
+  {
+    "date": "2026-09-08",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Ден на независноста, Den na nezavisnosta",
+    "country": "MK"
+  },
+  {
+    "date": "2026-10-11",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "Ден на востанието, Den na vostanieto",
+    "country": "MK"
+  },
+  {
+    "date": "2026-10-23",
+    "name": "Day of the Macedonian Revolutionary Struggle",
+    "type": "Public Holiday",
+    "description": "Ден на македонската револуционерна борба,Den na makedonskata revolucionarna borba",
+    "country": "MK"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Saint Clement of Ohrid Day",
+    "type": "Public Holiday",
+    "description": "Св. Климент Охридски, Sv. Kliment Ohridski",
+    "country": "MK"
+  }
+]

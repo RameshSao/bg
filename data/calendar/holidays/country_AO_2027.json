@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Dia de Ano Novo",
+    "country": "AO"
+  },
+  {
+    "date": "2027-02-04",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "Dia da Libertação",
+    "country": "AO"
+  },
+  {
+    "date": "2027-02-05",
+    "name": "Liberation Day (Ponte)",
+    "type": "Public Holiday",
+    "description": "Dia da Libertação (Ponte)",
+    "country": "AO"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Carnival",
+    "type": "Public Holiday",
+    "description": "Carnaval",
+    "country": "AO"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "Dia Internacional da Mulher",
+    "country": "AO"
+  },
+  {
+    "date": "2027-03-22",
+    "name": "Day of the Liberation of Southern Africa (Ponte)",
+    "type": "Public Holiday",
+    "description": "Dia da Libertação da África Austral (Ponte)",
+    "country": "AO"
+  },
+  {
+    "date": "2027-03-23",
+    "name": "Day of the Liberation of Southern Africa",
+    "type": "Public Holiday",
+    "description": "Dia da Libertação da África Austral",
+    "country": "AO"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Sexta Feira Santa",
+    "country": "AO"
+  },
+  {
+    "date": "2027-04-04",
+    "name": "Peace Day",
+    "type": "Public Holiday",
+    "description": "Dia da Paz",
+    "country": "AO"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dia do Trabalhador",
+    "country": "AO"
+  },
+  {
+    "date": "2027-09-17",
+    "name": "National Heroes' Day",
+    "type": "Public Holiday",
+    "description": "Dia do Fundador da Nação e do Herói Nacional",
+    "country": "AO"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Souls' Day (Ponte)",
+    "type": "Public Holiday",
+    "description": "Dia de Finados (Ponte)",
+    "country": "AO"
+  },
+  {
+    "date": "2027-11-02",
+    "name": "All Souls' Day",
+    "type": "Public Holiday",
+    "description": "Dia de Finados",
+    "country": "AO"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dia da Independência",
+    "country": "AO"
+  },
+  {
+    "date": "2027-11-12",
+    "name": "Independence Day (Ponte)",
+    "type": "Public Holiday",
+    "description": "Dia da Independência (Ponte)",
+    "country": "AO"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Dia de Natal",
+    "country": "AO"
+  }
+]

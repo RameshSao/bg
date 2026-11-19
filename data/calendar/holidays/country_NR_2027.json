@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-01-31",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "International Women's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-03-30",
+    "name": "Easter Tuesday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "RONPhos Handover Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-08-19",
+    "name": "Ibumin Earoeni Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-09-25",
+    "name": "Sir Hammer DeRoburt Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-10-26",
+    "name": "Angam Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Nauru",
+    "country": "NR"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "NR"
+  }
+]

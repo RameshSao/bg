@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Año Nuevo",
+    "country": "PA"
+  },
+  {
+    "date": "2026-01-09",
+    "name": "Martyrs' Day",
+    "type": "Public Holiday",
+    "description": "Día de los Mártires",
+    "country": "PA"
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Carnival Monday",
+    "type": "Public Holiday",
+    "description": "Lunes de Carnaval",
+    "country": "PA"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnival Tuesday",
+    "type": "Public Holiday",
+    "description": "Martes de Carnaval",
+    "country": "PA"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Viernes Santo",
+    "country": "PA"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Día del Trabajo",
+    "country": "PA"
+  },
+  {
+    "date": "2026-11-03",
+    "name": "Separation Day",
+    "type": "Public Holiday",
+    "description": "Separación de Panamá de Colombia",
+    "country": "PA"
+  },
+  {
+    "date": "2026-11-05",
+    "name": "Consolidation of the Separation Day",
+    "type": "Public Holiday",
+    "description": "Consolidación de la Separación de Panamá de Colombia",
+    "country": "PA"
+  },
+  {
+    "date": "2026-11-10",
+    "name": "Shout in Villa de los Santos",
+    "type": "Public Holiday",
+    "description": "Primer Grito de Independencia de la Villa de Los Santos",
+    "country": "PA"
+  },
+  {
+    "date": "2026-11-28",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Independencia de Panamá de España",
+    "country": "PA"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "Día de las Madres",
+    "country": "PA"
+  },
+  {
+    "date": "2026-12-21",
+    "name": "National Day of Mourning",
+    "type": "Public Holiday",
+    "description": "Día de Duelo Nacional",
+    "country": "PA"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Navidad",
+    "country": "PA"
+  }
+]

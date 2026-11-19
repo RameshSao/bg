@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Three Kings Day",
+    "country": "VI"
+  },
+  {
+    "date": "2027-01-18",
+    "name": "Martin Luther King, Jr. Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-02-15",
+    "name": "Presidents Day",
+    "type": "Public Holiday",
+    "description": "President's Day",
+    "country": "VI"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Holy Thursday",
+    "country": "VI"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-03-31",
+    "name": "Transfer Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-05-31",
+    "name": "Memorial Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-06-18",
+    "name": "Juneteenth National Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-07-03",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-07-05",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Labor Day",
+    "country": "VI"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Columbus Day",
+    "type": "Public Holiday",
+    "description": "Virgin Islands–Puerto Rico Friendship Day & Columbus Day",
+    "country": "VI"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Veterans Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-11-25",
+    "name": "Thanksgiving Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in United States Virgin Islands",
+    "country": "VI"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Second Day of Christmas",
+    "country": "VI"
+  }
+]

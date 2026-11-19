@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Algeria",
+    "country": "DZ"
+  },
+  {
+    "date": "2027-01-12",
+    "name": "Amazigh New Year",
+    "type": "Public Holiday",
+    "description": "Public holiday in Algeria",
+    "country": "DZ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Algeria",
+    "country": "DZ"
+  },
+  {
+    "date": "2027-07-05",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Algeria",
+    "country": "DZ"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Algeria",
+    "country": "DZ"
+  }
+]

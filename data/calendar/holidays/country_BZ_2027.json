@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-01-15",
+    "name": "George Price Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "National Heroes and Benefactors Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-03-27",
+    "name": "Holy Saturday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-09-10",
+    "name": "Saint George's Caye Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-09-21",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Indigenous Peoples' Resistance Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-11-19",
+    "name": "Garifuna Settlement Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  },
+  {
+    "date": "2027-12-27",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Belize",
+    "country": "BZ"
+  }
+]

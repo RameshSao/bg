@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "novo leto",
+    "country": "SI"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "novo leto",
+    "country": "SI"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Prešeren Day",
+    "type": "Public Holiday",
+    "description": "Prešernov dan",
+    "country": "SI"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "velikonočna nedelja in ponedeljek",
+    "country": "SI"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "velikonočna nedelja in ponedeljek",
+    "country": "SI"
+  },
+  {
+    "date": "2027-04-27",
+    "name": "Day of Uprising Against Occupation",
+    "type": "Public Holiday",
+    "description": "dan upora proti okupatorju",
+    "country": "SI"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "praznik dela",
+    "country": "SI"
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "praznik dela",
+    "country": "SI"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "binkoštna nedelja",
+    "country": "SI"
+  },
+  {
+    "date": "2027-06-25",
+    "name": "Statehood Day",
+    "type": "Public Holiday",
+    "description": "dan državnosti",
+    "country": "SI"
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Marijino vnebovzetje",
+    "country": "SI"
+  },
+  {
+    "date": "2027-10-31",
+    "name": "Reformation Day",
+    "type": "Public Holiday",
+    "description": "dan reformacije",
+    "country": "SI"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "Day of the Dead",
+    "type": "Public Holiday",
+    "description": "dan spomina na mrtve",
+    "country": "SI"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "božič",
+    "country": "SI"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Independence and Unity Day",
+    "type": "Public Holiday",
+    "description": "dan samostojnosti in enotnosti",
+    "country": "SI"
+  }
+]

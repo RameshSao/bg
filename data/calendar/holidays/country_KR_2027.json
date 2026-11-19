@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "새해",
+    "country": "KR"
+  },
+  {
+    "date": "2027-02-06",
+    "name": "Lunar New Year",
+    "type": "Public Holiday",
+    "description": "설날",
+    "country": "KR"
+  },
+  {
+    "date": "2027-02-08",
+    "name": "Lunar New Year",
+    "type": "Public Holiday",
+    "description": "설날",
+    "country": "KR"
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Lunar New Year",
+    "type": "Public Holiday",
+    "description": "설날",
+    "country": "KR"
+  },
+  {
+    "date": "2027-03-01",
+    "name": "Independence Movement Day",
+    "type": "Public Holiday",
+    "description": "3·1절",
+    "country": "KR"
+  },
+  {
+    "date": "2027-05-03",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "노동절",
+    "country": "KR"
+  },
+  {
+    "date": "2027-05-05",
+    "name": "Children's Day",
+    "type": "Public Holiday",
+    "description": "어린이날",
+    "country": "KR"
+  },
+  {
+    "date": "2027-05-13",
+    "name": "Buddha's Birthday",
+    "type": "Public Holiday",
+    "description": "부처님 오신 날",
+    "country": "KR"
+  },
+  {
+    "date": "2027-06-06",
+    "name": "Memorial Day",
+    "type": "Public Holiday",
+    "description": "현충일",
+    "country": "KR"
+  },
+  {
+    "date": "2027-07-19",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "제헌절",
+    "country": "KR"
+  },
+  {
+    "date": "2027-08-16",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "광복절",
+    "country": "KR"
+  },
+  {
+    "date": "2027-09-14",
+    "name": "Chuseok",
+    "type": "Public Holiday",
+    "description": "추석",
+    "country": "KR"
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Chuseok",
+    "type": "Public Holiday",
+    "description": "추석",
+    "country": "KR"
+  },
+  {
+    "date": "2027-09-16",
+    "name": "Chuseok",
+    "type": "Public Holiday",
+    "description": "추석",
+    "country": "KR"
+  },
+  {
+    "date": "2027-10-04",
+    "name": "National Foundation Day",
+    "type": "Public Holiday",
+    "description": "개천절",
+    "country": "KR"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Hangul Day",
+    "type": "Public Holiday",
+    "description": "한글날",
+    "country": "KR"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "크리스마스",
+    "country": "KR"
+  }
+]

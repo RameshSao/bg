@@ -1,0 +1,93 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "Day of the Establishment of the Slovak Republic",
+    "type": "Public Holiday",
+    "description": "Deň vzniku Slovenskej republiky",
+    "country": "SK"
+  },
+  {
+    "date": "2027-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Zjavenie Pána",
+    "country": "SK"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Veľkonočný piatok",
+    "country": "SK"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Veľkonočný pondelok",
+    "country": "SK"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "International Workers' Day",
+    "type": "Public Holiday",
+    "description": "Sviatok práce",
+    "country": "SK"
+  },
+  {
+    "date": "2027-05-08",
+    "name": "Day of victory over fascism",
+    "type": "Public Holiday",
+    "description": "Deň víťazstva nad fašizmom",
+    "country": "SK"
+  },
+  {
+    "date": "2027-07-05",
+    "name": "St. Cyril and Methodius Day",
+    "type": "Public Holiday",
+    "description": "Sviatok svätého Cyrila a svätého Metoda",
+    "country": "SK"
+  },
+  {
+    "date": "2027-08-29",
+    "name": "Slovak National Uprising anniversary",
+    "type": "Public Holiday",
+    "description": "Výročie Slovenského národného povstania",
+    "country": "SK"
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Day of Our Lady of the Seven Sorrows",
+    "type": "Public Holiday",
+    "description": "Sedembolestná Panna Mária",
+    "country": "SK"
+  },
+  {
+    "date": "2027-11-01",
+    "name": "All Saints’ Day",
+    "type": "Public Holiday",
+    "description": "Sviatok Všetkých svätých",
+    "country": "SK"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Štedrý deň",
+    "country": "SK"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Prvý sviatok vianočný",
+    "country": "SK"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Druhý sviatok vianočný",
+    "country": "SK"
+  }
+]

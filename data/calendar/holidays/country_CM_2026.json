@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  },
+  {
+    "date": "2026-02-11",
+    "name": "Youth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  },
+  {
+    "date": "2026-05-20",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Assumption Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Cameroon",
+    "country": "CM"
+  }
+]

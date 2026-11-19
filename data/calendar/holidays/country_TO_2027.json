@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-04-25",
+    "name": "Anzac Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-06-04",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-07-04",
+    "name": "Birthday of the reigning Sovereign of Tonga",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-09-17",
+    "name": "Birthday of the Heir to the Crown of Tonga",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-11-04",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-12-04",
+    "name": "Anniversary of the Coronation of H.M. King George Tubou I",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tonga",
+    "country": "TO"
+  }
+]

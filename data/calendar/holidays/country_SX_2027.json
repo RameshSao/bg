@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nieuwjaarsdag",
+    "country": "SX"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Goede vrijdag",
+    "country": "SX"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pasen",
+    "country": "SX"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Sint Maarten",
+    "country": "SX"
+  },
+  {
+    "date": "2027-04-27",
+    "name": "King's Day",
+    "type": "Public Holiday",
+    "description": "Koningsdag",
+    "country": "SX"
+  },
+  {
+    "date": "2027-04-30",
+    "name": "Carnival Day",
+    "type": "Public Holiday",
+    "description": "Karnaval",
+    "country": "SX"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dag van de Arbeid",
+    "country": "SX"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Hemelvaartsdag",
+    "country": "SX"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Pinksteren",
+    "country": "SX"
+  },
+  {
+    "date": "2027-07-01",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Sint Maarten",
+    "country": "SX"
+  },
+  {
+    "date": "2027-10-11",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Sint Maarten",
+    "country": "SX"
+  },
+  {
+    "date": "2027-11-11",
+    "name": "Sint Maarten Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Sint Maarten",
+    "country": "SX"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Kerstmis",
+    "country": "SX"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Tweede kerstdag",
+    "country": "SX"
+  }
+]

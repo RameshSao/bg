@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  },
+  {
+    "date": "2026-06-15",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  },
+  {
+    "date": "2026-10-05",
+    "name": "Peat Cutting Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  },
+  {
+    "date": "2026-11-16",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Battle Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "FK"
+  },
+  {
+    "date": "2026-12-27",
+    "name": "Christmas Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Falkland Islands",
+    "country": "FK"
+  }
+]

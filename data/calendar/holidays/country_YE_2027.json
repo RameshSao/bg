@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2027-02-05",
+    "name": "Unity Day",
+    "type": "Public Holiday",
+    "description": "اليوم الوطني للجمهورية اليمنية",
+    "country": "YE"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "عيد العمال",
+    "country": "YE"
+  },
+  {
+    "date": "2027-09-26",
+    "name": "Revolution Day",
+    "type": "Public Holiday",
+    "description": "ثورة 26 سبتمبر المجيدة",
+    "country": "YE"
+  },
+  {
+    "date": "2027-10-14",
+    "name": "Liberation Day",
+    "type": "Public Holiday",
+    "description": "ثورة 14 أكتوبر المجيدة",
+    "country": "YE"
+  },
+  {
+    "date": "2027-11-30",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "عيد الجلاء",
+    "country": "YE"
+  }
+]

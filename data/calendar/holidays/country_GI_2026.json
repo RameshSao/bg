@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-03-09",
+    "name": "Commonwealth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-04-28",
+    "name": "Workers' Memorial Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "May Day Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Spring Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-06-08",
+    "name": "Queen's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-08-31",
+    "name": "Summer Bank Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-09-10",
+    "name": "Gibraltar National Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Gibraltar",
+    "country": "GI"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "Boxing Day",
+    "type": "Public Holiday",
+    "description": "St. Stephen's Day",
+    "country": "GI"
+  }
+]

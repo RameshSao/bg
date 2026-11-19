@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Tausaga Fou",
+    "country": "TV"
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Commonwealth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2027-05-10",
+    "name": "Gospel Day",
+    "type": "Public Holiday",
+    "description": "Te Aso o te Tala Lei",
+    "country": "TV"
+  },
+  {
+    "date": "2027-05-10",
+    "name": "King's Official Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "National Children's Day",
+    "type": "Public Holiday",
+    "description": "Aso Tamaliki",
+    "country": "TV"
+  },
+  {
+    "date": "2027-10-01",
+    "name": "Tuvalu Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2027-10-02",
+    "name": "Tuvalu Day Holiday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Tuvalu",
+    "country": "TV"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Kilisimasi",
+    "country": "TV"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "TV"
+  }
+]

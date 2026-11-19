@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Somalia",
+    "country": "SO"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Somalia",
+    "country": "SO"
+  },
+  {
+    "date": "2026-06-26",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Somalia",
+    "country": "SO"
+  },
+  {
+    "date": "2026-07-01",
+    "name": "Republic Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Somalia",
+    "country": "SO"
+  }
+]

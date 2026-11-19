@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Jaungada diena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Lielā Piektdiena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pirmās Lieldienas",
+    "country": "LV"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Otrās Lieldienas",
+    "country": "LV"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Darba svētki",
+    "country": "LV"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Day of the Convocation of the Constitutional Assembly of the Republic of Latvia",
+    "type": "Public Holiday",
+    "description": "Latvijas Republikas Satversmes sapulces sasaukšanas diena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-05-04",
+    "name": "Day of the Restoration of Independence of the Republic of Latvia",
+    "type": "Public Holiday",
+    "description": "Latvijas Republikas Neatkarības atjaunošanas diena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-05-09",
+    "name": "Mother's Day",
+    "type": "Public Holiday",
+    "description": "Mātes diena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Vasarsvētki",
+    "country": "LV"
+  },
+  {
+    "date": "2027-06-23",
+    "name": "Līgo Day",
+    "type": "Public Holiday",
+    "description": "Līgo diena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-06-24",
+    "name": "Jāņi Day",
+    "type": "Public Holiday",
+    "description": "Jāņu diena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-11-18",
+    "name": "Day of the Proclamation of the Republic of Latvia",
+    "type": "Public Holiday",
+    "description": "Latvijas Republikas Proklamēšanas diena",
+    "country": "LV"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Ziemassvētku vakars",
+    "country": "LV"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Pirmie Ziemassvētki",
+    "country": "LV"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Second day of Christmas",
+    "type": "Public Holiday",
+    "description": "Otrie Ziemassvētki",
+    "country": "LV"
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Vecgada diena",
+    "country": "LV"
+  }
+]

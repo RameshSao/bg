@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-05-04",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-05-25",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-08-03",
+    "name": "Carnival Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-08-04",
+    "name": "Carnival Tuesday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-09-10",
+    "name": "National Day of Prayer",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-12-09",
+    "name": "National Heroes' Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Antigua and Barbuda",
+    "country": "AG"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "AG"
+  }
+]

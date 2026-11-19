@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "رأس السنة الميلادية",
+    "country": "BH"
+  },
+  {
+    "date": "2027-02-22",
+    "name": "Sports Day",
+    "type": "Public Holiday",
+    "description": "اليوم الرياضي",
+    "country": "BH"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "يوم العمال",
+    "country": "BH"
+  },
+  {
+    "date": "2027-12-16",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "اليوم الوطني",
+    "country": "BH"
+  },
+  {
+    "date": "2027-12-17",
+    "name": "National Day",
+    "type": "Public Holiday",
+    "description": "اليوم الوطني",
+    "country": "BH"
+  }
+]

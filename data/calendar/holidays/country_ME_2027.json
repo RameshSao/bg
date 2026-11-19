@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nova godina",
+    "country": "ME"
+  },
+  {
+    "date": "2027-01-02",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nova godina",
+    "country": "ME"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Praznik rada",
+    "country": "ME"
+  },
+  {
+    "date": "2027-05-02",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Praznik rada",
+    "country": "ME"
+  },
+  {
+    "date": "2027-05-21",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dan nezavisnosti",
+    "country": "ME"
+  },
+  {
+    "date": "2027-05-22",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Dan nezavisnosti",
+    "country": "ME"
+  },
+  {
+    "date": "2027-07-13",
+    "name": "Statehood Day",
+    "type": "Public Holiday",
+    "description": "Dan državnosti",
+    "country": "ME"
+  },
+  {
+    "date": "2027-07-14",
+    "name": "Statehood Day",
+    "type": "Public Holiday",
+    "description": "Dan državnosti",
+    "country": "ME"
+  }
+]

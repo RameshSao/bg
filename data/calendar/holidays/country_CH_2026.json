@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Neujahr",
+    "country": "CH"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Auffahrt",
+    "country": "CH"
+  },
+  {
+    "date": "2026-08-01",
+    "name": "Swiss National Day",
+    "type": "Public Holiday",
+    "description": "Bundesfeier",
+    "country": "CH"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Weihnachten",
+    "country": "CH"
+  }
+]

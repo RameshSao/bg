@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Youth Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-05-05",
+    "name": "Senior Citizens Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-06-01",
+    "name": "President's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-07-09",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-09-06",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-10-01",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-10-24",
+    "name": "United Nations Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-11-25",
+    "name": "Thanksgiving Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-11-26",
+    "name": "Family Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Palau",
+    "country": "PW"
+  }
+]

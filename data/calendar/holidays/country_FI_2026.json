@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Uudenvuodenpäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-01-06",
+    "name": "Epiphany",
+    "type": "Public Holiday",
+    "description": "Loppiainen",
+    "country": "FI"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Pitkäperjantai",
+    "country": "FI"
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pääsiäispäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-04-06",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Toinen pääsiäispäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "May Day",
+    "type": "Public Holiday",
+    "description": "Vappu",
+    "country": "FI"
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Helatorstai",
+    "country": "FI"
+  },
+  {
+    "date": "2026-05-24",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Helluntaipäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-06-19",
+    "name": "Midsummer Eve",
+    "type": "Public Holiday",
+    "description": "Juhannusaatto",
+    "country": "FI"
+  },
+  {
+    "date": "2026-06-20",
+    "name": "Midsummer Day",
+    "type": "Public Holiday",
+    "description": "Juhannuspäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-10-31",
+    "name": "All Saints' Day",
+    "type": "Public Holiday",
+    "description": "Pyhäinpäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-12-06",
+    "name": "Independence Day",
+    "type": "Public Holiday",
+    "description": "Itsenäisyyspäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Jouluaatto",
+    "country": "FI"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Joulupäivä",
+    "country": "FI"
+  },
+  {
+    "date": "2026-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Tapaninpäivä",
+    "country": "FI"
+  }
+]

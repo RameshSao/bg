@@ -1,0 +1,121 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nýggjársdagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Maundy Thursday",
+    "type": "Public Holiday",
+    "description": "Skírhósdagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Langifríggjadagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Páskadagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "2. Páskadagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-04-23",
+    "name": "General Prayer Day",
+    "type": "Public Holiday",
+    "description": "Dýri biðidagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-04-25",
+    "name": "National Flag Day",
+    "type": "Public Holiday",
+    "description": "Flaggdagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Kristi himmalsferðar dagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Hvítasunnudagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Whit Monday",
+    "type": "Public Holiday",
+    "description": "2. Hvítasunnudagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-06-05",
+    "name": "Constitution Day",
+    "type": "Public Holiday",
+    "description": "Grundlógardagur Danmarkar",
+    "country": "FO"
+  },
+  {
+    "date": "2027-07-28",
+    "name": "Saint Olav's Eve",
+    "type": "Public Holiday",
+    "description": "Ólavsøkuaftan",
+    "country": "FO"
+  },
+  {
+    "date": "2027-07-29",
+    "name": "Saint Olav's Day",
+    "type": "Public Holiday",
+    "description": "Ólavsøkudagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Christmas Eve",
+    "type": "Public Holiday",
+    "description": "Jólaaftanskvøld",
+    "country": "FO"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Jóladagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "2. Jóladagur",
+    "country": "FO"
+  },
+  {
+    "date": "2027-12-31",
+    "name": "New Year's Eve",
+    "type": "Public Holiday",
+    "description": "Nýggjársaftan",
+    "country": "FO"
+  }
+]

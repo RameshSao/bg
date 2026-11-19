@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Nieuwjaarsdag",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Goede Vrijdag",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Easter Sunday",
+    "type": "Public Holiday",
+    "description": "Pasen",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-03-29",
+    "name": "Easter Monday",
+    "type": "Public Holiday",
+    "description": "Paasmaandag",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-04-27",
+    "name": "King's Birthday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Caribbean Netherlands",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Dag van de Arbeid",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Ascension Day",
+    "type": "Public Holiday",
+    "description": "Hemelvaartsdag",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-05-16",
+    "name": "Pentecost",
+    "type": "Public Holiday",
+    "description": "Pinksteren",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-08-02",
+    "name": "Carnival Monday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Caribbean Netherlands",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Kerstmis",
+    "country": "BQ"
+  },
+  {
+    "date": "2027-12-26",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Second Day of Christmas",
+    "country": "BQ"
+  }
+]

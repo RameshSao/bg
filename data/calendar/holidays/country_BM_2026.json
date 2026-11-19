@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "New Year's Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Good Friday",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-05-22",
+    "name": "Bermuda Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-06-15",
+    "name": "National Heroes Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-07-30",
+    "name": "Emancipation Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-07-31",
+    "name": "Mary Prince Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-09-07",
+    "name": "Labour Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-11-11",
+    "name": "Remembrance Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Christmas Day",
+    "type": "Public Holiday",
+    "description": "Public holiday in Bermuda",
+    "country": "BM"
+  },
+  {
+    "date": "2026-12-28",
+    "name": "St. Stephen's Day",
+    "type": "Public Holiday",
+    "description": "Boxing Day",
+    "country": "BM"
+  }
+]
