@@ -5,9 +5,12 @@
     "description": "Grand kite flying festival celebrating Makara Sankranti across Gujarat"
   },
   {
-    "date": "2026-09-15",
+    "date": "2026-09-14",
     "name": "Tarnetar Fair",
-    "description": "Folk music, dance, and traditional sports fair at Tarnetar temple"
+    "description": "Folk music, dance, and traditional sports fair at Tarnetar temple",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set by organisers; Gujarat Tourism 2026 (Sep 14 to 17)"
   },
   {
     "date": "2026-10-11",

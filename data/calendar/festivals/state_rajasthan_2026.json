@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-03-22",
+    "date": "2026-03-21",
     "name": "Gangaur Festival",
     "description": "Traditional Rajasthani festival worshipping Goddess Gauri for marital bliss"
   },
@@ -15,9 +15,12 @@
     "description": "Celebration of Kajari Teej with traditional fairs in Bundi and Kota"
   },
   {
-    "date": "2026-11-18",
+    "date": "2026-11-17",
     "name": "Pushkar Fair Begins (Pushkar Mela)",
-    "description": "World-famous livestock fair and cultural festival near Pushkar lake"
+    "description": "World-famous livestock fair and cultural festival near Pushkar lake",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Rajasthan Tourism 2026 (Nov 17 to 24, ending on Kartik Purnima)"
   },
   {
     "date": "2026-11-24",

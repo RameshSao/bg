@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2027-02-04",
+    "name": "Dosmoche",
+    "description": "Festival of the scapegoat at Leh Palace and Likir, warding off evil before the new year",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 12th month day 28 (Reach Ladakh festival calendar)"
+  },
+  {
+    "date": "2027-07-13",
+    "name": "Hemis Tsechu Festival",
+    "description": "Masked Cham dances at Hemis Monastery on the birth anniversary of Guru Padmasambhava",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 5th month day 10 (Jul 13 to 14; Reach Ladakh festival calendar)"
+  },
+  {
+    "date": "2027-12-28",
+    "name": "Losar Festival (Ladakh)",
+    "description": "Ladakhi New Year, celebrated in the 11th Tibetan month",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, Ladakhi Losar (Reach Ladakh festival calendar)"
+  }
+]

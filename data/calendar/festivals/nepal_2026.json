@@ -8,17 +8,22 @@
   "2026-02-15": [
     "Maha Shivaratri"
   ],
-  "2026-02-17": [
-    "Gyalpo Losar"
+  "2026-02-18": [
+    {
+      "name": "Gyalpo Losar",
+      "force_static": true,
+      "category": "tibetan",
+      "basis": "Nepal government holiday list 2082 BS (Tibetan calendar)"
+    }
   ],
-  "2026-03-17": [
-    "Ghode Jatra"
-  ],
-  "2026-03-03": [
+  "2026-03-02": [
     "Holi (Hill Region)"
   ],
-  "2026-03-04": [
+  "2026-03-03": [
     "Holi (Terai Region)"
+  ],
+  "2026-03-18": [
+    "Ghode Jatra"
   ],
   "2026-04-14": [
     "Nepali New Year (Baisakh Ek)"
@@ -29,13 +34,13 @@
   ],
   "2026-08-28": [
     "Janai Purnima",
-    "Raksha Bandhan",
-    "Gaura Parba"
+    "Raksha Bandhan"
   ],
   "2026-08-29": [
     "Gai Jatra"
   ],
   "2026-09-04": [
+    "Gaura Parba",
     "Shree Krishna Janmashtami"
   ],
   "2026-09-14": [
@@ -45,9 +50,7 @@
     "Ghatasthapana"
   ],
   "2026-10-18": [
-    "Phulpati (Dashain Saptami)"
-  ],
-  "2026-10-19": [
+    "Phulpati (Dashain Saptami)",
     "Maha Astami (Dashain)"
   ],
   "2026-10-20": [

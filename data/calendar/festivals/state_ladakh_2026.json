@@ -2,16 +2,25 @@
   {
     "date": "2026-06-24",
     "name": "Hemis Tsechu Festival",
-    "description": "Sacred masked dance performance at Hemis Monastery honoring Guru Padmasambhava"
+    "description": "Sacred masked dance performance at Hemis Monastery honoring Guru Padmasambhava",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 5th month day 10 (Jun 24 to 25)"
   },
   {
-    "date": "2026-07-08",
+    "date": "2026-09-21",
     "name": "Ladakh Festival",
-    "description": "Cultural carnival featuring traditional music, archery, and masked dances in Leh"
+    "description": "Cultural carnival featuring traditional music, archery, and masked dances in Leh",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set each year by Ladakh Tourism; 2026 Sep 21 to 23"
   },
   {
-    "date": "2026-12-10",
+    "date": "2026-12-09",
     "name": "Losar Festival (Ladakh)",
-    "description": "Ladakhi Buddhist New Year celebrated with butter lamps and Ibex dances"
+    "description": "Ladakhi Buddhist New Year celebrated with butter lamps and Ibex dances",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar (Ladakhi Losar, 11th month)"
   }
 ]

@@ -2,17 +2,26 @@
   {
     "date": "2026-01-26",
     "name": "Lokrang Festival",
-    "description": "Bhopal folk dance and tribal arts festival"
+    "description": "Bhopal folk dance and tribal arts festival",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set each year by the MP Culture Department (Bhopal, around Republic Day); 2026 date not verified"
   },
   {
     "date": "2026-02-20",
     "name": "Khajuraho Dance Festival",
-    "description": "Classical dance celebration at Khajuraho temples"
+    "description": "Classical dance celebration at Khajuraho temples",
+    "force_static": true,
+    "category": "civic",
+    "basis": "MP Kala Parishad, 51st edition 2026 (Feb 20 to 26)"
   },
   {
-    "date": "2026-03-08",
+    "date": "2026-02-25",
     "name": "Bhagoriya Haat",
-    "description": "Tribal harvest and cultural festival of Malwa and Jhabua"
+    "description": "Tribal harvest and cultural festival of Malwa and Jhabua",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Tribal haats of Jhabua and Alirajpur in the 7 days before Holika Dahan (2026: Feb 25 to Mar 3)"
   },
   {
     "date": "2026-09-14",
