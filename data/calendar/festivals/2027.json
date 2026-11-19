@@ -11,7 +11,7 @@
       "name": "Mauni Amavasya",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 (Magha Amavasya); not computed by engine"
+      "basis": "Panchang nirnaya 2027 (Magha Amavasya); not computed by engine"
     }
   ],
   "2027-02-11": [
@@ -41,7 +41,7 @@
       "name": "Pohela Boishakh",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 for West Bengal (Mesha Sankranti 15:28 IST -> next day); engine 04-14"
+      "basis": "Panchang nirnaya 2027 for West Bengal (Mesha Sankranti 15:28 IST -> next day); engine 04-14"
     }
   ],
   "2027-04-19": [
@@ -58,7 +58,7 @@
       "name": "Narasimha Jayanti",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027; engine 05-19"
+      "basis": "Panchang nirnaya 2027; engine 05-19"
     }
   ],
   "2027-05-20": [
@@ -90,7 +90,7 @@
       "name": "Balarama Jayanti",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 (Bhadrapada Shukla Shashthi); engine 08-23"
+      "basis": "Panchang nirnaya 2027 (Bhadrapada Shukla Shashthi); engine 08-23"
     }
   ],
   "2027-09-12": [
@@ -98,7 +98,7 @@
       "name": "Onam",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 (Thiruvonam in Chingam); not computed by engine"
+      "basis": "Panchang nirnaya 2027 (Thiruvonam in Chingam); not computed by engine"
     }
   ],
   "2027-09-14": [
@@ -109,7 +109,7 @@
       "name": "Pitru Paksha Begins",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027; engine 09-15"
+      "basis": "Panchang nirnaya 2027; engine 09-15"
     }
   ],
   "2027-09-29": [
@@ -117,7 +117,7 @@
       "name": "Sarva Pitru Amavasya (Mahalaya)",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 (Aparahna Amavasya); engine 09-30"
+      "basis": "Panchang nirnaya 2027 (Aparahna Amavasya); engine 09-30"
     }
   ],
   "2027-09-30": [
@@ -170,7 +170,7 @@
       "name": "Kalabhairav Jayanti",
       "force_static": true,
       "category": "jyotish",
-      "basis": "Drik Panchang 2027 (Pradosh-vyapini Ashtami); engine 11-21"
+      "basis": "Panchang nirnaya 2027 (Pradosh-vyapini Ashtami); engine 11-21"
     }
   ],
   "2027-12-09": [
