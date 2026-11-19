@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2027-02-07",
+    "name": "Losar",
+    "description": "Tibetan-Buddhist New Year — celebrated in Sikkim with masked dances at monasteries",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar (Losar 2027); Sikkim 2027 holiday list not yet published"
+  },
+  {
+    "date": "2027-06-18",
+    "name": "Saga Dawa",
+    "description": "Holiest Buddhist month — Lord Buddha's birth, enlightenment, and parinirvana commemorated",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 4th month day 15 (published 2027 festival calendars)"
+  },
+  {
+    "date": "2027-09-15",
+    "name": "Pang Lhabsol",
+    "description": "Unique Sikkimese festival — thanksgiving to Mount Khangchendzonga, guardian of Sikkim",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 7th month day 15 (published 2027 festival calendars)"
+  },
+  {
+    "date": "2027-11-20",
+    "name": "Lhabab Duchen",
+    "description": "Descent of the Buddha from the heaven of the Thirty-Three",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 9th month day 22 (published 2027 festival calendars)"
+  }
+]

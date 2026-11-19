@@ -1,17 +1,26 @@
 [
   {
-    "date": "2026-03-05",
+    "date": "2026-03-13",
     "name": "Chapchar Kut",
-    "description": "Mizo spring festival — celebrated after jungle-clearing (Jhum) with dance, music, and traditional costumes"
+    "description": "Mizo spring festival — celebrated after jungle-clearing (Jhum) with dance, music, and traditional costumes",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set each year by the Mizoram government; 2026 Mar 13"
   },
   {
     "date": "2026-09-15",
     "name": "Mim Kut",
-    "description": "Mizo corn harvest festival — first fruits offered to God Pathian before community feasting"
+    "description": "Mizo corn harvest festival — first fruits offered to God Pathian before community feasting",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set each year by the Mizoram government after the maize harvest; 2026 date not verified"
   },
   {
     "date": "2026-12-01",
     "name": "Pawl Kut",
-    "description": "Mizo general harvest thanksgiving festival — colorful community celebration"
+    "description": "Mizo general harvest thanksgiving festival — colorful community celebration",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set each year by the Mizoram government after the paddy harvest; 2026 date not verified"
   }
 ]

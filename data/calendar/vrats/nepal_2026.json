@@ -1,23 +1,23 @@
 [
   {
-    "date": "2026-02-14",
+    "date": "2026-02-15",
     "name": "Maha Shivaratri",
     "description": "A major Hindu festival in Nepal and India celebrated in honor of Lord Shiva."
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-04",
     "name": "Gaura Parba",
     "description": "An important festival celebrated in Sudurpashchim province of Nepal."
-  },
-  {
-    "date": "2026-09-03",
-    "name": "Haritalika Teej",
-    "description": "A fasting festival for Hindu women in Nepal, dedicated to Goddess Parvati."
   },
   {
     "date": "2026-09-04",
     "name": "Krishna Janmashtami",
     "description": "Annual celebration of the birth of Lord Krishna."
+  },
+  {
+    "date": "2026-09-14",
+    "name": "Haritalika Teej",
+    "description": "A fasting festival for Hindu women in Nepal, dedicated to Goddess Parvati."
   },
   {
     "date": "2026-09-15",

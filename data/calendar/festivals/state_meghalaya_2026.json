@@ -1,17 +1,26 @@
 [
   {
-    "date": "2026-04-14",
+    "date": "2026-04-13",
     "name": "Shad Suk Mynsiem",
-    "description": "Khasi spring thanksgiving dance festival — celebrating harmony with nature after sowing"
+    "description": "Khasi spring thanksgiving dance festival — celebrating harmony with nature after sowing",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set each year by Seng Khasi; Meghalaya local holiday notice for Apr 13, 2026"
   },
   {
-    "date": "2026-11-15",
+    "date": "2026-11-01",
     "name": "Nongkrem Dance",
-    "description": "Khasi 5-day harvest festival — chief (Syiem) prays to Ka Blei Synshar for prosperity and good harvest"
+    "description": "Khasi 5-day harvest festival — chief (Syiem) prays to Ka Blei Synshar for prosperity and good harvest",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set by the Syiem of Hima Khyrim; 2026 main days Nov 1 to 2 at Smit"
   },
   {
     "date": "2026-11-05",
     "name": "Wangala Festival",
-    "description": "Garo 100 Drums Festival — thanksgiving to Sun God Saljong for harvest"
+    "description": "Garo 100 Drums Festival — thanksgiving to Sun God Saljong for harvest",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set by organisers each year; sources disagree for 2026 (Nov 6, or the Hundred Drums Nov 11 to 14), not verified"
   }
 ]

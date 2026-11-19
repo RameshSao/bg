@@ -5,7 +5,7 @@
     "description": "Unique traditional Holi celebration of Braj region in Barsana and Nandgaon"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-05-25",
     "name": "Ganga Dussehra",
     "description": "Celebration of River Ganga's descent to Earth with holy dips at Varanasi and Prayagraj"
   },
@@ -15,9 +15,12 @@
     "description": "Grand birth celebration of Lord Krishna in Mathura and Vrindavan"
   },
   {
-    "date": "2026-11-08",
+    "date": "2026-11-07",
     "name": "Ayodhya Deepotsav",
-    "description": "Illumination of Saryu river ghats with millions of earthen lamps in Ayodhya"
+    "description": "Illumination of Saryu river ghats with millions of earthen lamps in Ayodhya",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set by the UP government on the eve of Diwali; 2026 main lamp-lighting Nov 7"
   },
   {
     "date": "2026-11-24",

@@ -2,6 +2,9 @@
   {
     "date": "2026-03-19",
     "name": "Phool Walon Ki Sair",
-    "description": "Annual festival of flowers unique to Delhi, presenting floral fans to Jog Maya Temple and Hazrat Qutbuddin Bakhtiyar Kaki shrine"
+    "description": "Annual festival of flowers unique to Delhi, presenting floral fans to Jog Maya Temple and Hazrat Qutbuddin Bakhtiyar Kaki shrine",
+    "force_static": true,
+    "category": "civic",
+    "basis": "Set each year by Anjuman Sair-e-Gul Faroshan and the Delhi government; 2026 procession day"
   }
 ]

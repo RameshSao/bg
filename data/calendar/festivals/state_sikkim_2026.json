@@ -1,27 +1,44 @@
 [
   {
-    "date": "2026-02-25",
+    "date": "2026-02-18",
     "name": "Losar",
-    "description": "Tibetan-Buddhist New Year — celebrated in Sikkim with masked dances at monasteries"
+    "description": "Tibetan-Buddhist New Year — celebrated in Sikkim with masked dances at monasteries",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Sikkim government holiday list 2026 (Tibetan calendar)"
   },
   {
-    "date": "2026-05-23",
+    "date": "2026-05-31",
     "name": "Saga Dawa",
-    "description": "Holiest Buddhist month — Lord Buddha's birth, enlightenment, and parinirvana commemorated"
+    "description": "Holiest Buddhist month — Lord Buddha's birth, enlightenment, and parinirvana commemorated",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 4th month day 15; Sikkim government holiday list 2026"
   },
   {
     "date": "2026-08-28",
     "name": "Pang Lhabsol",
-    "description": "Unique Sikkimese festival — thanksgiving to Mount Khangchendzonga, guardian of Sikkim"
+    "description": "Unique Sikkimese festival — thanksgiving to Mount Khangchendzonga, guardian of Sikkim",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 7th month day 15; Sikkim government holiday list 2026"
   },
   {
-    "date": "2026-10-15",
-    "name": "Dasain",
+    "date": "2026-10-21",
+    "name": "Vijaya Dashami (Dashain)",
     "description": "Nepali-Hindu festival of Goddess Durga — most important festival for Sikkim's Nepali community"
   },
   {
     "date": "2026-11-01",
-    "name": "Tihar",
+    "name": "Lhabab Duchen",
+    "description": "Descent of the Buddha from the heaven of the Thirty-Three",
+    "force_static": true,
+    "category": "tibetan",
+    "basis": "Tibetan calendar, 9th month day 22; Sikkim government holiday list 2026"
+  },
+  {
+    "date": "2026-11-08",
+    "name": "Tihar (Laxmi Puja)",
     "description": "Nepali festival of lights — crows, dogs, cows, and Goddess Lakshmi worshipped over 5 days"
   }
 ]
